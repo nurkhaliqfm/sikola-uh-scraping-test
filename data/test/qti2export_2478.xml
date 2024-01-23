@@ -1,0 +1,87 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no"?>
+<!DOCTYPE questestinterop SYSTEM "ims_qtiasiv2p1.dtd">
+<questestinterop>
+<section
+            ident = "EXO_2478"
+            title = "Kuis Pertemuan II"
+        >
+<presentation_material><flow_mat><material>
+  <mattext><![CDATA[]]></mattext>
+</material></flow_mat></presentation_material>
+<selection_ordering sequence_type="Normal">
+  <selection />
+</selection_ordering>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1 imsqti_v2p1.xsd"
+                identifier="QST_29218"
+                title = "Apakah uji hipotesis yang sesuai untuk pertanyaan penelitian dan hipotesis berikut ? : Apakah ada perbedaan tingkat kecerdasan emosi (4 level)  antara perempuan dan laki-laki ? (n=35)  Hipotesis peneliti: Ada perbedaan bermakna tingkat kecerdasan emosi antara perempuan dan laki-laki"
+                category = ""
+        >
+  <responseDeclaration identifier="QST_29218" cardinality="single" baseType="identifier">
+    <correctResponse>
+      <value>answer_1</value>
+    </correctResponse>
+    <mapping>
+ <mapEntry mapKey="answer_1" mappedValue="50" />
+ <mapEntry mapKey="answer_2" mappedValue="0" />
+ <mapEntry mapKey="answer_3" mappedValue="0" />
+ <mapEntry mapKey="answer_4" mappedValue="0" />
+ <mapEntry mapKey="answer_5" mappedValue="0" />
+    </mapping>
+  </responseDeclaration>
+  <itemBody>
+    <choiceInteraction responseIdentifier="QST_29218" >
+      <prompt><![CDATA[]]></prompt>
+<simpleChoice identifier="answer_1" fixed="false">
+                         <![CDATA[&lt;p&gt;Pearson Chi Square&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_2" fixed="false">
+                         <![CDATA[&lt;p&gt;Chi Square : continuity corection&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_3" fixed="false">
+                         <![CDATA[&lt;p&gt;Independent t&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_4" fixed="false">
+                         <![CDATA[&lt;p&gt;Fisher test&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_5" fixed="false">
+                         <![CDATA[&lt;p&gt;Mc Nemar&lt;/p&gt;]]></simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <responseProcessing template="http://www.imsglobal.org/question/qti_v2p1/rptemplates/map_correct"/>
+</assessmentItem>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1 imsqti_v2p1.xsd"
+                identifier="QST_29219"
+                title = "Apakah uji hipotesis yang sesuai untuk pertanyaan penelitian dan hipotesis berikut ? : ingkat kecerdasan emosi (4 level)  antara perempuan dan laki-laki ? (n=35)  HiApakah jenis uji hipotesis yang sesuai untuk pertanyaan dan hipotesis penelitian berikut : Ada perbedaan bermakna rerata skor kecerdasan emosi antara perempuan dan laki-laki ? Hipotesis: Ada perbedaan bermakna rerata skor kecerdasan emosi antara perempuan dan laki-laki. dimana uji normalitas data: normal"
+                category = ""
+        >
+  <responseDeclaration identifier="QST_29219" cardinality="single" baseType="identifier">
+    <correctResponse>
+      <value>answer_3</value>
+    </correctResponse>
+    <mapping>
+ <mapEntry mapKey="answer_1" mappedValue="0" />
+ <mapEntry mapKey="answer_2" mappedValue="0" />
+ <mapEntry mapKey="answer_3" mappedValue="50" />
+ <mapEntry mapKey="answer_4" mappedValue="0" />
+ <mapEntry mapKey="answer_5" mappedValue="0" />
+    </mapping>
+  </responseDeclaration>
+  <itemBody>
+    <choiceInteraction responseIdentifier="QST_29219" >
+      <prompt><![CDATA[]]></prompt>
+<simpleChoice identifier="answer_1" fixed="false">
+                         <![CDATA[&lt;p&gt;Mann Whitney U&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_2" fixed="false">
+                         <![CDATA[&lt;p&gt;Pearson Chi square&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_3" fixed="false">
+                         <![CDATA[&lt;p&gt;Independent t&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_4" fixed="false">
+                         <![CDATA[&lt;p&gt;Fisher exact test&lt;/p&gt;]]></simpleChoice>
+<simpleChoice identifier="answer_5" fixed="false">
+                         <![CDATA[&lt;p&gt;Ci square : continuity corection&lt;/p&gt;]]></simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <responseProcessing template="http://www.imsglobal.org/question/qti_v2p1/rptemplates/map_correct"/>
+</assessmentItem>
+</section>
+</questestinterop>
