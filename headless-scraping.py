@@ -10,6 +10,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
+load_dotenv()
+
 USERNAME = os.getenv("SIKOLA_USERNAME")
 PASSWORD = os.getenv("SIKOLA_PASSWORD")
 
