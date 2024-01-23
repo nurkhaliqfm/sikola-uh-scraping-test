@@ -6,4 +6,4 @@ Setup:
 5. Rename .log => log.csv
 6. Ubah Value Current Ke anggka yang diinginkan ex: 1000;0;0
 7. Buat file .env
-
+8. Run python3 headless-scraping.py
