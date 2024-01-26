@@ -10,6 +10,8 @@ import time
 from dotenv import load_dotenv
 import os
 
+load_dotenv()
+
 USERNAME = os.getenv("SIKOLA_USERNAME")
 PASSWORD = os.getenv("SIKOLA_PASSWORD")
 
@@ -51,6 +53,8 @@ for dataIndex in range(logScraping.loc[0, "Current"], len(dataMatakulihaSikola))
         driver.get(
             f"https://sikola.unhas.ac.id/main/exercise/exercise.php?cidReq={courseCode}&id_session=0&gradebook=0&origin=&gidReq=0"
         )
+
+        # driver.save_screenshot(f"data/image/{courseCode}-{courseName}.png")
 
         try:
             eMatakuliahQuizTable = WebDriverWait(driver, 2).until(

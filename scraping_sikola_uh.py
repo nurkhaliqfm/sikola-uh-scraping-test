@@ -9,6 +9,8 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 
+load_dotenv()
+
 USERNAME = os.getenv("SIKOLA_USERNAME")
 PASSWORD = os.getenv("SIKOLA_PASSWORD")
 

@@ -61,7 +61,7 @@ for dataIndex in range(logScraping.loc[0, "Current"], len(dataMatakulihaSikola))
             f"https://sikola.unhas.ac.id/main/exercise/exercise.php?cidReq={courseCode}&id_session=0&gradebook=0&origin=&gidReq=0"
         )
 
-        driver.save_screenshot(f"data/image/{courseCode}-{courseName}.png")
+        # driver.save_screenshot(f"data/image/{courseCode}-{courseName}.png")
 
         try:
             eMatakuliahQuizTable = WebDriverWait(driver, 2).until(
