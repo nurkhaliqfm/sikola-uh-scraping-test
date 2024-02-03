@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Quiz 3</text></name><questiontext format="html"><text><![CDATA[<p>Beri kesimpulan tabel berikut</p><p align="center" style="margin-bottom:.0001pt; text-align:center"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="line-height:115%"><span style="font-family:"Times New Roman","serif"">Tabel</span></span></span></span></p>
+
+<p align="center" style="margin-bottom:.0001pt; text-align:center"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="line-height:115%"><span style="font-family:"Times New Roman","serif"">Hubungan tingkat pendidikan dengan perilaku</span></span></span></span></p>
+
+<div align="center">
+<table class="Table" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+	<tbody>
+		<tr>
+			<td rowspan="3" style="width:64.2pt; border:solid windowtext 1.0pt" width="86">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">Tingkat pendidikan </span></span></span></span></p>
+			</td>
+			<td colspan="4" style="width:252.3pt; border:solid windowtext 1.0pt; border-left:none" width="336">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">Perilaku</span></span></span></span></p>
+			</td>
+			<td rowspan="2" style="width:63.15pt; border:solid windowtext 1.0pt; border-left:none" width="84">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">Jumlah</span></span></span></span></p>
+			</td>
+			<td rowspan="2" style="width:48.75pt; border:solid windowtext 1.0pt; border-left:none" width="65">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">  %</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width:126.15pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="168">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">Baik</span></span></span></span></p>
+			</td>
+			<td colspan="2" style="width:126.15pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="168">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">buruk</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:63.05pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">n</span></span></span></span></p>
+			</td>
+			<td style="width:63.1pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">%</span></span></span></span></p>
+			</td>
+			<td style="width:63.05pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">n</span></span></span></span></p>
+			</td>
+			<td style="width:63.1pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">%</span></span></span></span></p>
+			</td>
+			<td style="width:63.15pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"> </p>
+			</td>
+			<td style="width:48.75pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="65">
+			<p style="margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:64.2pt; border:solid windowtext 1.0pt; border-top:none" width="86">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">SD</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">SMP</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">SMU</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">PT</span></span></span></span></p>
+			</td>
+			<td style="width:63.05pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">25</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">40</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">50</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">60</span></span></span></span></p>
+			</td>
+			<td style="width:63.1pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">50,0</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">40,0</span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">33,3</span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">30,0</span></span></span></p>
+			</td>
+			<td style="width:63.05pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">25</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">60</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">100</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">140</span></span></span></span></p>
+			</td>
+			<td style="width:63.1pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">50,0</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">60,0</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">66,7</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">70,0</span></span></span></span></p>
+			</td>
+			<td style="width:63.15pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">50</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">100</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">150</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">200</span></span></span></span></p>
+			</td>
+			<td style="width:48.75pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="65">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">100,0</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">100,0</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">100,0</span></span></span></span></p>
+
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">100,0</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:64.2pt; border:solid windowtext 1.0pt; border-top:none" width="86">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">Jumlah</span></span></span></span></p>
+			</td>
+			<td style="width:63.05pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">175</span></span></span></span></p>
+			</td>
+			<td style="width:63.1pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"> </p>
+			</td>
+			<td style="width:63.05pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">325</span></span></span></span></p>
+			</td>
+			<td style="width:63.1pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"> </p>
+			</td>
+			<td style="width:63.15pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="84">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal"><span style="tab-stops:56.25pt"><span lang="SV" style="font-size:12.0pt"><span style="font-family:"Times New Roman","serif"">500</span></span></span></span></p>
+			</td>
+			<td style="width:48.75pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="65">
+			<p align="center" style="margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>40.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_81518</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

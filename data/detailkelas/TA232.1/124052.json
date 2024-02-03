@@ -1,0 +1,69 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2599,
+  "idnumber_sikola": "949.124052.2",
+  "shortname_sikola": "TA232-124052",
+  "kode_matkul": "335A2223",
+  "nama_matkul": "PEMASARAN JASA",
+  "nama_kelas": "PEMASARAN JASA KELAS A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 2103,
+      "id_user": 18005,
+      "id_prodi": 2,
+      "angkatan": 2019,
+      "nama_mahasiswa": "MUHAMMAD IHSAN",
+      "nim": "A021191128",
+      "jalan": "Kampung Borong-borong",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Borong-borong",
+      "kode_pos": "90653",
+      "nisn": "0013199206",
+      "tempat_lahir": "Labakkang",
+      "tanggal_lahir": "2001-05-25",
+      "telepon": "082259702606",
+      "handphone": "6282259702606",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kassiloe",
+      "id_wilayah": "190207",
+      "nik": "7310072505010005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ihsan25052001@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0cb8d6f9-05d2-472d-b0e3-4192403b8e73",
+      "id_registrasi_mahasiswa_pddikti": "2726ab73-70ec-4b59-8ed8-e092269d7d98",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124052,
+        "id_mahasiswa": 2103,
+        "created_at": "2024-01-23 09:27:07"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 921,
+      "id_user": 12266,
+      "id_prodi": 2,
+      "nama": "Dr. Muhammad Ismail, SE.,M.Si.",
+      "nidn": "0010126102",
+      "nip": "196112101988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e7f93369-b0fe-446e-ac1c-72834f7a6af5",
+      "pivot": {
+        "id_kelas_kuliah": 124052,
+        "id_dosen": 921
+      }
+    }
+  ]
+}

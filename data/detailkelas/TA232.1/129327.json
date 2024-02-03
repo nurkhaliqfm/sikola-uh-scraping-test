@@ -1,0 +1,29 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28454.129327.102",
+  "shortname_sikola": "TA232-129327",
+  "kode_matkul": "18P06221501",
+  "nama_matkul": "Target Riset Sistem Special Sense",
+  "nama_kelas": "Target Riset Sistem Special Sense (P) (HIsto-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1732,
+      "id_user": 28462,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Batari Todja Umar, Sp.M(K)",
+      "nidn": "0027037007",
+      "nip": "197003272002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bc4cea36-75cb-4f98-9611-1b08db43042b",
+      "pivot": {
+        "id_kelas_kuliah": 129327,
+        "id_dosen": 1732
+      }
+    }
+  ]
+}

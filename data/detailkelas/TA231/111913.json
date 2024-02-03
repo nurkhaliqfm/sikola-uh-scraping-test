@@ -1,0 +1,61 @@
+{
+  "id_prodi": 68,
+  "nama_prodi": "BUDIDAYA PERAIRAN - S1",
+  "id_prodi_semester": 2416,
+  "idnumber_sikola": "45667.111913.68",
+  "shortname_sikola": "TA231-111913",
+  "kode_matkul": "23L03130603",
+  "nama_matkul": "Pemuliabiakan Organisme Akuakultur",
+  "nama_kelas": "Pemuliabiakan Organisme Akuakultur (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 874,
+      "id_user": 31440,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Yushinta Fujaya, M.Si.",
+      "nidn": "0023016501",
+      "nip": "196501231989032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c7a8968b-f998-46f4-83b5-12fe15484974",
+      "pivot": {
+        "id_kelas_kuliah": 111913,
+        "id_dosen": 874
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1182,
+      "id_user": 25448,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Dody Dharmawan Trijuno, M.App.,Sc",
+      "nidn": "0003056402",
+      "nip": "196405031989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17778d41-cc89-4d54-a01a-c6aaadddd179",
+      "pivot": {
+        "id_kelas_kuliah": 111913,
+        "id_dosen": 1182
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2358,
+      "id_user": 19502,
+      "id_prodi": 68,
+      "nama": "Dr. Marlina Achmad, S.Pi. M.Si",
+      "nidn": "0006048301",
+      "nip": "198304062005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b14836e-02ef-4a32-94a8-d4c5abe1c7fe",
+      "pivot": {
+        "id_kelas_kuliah": 111913,
+        "id_dosen": 2358
+      }
+    }
+  ]
+}

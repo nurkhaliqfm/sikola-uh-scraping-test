@@ -1,0 +1,45 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2453,
+  "idnumber_sikola": "29092.110384.109",
+  "shortname_sikola": "TA231-110384",
+  "kode_matkul": "18P07210103",
+  "nama_matkul": "Filsafat dan Teori Gender",
+  "nama_kelas": "Filsafat dan Teori Gender (W) (Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 868,
+      "id_user": 34228,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  Dwia Aries Tina Pulubuhu, MA.",
+      "nidn": "0019046406",
+      "nip": "196404191989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e21d9d5e-9bc4-484d-91d6-d23e5f8c64dd",
+      "pivot": {
+        "id_kelas_kuliah": 110384,
+        "id_dosen": 868
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1068,
+      "id_user": 24136,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Mardiana E. Fachri, MS.",
+      "nidn": "0031126015",
+      "nip": "195907071985032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f719683b-a9ce-41ab-a7be-de268dba7ff1",
+      "pivot": {
+        "id_kelas_kuliah": 110384,
+        "id_dosen": 1068
+      }
+    }
+  ]
+}

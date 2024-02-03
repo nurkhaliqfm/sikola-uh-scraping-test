@@ -1,0 +1,45 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46579.110390.16",
+  "shortname_sikola": "TA231-110390",
+  "kode_matkul": "23D09141602",
+  "nama_matkul": "Teknik Eksperimental Kelautan",
+  "nama_kelas": "Teknik Eksperimental Kelautan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1937,
+      "id_user": 33754,
+      "id_prodi": 16,
+      "nama": "Dr. Eng. Faizal, ST., M.Inf.,Tech., M.Eng",
+      "nidn": "0011028101",
+      "nip": "198102112005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7ac02ac7-efe9-4bf6-81dc-d70a592ad3ec",
+      "pivot": {
+        "id_kelas_kuliah": 110390,
+        "id_dosen": 1937
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1596,
+      "id_user": 33707,
+      "id_prodi": 16,
+      "nama": "Surya Hariyanto, ST.,MT.",
+      "nidn": "0002077110",
+      "nip": "197107022000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a6ac0969-bb75-4a64-8f59-570a240d6890",
+      "pivot": {
+        "id_kelas_kuliah": 110390,
+        "id_dosen": 1596
+      }
+    }
+  ]
+}

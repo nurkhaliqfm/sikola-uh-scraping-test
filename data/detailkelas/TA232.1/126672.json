@@ -1,0 +1,52 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2692,
+  "idnumber_sikola": "29979.126672.119",
+  "shortname_sikola": "TA232-126672",
+  "kode_matkul": "0603C20510",
+  "nama_matkul": "UNIT NON INFEKSI",
+  "nama_kelas": "Unit Non Infeksi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 131349,
+      "id_user": 13081,
+      "id_prodi": 119,
+      "angkatan": 2019,
+      "nama_mahasiswa": "MUHAMMAD RIFANI",
+      "nim": "C105192002",
+      "jalan": "LETJEND S. PARMAN",
+      "rt": 2,
+      "rw": 8,
+      "dusun": "Gunung Guntur",
+      "kode_pos": "76124",
+      "nisn": null,
+      "tempat_lahir": "BALIKPAPAN",
+      "tanggal_lahir": "1991-07-05",
+      "telepon": "0542423042",
+      "handphone": "081347106661",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Sumber Rejo",
+      "id_wilayah": "166104",
+      "nik": "6471040507910002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muh.rifani5791@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c20387fb-454f-4289-942e-538033520df9",
+      "id_registrasi_mahasiswa_pddikti": "dd88a4f6-8d9a-4abe-8d2a-1af9d2a8a63a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126672,
+        "id_mahasiswa": 131349,
+        "created_at": "2024-01-31 15:58:07"
+      }
+    }
+  ],
+  "dosens": []
+}

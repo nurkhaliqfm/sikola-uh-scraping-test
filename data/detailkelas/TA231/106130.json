@@ -1,0 +1,69 @@
+{
+  "id_prodi": 147,
+  "nama_prodi": "PROFESI DOKTER",
+  "id_prodi_semester": 2487,
+  "idnumber_sikola": "32858.106130.147",
+  "shortname_sikola": "TA231-106130",
+  "kode_matkul": "511C1132",
+  "nama_matkul": "ILMU KEDOKTERAN FISIK DAN REHABILITASI MEDIK",
+  "nama_kelas": "REHABILITASI MEDIK PERIODE 17 JULI 2023",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 301297,
+      "id_user": 59881,
+      "id_prodi": 147,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ALIEF ARSAL AL-HABSYI SH",
+      "nim": "C014211016",
+      "jalan": "PERUMAHAN BUMI ZARINDAH BLOK AT/16",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "0",
+      "nisn": null,
+      "tempat_lahir": "BULUKUMBA",
+      "tanggal_lahir": "1999-01-11",
+      "telepon": "0",
+      "handphone": "085242813523",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Japing",
+      "id_wilayah": "190315",
+      "nik": "7302041101990001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aliefarsal.aa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2030d833-bc3d-4516-aa9c-5991f0232812",
+      "id_registrasi_mahasiswa_pddikti": "07d5d6db-fcc8-4f5d-9fed-8e86bfa79cfc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106130,
+        "id_mahasiswa": 301297,
+        "created_at": "2023-08-04 22:12:56"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2551,
+      "id_user": 34210,
+      "id_prodi": 222,
+      "nama": "dr. Melda Warliani, Sp.KFR",
+      "nidn": "8859890019",
+      "nip": "198405092019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e107b5b6-75ea-497c-acc0-e7566b533fa9",
+      "pivot": {
+        "id_kelas_kuliah": 106130,
+        "id_dosen": 2551
+      }
+    }
+  ]
+}

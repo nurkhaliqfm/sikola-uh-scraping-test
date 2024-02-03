@@ -1,0 +1,45 @@
+{
+  "id_prodi": 135,
+  "nama_prodi": "TEKNIK GEOLOGI - S2",
+  "id_prodi_semester": 2477,
+  "idnumber_sikola": "31672.111229.135",
+  "shortname_sikola": "TA231-111229",
+  "kode_matkul": "18D06211402",
+  "nama_matkul": "BIOSTRATIGRAFI LANJUT",
+  "nama_kelas": "Biostratigrafi Lanjut",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1031,
+      "id_user": 28257,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Ratna Husain, M.T",
+      "nidn": "0002025904",
+      "nip": "195902021986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "904767b7-6a7a-4b5c-be2c-81cad0708dd9",
+      "pivot": {
+        "id_kelas_kuliah": 111229,
+        "id_dosen": 1031
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1563,
+      "id_user": 17172,
+      "id_prodi": 21,
+      "nama": "Dr. Eng. Meutia Farida, ST., MT.",
+      "nidn": "0010037303",
+      "nip": "197310032000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fb98e5f0-338a-4ab6-81e6-e3758927e30a",
+      "pivot": {
+        "id_kelas_kuliah": 111229,
+        "id_dosen": 1563
+      }
+    }
+  ]
+}

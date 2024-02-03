@@ -1,0 +1,61 @@
+{
+  "id_prodi": 174,
+  "nama_prodi": "ILMU POLITIK - S2",
+  "id_prodi_semester": 2742,
+  "idnumber_sikola": "43013.122578.174",
+  "shortname_sikola": "TA232-122578",
+  "kode_matkul": "22E05211203",
+  "nama_matkul": "Assesment Kualitas Pemilu",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1195,
+      "id_user": 11008,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Muhammad, SIP., M.Si.",
+      "nidn": "0017097106",
+      "nip": "197109171997031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0bd2c83f-51de-4db4-977c-822c9615ba78",
+      "pivot": {
+        "id_kelas_kuliah": 122578,
+        "id_dosen": 1195
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1559,
+      "id_user": 34208,
+      "id_prodi": 24,
+      "nama": "Dr.  Gustiana, S.I.P.,M.Si.",
+      "nidn": "0013087306",
+      "nip": "197308131998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4aec82d3-4412-4676-9f3c-a790fd3fbec5",
+      "pivot": {
+        "id_kelas_kuliah": 122578,
+        "id_dosen": 1559
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2581,
+      "id_user": 60788,
+      "id_prodi": 24,
+      "nama": "Dr. Muh Imran, SIP., M.Si",
+      "nidn": "8816001019",
+      "nip": "196805082022043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ae35ce54-298f-4d08-a6de-b7274b4ec88c",
+      "pivot": {
+        "id_kelas_kuliah": 122578,
+        "id_dosen": 2581
+      }
+    }
+  ]
+}

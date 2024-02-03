@@ -1,0 +1,85 @@
+{
+  "id_prodi": 25,
+  "nama_prodi": "ILMU PEMERINTAHAN - S1",
+  "id_prodi_semester": 2389,
+  "idnumber_sikola": "42513.109835.25",
+  "shortname_sikola": "TA231-109835",
+  "kode_matkul": "21E05149604",
+  "nama_matkul": "Kuliah Kerja Nyata",
+  "nama_kelas": "Kuliah Kerja Nyata",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141315,
+      "id_user": 43680,
+      "id_prodi": 25,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NIRMALA",
+      "nim": "E051201068",
+      "jalan": "Dusun Longi, Desa Bontolohe, Kec. Rilau Ale, Kab. Bulukumba",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Longi",
+      "kode_pos": "92552",
+      "nisn": "0016083402",
+      "tempat_lahir": "LONGI",
+      "tanggal_lahir": "2001-09-26",
+      "telepon": "0",
+      "handphone": "085255149079",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Bontolohe",
+      "id_wilayah": "191108",
+      "nik": "7302106609010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nir26ml96@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9bf2fc19-6f15-448d-828a-866484d62027",
+      "id_registrasi_mahasiswa_pddikti": "c60fea40-ed94-445f-b4b0-638bff4f6e34",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109835,
+        "id_mahasiswa": 141315,
+        "created_at": "2023-08-18 15:40:41"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2311,
+      "id_user": 30021,
+      "id_prodi": 25,
+      "nama": "Dr. A. Lukman Irwan, S.I.P., M.Si.",
+      "nidn": "0006017901",
+      "nip": "197901062005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "94eeca7e-88d8-43b9-98e2-9ffa5a778150",
+      "pivot": {
+        "id_kelas_kuliah": 109835,
+        "id_dosen": 2311
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2525,
+      "id_user": 31998,
+      "id_prodi": 25,
+      "nama": "Ashar Prawitno, S.IP., M.Si.",
+      "nidn": "0010019004",
+      "nip": "199001102019043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0232ac7b-9bed-4bef-b099-44b66ded5b24",
+      "pivot": {
+        "id_kelas_kuliah": 109835,
+        "id_dosen": 2525
+      }
+    }
+  ]
+}

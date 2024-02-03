@@ -1,0 +1,61 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2762,
+  "idnumber_sikola": "35981.128588.195",
+  "shortname_sikola": "TA232-128588",
+  "kode_matkul": "19M03311803",
+  "nama_matkul": "WISATA ALAM",
+  "nama_kelas": "WISATA ALAM",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 702,
+      "id_user": 34309,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Amran Achmad, M.Sc.",
+      "nidn": "0020075702",
+      "nip": "195706201985031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "057a4bd6-6f2f-4efc-91af-3dc84452032e",
+      "pivot": {
+        "id_kelas_kuliah": 128588,
+        "id_dosen": 702
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1243,
+      "id_user": 27670,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Ngakan Putu Oka, M.Sc.",
+      "nidn": "0030036003",
+      "nip": "196003301988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a2ecbf11-210b-4d61-9f59-7c4bccce2bff",
+      "pivot": {
+        "id_kelas_kuliah": 128588,
+        "id_dosen": 1243
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 786,
+      "id_user": 19301,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Yusran, S.Hut., M.Si., IPU",
+      "nidn": "0006126901",
+      "nip": "196912061996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a3342-cddb-406b-835b-703b68bdce5f",
+      "pivot": {
+        "id_kelas_kuliah": 128588,
+        "id_dosen": 786
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2512,
+  "idnumber_sikola": "37026.106769.175",
+  "shortname_sikola": "TA231-106769",
+  "kode_matkul": "19G01212002",
+  "nama_matkul": "Peramalan Iklim dan Penyebaran Hama",
+  "nama_kelas": "Peramalan Iklim & Penyebaran Hama (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1004,
+      "id_user": 16816,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Kaimuddin, M.Si.",
+      "nidn": "0012056001",
+      "nip": "196005121989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "53f7d302-a492-4027-b4ec-a9a7e4bc8f3c",
+      "pivot": {
+        "id_kelas_kuliah": 106769,
+        "id_dosen": 1004
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1343,
+      "id_user": 22931,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Amir, M.Si.",
+      "nidn": "0003115903",
+      "nip": "195911031991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7dbb33af-f155-4f16-8daf-59f86c946756",
+      "pivot": {
+        "id_kelas_kuliah": 106769,
+        "id_dosen": 1343
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1713,
+      "id_user": 27218,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Abd. Haris B., M.Si.",
+      "nidn": "0008116707",
+      "nip": "196708111994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "de4cc5e8-8cd6-406a-abd6-630583f5cedf",
+      "pivot": {
+        "id_kelas_kuliah": 106769,
+        "id_dosen": 1713
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1667,
+      "id_user": 17937,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Sulaeha, SP., M.Si.",
+      "nidn": "0018107711",
+      "nip": "197710182005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "66b92364-aaa0-416c-a33c-da1b1e28fa1a",
+      "pivot": {
+        "id_kelas_kuliah": 106769,
+        "id_dosen": 1667
+      }
+    }
+  ]
+}

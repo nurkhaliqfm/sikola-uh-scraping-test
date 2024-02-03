@@ -1,0 +1,52 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2461,
+  "idnumber_sikola": "29956.106427.119",
+  "shortname_sikola": "TA231-106427",
+  "kode_matkul": "0403C20501",
+  "nama_matkul": "RADIOLOGI - PENCITRAAN",
+  "nama_kelas": "Radiologi - Pencitraan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 102388,
+      "id_user": 25222,
+      "id_prodi": 119,
+      "angkatan": 2019,
+      "nama_mahasiswa": "dr. Arwini Avissa Abdullah",
+      "nim": "C105191002",
+      "jalan": "Jl. Dg. Tata Komp. Puri Tata Indah C8",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90224",
+      "nisn": null,
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "1992-05-04",
+      "telepon": "081244882224",
+      "handphone": "081244882224",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Balangbaru",
+      "id_wilayah": "196003",
+      "nik": "7371104405920009",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "Arwiniavissa@ymail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "03158ec3-ced4-4608-a2f3-8ecb4c5f4adb",
+      "id_registrasi_mahasiswa_pddikti": "a789883b-b635-4a11-b821-6f99f84278fa",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106427,
+        "id_mahasiswa": 102388,
+        "created_at": "2023-12-05 18:09:22"
+      }
+    }
+  ],
+  "dosens": []
+}

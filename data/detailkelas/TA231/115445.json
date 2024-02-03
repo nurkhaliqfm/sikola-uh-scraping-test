@@ -1,0 +1,45 @@
+{
+  "id_prodi": 46,
+  "nama_prodi": "STATISTIKA - S1",
+  "id_prodi_semester": 2404,
+  "idnumber_sikola": "46533.115445.46",
+  "shortname_sikola": "TA231-115445",
+  "kode_matkul": "23U02131902",
+  "nama_matkul": "Pengembangan Talenta",
+  "nama_kelas": "Pengembangan Talenta",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1685,
+      "id_user": 10451,
+      "id_prodi": 46,
+      "nama": "Dr. Anna Islamiyati, S.Si.,M.Si.",
+      "nidn": "0028067701",
+      "nip": "197708082005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2b97ed7b-f52e-4570-bf4e-15413bb64be4",
+      "pivot": {
+        "id_kelas_kuliah": 115445,
+        "id_dosen": 1685
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1045,
+      "id_user": 9523,
+      "id_prodi": 46,
+      "nama": "Anisa, S.Si.,M.Si.",
+      "nidn": "0027027301",
+      "nip": "197302271998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cf4d954d-3f59-4e7e-9575-db599a17ac80",
+      "pivot": {
+        "id_kelas_kuliah": 115445,
+        "id_dosen": 1045
+      }
+    }
+  ]
+}

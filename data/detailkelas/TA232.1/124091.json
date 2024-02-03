@@ -1,0 +1,69 @@
+{
+  "id_prodi": 205,
+  "nama_prodi": "BAHASA INGGRIS - S3",
+  "id_prodi_semester": 2772,
+  "idnumber_sikola": "42556.124091.205",
+  "shortname_sikola": "TA232-124091",
+  "kode_matkul": "21F02311409",
+  "nama_matkul": "Disertasi dan Ujian Disertasi",
+  "nama_kelas": "Disertasi dan Ujian Disertasi by Riset",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 342195,
+      "id_user": 60088,
+      "id_prodi": 205,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ABBAS",
+      "nim": "F023212006",
+      "jalan": "BIOLOGI RAYA BLOK B/34",
+      "rt": 1,
+      "rw": 10,
+      "dusun": null,
+      "kode_pos": "90225",
+      "nisn": null,
+      "tempat_lahir": "SAYOWANG MAKASSAR",
+      "tanggal_lahir": "1975-07-22",
+      "telepon": "0411587223",
+      "handphone": "085397021885",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "BANGKALA",
+      "id_wilayah": "120505",
+      "nik": "7371112207750003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "abbas@unhas.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "06512762-e026-4c48-a021-5293fab71c5b",
+      "id_registrasi_mahasiswa_pddikti": "9b804237-b499-4d0d-bc5c-54ee6113239b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124091,
+        "id_mahasiswa": 342195,
+        "created_at": "2024-01-12 11:21:55"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 959,
+      "id_user": 33549,
+      "id_prodi": 32,
+      "nama": "Prof. Dr. M. Amir P, M.Hum.",
+      "nidn": "0031126206",
+      "nip": "196212311988031021",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "afa845a0-5397-43d2-b11e-9d757311b798",
+      "pivot": {
+        "id_kelas_kuliah": 124091,
+        "id_dosen": 959
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "42870.127432.76",
+  "shortname_sikola": "TA232-127432",
+  "kode_matkul": "18P01314803",
+  "nama_matkul": "Mikologi Lanjutan",
+  "nama_kelas": "Mikologi Lanjutan (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 910,
+      "id_user": 25699,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Ade Rosmana, M.Sc.",
+      "nidn": "0007075703",
+      "nip": "195707061981031009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f165e99d-8163-418f-9aac-79e3bf6e1014",
+      "pivot": {
+        "id_kelas_kuliah": 127432,
+        "id_dosen": 910
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1033,
+      "id_user": 20932,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Tutik Kuswinanti, M.Sc.",
+      "nidn": "0016036503",
+      "nip": "196503161989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d78a466c-5325-48b8-8ff3-51dae6e07db9",
+      "pivot": {
+        "id_kelas_kuliah": 127432,
+        "id_dosen": 1033
+      }
+    }
+  ]
+}

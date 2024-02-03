@@ -1,0 +1,77 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2762,
+  "idnumber_sikola": "35976.128508.195",
+  "shortname_sikola": "TA232-128508",
+  "kode_matkul": "19M03311303",
+  "nama_matkul": "DIAGNOSIS, DESAIN DAN PERMODELAN AGROFORESTRY",
+  "nama_kelas": "DIAGNOSIS, DESAIN DAN PERMODELAN AGROFORESTRY",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1090,
+      "id_user": 23723,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Syamsuddin Millang, MS..IPU",
+      "nidn": "0031126016",
+      "nip": "196006171986011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57ba18cd-049f-4136-8ba2-32b414e99e46",
+      "pivot": {
+        "id_kelas_kuliah": 128508,
+        "id_dosen": 1090
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 725,
+      "id_user": 10596,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Samuel Arung Paembonan, IPU",
+      "nidn": "0015015502",
+      "nip": "195501151981021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "56eee1ad-83d5-4ff2-a1a7-3769abbb26fb",
+      "pivot": {
+        "id_kelas_kuliah": 128508,
+        "id_dosen": 725
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 778,
+      "id_user": 10452,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Muh. Restu, MP.",
+      "nidn": "0004096503",
+      "nip": "196509041992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4511401c-5624-4872-989e-d7a20202c4d5",
+      "pivot": {
+        "id_kelas_kuliah": 128508,
+        "id_dosen": 778
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2203,
+      "id_user": null,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Anwar Umar, MS.",
+      "nidn": "8807650017",
+      "nip": "195007241980031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9333d8a2-e420-4817-b7ef-8347f93648bb",
+      "pivot": {
+        "id_kelas_kuliah": 128508,
+        "id_dosen": 2203
+      }
+    }
+  ]
+}

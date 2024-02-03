@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46535.124231.50",
+  "shortname_sikola": "TA231-124231",
+  "kode_matkul": "23U02131004",
+  "nama_matkul": "Kewirausahaan Rintisan",
+  "nama_kelas": "Kewirausahaan Rintisan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1124,
+      "id_user": 14553,
+      "id_prodi": 50,
+      "nama": "Dr.  Rosana Agus, M.Si., M.Si.",
+      "nidn": "0005096502",
+      "nip": "196509051991032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57ec59bf-d1c2-48ba-9cf2-642801541f1d",
+      "pivot": {
+        "id_kelas_kuliah": 124231,
+        "id_dosen": 1124
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 166,
+  "nama_prodi": "TEKNOLOGI KEBUMIAN DAN LINGKUNGAN - S3",
+  "id_prodi_semester": 2503,
+  "idnumber_sikola": "34765.113119.166",
+  "shortname_sikola": "TA231-113119",
+  "kode_matkul": "18D03310303",
+  "nama_matkul": "PENUNJANG DISERTASI 1",
+  "nama_kelas": "PENUNJANG DISERTASI 1 /  Safruddim Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385661,
+      "id_user": 73531,
+      "id_prodi": 166,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SAFRUDDIM",
+      "nim": "D033222001",
+      "jalan": "BTN BARUGA SAMATA BLOK F NO. 7",
+      "rt": 2,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "92732",
+      "nisn": null,
+      "tempat_lahir": "ARASOE",
+      "tanggal_lahir": "1989-02-02",
+      "telepon": "0",
+      "handphone": "085342589109",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "MACEGE",
+      "id_wilayah": "190724",
+      "nik": "7308100201890001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "safruddim@unhas.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2dbab768-f7dc-475d-8925-1f42431c9b7c",
+      "id_registrasi_mahasiswa_pddikti": "974283b7-236a-4359-acfc-495851e2a7af",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113119,
+        "id_mahasiswa": 385661,
+        "created_at": "2023-08-01 21:58:30"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 773,
+      "id_user": 13028,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. rer.nat. Ir. A.M. Imran",
+      "nidn": "0005066302",
+      "nip": "196306051989031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a02d49ae-815b-42f2-9a45-b360071f22be",
+      "pivot": {
+        "id_kelas_kuliah": 113119,
+        "id_dosen": 773
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 113119,
+        "id_dosen": 1268
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1563,
+      "id_user": 17172,
+      "id_prodi": 21,
+      "nama": "Dr. Eng. Meutia Farida, ST., MT.",
+      "nidn": "0010037303",
+      "nip": "197310032000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fb98e5f0-338a-4ab6-81e6-e3758927e30a",
+      "pivot": {
+        "id_kelas_kuliah": 113119,
+        "id_dosen": 1563
+      }
+    }
+  ]
+}

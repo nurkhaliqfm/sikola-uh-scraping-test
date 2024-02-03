@@ -1,0 +1,85 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44117.108738.47",
+  "shortname_sikola": "TA231-108738",
+  "kode_matkul": "23H02135302",
+  "nama_matkul": "FISIKA RADIOLOGI DAN DOSIMETRI",
+  "nama_kelas": "Fisika Radiologi dan Dosimetri (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139804,
+      "id_user": 40425,
+      "id_prodi": 47,
+      "angkatan": 2020,
+      "nama_mahasiswa": "BAYU HARNADI NASRUL",
+      "nim": "H021201051",
+      "jalan": "BTP BLOK J NO. 70",
+      "rt": 3,
+      "rw": 13,
+      "dusun": "BUNTUSU",
+      "kode_pos": "90245",
+      "nisn": "0017191203",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2002-12-26",
+      "telepon": "0",
+      "handphone": "089699164381",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BUNTUSU",
+      "id_wilayah": "196012",
+      "nik": "7371142612020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "bayuharnadi262@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "840b3030-d3a2-49ca-814d-6cffd6ae2944",
+      "id_registrasi_mahasiswa_pddikti": "857ba03d-e878-4129-bf35-79e2c204e34f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108738,
+        "id_mahasiswa": 139804,
+        "created_at": "2023-08-16 19:30:54"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1030,
+      "id_user": 20531,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Bualkar Abdullah, M.Eng.Sc.",
+      "nidn": "0005015503",
+      "nip": "195501051978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b4a0d843-353b-40a6-a961-8ed276b658aa",
+      "pivot": {
+        "id_kelas_kuliah": 108738,
+        "id_dosen": 1030
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1434,
+      "id_user": 17475,
+      "id_prodi": 47,
+      "nama": "Dr. Sri Dewi Astuty, S.Si.,M.Si.",
+      "nidn": "0013057502",
+      "nip": "197505131999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3344b510-d213-4a67-af81-98ecef09978b",
+      "pivot": {
+        "id_kelas_kuliah": 108738,
+        "id_dosen": 1434
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 153,
+  "nama_prodi": "AGRIBISNIS - S1",
+  "id_prodi_semester": 2721,
+  "idnumber_sikola": "36526.120770.153",
+  "shortname_sikola": "TA232-120770",
+  "kode_matkul": "19G02121403",
+  "nama_matkul": "EKONOMI MAKRO",
+  "nama_kelas": "Ekonomi Makro Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 792,
+      "id_user": 21725,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Rahim Darma, MS.",
+      "nidn": "0001045905",
+      "nip": "195904011985021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09e84bbc-4533-4bdc-9cc6-f91a2b06eb2d",
+      "pivot": {
+        "id_kelas_kuliah": 120770,
+        "id_dosen": 792
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1254,
+      "id_user": 23764,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Mahyuddin, M.Si.",
+      "nidn": "0002076801",
+      "nip": "196807021993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3ae8f218-0817-4b55-ad94-8de75413000e",
+      "pivot": {
+        "id_kelas_kuliah": 120770,
+        "id_dosen": 1254
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1451,
+      "id_user": 23152,
+      "id_prodi": 153,
+      "nama": "Dr. Letty Fudjaja, SP.,M.Si.",
+      "nidn": "0003027001",
+      "nip": "197002031998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "79cb7b30-c90b-40d7-8c38-d4c5ef315ecd",
+      "pivot": {
+        "id_kelas_kuliah": 120770,
+        "id_dosen": 1451
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1505,
+      "id_user": 20034,
+      "id_prodi": 153,
+      "nama": "Prof. Ir. Muhammad Arsyad, SP., M.Si., Ph.D.",
+      "nidn": "0009067903",
+      "nip": "197506092006041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c2ea2ee5-e986-4ce9-9750-81adf0cb9c1b",
+      "pivot": {
+        "id_kelas_kuliah": 120770,
+        "id_dosen": 1505
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2762,
+  "idnumber_sikola": "35973.128585.195",
+  "shortname_sikola": "TA232-128585",
+  "kode_matkul": "19M03311003",
+  "nama_matkul": "MODEL-MODEL PENGELOLAAN KHM",
+  "nama_kelas": "MODEL-MODEL PENGELOLAAN KHM",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2111,
+      "id_user": 34338,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Daud Malamassam, M.Agr., IPU",
+      "nidn": "0009025401",
+      "nip": "195402091978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4eb65c2c-3656-4467-99b0-6102b5c3df78",
+      "pivot": {
+        "id_kelas_kuliah": 128585,
+        "id_dosen": 2111
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1035,
+      "id_user": 11001,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Supratman, S.Hut., MP.",
+      "nidn": "0018097001",
+      "nip": "197009181997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6f64e940-dc0a-409c-b9a5-dd3aeab3dc37",
+      "pivot": {
+        "id_kelas_kuliah": 128585,
+        "id_dosen": 1035
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 725,
+      "id_user": 10596,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Samuel Arung Paembonan, IPU",
+      "nidn": "0015015502",
+      "nip": "195501151981021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "56eee1ad-83d5-4ff2-a1a7-3769abbb26fb",
+      "pivot": {
+        "id_kelas_kuliah": 128585,
+        "id_dosen": 725
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1093,
+      "id_user": 34333,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Syamsu Alam, MS.",
+      "nidn": "0020045904",
+      "nip": "195904201985031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "493ecbb8-d60c-4778-b224-c682803ba9ee",
+      "pivot": {
+        "id_kelas_kuliah": 128585,
+        "id_dosen": 1093
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1834,
+      "id_user": 10744,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. forest. Muhammad Alif KS., S.Hut., M.Si.",
+      "nidn": "0031087903",
+      "nip": "197908312008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b39a91d9-f3db-4e3f-9442-1b829450f4e6",
+      "pivot": {
+        "id_kelas_kuliah": 128585,
+        "id_dosen": 1834
+      }
+    }
+  ]
+}

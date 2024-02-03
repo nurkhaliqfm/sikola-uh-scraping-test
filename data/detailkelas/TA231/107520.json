@@ -1,0 +1,45 @@
+{
+  "id_prodi": 103,
+  "nama_prodi": "SOSIOLOGI - S2",
+  "id_prodi_semester": 2448,
+  "idnumber_sikola": "44161.107520.103",
+  "shortname_sikola": "TA231-107520",
+  "kode_matkul": "22E03210403",
+  "nama_matkul": "STATISTIK SOSIAL DAN APLIKASI KOMPUTER",
+  "nama_kelas": "Kerjasama BPS I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1317,
+      "id_user": 22400,
+      "id_prodi": 1,
+      "nama": "Dr.  Madris, M.Si",
+      "nidn": "0031126019",
+      "nip": "196012311988111002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1481dc01-2f93-4e77-b691-4f575f3f3d46",
+      "pivot": {
+        "id_kelas_kuliah": 107520,
+        "id_dosen": 1317
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1771,
+      "id_user": 18445,
+      "id_prodi": 29,
+      "nama": "Dr. Sakaria, S.Sos., M.Si.",
+      "nidn": "0030016905",
+      "nip": "196901302006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1cc41b0-04d2-4a8b-a2d2-ce65ed41f2bd",
+      "pivot": {
+        "id_kelas_kuliah": 107520,
+        "id_dosen": 1771
+      }
+    }
+  ]
+}

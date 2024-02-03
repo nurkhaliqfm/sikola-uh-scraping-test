@@ -1,0 +1,77 @@
+{
+  "id_prodi": 199,
+  "nama_prodi": "MAGISTER ADMINISTRASI RUMAH SAKIT",
+  "id_prodi_semester": 2766,
+  "idnumber_sikola": "42984.125998.199",
+  "shortname_sikola": "TA232-125998",
+  "kode_matkul": "21K02210502",
+  "nama_matkul": "Manajemen SDM Rumah Sakit",
+  "nama_kelas": "MSDM B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1406,
+      "id_user": 34413,
+      "id_prodi": 57,
+      "nama": "Dr Fridawaty Rivai, SKM.,M. Kes",
+      "nidn": "0016107301",
+      "nip": "197310161997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6bc3c247-4734-4ead-bf4b-d037ae116cc7",
+      "pivot": {
+        "id_kelas_kuliah": 125998,
+        "id_dosen": 1406
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2596,
+      "id_user": 37445,
+      "id_prodi": null,
+      "nama": "Dr. dr. h. Noer Bahry Noor, M.Sc",
+      "nidn": "8806601019",
+      "nip": "195212122019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "247b815a-267f-47ab-8c8c-d8f814352e43",
+      "pivot": {
+        "id_kelas_kuliah": 125998,
+        "id_dosen": 2596
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1930,
+      "id_user": 27948,
+      "id_prodi": 57,
+      "nama": "Dr. Irwandy, SKM., M.Sc.PH., M.kes.",
+      "nidn": "0012038403",
+      "nip": "198403122010121005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a317cb33-7524-42cb-8cda-5b68b9507922",
+      "pivot": {
+        "id_kelas_kuliah": 125998,
+        "id_dosen": 1930
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3232,
+      "id_user": 34441,
+      "id_prodi": 171,
+      "nama": "Dr. Werna Nontji, S.Kp., M.Kep.",
+      "nidn": null,
+      "nip": "195001141972072001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125998,
+        "id_dosen": 3232
+      }
+    }
+  ]
+}

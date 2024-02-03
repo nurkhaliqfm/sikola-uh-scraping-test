@@ -1,0 +1,85 @@
+{
+  "id_prodi": 135,
+  "nama_prodi": "TEKNIK GEOLOGI - S2",
+  "id_prodi_semester": 2708,
+  "idnumber_sikola": "31670.120837.135",
+  "shortname_sikola": "TA232-120837",
+  "kode_matkul": "18D06211002",
+  "nama_matkul": "REKAYASA PANTAI",
+  "nama_kelas": "Rekayasa Pantai",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428393,
+      "id_user": 86920,
+      "id_prodi": 135,
+      "angkatan": 2023,
+      "nama_mahasiswa": "INDRY AULIA",
+      "nim": "D062232001",
+      "jalan": "JLN. DR. WAHIDIN SUDIROHUSODO V NO. 49",
+      "rt": 3,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90172",
+      "nisn": "0009914828",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2000-01-14",
+      "telepon": "0",
+      "handphone": "081343286869",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MALIMONGAN",
+      "id_wilayah": "196006",
+      "nik": "8171025401000008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86920,
+      "kode_status": "A",
+      "email": "indryaulia0@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120837,
+        "id_mahasiswa": 428393,
+        "created_at": "2024-01-29 19:29:59"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 893,
+      "id_user": 16955,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Ir. Rohaya Langkoke, MT.",
+      "nidn": "0010125802",
+      "nip": "195812101986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "71be0ff1-2c3c-40d6-afce-5819f87bbf77",
+      "pivot": {
+        "id_kelas_kuliah": 120837,
+        "id_dosen": 893
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 876,
+      "id_user": 10614,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Hamid Umar, MS.",
+      "nidn": "0002116002",
+      "nip": "196012021988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "11bdd910-f86f-4005-9156-36953221304f",
+      "pivot": {
+        "id_kelas_kuliah": 120837,
+        "id_dosen": 876
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2611,
+  "idnumber_sikola": "47350.122015.15",
+  "shortname_sikola": "TA232-122015",
+  "kode_matkul": "23D08131102",
+  "nama_matkul": "Teknologi Penambatan",
+  "nama_kelas": "Teknologi Penambatan A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 138785,
+      "id_user": 42038,
+      "id_prodi": 15,
+      "angkatan": 2020,
+      "nama_mahasiswa": "SITI FATIMAH MARHANISA",
+      "nim": "D081201057",
+      "jalan": "Jln.Dato ri pagengtungang, Btn.Anugrah Resky Paccinongang Blok A/8",
+      "rt": 4,
+      "rw": 10,
+      "dusun": "Taeng-taeng",
+      "kode_pos": "92113",
+      "nisn": "0020851673",
+      "tempat_lahir": "GOWA",
+      "tanggal_lahir": "2002-03-15",
+      "telepon": "6282293713969",
+      "handphone": "6289676066286",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Paccinongang",
+      "id_wilayah": "190304",
+      "nik": "7306085503020007",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "stfatima002@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2d033995-39fe-49f8-ae65-aaac40c9aec3",
+      "id_registrasi_mahasiswa_pddikti": "f6d26696-8d12-4773-b98d-59b45cfc268e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122015,
+        "id_mahasiswa": 138785,
+        "created_at": "2024-01-31 18:38:42"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1062,
+      "id_user": 31711,
+      "id_prodi": 15,
+      "nama": "Ir. Juswan, MT.",
+      "nidn": "0031126207",
+      "nip": "196212311989031031",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41d9f6bc-42a6-47a6-90fc-51b76ee184ca",
+      "pivot": {
+        "id_kelas_kuliah": 122015,
+        "id_dosen": 1062
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3599,
+      "id_user": 58682,
+      "id_prodi": 15,
+      "nama": "Fuad Mahfud Assidiq, S.T., M.T",
+      "nidn": "8991720021",
+      "nip": "199509292021015001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "8b558e62-9be1-4349-9376-da2608d52522",
+      "pivot": {
+        "id_kelas_kuliah": 122015,
+        "id_dosen": 3599
+      }
+    }
+  ]
+}

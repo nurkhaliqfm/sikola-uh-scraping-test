@@ -1,0 +1,61 @@
+{
+  "id_prodi": 103,
+  "nama_prodi": "SOSIOLOGI - S2",
+  "id_prodi_semester": 2448,
+  "idnumber_sikola": "39408.107501.103",
+  "shortname_sikola": "TA231-107501",
+  "kode_matkul": "20E03211302",
+  "nama_matkul": "SosiologI Politik",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 868,
+      "id_user": 34228,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  Dwia Aries Tina Pulubuhu, MA.",
+      "nidn": "0019046406",
+      "nip": "196404191989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e21d9d5e-9bc4-484d-91d6-d23e5f8c64dd",
+      "pivot": {
+        "id_kelas_kuliah": 107501,
+        "id_dosen": 868
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1201,
+      "id_user": 34129,
+      "id_prodi": 29,
+      "nama": "Dr. Rahmat, S.Sos., M.Si.",
+      "nidn": "0013057009",
+      "nip": "197005131997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0397376c-3c42-47d4-8b31-fe23392870b3",
+      "pivot": {
+        "id_kelas_kuliah": 107501,
+        "id_dosen": 1201
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1154,
+      "id_user": 34099,
+      "id_prodi": 29,
+      "nama": "Dr. Muh. Iqbal Latief, M.Si",
+      "nidn": "0016106505",
+      "nip": "196510161990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7059a033-138f-4d05-8198-4f834adf3af7",
+      "pivot": {
+        "id_kelas_kuliah": 107501,
+        "id_dosen": 1154
+      }
+    }
+  ]
+}

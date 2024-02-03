@@ -1,0 +1,85 @@
+{
+  "id_prodi": 204,
+  "nama_prodi": "Magister Teknik Informatika",
+  "id_prodi_semester": 2771,
+  "idnumber_sikola": "36659.120984.204",
+  "shortname_sikola": "TA232-120984",
+  "kode_matkul": "19D08210902",
+  "nama_matkul": "JARINGAN NIRKABEL DAN BERGERAK",
+  "nama_kelas": "Kelas A Jaringan Nirkabel Dan Bergerak",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 416002,
+      "id_user": 79307,
+      "id_prodi": 204,
+      "angkatan": 2023,
+      "nama_mahasiswa": "HENDI FIRMANSYAH",
+      "nim": "D082231008",
+      "jalan": "POROS MALINO",
+      "rt": 2,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "92112",
+      "nisn": null,
+      "tempat_lahir": "BANDUNG",
+      "tanggal_lahir": "2023-06-06",
+      "telepon": "0",
+      "handphone": "08811307198",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Tamarunang",
+      "id_wilayah": "190304",
+      "nik": "3204360606990002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "firhend@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "41c9a27b-313d-4289-a31b-992be5628653",
+      "id_registrasi_mahasiswa_pddikti": "52ebbdaa-40bf-44c5-912d-c912ca63bef3",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120984,
+        "id_mahasiswa": 416002,
+        "created_at": "2024-01-30 12:18:25"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 827,
+      "id_user": 17599,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Andani, MT.",
+      "nidn": "0531126002",
+      "nip": "196012311987031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41633592-f13b-4062-99dc-2c91d5a10984",
+      "pivot": {
+        "id_kelas_kuliah": 120984,
+        "id_dosen": 827
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1484,
+      "id_user": 9435,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Intan Sari Areni, S.T., MT.",
+      "nidn": "0003027508",
+      "nip": "197502032000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d2d64e8-56cf-40a6-ab07-bc218bdbaf65",
+      "pivot": {
+        "id_kelas_kuliah": 120984,
+        "id_dosen": 1484
+      }
+    }
+  ]
+}

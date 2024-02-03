@@ -1,0 +1,69 @@
+{
+  "id_prodi": 147,
+  "nama_prodi": "PROFESI DOKTER",
+  "id_prodi_semester": 2487,
+  "idnumber_sikola": "32862.117099.147",
+  "shortname_sikola": "TA231-117099",
+  "kode_matkul": "602C1132",
+  "nama_matkul": "ILMU KESEHATAN MATA",
+  "nama_kelas": "ILMU KESEHATAN MATA PERIODE Gabungan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 107228,
+      "id_user": 29055,
+      "id_prodi": 147,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Evankristo Matra Linting",
+      "nim": "C014191029",
+      "jalan": "Jln Perintis Kemerdekaan IV Lorong 9",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "Makale",
+      "tanggal_lahir": "1996-03-13",
+      "telepon": "0",
+      "handphone": "6282271010046",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "Evankristo Matra",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 29055,
+      "kode_status": "A",
+      "email": "evankristo96@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 117099,
+        "id_mahasiswa": 107228,
+        "created_at": "2023-12-22 14:56:43"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2723,
+      "id_user": 45141,
+      "id_prodi": 116,
+      "nama": "dr. Rani Yunita Patong, Sp.M",
+      "nidn": "0018068702",
+      "nip": "198706182020054001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "13712ef7-a8b4-4981-9eba-abe855cb1aac",
+      "pivot": {
+        "id_kelas_kuliah": 117099,
+        "id_dosen": 2723
+      }
+    }
+  ]
+}

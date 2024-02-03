@@ -1,0 +1,45 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2602,
+  "idnumber_sikola": "2559.119162.5",
+  "shortname_sikola": "TA232-119162",
+  "kode_matkul": "18B011412302",
+  "nama_matkul": "HUKUM KEHUTANAN\r\n",
+  "nama_kelas": "HUKUM KEHUTANAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 755,
+      "id_user": 34196,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Muh. Yunus, SH., M.Si.",
+      "nidn": "0001085703",
+      "nip": "195708011985031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "756ecbf6-f7db-4d18-8cd8-61cb772904bf",
+      "pivot": {
+        "id_kelas_kuliah": 119162,
+        "id_dosen": 755
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1699,
+      "id_user": 33766,
+      "id_prodi": 5,
+      "nama": "Muhammad Zulfan Hakim, SH., MH.",
+      "nidn": "0023107505",
+      "nip": "197510232008011010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1807b0d5-f726-4dbe-869c-cd10334e037f",
+      "pivot": {
+        "id_kelas_kuliah": 119162,
+        "id_dosen": 1699
+      }
+    }
+  ]
+}

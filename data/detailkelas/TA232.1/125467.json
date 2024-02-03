@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2733,
+  "idnumber_sikola": "34728.125467.165",
+  "shortname_sikola": "TA232-125467",
+  "kode_matkul": "18D02310702",
+  "nama_matkul": "SEMINAR PROPOSAL PENELITIAN DISERTASI",
+  "nama_kelas": "SEMINAR PROPOSAL PENELITIAN DISERTASI (KLS Andas Budi)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 355557,
+      "id_user": 70094,
+      "id_prodi": 165,
+      "angkatan": 2022,
+      "nama_mahasiswa": "ANDAS BUDY",
+      "nim": "D023221004",
+      "jalan": "JL. ELANG NO. 1",
+      "rt": 2,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "92111",
+      "nisn": "0",
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "1973-10-18",
+      "telepon": "0",
+      "handphone": "082259324235",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "SUNGGUMINASA",
+      "id_wilayah": "190304",
+      "nik": "7306081810730004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andasbudy@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e006970d-2500-4627-acd2-f40abd2d5ceb",
+      "id_registrasi_mahasiswa_pddikti": "f8035881-3e0e-4b4d-a7f6-17621f5cc7c5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125467,
+        "id_mahasiswa": 355557,
+        "created_at": "2024-02-01 09:30:25"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1299,
+      "id_user": 19550,
+      "id_prodi": 19,
+      "nama": "Prof. Dr. Ir. Triyatni Martosenjoyo, M.Si",
+      "nidn": "0029075702",
+      "nip": "195707291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f216d8a-9be5-4120-a230-56b08cc5d3ec",
+      "pivot": {
+        "id_kelas_kuliah": 125467,
+        "id_dosen": 1299
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1173,
+      "id_user": 32083,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Idawarni, MT.",
+      "nidn": "0001076502",
+      "nip": "196507011994032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fe5c9f9c-97d7-461c-bea3-0213c6bd1261",
+      "pivot": {
+        "id_kelas_kuliah": 125467,
+        "id_dosen": 1173
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 125467,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

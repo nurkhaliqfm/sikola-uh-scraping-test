@@ -1,0 +1,45 @@
+{
+  "id_prodi": 142,
+  "nama_prodi": "MKU  Non-Eksakta",
+  "id_prodi_semester": 2484,
+  "idnumber_sikola": "44633.108300.142",
+  "shortname_sikola": "TA231-108300",
+  "kode_matkul": "23U01110102",
+  "nama_matkul": "Pendidikan Agama Islam",
+  "nama_kelas": "Islam Religion (Asing)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 797,
+      "id_user": 12101,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Musbir, M.Sc.",
+      "nidn": "0008106510",
+      "nip": "196508101989111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b6e35324-0f63-4c95-8166-15bcdc6aae88",
+      "pivot": {
+        "id_kelas_kuliah": 108300,
+        "id_dosen": 797
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1858,
+      "id_user": 16217,
+      "id_prodi": 34,
+      "nama": "Muhammad Ridwan, SS., MA.",
+      "nidn": "0008057106",
+      "nip": "197105082008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2dcbe1ac-98b1-4108-89e4-e2254ffda691",
+      "pivot": {
+        "id_kelas_kuliah": 108300,
+        "id_dosen": 1858
+      }
+    }
+  ]
+}

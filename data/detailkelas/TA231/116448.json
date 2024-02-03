@@ -1,0 +1,85 @@
+{
+  "id_prodi": 22,
+  "nama_prodi": "TEKNIK PERTAMBANGAN - S1",
+  "id_prodi_semester": 2387,
+  "idnumber_sikola": "46294.116448.22",
+  "shortname_sikola": "TA231-116448",
+  "kode_matkul": "23D11121302",
+  "nama_matkul": "Komputasi Numerik",
+  "nama_kelas": "Komputasi Numerik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 40850,
+      "id_user": 27049,
+      "id_prodi": 22,
+      "angkatan": 2018,
+      "nama_mahasiswa": "PHETER DAVID CHRISTENSEN TINDOILO",
+      "nim": "D111181310",
+      "jalan": "Jalan pendolo",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Dusun 1",
+      "kode_pos": "94644",
+      "nisn": "0003679680",
+      "tempat_lahir": "Palu",
+      "tanggal_lahir": "2000-10-09",
+      "telepon": "085775037267",
+      "handphone": "085775037267",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Deaa pendolo",
+      "id_wilayah": "180301",
+      "nik": "7202-0602-0666-0",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "davidtindoilo23@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8953ee9e-5cdb-48c7-8219-33d45b15b0f9",
+      "id_registrasi_mahasiswa_pddikti": "5d078df0-8eaf-44e1-aa1a-f2af6244d6af",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 116448,
+        "id_mahasiswa": 40850,
+        "created_at": "2023-08-18 15:26:01"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1220,
+      "id_user": 22762,
+      "id_prodi": 22,
+      "nama": "Dr. Ir.  Muhammad Ramli, MT.",
+      "nidn": "0018076802",
+      "nip": "196807181993091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "822fba77-28b5-4e31-94a5-8170fdaa0d14",
+      "pivot": {
+        "id_kelas_kuliah": 116448,
+        "id_dosen": 1220
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2616,
+      "id_user": 59014,
+      "id_prodi": 22,
+      "nama": "Rizki Amalia, S.T., M.T.",
+      "nidn": "8889211019",
+      "nip": "199205042019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8f89ce95-f652-448b-ae39-5c3118eb0b50",
+      "pivot": {
+        "id_kelas_kuliah": 116448,
+        "id_dosen": 2616
+      }
+    }
+  ]
+}

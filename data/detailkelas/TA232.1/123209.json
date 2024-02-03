@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46477.123209.11",
+  "shortname_sikola": "TA232-123209",
+  "kode_matkul": "23D13130603",
+  "nama_matkul": "Perencanaan Bangunan Pengolahan Air Limbah",
+  "nama_kelas": "Perencanaan Bangunan Pengolahan Air Limbah A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3068,
+      "id_user": 60783,
+      "id_prodi": 11,
+      "nama": "Nur An-nisa Putry Mangarengi, S.T.,M.Sc.",
+      "nidn": "0014019204",
+      "nip": "199201142021074001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "424cb4dc-af43-4f49-a6f1-83f37c744156",
+      "pivot": {
+        "id_kelas_kuliah": 123209,
+        "id_dosen": 3068
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3448,
+      "id_user": 85312,
+      "id_prodi": 11,
+      "nama": "Annisa Dwi Damayanti. S.T., M.T",
+      "nidn": "8919020021",
+      "nip": "199304282021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "8cbc09bd-1c6b-4c84-9701-f0ccef05016f",
+      "pivot": {
+        "id_kelas_kuliah": 123209,
+        "id_dosen": 3448
+      }
+    }
+  ]
+}

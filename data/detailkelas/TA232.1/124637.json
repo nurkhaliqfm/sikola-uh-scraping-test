@@ -1,0 +1,45 @@
+{
+  "id_prodi": 136,
+  "nama_prodi": "TEKNIK PERKAPALAN - S2",
+  "id_prodi_semester": 2709,
+  "idnumber_sikola": "31728.124637.136",
+  "shortname_sikola": "TA232-124637",
+  "kode_matkul": "18D05211702",
+  "nama_matkul": "Stabilitas Dinamis",
+  "nama_kelas": "Stabilitas Dinamis A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1579,
+      "id_user": 33555,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Eng Suandar Baso, S.T., MT.",
+      "nidn": "0006027301",
+      "nip": "197302062000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cdbebdf1-79ac-43e9-b3f0-4daeb0f4267a",
+      "pivot": {
+        "id_kelas_kuliah": 124637,
+        "id_dosen": 1579
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1508,
+      "id_user": 17267,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Daeng Paroka, ST., MT., P.h.D",
+      "nidn": "0018017201",
+      "nip": "197201181998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6af5f039-f1c7-4673-9f80-6bac1db17c82",
+      "pivot": {
+        "id_kelas_kuliah": 124637,
+        "id_dosen": 1508
+      }
+    }
+  ]
+}

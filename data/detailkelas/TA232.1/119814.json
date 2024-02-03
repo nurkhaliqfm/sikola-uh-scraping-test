@@ -1,0 +1,45 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2663,
+  "idnumber_sikola": "26807.119814.86",
+  "shortname_sikola": "TA232-119814",
+  "kode_matkul": "18B01310602",
+  "nama_matkul": "HUKUM PERDATA KONTEMPORER\r\n",
+  "nama_kelas": "KLS B AFIRMASI KEJAKSAAN SEM II PERDATA",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 841,
+      "id_user": 11199,
+      "id_prodi": 5,
+      "nama": "Dr. Winner Sitorus, S.H., M.H., LLM.",
+      "nidn": "0026036601",
+      "nip": "196603261991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "54d15227-c5bc-4f54-a919-2433aa347617",
+      "pivot": {
+        "id_kelas_kuliah": 119814,
+        "id_dosen": 841
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1368,
+      "id_user": 32715,
+      "id_prodi": 5,
+      "nama": "Dr. Sri Susyanti Nur, SH., MH.",
+      "nidn": "0023116401",
+      "nip": "196411231990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0eeb229e-07c3-4b1b-a1a6-b95981ed0b51",
+      "pivot": {
+        "id_kelas_kuliah": 119814,
+        "id_dosen": 1368
+      }
+    }
+  ]
+}

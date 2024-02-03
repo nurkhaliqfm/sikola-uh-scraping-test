@@ -1,0 +1,45 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44090.108800.47",
+  "shortname_sikola": "TA231-108800",
+  "kode_matkul": "23H02132802",
+  "nama_matkul": "SENSOR CERDAS",
+  "nama_kelas": "Sensor Cerdas (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 886,
+      "id_user": 27053,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Arifin, M.T",
+      "nidn": "0020056703",
+      "nip": "196705201994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "227cf181-01b6-4b96-ae85-ccdd54caa855",
+      "pivot": {
+        "id_kelas_kuliah": 108800,
+        "id_dosen": 886
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1030,
+      "id_user": 20531,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Bualkar Abdullah, M.Eng.Sc.",
+      "nidn": "0005015503",
+      "nip": "195501051978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b4a0d843-353b-40a6-a961-8ed276b658aa",
+      "pivot": {
+        "id_kelas_kuliah": 108800,
+        "id_dosen": 1030
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "35198.123758.173",
+  "shortname_sikola": "TA232-123758",
+  "kode_matkul": "18K01310902",
+  "nama_matkul": "Analisis Kebijakan Kesehatan",
+  "nama_kelas": "Analisis Kebijakan Kesehatan\t(Kelas Papua)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 717,
+      "id_user": 28583,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Amran Razak,SE, M.Sc",
+      "nidn": "0002015701",
+      "nip": "195701021986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d6a2d617-1a60-434b-82a5-22a0a1926382",
+      "pivot": {
+        "id_kelas_kuliah": 123758,
+        "id_dosen": 717
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 729,
+      "id_user": 29213,
+      "id_prodi": 57,
+      "nama": "Prof. Dr.  Indar, SH., MPH.",
+      "nidn": "9990132855",
+      "nip": "195311101986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d40870bf-f8c1-491c-b23f-e0bf72b918e0",
+      "pivot": {
+        "id_kelas_kuliah": 123758,
+        "id_dosen": 729
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1018,
+      "id_user": 28403,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Darmawansyah, SE., M.S",
+      "nidn": "0024046403",
+      "nip": "196404241991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ca2f2cda-a103-46ab-8040-722ce895843a",
+      "pivot": {
+        "id_kelas_kuliah": 123758,
+        "id_dosen": 1018
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1408,
+      "id_user": 29184,
+      "id_prodi": 57,
+      "nama": "Dr. H. Muhammad Alwy Arifin, M.Kes.",
+      "nidn": "0008076402",
+      "nip": "196407081991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "48dc6383-e9ec-4118-abdd-d937e8bae1d1",
+      "pivot": {
+        "id_kelas_kuliah": 123758,
+        "id_dosen": 1408
+      }
+    }
+  ]
+}

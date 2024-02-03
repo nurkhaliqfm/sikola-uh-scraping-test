@@ -1,0 +1,61 @@
+{
+  "id_prodi": 70,
+  "nama_prodi": "AGROBISNIS PERIKANAN - S1",
+  "id_prodi_semester": 2418,
+  "idnumber_sikola": "46724.112192.70",
+  "shortname_sikola": "TA231-112192",
+  "kode_matkul": "23L04130703",
+  "nama_matkul": "Pemberdayaan Gender Masyarakat Pesisir",
+  "nama_kelas": "Pemberdayaan Gender Masyarakat Pesisir (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1068,
+      "id_user": 24136,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Mardiana E. Fachri, MS.",
+      "nidn": "0031126015",
+      "nip": "195907071985032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f719683b-a9ce-41ab-a7be-de268dba7ff1",
+      "pivot": {
+        "id_kelas_kuliah": 112192,
+        "id_dosen": 1068
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2063,
+      "id_user": 33174,
+      "id_prodi": 70,
+      "nama": "Arie Syahruni Cangara, S.Pi., M.Si",
+      "nidn": "0913018307",
+      "nip": "198301132015042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24380dc4-d154-4a3e-836b-f626204988d3",
+      "pivot": {
+        "id_kelas_kuliah": 112192,
+        "id_dosen": 2063
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1795,
+      "id_user": 13515,
+      "id_prodi": 70,
+      "nama": "Dr.  Andi Amri, S.Pi.,M.Sc.",
+      "nidn": "0007037001",
+      "nip": "197003071997031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c4801641-d3ad-4a53-ab12-ceb1fb7ada8e",
+      "pivot": {
+        "id_kelas_kuliah": 112192,
+        "id_dosen": 1795
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46471.123174.11",
+  "shortname_sikola": "TA232-123174",
+  "kode_matkul": "23D13130102",
+  "nama_matkul": "Kewirausahaan",
+  "nama_kelas": "Kewirausahaan B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1616,
+      "id_user": 31989,
+      "id_prodi": 11,
+      "nama": "Dr. Eng. Irwan Ridwan Rahim, ST., MT.",
+      "nidn": "0019117201",
+      "nip": "197211192000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9350a492-bffe-4113-a2a0-d65e872e627c",
+      "pivot": {
+        "id_kelas_kuliah": 123174,
+        "id_dosen": 1616
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3452,
+      "id_user": 60753,
+      "id_prodi": 11,
+      "nama": "Zarah Arwieny Hanami, S.T., M.T.",
+      "nidn": "0027109701",
+      "nip": "199710272022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "12f166c2-1681-49c2-988e-a4f83d87bc36",
+      "pivot": {
+        "id_kelas_kuliah": 123174,
+        "id_dosen": 3452
+      }
+    }
+  ]
+}

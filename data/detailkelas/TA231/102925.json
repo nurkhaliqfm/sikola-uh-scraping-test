@@ -1,0 +1,61 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2425,
+  "idnumber_sikola": "43238.102925.78",
+  "shortname_sikola": "TA231-102925",
+  "kode_matkul": "22I02213503",
+  "nama_matkul": "Sumberdaya Genetik Ternak Lokal dan Konservasi Plasma Nutfah Ternak",
+  "nama_kelas": "Sumberdaya Genetik Ternak Lokal dan Konsevasi Plasma Nutfah Ternak",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1488,
+      "id_user": 14750,
+      "id_prodi": 51,
+      "nama": "Prof.Dr.Ir Raden Roro Sri R.A.Bugiwati, M.Sc.",
+      "nidn": "0025046801",
+      "nip": "196804251994032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b49dd56f-20f7-4412-adab-648569fd3222",
+      "pivot": {
+        "id_kelas_kuliah": 102925,
+        "id_dosen": 1488
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 761,
+      "id_user": 32334,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Lellah Rahim, M.Sc., IPU, ASEAN Eng.",
+      "nidn": "0001056304",
+      "nip": "196305011988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ba174734-2be4-4d1f-aabb-4a799fa07cce",
+      "pivot": {
+        "id_kelas_kuliah": 102925,
+        "id_dosen": 761
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1948,
+      "id_user": 19313,
+      "id_prodi": 51,
+      "nama": "Dr.  Muhammad Ihsan Andi Dagong, S.Pt., M.Si",
+      "nidn": "0026057708",
+      "nip": "197705262002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ced07ead-9593-49dd-a349-93bbdb8666df",
+      "pivot": {
+        "id_kelas_kuliah": 102925,
+        "id_dosen": 1948
+      }
+    }
+  ]
+}

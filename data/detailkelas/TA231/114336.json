@@ -1,0 +1,85 @@
+{
+  "id_prodi": 18,
+  "nama_prodi": "TEKNIK INFORMATIKA - S1",
+  "id_prodi_semester": 2383,
+  "idnumber_sikola": "48301.114336.18",
+  "shortname_sikola": "TA231-114336",
+  "kode_matkul": "23D12133302",
+  "nama_matkul": "Topik Khusus Jaringan Komputer",
+  "nama_kelas": "Topik Khusus Jaringan Komputer Kls. MB",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142208,
+      "id_user": 38178,
+      "id_prodi": 18,
+      "angkatan": 2020,
+      "nama_mahasiswa": "HUSNUL KHATIMAH SYAHRUDDIN",
+      "nim": "D121201026",
+      "jalan": "BTN Graha Kalegowa Blok C10 No. 6",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "92161",
+      "nisn": "0022795942",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2002-07-29",
+      "telepon": "0",
+      "handphone": "081953116851",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Mangalli",
+      "id_wilayah": "190303",
+      "nik": "7306076907020003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "husnulkhatimahsy@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d8cc8419-f191-4a7e-97f6-9514a299f62d",
+      "id_registrasi_mahasiswa_pddikti": "84e7119d-5adf-4073-b474-7882a806b794",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114336,
+        "id_mahasiswa": 142208,
+        "created_at": "2023-07-30 20:52:08"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1715,
+      "id_user": 9967,
+      "id_prodi": 17,
+      "nama": "Ir.  Christoforus Yohannes, MT.",
+      "nidn": "0016076003",
+      "nip": "196007161987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78f0dfde-f100-4c1c-a330-def19c577883",
+      "pivot": {
+        "id_kelas_kuliah": 114336,
+        "id_dosen": 1715
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1929,
+      "id_user": 8613,
+      "id_prodi": 18,
+      "nama": "Dr. Eng. Ir. Zulkifli Tahir, ST., M.Sc.",
+      "nidn": "0003048403",
+      "nip": "198404032010121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a684379e-041d-45de-bf65-4462103b4107",
+      "pivot": {
+        "id_kelas_kuliah": 114336,
+        "id_dosen": 1929
+      }
+    }
+  ]
+}

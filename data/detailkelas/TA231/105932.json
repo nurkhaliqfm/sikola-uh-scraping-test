@@ -1,0 +1,61 @@
+{
+  "id_prodi": 95,
+  "nama_prodi": "ILMU HUKUM - S2",
+  "id_prodi_semester": 2440,
+  "idnumber_sikola": "27579.105932.95",
+  "shortname_sikola": "TA231-105932",
+  "kode_matkul": "18B01213302",
+  "nama_matkul": "Hukum Udara dan Ruang Angkasa  \r\n",
+  "nama_kelas": "Hukum Udara dan Angkasa (MK.Pilihan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 981,
+      "id_user": 34061,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Juajir Sumardi, SH., MH.",
+      "nidn": "0028106302",
+      "nip": "196310281990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "96d4d90a-204d-4260-841c-c651ff3344aa",
+      "pivot": {
+        "id_kelas_kuliah": 105932,
+        "id_dosen": 981
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 925,
+      "id_user": 34169,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Marthen Napang, SH., MH., M.Si.",
+      "nidn": "0012035702",
+      "nip": "195703121986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5012deb7-a901-4068-a970-63ed1b45868e",
+      "pivot": {
+        "id_kelas_kuliah": 105932,
+        "id_dosen": 925
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1272,
+      "id_user": 31362,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Maskun, SH., LLM.",
+      "nidn": "0028117601",
+      "nip": "197611291999031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "702634be-fd1a-4e82-a8cf-215e16b7cd77",
+      "pivot": {
+        "id_kelas_kuliah": 105932,
+        "id_dosen": 1272
+      }
+    }
+  ]
+}

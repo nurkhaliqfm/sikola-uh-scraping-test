@@ -1,0 +1,101 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "46541.115601.19",
+  "shortname_sikola": "TA231-115601",
+  "kode_matkul": "23U02132602",
+  "nama_matkul": "Studi/Proyek Independen",
+  "nama_kelas": "Studi/Proyek Independen",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 36879,
+      "id_user": 6086,
+      "id_prodi": 19,
+      "angkatan": 2017,
+      "nama_mahasiswa": "ARIEL YOHANES KARIWANGAN",
+      "nim": "D051171305",
+      "jalan": "Gowa",
+      "rt": 2,
+      "rw": 2,
+      "dusun": "Bonto marannu",
+      "kode_pos": "91362",
+      "nisn": "9994377201",
+      "tempat_lahir": "Polewali",
+      "tanggal_lahir": "1999-05-05",
+      "telepon": "082195326241",
+      "handphone": "082195326241",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Bonto marannu",
+      "id_wilayah": "330403",
+      "nik": "848446181864",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "arielyohanes22@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "447ab290-10ea-44b1-a561-08f0acbb2c10",
+      "id_registrasi_mahasiswa_pddikti": "4a1095bd-433f-4066-9862-859de472ad98",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115601,
+        "id_mahasiswa": 36879,
+        "created_at": "2023-08-16 15:07:11"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2004,
+      "id_user": 19488,
+      "id_prodi": 19,
+      "nama": "Pratiwi Mushar, S.T., M.T.",
+      "nidn": "0019018601",
+      "nip": "198601192014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c9ebe46c-8b94-4b09-8357-b5bd04cf4e85",
+      "pivot": {
+        "id_kelas_kuliah": 115601,
+        "id_dosen": 2004
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1633,
+      "id_user": 15400,
+      "id_prodi": 19,
+      "nama": "Dr. Rahmi Amin Ishak, ST., MT.",
+      "nidn": "0014037605",
+      "nip": "197603142002122005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "92c5305f-d658-424e-8cc2-6aa718f7b3ac",
+      "pivot": {
+        "id_kelas_kuliah": 115601,
+        "id_dosen": 1633
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 115601,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

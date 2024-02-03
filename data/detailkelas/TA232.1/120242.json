@@ -1,0 +1,29 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2719,
+  "idnumber_sikola": "45722.120242.148",
+  "shortname_sikola": "TA232-120242",
+  "kode_matkul": "23R01410902",
+  "nama_matkul": "Praktik Profesi Keperawatan Keluarga",
+  "nama_kelas": "Kep. Keluarga Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 4148,
+      "id_user": 82342,
+      "id_prodi": 8,
+      "nama": "Dr. Karmila Sarih, S.Kep.Ns., M.Kes",
+      "nidn": "3427077201",
+      "nip": "197207271996032006",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "a2c8e66c-afc2-45e8-8229-fc59f9ed3f35",
+      "pivot": {
+        "id_kelas_kuliah": 120242,
+        "id_dosen": 4148
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2415,
+  "idnumber_sikola": "45481.112341.67",
+  "shortname_sikola": "TA231-112341",
+  "kode_matkul": "23L02131003",
+  "nama_matkul": "Perubahan Iklim Global",
+  "nama_kelas": "Perubahan Iklim Global (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1487,
+      "id_user": 18572,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Nita Rukminasari, S.Pi., MP.",
+      "nidn": "0029126901",
+      "nip": "196912291998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc475580-d411-44b1-a260-e0a9fa1dc8bb",
+      "pivot": {
+        "id_kelas_kuliah": 112341,
+        "id_dosen": 1487
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1371,
+      "id_user": 27421,
+      "id_prodi": 67,
+      "nama": "Dr. Ir.  Nadiarti, M.Sc.",
+      "nidn": "0006016801",
+      "nip": "196801061991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "367e51ef-39d7-494a-b1a6-095375dcaba4",
+      "pivot": {
+        "id_kelas_kuliah": 112341,
+        "id_dosen": 1371
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1745,
+      "id_user": 12683,
+      "id_prodi": 66,
+      "nama": "Dr. Ir. M. Rijal Idrus, M.Sc.",
+      "nidn": "0019126504",
+      "nip": "196512191990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1124dd3-6d4c-40ba-8a6e-db59abf3d64c",
+      "pivot": {
+        "id_kelas_kuliah": 112341,
+        "id_dosen": 1745
+      }
+    }
+  ]
+}

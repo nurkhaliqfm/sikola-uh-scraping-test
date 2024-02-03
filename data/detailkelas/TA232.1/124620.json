@@ -1,0 +1,61 @@
+{
+  "id_prodi": 136,
+  "nama_prodi": "TEKNIK PERKAPALAN - S2",
+  "id_prodi_semester": 2709,
+  "idnumber_sikola": "31721.124620.136",
+  "shortname_sikola": "TA232-124620",
+  "kode_matkul": "18D05211102",
+  "nama_matkul": "Perancangan Struktur Kapal",
+  "nama_kelas": "Perancangan Struktur Kapal A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 953,
+      "id_user": 30813,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. Ganding Sitepu, Dipl.Ing.",
+      "nidn": "0025046001",
+      "nip": "196004251988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c03a196-67da-45f0-bff6-f092c091b210",
+      "pivot": {
+        "id_kelas_kuliah": 124620,
+        "id_dosen": 953
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1665,
+      "id_user": 18657,
+      "id_prodi": 15,
+      "nama": "Prof. Muhammad Zubair Muis Alie, ST., MT., Ph.D.",
+      "nidn": "0008067609",
+      "nip": "197506082005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b91a194-1d0c-4d80-916f-c3b967292204",
+      "pivot": {
+        "id_kelas_kuliah": 124620,
+        "id_dosen": 1665
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1971,
+      "id_user": 19962,
+      "id_prodi": 14,
+      "nama": "Dr. Eng. A. Ardianti, ST., MT",
+      "nidn": "0026058502",
+      "nip": "198505262012122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6d5e9338-c58d-41aa-82bf-689c018a47de",
+      "pivot": {
+        "id_kelas_kuliah": 124620,
+        "id_dosen": 1971
+      }
+    }
+  ]
+}

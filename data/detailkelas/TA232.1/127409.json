@@ -1,0 +1,61 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26125.127409.79",
+  "shortname_sikola": "TA232-127409",
+  "kode_matkul": "19L08312603",
+  "nama_matkul": "Manajemen Usaha Perikanan Berkelanjutan",
+  "nama_kelas": "Manajemen Usaha Perikanan Berkelanjutan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 856,
+      "id_user": 17543,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Sutinah, M.Si.",
+      "nidn": "0023036102",
+      "nip": "196103231986012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09c3b677-5f5e-4d37-8ded-056961e05d1f",
+      "pivot": {
+        "id_kelas_kuliah": 127409,
+        "id_dosen": 856
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1068,
+      "id_user": 24136,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Mardiana E. Fachri, MS.",
+      "nidn": "0031126015",
+      "nip": "195907071985032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f719683b-a9ce-41ab-a7be-de268dba7ff1",
+      "pivot": {
+        "id_kelas_kuliah": 127409,
+        "id_dosen": 1068
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1142,
+      "id_user": 23910,
+      "id_prodi": 70,
+      "nama": "Dr. Sri Suro Adhawati, SE., M.Si.",
+      "nidn": "0017046413",
+      "nip": "196404171991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb85900e-3317-4fe4-8bc3-659e0a1e6aa6",
+      "pivot": {
+        "id_kelas_kuliah": 127409,
+        "id_dosen": 1142
+      }
+    }
+  ]
+}

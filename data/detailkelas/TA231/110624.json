@@ -1,0 +1,45 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36845.110624.176",
+  "shortname_sikola": "TA231-110624",
+  "kode_matkul": "19G05211303",
+  "nama_matkul": "Teknologi Proses Produk Minyak dan Lemak",
+  "nama_kelas": "Tek.Proses Produk Minyak & Lemak (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1657,
+      "id_user": 75,
+      "id_prodi": 154,
+      "nama": "Dr. rer.nat. Ir. Zainal, STP., M.Food.Tech.",
+      "nidn": "0009047202",
+      "nip": "197204091999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c2de969-7c5d-4f6a-9461-b9d4518d2cac",
+      "pivot": {
+        "id_kelas_kuliah": 110624,
+        "id_dosen": 1657
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2087,
+      "id_user": 15142,
+      "id_prodi": 154,
+      "nama": "Dr. Muhammad Asfar, STP., MSi",
+      "nidn": "0027048501",
+      "nip": "198504272015041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "287226ef-5acc-4fba-ba1b-d527ee896d22",
+      "pivot": {
+        "id_kelas_kuliah": 110624,
+        "id_dosen": 2087
+      }
+    }
+  ]
+}

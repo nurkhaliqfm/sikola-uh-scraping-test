@@ -1,0 +1,61 @@
+{
+  "id_prodi": 228,
+  "nama_prodi": "PPDS ILMU BEDAH (Sp2)",
+  "id_prodi_semester": 2561,
+  "idnumber_sikola": "42760.105090.228",
+  "shortname_sikola": "TA231-105090",
+  "kode_matkul": "21C02821404",
+  "nama_matkul": "Bedah Digestif 2 : Bedah Kolon, Rektum dan Anus",
+  "nama_kelas": "Bedah Digestif 2 : Bedah Kolon,Rektum dan anus 2023/2024",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3065,
+      "id_user": 74267,
+      "id_prodi": 115,
+      "nama": "dr. Mappincara, SpB-KBD",
+      "nidn": "8867630017",
+      "nip": "196203232018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3df18249-1b09-4645-8c20-898c789ec0e4",
+      "pivot": {
+        "id_kelas_kuliah": 105090,
+        "id_dosen": 3065
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3100,
+      "id_user": 61886,
+      "id_prodi": 115,
+      "nama": "dr. Samuel Sampetoding, SpB-KBD",
+      "nidn": "8888230017",
+      "nip": "196601082018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d2abcf26-461c-425c-9d42-db73047798f6",
+      "pivot": {
+        "id_kelas_kuliah": 105090,
+        "id_dosen": 3100
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3094,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. M. Ihwan Kusuma, SpB-KBD",
+      "nidn": "8833333420",
+      "nip": "197510172005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76233f76-3055-4d98-821d-2897142eabd7",
+      "pivot": {
+        "id_kelas_kuliah": 105090,
+        "id_dosen": 3094
+      }
+    }
+  ]
+}

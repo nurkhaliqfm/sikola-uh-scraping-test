@@ -1,0 +1,140 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2646,
+  "idnumber_sikola": "45453.128366.67",
+  "shortname_sikola": "TA232-128366",
+  "kode_matkul": "23L02121602",
+  "nama_matkul": "Hukum dan Perundangan-undangan",
+  "nama_kelas": "Hukum dan Perundangan-undangan (Kelas A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142098,
+      "id_user": 39735,
+      "id_prodi": 67,
+      "angkatan": 2020,
+      "nama_mahasiswa": "WILCE SULLE",
+      "nim": "L021201056",
+      "jalan": "JL.MONGINSIDI",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Marannue",
+      "kode_pos": "91213",
+      "nisn": "0026782007",
+      "tempat_lahir": "TATOR",
+      "tanggal_lahir": "2002-02-25",
+      "telepon": "0",
+      "handphone": "6281241378626",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Pacongang",
+      "id_wilayah": "191411",
+      "nik": "7315115402000002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Wilcesulle25@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "eb24b0b1-5161-4d65-adf7-77c1c49d6375",
+      "id_registrasi_mahasiswa_pddikti": "d776d0af-3bcd-452f-ab96-c2bedeaf443b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128366,
+        "id_mahasiswa": 142098,
+        "created_at": "2024-01-19 21:55:39"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 353866,
+      "id_user": 68375,
+      "id_prodi": 67,
+      "angkatan": 2022,
+      "nama_mahasiswa": "ACHMAD FIRMANSYAH",
+      "nim": "L021221044",
+      "jalan": "JL. TAMALANREA SELATAN BTP BLOK M, 139",
+      "rt": 5,
+      "rw": 8,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": "0044191904",
+      "tempat_lahir": "SORONG",
+      "tanggal_lahir": "2004-06-24",
+      "telepon": "0",
+      "handphone": "082191010829",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TAMALANREA",
+      "id_wilayah": "196012",
+      "nik": "7371142606040007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "firmanjoki45@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7b192d40-665f-44dd-bfda-1aba2f1217d3",
+      "id_registrasi_mahasiswa_pddikti": "b2764bcd-9c77-4ac0-ba51-577538c4ef70",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128366,
+        "id_mahasiswa": 353866,
+        "created_at": "2024-02-01 11:31:05"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1145,
+      "id_user": 18939,
+      "id_prodi": 68,
+      "nama": "Ir. Muhammad Iqbal Djawad, M.Sc., Ph.D",
+      "nidn": "0018036701",
+      "nip": "196703181989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9b18a37-bb8f-42a9-9e67-3d969a094357",
+      "pivot": {
+        "id_kelas_kuliah": 128366,
+        "id_dosen": 1145
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1939,
+      "id_user": 12878,
+      "id_prodi": 67,
+      "nama": "Dr. Sri Wahyuni Rahim, ST., M.Si",
+      "nidn": "0017097503",
+      "nip": "197509152003122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5977b818-a0da-49df-afc0-b0c4a7c3a36a",
+      "pivot": {
+        "id_kelas_kuliah": 128366,
+        "id_dosen": 1939
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 883,
+      "id_user": 10013,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  A m r a n, ST., M.Si.",
+      "nidn": "0024096707",
+      "nip": "196709241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9cf80578-a4aa-4435-8c26-aefe6dd6378b",
+      "pivot": {
+        "id_kelas_kuliah": 128366,
+        "id_dosen": 883
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2380,
+  "idnumber_sikola": "47380.114237.15",
+  "shortname_sikola": "TA231-114237",
+  "kode_matkul": "23D08132602",
+  "nama_matkul": "Energi Non Konvensional",
+  "nama_kelas": "Energi Non Konvensional A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1587,
+      "id_user": 6458,
+      "id_prodi": 15,
+      "nama": "Dr.Eng. Firman Husain, ST.,MT.",
+      "nidn": "0023047307",
+      "nip": "197304232008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a1e23264-1254-486f-ab30-60a8f505f5d7",
+      "pivot": {
+        "id_kelas_kuliah": 114237,
+        "id_dosen": 1587
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1677,
+      "id_user": 26035,
+      "id_prodi": 15,
+      "nama": "Sabaruddin Rahman, ST., MT., Ph.D.",
+      "nidn": "0019077605",
+      "nip": "197607192001121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b6649ae6-1bee-422c-895c-4c9f84e1f73a",
+      "pivot": {
+        "id_kelas_kuliah": 114237,
+        "id_dosen": 1677
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3599,
+      "id_user": 58682,
+      "id_prodi": 15,
+      "nama": "Fuad Mahfud Assidiq, S.T., M.T",
+      "nidn": "8991720021",
+      "nip": "199509292021015001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "8b558e62-9be1-4349-9376-da2608d52522",
+      "pivot": {
+        "id_kelas_kuliah": 114237,
+        "id_dosen": 3599
+      }
+    }
+  ]
+}

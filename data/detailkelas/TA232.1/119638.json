@@ -1,0 +1,69 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48153.119638.12",
+  "shortname_sikola": "TA232-119638",
+  "kode_matkul": "23D02140104",
+  "nama_matkul": "Skripsi",
+  "nama_kelas": "SKRIPSI B",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 27770,
+      "id_user": 2499,
+      "id_prodi": 12,
+      "angkatan": 2018,
+      "nama_mahasiswa": "RHEZA FAJAR ADIPUTRA MADINA",
+      "nim": "D021181024",
+      "jalan": "Jalan kerung-kerung Lr. 47 C No.14",
+      "rt": 7,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90145",
+      "nisn": "0008895167",
+      "tempat_lahir": "Ujung Pandang",
+      "tanggal_lahir": "2000-07-23",
+      "telepon": "0",
+      "handphone": "082196991667",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Barana",
+      "id_wilayah": "016404",
+      "nik": "7371032307000003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rhezafajaradi16@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a8a60480-5653-4a3d-bddd-1456d01bfb84",
+      "id_registrasi_mahasiswa_pddikti": "00ac2e09-5421-4214-8019-61c36a3407b9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119638,
+        "id_mahasiswa": 27770,
+        "created_at": "2024-02-01 23:39:39"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1052,
+      "id_user": 31904,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Ilyas Renreng, MT.",
+      "nidn": "0014095703",
+      "nip": "195709141987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "13e3ec92-3db0-46f0-836a-0fd100729d52",
+      "pivot": {
+        "id_kelas_kuliah": 119638,
+        "id_dosen": 1052
+      }
+    }
+  ]
+}

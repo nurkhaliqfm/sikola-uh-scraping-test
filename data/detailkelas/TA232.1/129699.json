@@ -1,0 +1,117 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "48841.129699.17",
+  "shortname_sikola": "TA232-129699",
+  "kode_matkul": "23D04136302",
+  "nama_matkul": "Perancangan Elektroteknik 1",
+  "nama_kelas": "Perancangan   Elektroteknik /  Kelas  P-  Di lab  Jaringan Telekomunikasi dan Transmisi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 33599,
+      "id_user": 1700,
+      "id_prodi": 17,
+      "angkatan": 2019,
+      "nama_mahasiswa": "MUH. REZA SAPUTRA",
+      "nim": "D041191053",
+      "jalan": "Tamalatea, Jeneponto, Sulawesi Selatan",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "92351",
+      "nisn": "0008714546",
+      "tempat_lahir": "Jeneponto",
+      "tanggal_lahir": "2000-05-05",
+      "telepon": "0",
+      "handphone": "082396150821",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Bontotangnga",
+      "id_wilayah": "190502",
+      "nik": "7304020505000003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muhammadrezasaputra16@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5f9129a9-300b-4e1e-a0c0-66f285317954",
+      "id_registrasi_mahasiswa_pddikti": "fe18045c-0a0e-4a0b-8519-28c60d6a875f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129699,
+        "id_mahasiswa": 33599,
+        "created_at": "2024-02-02 13:24:16"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 827,
+      "id_user": 17599,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Andani, MT.",
+      "nidn": "0531126002",
+      "nip": "196012311987031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41633592-f13b-4062-99dc-2c91d5a10984",
+      "pivot": {
+        "id_kelas_kuliah": 129699,
+        "id_dosen": 827
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1279,
+      "id_user": 18389,
+      "id_prodi": 17,
+      "nama": "Ir.  Samuel Panggalo, MT.",
+      "nidn": "0004036210",
+      "nip": "196203041988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "97a82308-c9cb-40a4-b57f-afd0906f5ab7",
+      "pivot": {
+        "id_kelas_kuliah": 129699,
+        "id_dosen": 1279
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1484,
+      "id_user": 9435,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Intan Sari Areni, S.T., MT.",
+      "nidn": "0003027508",
+      "nip": "197502032000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d2d64e8-56cf-40a6-ab07-bc218bdbaf65",
+      "pivot": {
+        "id_kelas_kuliah": 129699,
+        "id_dosen": 1484
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1575,
+      "id_user": 19608,
+      "id_prodi": 17,
+      "nama": "Dr. Eng. Ir Wardi, ST., M.Eng.",
+      "nidn": "0028087203",
+      "nip": "197208281999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b2d9603e-82a4-439e-98ee-32d4ea1b58cc",
+      "pivot": {
+        "id_kelas_kuliah": 129699,
+        "id_dosen": 1575
+      }
+    }
+  ]
+}

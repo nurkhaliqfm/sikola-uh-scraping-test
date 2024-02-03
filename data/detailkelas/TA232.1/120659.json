@@ -1,0 +1,172 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2643,
+  "idnumber_sikola": "21384.120659.57",
+  "shortname_sikola": "TA232-120659",
+  "kode_matkul": "144K1722",
+  "nama_matkul": "Komunikasi Kesehatan",
+  "nama_kelas": "Komunikasi Kesehatan Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 351096,
+      "id_user": 65564,
+      "id_prodi": 57,
+      "angkatan": 2022,
+      "nama_mahasiswa": "ANA WILDANY",
+      "nim": "K011221017",
+      "jalan": "JL. ABD. DG. SIRUA NO. 5",
+      "rt": 2,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": "0044277401",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-07-05",
+      "telepon": "0",
+      "handphone": "0895364491884",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BATUA",
+      "id_wilayah": "120505",
+      "nik": "7371124507040003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anawildany0507@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "6e5d1d74-1226-4064-bc71-0e35749ec41f",
+      "id_registrasi_mahasiswa_pddikti": "1c813ec1-34e5-4b2f-b944-bf51d3f8ed24",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120659,
+        "id_mahasiswa": 351096,
+        "created_at": "2024-01-12 17:28:42"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 73227,
+      "id_user": 9804,
+      "id_prodi": 57,
+      "angkatan": 2019,
+      "nama_mahasiswa": "CHRISTOPHER TOMA",
+      "nim": "K011191245",
+      "jalan": "Jln. Politeknik Lorong Ali Hizaam No. 26,\nPondok Al Barokah",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Tamalanrea Indah",
+      "kode_pos": "90245",
+      "nisn": "9967467266",
+      "tempat_lahir": "Iowara",
+      "tanggal_lahir": "1996-09-19",
+      "telepon": "0",
+      "handphone": "6282397766263",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196012",
+      "nik": "9116021909760001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "christotoma33@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9bf0f337-f5e0-48c7-ad14-555d92a7785b",
+      "id_registrasi_mahasiswa_pddikti": "52c654ed-fbb2-4f9a-8424-1a3dfe7e7845",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120659,
+        "id_mahasiswa": 73227,
+        "created_at": "2024-01-22 23:37:04"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2296,
+      "id_user": 29377,
+      "id_prodi": 57,
+      "nama": "Dr. Muhammad Arsyad, SKM., M.Kes.",
+      "nidn": "0018047001",
+      "nip": "197004181994121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "964d1ebb-6b71-4ea6-884f-c0d7f8595419",
+      "pivot": {
+        "id_kelas_kuliah": 120659,
+        "id_dosen": 2296
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1450,
+      "id_user": 30037,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Suriah, SKM., M.Kes.",
+      "nidn": "0020057406",
+      "nip": "197405202002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f2e19f79-a3cf-4b78-97b4-f2a2899947f9",
+      "pivot": {
+        "id_kelas_kuliah": 120659,
+        "id_dosen": 1450
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2008,
+      "id_user": 11113,
+      "id_prodi": 57,
+      "nama": "Muhammad Rachmat, SKM.,M.Kes",
+      "nidn": "0001018307",
+      "nip": "198301012014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b7db0f7a-7497-4217-8c6d-8c694333c80e",
+      "pivot": {
+        "id_kelas_kuliah": 120659,
+        "id_dosen": 2008
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2488,
+      "id_user": 29432,
+      "id_prodi": 57,
+      "nama": "Nasrah, S.KM., M.Kes",
+      "nidn": "0021078905",
+      "nip": "198907212018074001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b3b227f-aca8-4835-a151-2a01d969fad8",
+      "pivot": {
+        "id_kelas_kuliah": 120659,
+        "id_dosen": 2488
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3403,
+      "id_user": 48390,
+      "id_prodi": 57,
+      "nama": "Rizky Chaeraty Syam, SKM., M.Kes",
+      "nidn": "8980910021",
+      "nip": "199310282021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "5ec682f9-365b-4ccc-a0ac-46d0d2bbf7f9",
+      "pivot": {
+        "id_kelas_kuliah": 120659,
+        "id_dosen": 3403
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2692,
+  "idnumber_sikola": "39118.125488.119",
+  "shortname_sikola": "TA232-125488",
+  "kode_matkul": "20C10521901",
+  "nama_matkul": "Alergi - Imunologi",
+  "nama_kelas": "Alergi - Imunologi - 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2251,
+      "id_user": 48326,
+      "id_prodi": 6,
+      "nama": "dr.  Bahrul Fikri, M.Kes, Sp.A",
+      "nidn": "0031127416",
+      "nip": "197412312001121013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "415d104c-94fd-4003-8719-2dc4cd9617bd",
+      "pivot": {
+        "id_kelas_kuliah": 125488,
+        "id_dosen": 2251
+      }
+    }
+  ]
+}

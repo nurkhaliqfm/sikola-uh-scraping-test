@@ -1,0 +1,101 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2504,
+  "idnumber_sikola": "34856.116060.167",
+  "shortname_sikola": "TA231-116060",
+  "kode_matkul": "18D05330601",
+  "nama_matkul": "SEMINAR KEMAJUAN 6",
+  "nama_kelas": "KLS WAJIB BY RISET",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117059,
+      "id_user": 33287,
+      "id_prodi": 167,
+      "angkatan": 2019,
+      "nama_mahasiswa": "A. Najiah Nurul Afifah Ibrahim",
+      "nim": "D053191007",
+      "jalan": "JL. LANDAK BARU METROPOLITAN RESIDENCE F9",
+      "rt": 6,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "Ujung Pandang",
+      "tanggal_lahir": "1994-12-10",
+      "telepon": "0",
+      "handphone": "081241668444",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "BANTA-BANTAENG",
+      "id_wilayah": "196013",
+      "nik": "7371025012940006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "najiahifa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b46f9180-dcee-4774-b907-64f9f8da4166",
+      "id_registrasi_mahasiswa_pddikti": "00d1daec-e4ae-430d-bbbe-8c734992b738",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 116060,
+        "id_mahasiswa": 117059,
+        "created_at": "2023-08-17 20:44:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1498,
+      "id_user": 28622,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Ir. Syafaruddin, S.T., M.Eng, IPU",
+      "nidn": "0030057407",
+      "nip": "197405301999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f345ff78-0ab1-46c1-a9fe-d193481a6a70",
+      "pivot": {
+        "id_kelas_kuliah": 116060,
+        "id_dosen": 1498
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1461,
+      "id_user": 9936,
+      "id_prodi": 18,
+      "nama": "Prof. Dr. Ir. Indrabayu, S.T., M.T., M.Bus.Sys., IPM., ASEAN.Eng.",
+      "nidn": "0016067507",
+      "nip": "197507162002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "63a1c425-af3a-4a1e-a31e-b2637e41c2f2",
+      "pivot": {
+        "id_kelas_kuliah": 116060,
+        "id_dosen": 1461
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 800,
+      "id_user": 31600,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir. H  Ansar Suyuti, MT.,IPU",
+      "nidn": "0031126723",
+      "nip": "196712311992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fef6a3dd-3ab8-4a7d-9532-f00f5471056a",
+      "pivot": {
+        "id_kelas_kuliah": 116060,
+        "id_dosen": 800
+      }
+    }
+  ]
+}

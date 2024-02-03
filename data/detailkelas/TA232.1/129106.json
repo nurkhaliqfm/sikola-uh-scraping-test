@@ -1,0 +1,93 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28191.129106.102",
+  "shortname_sikola": "TA232-129106",
+  "kode_matkul": "18P06214202",
+  "nama_matkul": "Telaah Kritis dan Seminar Ilmiah I",
+  "nama_kelas": "Telaah Kritis dan Seminar Ilmiah I (W) (BBM-Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2273,
+      "id_user": 18986,
+      "id_prodi": 6,
+      "nama": "dr. Syahrijuita, S.Ked., M.Kes.",
+      "nidn": "0030126801",
+      "nip": "196812301998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf161240-054f-451c-948c-e8ca85a32893",
+      "pivot": {
+        "id_kelas_kuliah": 129106,
+        "id_dosen": 2273
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 776,
+      "id_user": 34358,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Rosdiana Natsir, Ph.D., Sp.Biok.",
+      "nidn": "0026035702",
+      "nip": "195703261988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6a320981-0647-4823-b655-f59c6064e081",
+      "pivot": {
+        "id_kelas_kuliah": 129106,
+        "id_dosen": 776
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1629,
+      "id_user": 34353,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Marhaen Hardjo, M.Biomed.",
+      "nidn": "0018126703",
+      "nip": "196712121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b51e505e-e114-4f69-ac4c-dce854dbb848",
+      "pivot": {
+        "id_kelas_kuliah": 129106,
+        "id_dosen": 1629
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1475,
+      "id_user": 34089,
+      "id_prodi": 6,
+      "nama": "Dr.dr.  Ika Yustisia, S.Ked.,M.Sc.",
+      "nidn": "0021017705",
+      "nip": "197701212003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a7d178bb-2b7d-4d80-830a-ea037d32e2f4",
+      "pivot": {
+        "id_kelas_kuliah": 129106,
+        "id_dosen": 1475
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2332,
+      "id_user": 60493,
+      "id_prodi": 6,
+      "nama": "dr.  Ilhamuddin, M.Si",
+      "nidn": "0020097901",
+      "nip": "197909202006041013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8f2578a7-3798-416e-8bba-8245e0d6697d",
+      "pivot": {
+        "id_kelas_kuliah": 129106,
+        "id_dosen": 2332
+      }
+    }
+  ]
+}

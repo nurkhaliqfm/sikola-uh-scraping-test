@@ -1,0 +1,45 @@
+{
+  "id_prodi": 38,
+  "nama_prodi": "SASTRA JEPANG - S1",
+  "id_prodi_semester": 2633,
+  "idnumber_sikola": "15021.119898.38",
+  "shortname_sikola": "TA232-119898",
+  "kode_matkul": "497F9132",
+  "nama_matkul": "Seminar  Praskripsi",
+  "nama_kelas": "Seminar Praskripsi (Sejarah Budaya)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1676,
+      "id_user": 13946,
+      "id_prodi": 38,
+      "nama": "Meta Sekar Pujı Astutı,S.S.,M.A, Ph.D",
+      "nidn": "0003097108",
+      "nip": "197109032005012006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9bd3c52c-e1dc-43cb-ade0-0df4d25c422e",
+      "pivot": {
+        "id_kelas_kuliah": 119898,
+        "id_dosen": 1676
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1621,
+      "id_user": 28247,
+      "id_prodi": 37,
+      "nama": "Drs. Dias Pradadmara, MA.",
+      "nidn": "0017126405",
+      "nip": "196412171998031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3e629b79-9ec8-4020-b0fd-76d043abbae2",
+      "pivot": {
+        "id_kelas_kuliah": 119898,
+        "id_dosen": 1621
+      }
+    }
+  ]
+}

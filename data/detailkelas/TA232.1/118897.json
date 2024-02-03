@@ -1,0 +1,45 @@
+{
+  "id_prodi": 221,
+  "nama_prodi": "FISIKA - S3",
+  "id_prodi_semester": 2786,
+  "idnumber_sikola": "39787.118897.221",
+  "shortname_sikola": "TA232-118897",
+  "kode_matkul": "19H033210303",
+  "nama_matkul": "Teori dan Komputasi",
+  "nama_kelas": "Teori dan Komputasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1221,
+      "id_user": 32602,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Tasrief Surungan, M.Sc.",
+      "nidn": "0022026702",
+      "nip": "196702221992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7372928c-3c3c-4936-b3e9-620071f131be",
+      "pivot": {
+        "id_kelas_kuliah": 118897,
+        "id_dosen": 1221
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1310,
+      "id_user": 31947,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Paulus Lobo Gareso, M.Sc.",
+      "nidn": "0005036503",
+      "nip": "196503051991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4f10bcf-e135-4a32-986d-ef2748f7a1a5",
+      "pivot": {
+        "id_kelas_kuliah": 118897,
+        "id_dosen": 1310
+      }
+    }
+  ]
+}

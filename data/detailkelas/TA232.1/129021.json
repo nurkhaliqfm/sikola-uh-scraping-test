@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "39784.129021.102",
+  "shortname_sikola": "TA232-129021",
+  "kode_matkul": "18P06217601",
+  "nama_matkul": "Pengantar Ilmu Herbal dan Bahan Alam Berkhasiat",
+  "nama_kelas": "Pengantar Ilmu Herbal dan Bahan Alam Berkhasiat (Biomedik/Farmako-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2011,
+      "id_user": 30843,
+      "id_prodi": 50,
+      "nama": "Dr. Sulfahri, S.Si.,M.Si.",
+      "nidn": "0026018901",
+      "nip": "198901262014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d69e251-2dd9-43ce-aade-7b35160e3625",
+      "pivot": {
+        "id_kelas_kuliah": 129021,
+        "id_dosen": 2011
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 700,
+      "id_user": 31933,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  M. Natsir Djide, M.Si, Apt.",
+      "nidn": "8987110021",
+      "nip": "195008171979031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b80d439-82c7-45ce-9607-be647e6e028b",
+      "pivot": {
+        "id_kelas_kuliah": 129021,
+        "id_dosen": 700
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3016,
+      "id_user": 71706,
+      "id_prodi": 65,
+      "nama": "Dr. dr. Anna Khuzaimah, M.Kes",
+      "nidn": "0006047107",
+      "nip": "197104062002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bc12e841-f442-4407-9f5c-efdbe4f3ca19",
+      "pivot": {
+        "id_kelas_kuliah": 129021,
+        "id_dosen": 3016
+      }
+    }
+  ]
+}

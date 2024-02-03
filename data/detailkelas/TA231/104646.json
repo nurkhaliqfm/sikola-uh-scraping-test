@@ -1,0 +1,77 @@
+{
+  "id_prodi": 29,
+  "nama_prodi": "SOSIOLOGI - S1",
+  "id_prodi_semester": 2393,
+  "idnumber_sikola": "11357.104646.29",
+  "shortname_sikola": "TA231-104646",
+  "kode_matkul": "444E4103",
+  "nama_matkul": "Praktikum Pekerja Sosial II",
+  "nama_kelas": "Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1154,
+      "id_user": 34099,
+      "id_prodi": 29,
+      "nama": "Dr. Muh. Iqbal Latief, M.Si",
+      "nidn": "0016106505",
+      "nip": "196510161990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7059a033-138f-4d05-8198-4f834adf3af7",
+      "pivot": {
+        "id_kelas_kuliah": 104646,
+        "id_dosen": 1154
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2471,
+      "id_user": 37729,
+      "id_prodi": 29,
+      "nama": "Andi Nurlela, S.Sos., M.Si",
+      "nidn": "8806170018",
+      "nip": "198409302018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "80a3e204-9d02-43f0-aa0d-736ddc295dea",
+      "pivot": {
+        "id_kelas_kuliah": 104646,
+        "id_dosen": 2471
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2475,
+      "id_user": 34130,
+      "id_prodi": 29,
+      "nama": "Andi Ahmad Hasan Tenriliweng, S.ST., M.Si",
+      "nidn": "8816170018",
+      "nip": "199109282018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e563741-c478-4026-83db-de5f41c9419b",
+      "pivot": {
+        "id_kelas_kuliah": 104646,
+        "id_dosen": 2475
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2918,
+      "id_user": 34101,
+      "id_prodi": 29,
+      "nama": "Andi Muhammad Arif Haris S.Tr.Sos., Sp.P.S.M",
+      "nidn": "8812823420",
+      "nip": "199302212020015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "23c85ee7-6491-4ab2-b841-c0f2788436b4",
+      "pivot": {
+        "id_kelas_kuliah": 104646,
+        "id_dosen": 2918
+      }
+    }
+  ]
+}

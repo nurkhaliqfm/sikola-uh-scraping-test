@@ -1,0 +1,61 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2464,
+  "idnumber_sikola": "38437.106345.122",
+  "shortname_sikola": "TA231-106345",
+  "kode_matkul": "20C08510606",
+  "nama_matkul": "Alergi & Imunologi",
+  "nama_kelas": "Alergi & Imunologi KPT 2020",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1502,
+      "id_user": 33834,
+      "id_prodi": 6,
+      "nama": "dr. Uleng, Sp.PK. (K)., Ph.D",
+      "nidn": "0018056803",
+      "nip": "196805181998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d649ec1-523c-4432-8d25-1f7e8fb7cd66",
+      "pivot": {
+        "id_kelas_kuliah": 106345,
+        "id_dosen": 1502
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2957,
+      "id_user": 37792,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Tenri Esa, M.Si, SpPK",
+      "nidn": "0025026904",
+      "nip": "196902251999032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3207ee14-6bab-4b06-aae9-0a8d9f157a11",
+      "pivot": {
+        "id_kelas_kuliah": 106345,
+        "id_dosen": 2957
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2970,
+      "id_user": 72094,
+      "id_prodi": 122,
+      "nama": "dr. Asvin Nurulita, M.Kes, SpPK(K)",
+      "nidn": null,
+      "nip": "197808222018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 106345,
+        "id_dosen": 2970
+      }
+    }
+  ]
+}

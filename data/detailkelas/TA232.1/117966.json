@@ -1,0 +1,69 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2617,
+  "idnumber_sikola": "44636.117966.21",
+  "shortname_sikola": "TA232-117966",
+  "kode_matkul": "23U01110402",
+  "nama_matkul": "Pendidikan Agama Hindu",
+  "nama_kelas": "Pend. Agama Hindu",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415790,
+      "id_user": 82478,
+      "id_prodi": 21,
+      "angkatan": 2023,
+      "nama_mahasiswa": "AGASTYA",
+      "nim": "D061231077",
+      "jalan": "JALAN CAMAR 3 B2 NO.5  KOTA PALOPO  PROV. SULAWESI SELATAN 91914",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "91914",
+      "nisn": "0056875059",
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "2005-04-15",
+      "telepon": "0",
+      "handphone": "081342977687",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Temmalebba",
+      "id_wilayah": "196209",
+      "nik": "7373091504050001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "agasfito@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "81b83fe2-eb4f-456c-8973-0fb451b48913",
+      "id_registrasi_mahasiswa_pddikti": "17300544-1342-4abd-9e5b-33d962ad1cdf",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 117966,
+        "id_mahasiswa": 415790,
+        "created_at": "2024-01-15 11:59:11"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2787,
+      "id_user": 34144,
+      "id_prodi": 142,
+      "nama": "I Ketut Mundra,S.Ag",
+      "nidn": null,
+      "nip": "150372256",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 117966,
+        "id_dosen": 2787
+      }
+    }
+  ]
+}

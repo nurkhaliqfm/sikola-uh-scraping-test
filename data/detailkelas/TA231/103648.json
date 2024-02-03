@@ -1,0 +1,77 @@
+{
+  "id_prodi": 81,
+  "nama_prodi": "ILMU KEDOKTERAN - S3",
+  "id_prodi_semester": 2428,
+  "idnumber_sikola": "38041.103648.81",
+  "shortname_sikola": "TA231-103648",
+  "kode_matkul": "20C01321203",
+  "nama_matkul": "Basic Mechanism Disease (BMD)",
+  "nama_kelas": "Basic Mechanism Disease (BMD)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1206,
+      "id_user": 32788,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Irfan Idris, M.Kes.",
+      "nidn": "0003116703",
+      "nip": "196711031998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aec58579-a6fc-49c0-934e-cc822cb02eb8",
+      "pivot": {
+        "id_kelas_kuliah": 103648,
+        "id_dosen": 1206
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 776,
+      "id_user": 34358,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Rosdiana Natsir, Ph.D., Sp.Biok.",
+      "nidn": "0026035702",
+      "nip": "195703261988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6a320981-0647-4823-b655-f59c6064e081",
+      "pivot": {
+        "id_kelas_kuliah": 103648,
+        "id_dosen": 776
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1470,
+      "id_user": 34331,
+      "id_prodi": 6,
+      "nama": "dr. Firdaus Hamid, S.Ked., Ph.D.",
+      "nidn": "0031127705",
+      "nip": "197712312002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e02f8344-eef9-4a50-abe3-b6fdebf088f9",
+      "pivot": {
+        "id_kelas_kuliah": 103648,
+        "id_dosen": 1470
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1185,
+      "id_user": 37385,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Rina Masadah, Sp.PA.,M.Phil.DFM.",
+      "nidn": "0027046604",
+      "nip": "196704291992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e78375e-a10f-4e11-854e-2f7001e6ba12",
+      "pivot": {
+        "id_kelas_kuliah": 103648,
+        "id_dosen": 1185
+      }
+    }
+  ]
+}

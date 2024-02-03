@@ -1,0 +1,77 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "35205.125861.173",
+  "shortname_sikola": "TA232-125861",
+  "kode_matkul": "18K01311402",
+  "nama_matkul": "Toksikologi Lingkungan dan Industri",
+  "nama_kelas": "Toksikologi Lingkungan dan Industri (Kelas Padang)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 934,
+      "id_user": 30673,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Anwar Daud, S.KM., M.Kes.",
+      "nidn": "0012106610",
+      "nip": "196610121993031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "017f0e4a-88d9-48b5-acff-2e0d80dc6a5a",
+      "pivot": {
+        "id_kelas_kuliah": 125861,
+        "id_dosen": 934
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1295,
+      "id_user": 28345,
+      "id_prodi": 57,
+      "nama": "Prof. dr. Hasanuddin Ishak, M.Sc., Ph.D.",
+      "nidn": "0004076502",
+      "nip": "196507041992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "482fafca-ffa5-4010-9688-948df7394001",
+      "pivot": {
+        "id_kelas_kuliah": 125861,
+        "id_dosen": 1295
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1101,
+      "id_user": 31808,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Syamsiar S. Russeng, MS.",
+      "nidn": "0021025904",
+      "nip": "195912211987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf6ff6e8-d59f-4ec5-a7a7-3a3bddd29b2f",
+      "pivot": {
+        "id_kelas_kuliah": 125861,
+        "id_dosen": 1101
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 996,
+      "id_user": 31814,
+      "id_prodi": 57,
+      "nama": "dr. M. Furqaan Naiem, M.Sc.,Ph.D.",
+      "nidn": "8903080023",
+      "nip": "195804041989031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ffb56e1-37ad-4c8e-bdf9-d2d08e82c9bc",
+      "pivot": {
+        "id_kelas_kuliah": 125861,
+        "id_dosen": 996
+      }
+    }
+  ]
+}

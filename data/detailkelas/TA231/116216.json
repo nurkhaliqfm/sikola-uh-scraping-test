@@ -1,0 +1,52 @@
+{
+  "id_prodi": 26,
+  "nama_prodi": "ILMU HUB. INTERNASIONAL - S1",
+  "id_prodi_semester": 2390,
+  "idnumber_sikola": "45632.116216.26",
+  "shortname_sikola": "TA231-116216",
+  "kode_matkul": "23E04110102",
+  "nama_matkul": "Pengantar Ilmu Politik",
+  "nama_kelas": "Pengantar Ilmu Politik - F",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 417052,
+      "id_user": 81486,
+      "id_prodi": 26,
+      "angkatan": 2023,
+      "nama_mahasiswa": "INDHIE RINA TAMANDALAN",
+      "nim": "E061231041",
+      "jalan": "JL. SERMANI IV NO. 9",
+      "rt": 5,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": "0042580857",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-04-20",
+      "telepon": "0",
+      "handphone": "081256447133",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tello Baru",
+      "id_wilayah": "196010",
+      "nik": "7602016004040002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "indhierinaaa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ac887a3e-a59f-4129-bcac-277270c0c3da",
+      "id_registrasi_mahasiswa_pddikti": "32b2a218-df55-4877-ba88-d4543b14feee",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 116216,
+        "id_mahasiswa": 417052,
+        "created_at": "2023-08-19 23:10:11"
+      }
+    }
+  ],
+  "dosens": []
+}

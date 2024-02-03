@@ -1,0 +1,45 @@
+{
+  "id_prodi": 35,
+  "nama_prodi": "SASTRA BUGIS-MAKASSAR - S1",
+  "id_prodi_semester": 2630,
+  "idnumber_sikola": "43792.128541.35",
+  "shortname_sikola": "TA232-128541",
+  "kode_matkul": "21F02148920",
+  "nama_matkul": "Kepemimpinan dan karakter bela negara",
+  "nama_kelas": "KEPEMIMPINAN DAN KARAKTER BELA NEGARA",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 976,
+      "id_user": 22628,
+      "id_prodi": 35,
+      "nama": "Prof. Dr. Gusnawaty, M.Hum.",
+      "nidn": "0031126533",
+      "nip": "196512311989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7196a5f-714d-499c-a9a2-e6ff87cb9983",
+      "pivot": {
+        "id_kelas_kuliah": 128541,
+        "id_dosen": 976
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1984,
+      "id_user": 18356,
+      "id_prodi": 35,
+      "nama": "Pammuda, S.S., M.Si.",
+      "nidn": "0017037604",
+      "nip": "197603172003121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff190140-dd85-4f03-98bb-48d0131076f4",
+      "pivot": {
+        "id_kelas_kuliah": 128541,
+        "id_dosen": 1984
+      }
+    }
+  ]
+}

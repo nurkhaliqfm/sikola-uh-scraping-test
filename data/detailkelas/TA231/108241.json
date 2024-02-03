@@ -1,0 +1,45 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2427,
+  "idnumber_sikola": "43328.108241.80",
+  "shortname_sikola": "TA231-108241",
+  "kode_matkul": "18P02216402",
+  "nama_matkul": "Studio PPW Pariwisata (W)",
+  "nama_kelas": "Studio PPW Pariwisata (PPW/Pariwisata-Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1165,
+      "id_user": 34004,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Hasbir, SH., MH.",
+      "nidn": "0008077002",
+      "nip": "197007081994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "72a20339-cd90-46fb-adb1-c6c7a5695daa",
+      "pivot": {
+        "id_kelas_kuliah": 108241,
+        "id_dosen": 1165
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1520,
+      "id_user": 28582,
+      "id_prodi": 155,
+      "nama": "Dr. Ir.  Daniel Useng, M.Eng.Sc.",
+      "nidn": "0001026209",
+      "nip": "196202011990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "743d73ae-1702-4298-9146-f23c7e97a224",
+      "pivot": {
+        "id_kelas_kuliah": 108241,
+        "id_dosen": 1520
+      }
+    }
+  ]
+}

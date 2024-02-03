@@ -1,0 +1,61 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2663,
+  "idnumber_sikola": "26803.119742.86",
+  "shortname_sikola": "TA232-119742",
+  "kode_matkul": "18B01310303",
+  "nama_matkul": "METODE PENELITIAN & PENULISAN HUKUM\r\n",
+  "nama_kelas": "KELAS C BADIKLAT  KEJAKSAAN RI",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 795,
+      "id_user": 34093,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Ahmadi Miru, SH., MH.",
+      "nidn": "0007066101",
+      "nip": "196106071986011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4301dc1a-6b81-4044-a701-dcce1e0a7aa2",
+      "pivot": {
+        "id_kelas_kuliah": 119742,
+        "id_dosen": 795
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 837,
+      "id_user": 34234,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Abdul Maasba Magassing, SH., MH.",
+      "nidn": "0003085503",
+      "nip": "195508031984031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d47965d4-ac8d-4826-a58f-2b9bb2e34503",
+      "pivot": {
+        "id_kelas_kuliah": 119742,
+        "id_dosen": 837
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 925,
+      "id_user": 34169,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Marthen Napang, SH., MH., M.Si.",
+      "nidn": "0012035702",
+      "nip": "195703121986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5012deb7-a901-4068-a970-63ed1b45868e",
+      "pivot": {
+        "id_kelas_kuliah": 119742,
+        "id_dosen": 925
+      }
+    }
+  ]
+}

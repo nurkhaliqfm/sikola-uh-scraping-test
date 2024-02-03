@@ -1,0 +1,101 @@
+{
+  "id_prodi": 124,
+  "nama_prodi": "PPDS ILMU RADIOLOGI",
+  "id_prodi_semester": 2466,
+  "idnumber_sikola": "30621.103028.124",
+  "shortname_sikola": "TA231-103028",
+  "kode_matkul": "19C12510602",
+  "nama_matkul": "Radiologi Sistem Muskuloskeletal (1) \r\n",
+  "nama_kelas": "Muskuloskeletal1_2019",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 102875,
+      "id_user": 8839,
+      "id_prodi": 124,
+      "angkatan": 2019,
+      "nama_mahasiswa": "dr. Muhammad Irfansyah Ramadhan",
+      "nim": "C125191010",
+      "jalan": "jl. A. P. Pettarani Blok E 23. No.17",
+      "rt": 4,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "C125191010",
+      "tempat_lahir": "makassar",
+      "tanggal_lahir": "1983-01-04",
+      "telepon": "082291967532",
+      "handphone": "082291967532",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "tidung",
+      "id_wilayah": "196013",
+      "nik": "7371130401830007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "irvan037@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c1836c3d-8106-4df3-ba18-84b8fb559ca7",
+      "id_registrasi_mahasiswa_pddikti": "b6b23b54-c939-41d2-b6b0-4b4b9cffe913",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103028,
+        "id_mahasiswa": 102875,
+        "created_at": "2023-08-03 13:14:30"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 780,
+      "id_user": 10748,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Muhammad Ilyas, Sp.Rad.(K)",
+      "nidn": "9990231951",
+      "nip": "195201121983121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b9f83e4d-53ad-46f8-bea8-9e0731f0d3c9",
+      "pivot": {
+        "id_kelas_kuliah": 103028,
+        "id_dosen": 780
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1813,
+      "id_user": 47177,
+      "id_prodi": 6,
+      "nama": "dr. Dario Agustino Nelwan, Sp.Rad (K)",
+      "nidn": "0015127208",
+      "nip": "197212152008121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4e7e1c2e-e89e-4d4e-9013-2d31d95e4071",
+      "pivot": {
+        "id_kelas_kuliah": 103028,
+        "id_dosen": 1813
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2580,
+      "id_user": 84247,
+      "id_prodi": 6,
+      "nama": "dr. Besse Arfiana Arif, M.Kes., Sp.Rad(K)",
+      "nidn": "8889890019",
+      "nip": "198203212019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0a58b31-4a93-4584-a23e-a38157e27859",
+      "pivot": {
+        "id_kelas_kuliah": 103028,
+        "id_dosen": 2580
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 125,
+  "nama_prodi": "PPDS ILMU KEDOKTERAN JIWA - PSIKIATRI",
+  "id_prodi_semester": 2698,
+  "idnumber_sikola": "30772.126214.125",
+  "shortname_sikola": "TA232-126214",
+  "kode_matkul": "0610C21102",
+  "nama_matkul": "USULAN PENELITIAN",
+  "nama_kelas": "KELAS I - USULAN PENELITIAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 102884,
+      "id_user": 30666,
+      "id_prodi": 125,
+      "angkatan": 2018,
+      "nama_mahasiswa": "Fritz Edward Gonzalves",
+      "nim": "C065181001",
+      "jalan": "Jl. Dr. Ratulangi no.200",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90133",
+      "nisn": null,
+      "tempat_lahir": "Ujung Pandang",
+      "tanggal_lahir": "1985-03-13",
+      "telepon": "085341087070",
+      "handphone": "085341087070",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Parang",
+      "id_wilayah": "196002",
+      "nik": "7371021303850001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fritzgonzalves@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "aff349d4-508d-41ab-8de1-74c8d9d73766",
+      "id_registrasi_mahasiswa_pddikti": "686ef652-1566-427a-b7e1-75c76d561dc5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126214,
+        "id_mahasiswa": 102884,
+        "created_at": "2024-02-01 22:08:27"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1433,
+      "id_user": 34512,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Saidah Syamsuddin,  Sp.Kj",
+      "nidn": "0014017005",
+      "nip": "197001142001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb261ce6-3307-44a0-88c9-eb19eededbb5",
+      "pivot": {
+        "id_kelas_kuliah": 126214,
+        "id_dosen": 1433
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1895,
+      "id_user": 34513,
+      "id_prodi": 6,
+      "nama": "dr.  Erlyn Limoa, S. Ked, SpKJ.,Ph.D",
+      "nidn": "0017117705",
+      "nip": "197711172009122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3227b945-629f-474b-992b-d1206c6ef56f",
+      "pivot": {
+        "id_kelas_kuliah": 126214,
+        "id_dosen": 1895
+      }
+    }
+  ]
+}

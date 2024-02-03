@@ -1,0 +1,29 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "28140.116707.102",
+  "shortname_sikola": "TA231-116707",
+  "kode_matkul": "18P06211402",
+  "nama_matkul": "Sistem Endokrin dan Reproduksi\r\n",
+  "nama_kelas": "Sistem Endokrin dan Reproduksi (Fisio-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1206,
+      "id_user": 32788,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Irfan Idris, M.Kes.",
+      "nidn": "0003116703",
+      "nip": "196711031998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aec58579-a6fc-49c0-934e-cc822cb02eb8",
+      "pivot": {
+        "id_kelas_kuliah": 116707,
+        "id_dosen": 1206
+      }
+    }
+  ]
+}

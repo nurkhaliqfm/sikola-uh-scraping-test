@@ -1,0 +1,29 @@
+{
+  "id_prodi": 38,
+  "nama_prodi": "SASTRA JEPANG - S1",
+  "id_prodi_semester": 2633,
+  "idnumber_sikola": "43850.128416.38",
+  "shortname_sikola": "TA232-128416",
+  "kode_matkul": "21F08149520",
+  "nama_matkul": "Pengembangan dan penguatan kewirausahaan",
+  "nama_kelas": "Pengembangan dan penguatan kewirausahaan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2384,
+      "id_user": 74069,
+      "id_prodi": 38,
+      "nama": "Fithyani Anwar, SS., MA., Ph.D",
+      "nidn": "0028108203",
+      "nip": "198210282008122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9ddd316b-7e26-4edd-be73-ccb9f2bb5aae",
+      "pivot": {
+        "id_kelas_kuliah": 128416,
+        "id_dosen": 2384
+      }
+    }
+  ]
+}

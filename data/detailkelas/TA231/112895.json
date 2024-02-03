@@ -1,0 +1,52 @@
+{
+  "id_prodi": 20,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH KOTA - S1",
+  "id_prodi_semester": 2385,
+  "idnumber_sikola": "46545.112895.20",
+  "shortname_sikola": "TA231-112895",
+  "kode_matkul": "23U02132509",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 38713,
+      "id_user": 7070,
+      "id_prodi": 20,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MOAMMAR GIBRAN",
+      "nim": "D101181319",
+      "jalan": "Jl. Kutacane Selatan No.3 Bukit Baruga Antang",
+      "rt": 9,
+      "rw": 9,
+      "dusun": null,
+      "kode_pos": "90234",
+      "nisn": "0008852069",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2000-09-12",
+      "telepon": "0",
+      "handphone": "6282189678020",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Antang",
+      "id_wilayah": "120505",
+      "nik": "7371121209000009",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "moammargiban@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "bff9feee-2bf4-4966-8e58-d0c4ebf7b0c4",
+      "id_registrasi_mahasiswa_pddikti": "45cd0553-40d9-4fd0-b12a-e4040fe3bf83",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112895,
+        "id_mahasiswa": 38713,
+        "created_at": "2023-08-08 19:54:58"
+      }
+    }
+  ],
+  "dosens": []
+}

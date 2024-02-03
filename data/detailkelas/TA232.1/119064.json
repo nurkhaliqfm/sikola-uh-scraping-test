@@ -1,0 +1,140 @@
+{
+  "id_prodi": 20,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH KOTA - S1",
+  "id_prodi_semester": 2616,
+  "idnumber_sikola": "47488.119064.20",
+  "shortname_sikola": "TA232-119064",
+  "kode_matkul": "23D10133103",
+  "nama_matkul": "Perencanaan Pembangunan Wilayah Kota",
+  "nama_kelas": "Perencanaan Pengembangan Wilayah Kota (KELAS. A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 156876,
+      "id_user": 53348,
+      "id_prodi": 20,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MEYSHILIONY CLARA LITHA DIZERLIUS",
+      "nim": "D101211051",
+      "jalan": "JALAN DR. SUTOMO NO.39",
+      "rt": 5,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "98817",
+      "nisn": "0038434896",
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "2003-05-17",
+      "telepon": "0",
+      "handphone": "081240298428",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "NABARUA",
+      "id_wilayah": "250908",
+      "nik": "9104015705030005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "meyyshilitha17@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2cfa984b-d08b-45c9-a68e-ec4f6e761cd8",
+      "id_registrasi_mahasiswa_pddikti": "e39a4ae5-50c2-4bba-8865-a0eefcac4cbc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119064,
+        "id_mahasiswa": 156876,
+        "created_at": "2024-01-29 13:11:44"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 156811,
+      "id_user": 53279,
+      "id_prodi": 20,
+      "angkatan": 2021,
+      "nama_mahasiswa": "TIMOTIUS MARISJOY PANDAPOTAN MARPAUNG",
+      "nim": "D101211063",
+      "jalan": "JL.PEPERA NO.16 KAB. NABIRE PROV. PAPUA 98815",
+      "rt": 10,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "98815",
+      "nisn": "0020079134",
+      "tempat_lahir": "NABIRE",
+      "tanggal_lahir": "2002-01-26",
+      "telepon": "0",
+      "handphone": "081298280126",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KARANG MULIA",
+      "id_wilayah": "250908",
+      "nik": "9104012601020004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "timotiusmarpaung01@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9007f1ed-f591-4b5d-a00c-6ece55338ad2",
+      "id_registrasi_mahasiswa_pddikti": "2c62de78-0b04-490f-bbca-cb49485e3922",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119064,
+        "id_mahasiswa": 156811,
+        "created_at": "2024-02-02 10:16:08"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1246,
+      "id_user": 34440,
+      "id_prodi": 20,
+      "nama": "Dr. Ir. Arifuddin, MT.",
+      "nidn": "0004056303",
+      "nip": "196305041995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "620376ed-1c10-4ebd-b2de-fcfb49cfd6cc",
+      "pivot": {
+        "id_kelas_kuliah": 119064,
+        "id_dosen": 1246
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2309,
+      "id_user": 46111,
+      "id_prodi": 20,
+      "nama": "Isfa Sastrawati, ST.,MT.",
+      "nidn": "0020127405",
+      "nip": "197412202005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f39b12c5-a8c3-4a37-91b6-5b59229cd41f",
+      "pivot": {
+        "id_kelas_kuliah": 119064,
+        "id_dosen": 2309
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2570,
+      "id_user": 31986,
+      "id_prodi": 20,
+      "nama": "Laode Muh Asfan Mujahid, S.T., M.T.",
+      "nidn": "0009039302",
+      "nip": "199303092019031014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c3622681-4090-4644-b48b-f5f0b9d299f1",
+      "pivot": {
+        "id_kelas_kuliah": 119064,
+        "id_dosen": 2570
+      }
+    }
+  ]
+}

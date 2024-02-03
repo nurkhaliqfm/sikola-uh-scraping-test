@@ -1,0 +1,29 @@
+{
+  "id_prodi": 213,
+  "nama_prodi": "Rekayasa Kehutanan - S1",
+  "id_prodi_semester": 2547,
+  "idnumber_sikola": "39665.111215.213",
+  "shortname_sikola": "TA231-111215",
+  "kode_matkul": "20M01140504",
+  "nama_matkul": "Tugas Akhir (Skripsi)",
+  "nama_kelas": "Tugas akhir",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1684,
+      "id_user": 34270,
+      "id_prodi": 71,
+      "nama": "Dr. Ir.  Sitti Nuraeni, MP.",
+      "nidn": "0010046805",
+      "nip": "196804101995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d24b1a0-00b1-42a6-8ff9-2a24e9a6cecf",
+      "pivot": {
+        "id_kelas_kuliah": 111215,
+        "id_dosen": 1684
+      }
+    }
+  ]
+}

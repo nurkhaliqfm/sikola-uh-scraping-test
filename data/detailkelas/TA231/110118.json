@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34732.110118.165",
+  "shortname_sikola": "TA231-110118",
+  "kode_matkul": "18D02320104",
+  "nama_matkul": "SEMINAR HASIL PENELITIAN DISERTASI",
+  "nama_kelas": "SEMINAR HASIL PENELITIAN DISERTASI (ERIYANTO LIHAWA)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 146935,
+      "id_user": 45804,
+      "id_prodi": 165,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ERIYANTO LIHAWA",
+      "nim": "D023202003",
+      "jalan": "JL. AHMAD A. WAHAB NO. 99",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Olitule",
+      "kode_pos": "96181",
+      "nisn": null,
+      "tempat_lahir": "GORONTALO",
+      "tanggal_lahir": "1980-06-06",
+      "telepon": "0",
+      "handphone": "081340010203",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "PANTUNGO",
+      "id_wilayah": "300218",
+      "nik": "7571020606800002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "erilihawa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "117c0160-cd40-4f7e-8184-7be4bf588e8e",
+      "id_registrasi_mahasiswa_pddikti": "e2ad4459-cd31-4974-aa36-86a8578fc830",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110118,
+        "id_mahasiswa": 146935,
+        "created_at": "2023-08-04 15:01:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 678,
+      "id_user": 34185,
+      "id_prodi": 20,
+      "nama": "Prof. Dr.-Ing. Muhammad Yamin Jinca, ,MS.Tr.",
+      "nidn": "",
+      "nip": "195312211981031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110118,
+        "id_dosen": 678
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 110118,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 110118,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

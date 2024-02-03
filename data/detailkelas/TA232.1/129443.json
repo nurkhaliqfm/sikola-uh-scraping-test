@@ -1,0 +1,140 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28162.129443.102",
+  "shortname_sikola": "TA232-129443",
+  "kode_matkul": "18P06212702",
+  "nama_matkul": "Bioteknologi Mikrobiologi",
+  "nama_kelas": "Bioteknologi Mikrobiologi (Mikro_Afirmasi)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423797,
+      "id_user": 82355,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ASE NURUL HIDAYAH",
+      "nim": "P062231047",
+      "jalan": "JL PARAKAN WONOSOBO KM 09",
+      "rt": 8,
+      "rw": 2,
+      "dusun": "Tlahab",
+      "kode_pos": "56264",
+      "nisn": "P062231047",
+      "tempat_lahir": "TEMANGGUNG",
+      "tanggal_lahir": "1996-02-11",
+      "telepon": "0",
+      "handphone": "081215041995",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Tlahab",
+      "id_wilayah": "032314",
+      "nik": "3323175102960002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ase.nurulhidayah11@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0d3b03d8-b41f-45bb-9563-c5969079269d",
+      "id_registrasi_mahasiswa_pddikti": "b9418a19-9185-4ea1-96ab-6412cb4a45a1",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129443,
+        "id_mahasiswa": 423797,
+        "created_at": "2024-01-30 09:53:23"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 423614,
+      "id_user": 82878,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FADEL RAJAB NUGRAHA",
+      "nim": "P062231045",
+      "jalan": "JLN KAMPUNG BARU, LR. BERKAH",
+      "rt": 2,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "93232",
+      "nisn": null,
+      "tempat_lahir": "RAHA",
+      "tanggal_lahir": "1997-11-08",
+      "telepon": "0",
+      "handphone": "085222210953",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Aundonohu",
+      "id_wilayah": "206002",
+      "nik": "7403100811970203",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "frnugraha8@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "26dc4abc-c753-44fa-8012-db597d1ae063",
+      "id_registrasi_mahasiswa_pddikti": "d4e2d28d-a1df-45c6-a8f1-20567f7283f9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129443,
+        "id_mahasiswa": 423614,
+        "created_at": "2024-01-31 18:30:11"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 697,
+      "id_user": 19833,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Mochammad Hatta, Ph.D., Sp.MK(K)",
+      "nidn": "0014045703",
+      "nip": "195704161985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34a19bf1-32eb-4cbc-9ef2-b89416188fd0",
+      "pivot": {
+        "id_kelas_kuliah": 129443,
+        "id_dosen": 697
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 706,
+      "id_user": 16642,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Ahyar",
+      "nidn": "0031126362",
+      "nip": "196712311991031020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ab02eec5-d0e6-4077-b0da-ae88a1ecb5dc",
+      "pivot": {
+        "id_kelas_kuliah": 129443,
+        "id_dosen": 706
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1527,
+      "id_user": 59930,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Syafruddin, Ph.D.",
+      "nidn": "0015066001",
+      "nip": "196005161986011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1b012be2-1445-4a21-b601-0f9f3101cb2b",
+      "pivot": {
+        "id_kelas_kuliah": 129443,
+        "id_dosen": 1527
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47513.126958.10",
+  "shortname_sikola": "TA232-126958",
+  "kode_matkul": "23D01131502",
+  "nama_matkul": "Teknik Reklamasi dan Pengerukan",
+  "nama_kelas": "Teknik Reklamasi dan Pengerukan Pilihan INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 160553,
+      "id_user": 57264,
+      "id_prodi": 10,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ANDI NINDYANI PUTERI TAUFAN",
+      "nim": "D011211103",
+      "jalan": "JL. TANJUNG PINANG RAYA NO.20 BUKIT BARUGA, ANTANG, MAKASSAR",
+      "rt": 11,
+      "rw": 2,
+      "dusun": "bukit baruga",
+      "kode_pos": "90234",
+      "nisn": "0027452666",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-12-21",
+      "telepon": "0",
+      "handphone": "089520707746",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "ANTANG",
+      "id_wilayah": "120505",
+      "nik": "7371126112020006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andinindy21@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f4192d2e-8fea-4d2e-a756-cf3c273e5fb2",
+      "id_registrasi_mahasiswa_pddikti": "d7d6ee2a-da05-4940-8d53-ae23705e94dd",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126958,
+        "id_mahasiswa": 160553,
+        "created_at": "2024-01-16 10:42:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1015,
+      "id_user": 33455,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ir. Muhammad Arsyad Thaha, MT.",
+      "nidn": "0012126007",
+      "nip": "196012311986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3b528154-ff7c-4894-8601-599c057c16ab",
+      "pivot": {
+        "id_kelas_kuliah": 126958,
+        "id_dosen": 1015
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1618,
+      "id_user": 27956,
+      "id_prodi": 10,
+      "nama": "Dr. Ir. Riswal Karamma, S.T., M.T.",
+      "nidn": "0005057105",
+      "nip": "197105052006041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "787f3e11-94a1-4930-9d71-885a90cc88a4",
+      "pivot": {
+        "id_kelas_kuliah": 126958,
+        "id_dosen": 1618
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1940,
+      "id_user": 11895,
+      "id_prodi": 10,
+      "nama": "Andi Subhan Mustari, ST.,MT",
+      "nidn": "0031057601",
+      "nip": "197605312005011004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "59f6c312-bda6-41ff-a9df-d922b4e90c2f",
+      "pivot": {
+        "id_kelas_kuliah": 126958,
+        "id_dosen": 1940
+      }
+    }
+  ]
+}

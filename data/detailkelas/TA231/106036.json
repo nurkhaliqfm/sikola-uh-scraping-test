@@ -1,0 +1,172 @@
+{
+  "id_prodi": 56,
+  "nama_prodi": "PROFESI DOKTER GIGI",
+  "id_prodi_semester": 2411,
+  "idnumber_sikola": "20843.106036.56",
+  "shortname_sikola": "TA231-106036",
+  "kode_matkul": "574J132",
+  "nama_matkul": "Kepaniteraan Radiologi",
+  "nama_kelas": "Kepaniteraan Radiologi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 132437,
+      "id_user": 27785,
+      "id_prodi": 56,
+      "angkatan": 2019,
+      "nama_mahasiswa": "JAY NURJANNAH KAHARUDDIN",
+      "nim": "J014192019",
+      "jalan": "jl. cilallang jaya 1 no.6",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "1998-03-30",
+      "telepon": "081342055611",
+      "handphone": "081998421551",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "buakana",
+      "id_wilayah": "196013",
+      "nik": "7371137003980004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "jaynurjannahk30@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106036,
+        "id_mahasiswa": 132437,
+        "created_at": "2024-01-04 09:02:21"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 132440,
+      "id_user": 27810,
+      "id_prodi": 56,
+      "angkatan": 2019,
+      "nama_mahasiswa": "KHAERURRAHMAN MA'RIF",
+      "nim": "J014192041",
+      "jalan": "Antang Raya",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Manggala",
+      "kode_pos": "90243",
+      "nisn": null,
+      "tempat_lahir": "Bima",
+      "tanggal_lahir": "1998-09-19",
+      "telepon": "08239360243",
+      "handphone": "08239360224",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Manggala",
+      "id_wilayah": "120505",
+      "nik": "5272021909980001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "khaerurrahmanmarif@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c7843419-ac20-4667-887b-1ce7b89e0a9d",
+      "id_registrasi_mahasiswa_pddikti": "7163a247-1658-46b7-bbe4-0ab5476b9b54",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106036,
+        "id_mahasiswa": 132440,
+        "created_at": "2024-01-04 09:11:27"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2336,
+      "id_user": 34317,
+      "id_prodi": 55,
+      "nama": "drg. Irfan Sugianto",
+      "nidn": "0015028109",
+      "nip": "198102152008011009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "208e39c2-2a9b-4cda-9522-c56e158f6398",
+      "pivot": {
+        "id_kelas_kuliah": 106036,
+        "id_dosen": 2336
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1146,
+      "id_user": 34433,
+      "id_prodi": 55,
+      "nama": "drg. Muliati Y., M.Kes.",
+      "nidn": "0031126312",
+      "nip": "196312131990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5f61a86d-8283-4815-8387-089cfc15501f",
+      "pivot": {
+        "id_kelas_kuliah": 106036,
+        "id_dosen": 1146
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 902,
+      "id_user": 71701,
+      "id_prodi": 55,
+      "nama": "Prof. Barunawaty Yunus, M.Kes.,Sp.RKG. ( K )",
+      "nidn": "0009126402",
+      "nip": "196412091991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "95b45c16-77ae-428d-a60d-06b7fea3e5b0",
+      "pivot": {
+        "id_kelas_kuliah": 106036,
+        "id_dosen": 902
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2066,
+      "id_user": 37228,
+      "id_prodi": 55,
+      "nama": "drg. Dwi Putri Wulansari",
+      "nidn": "0005018704",
+      "nip": "198701052015042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "86de7c25-b980-44b0-8b7b-769722912bcd",
+      "pivot": {
+        "id_kelas_kuliah": 106036,
+        "id_dosen": 2066
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3858,
+      "id_user": 69497,
+      "id_prodi": 55,
+      "nama": "drg. Fadhil Ulum A Rahman, Sp.RKG",
+      "nidn": "8997240022",
+      "nip": "198712302022035001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "797cbe76-e99a-4af9-acee-08a5cf6144d5",
+      "pivot": {
+        "id_kelas_kuliah": 106036,
+        "id_dosen": 3858
+      }
+    }
+  ]
+}

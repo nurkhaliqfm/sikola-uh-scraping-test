@@ -1,0 +1,61 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2415,
+  "idnumber_sikola": "45485.112345.67",
+  "shortname_sikola": "TA231-112345",
+  "kode_matkul": "23L02131103",
+  "nama_matkul": "Pengolahan Data Kualitas Perairan",
+  "nama_kelas": "Pengelohan Data Kualitas Perairan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1423,
+      "id_user": 18824,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Khusnul Yaqin, M.Sc.",
+      "nidn": "0026076803",
+      "nip": "196807261994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c8416d97-bbd7-43c1-9016-a8093fd1e2eb",
+      "pivot": {
+        "id_kelas_kuliah": 112345,
+        "id_dosen": 1423
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1808,
+      "id_user": 10774,
+      "id_prodi": 67,
+      "nama": "Moh. Tauhid Umar, S.Pi.,MP.",
+      "nidn": "0018127207",
+      "nip": "197212182008011010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "35848e4d-1600-48e0-aa1a-f0d346e8d91a",
+      "pivot": {
+        "id_kelas_kuliah": 112345,
+        "id_dosen": 1808
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1487,
+      "id_user": 18572,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Nita Rukminasari, S.Pi., MP.",
+      "nidn": "0029126901",
+      "nip": "196912291998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc475580-d411-44b1-a260-e0a9fa1dc8bb",
+      "pivot": {
+        "id_kelas_kuliah": 112345,
+        "id_dosen": 1487
+      }
+    }
+  ]
+}

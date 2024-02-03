@@ -1,0 +1,45 @@
+{
+  "id_prodi": 31,
+  "nama_prodi": "SASTRA INDONESIA - S1",
+  "id_prodi_semester": 2395,
+  "idnumber_sikola": "43796.105576.31",
+  "shortname_sikola": "TA231-105576",
+  "kode_matkul": "21F01149420",
+  "nama_matkul": "Praktek Dunia Usaha dan Dunia Industri",
+  "nama_kelas": "PRAKTEK DUNIA USAHA DAN DUNIA INDUSTRI",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1490,
+      "id_user": 11166,
+      "id_prodi": 31,
+      "nama": "Dr. Munira Hasyim, S.S.,M.Hum.",
+      "nidn": "0010057101",
+      "nip": "197105101998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7360352d-fe10-41e8-9883-0539cab4b1ab",
+      "pivot": {
+        "id_kelas_kuliah": 105576,
+        "id_dosen": 1490
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2550,
+      "id_user": 22604,
+      "id_prodi": 31,
+      "nama": "Rismayanti, S.S., M.Hum.",
+      "nidn": "0018098905",
+      "nip": "198909182019032022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "31359982-fbf9-4552-a4e6-db5d7aced4a9",
+      "pivot": {
+        "id_kelas_kuliah": 105576,
+        "id_dosen": 2550
+      }
+    }
+  ]
+}

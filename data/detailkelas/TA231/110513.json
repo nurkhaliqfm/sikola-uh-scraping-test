@@ -1,0 +1,52 @@
+{
+  "id_prodi": 182,
+  "nama_prodi": "PPDS - ILMU BEDAH SARAF",
+  "id_prodi_semester": 2519,
+  "idnumber_sikola": "38588.110513.182",
+  "shortname_sikola": "TA231-110513",
+  "kode_matkul": "20C20550504",
+  "nama_matkul": "Neuroendovaskular",
+  "nama_kelas": "Neuroendovaskular - 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 119398,
+      "id_user": 29743,
+      "id_prodi": 182,
+      "angkatan": 2018,
+      "nama_mahasiswa": "NUR ARIEF",
+      "nim": "C205182001",
+      "jalan": "Jalan Sahabat Raya, Rusunawa Unhas Blok C",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "jakarta",
+      "tanggal_lahir": "1987-10-18",
+      "telepon": "081293221113",
+      "handphone": "081293221113",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "3173071810870007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "r_eve08@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "edb42376-890d-4264-b93e-f35a752f9f68",
+      "id_registrasi_mahasiswa_pddikti": "80708099-a87f-43bf-9fb1-fddf021982b9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110513,
+        "id_mahasiswa": 119398,
+        "created_at": "2023-08-02 17:31:41"
+      }
+    }
+  ],
+  "dosens": []
+}

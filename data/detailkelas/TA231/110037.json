@@ -1,0 +1,101 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "37056.110037.76",
+  "shortname_sikola": "TA231-110037",
+  "kode_matkul": "18P01312803",
+  "nama_matkul": "Pengelolaan DAS Terpadu",
+  "nama_kelas": "Pengelolaan DAS Terpadu (S3 Ptn-Sem II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 386060,
+      "id_user": 72916,
+      "id_prodi": 76,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUHAMMAD MUNAWIR SYARIF",
+      "nim": "P013222003",
+      "jalan": "JL. KH. AGUSSALIM NO. 63",
+      "rt": 4,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "92732",
+      "nisn": null,
+      "tempat_lahir": "WATAMPONE",
+      "tanggal_lahir": "1984-12-14",
+      "telepon": "0",
+      "handphone": "085244299721",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Macege",
+      "id_wilayah": "190724",
+      "nik": "7308211412840003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nawir.fadilah33@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8b4ec0f3-99ca-4454-a0fc-9ebe07099b54",
+      "id_registrasi_mahasiswa_pddikti": "620534f2-43da-498e-9e8b-c4e079a1d0db",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110037,
+        "id_mahasiswa": 386060,
+        "created_at": "2023-08-25 15:23:11"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 954,
+      "id_user": 23585,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Hazairin Zubair, MS.",
+      "nidn": "0028085403",
+      "nip": "195408281983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "140a85fa-2f44-4b98-80e2-f14c740ad2ce",
+      "pivot": {
+        "id_kelas_kuliah": 110037,
+        "id_dosen": 954
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 782,
+      "id_user": 31673,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Ahmad Munir, M.Eng.",
+      "nidn": "0027076201",
+      "nip": "196207271989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9fe5c2d9-d111-444c-8d46-21ac6ce09521",
+      "pivot": {
+        "id_kelas_kuliah": 110037,
+        "id_dosen": 782
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3208,
+      "id_user": 60086,
+      "id_prodi": 155,
+      "nama": "Dr. Suhardi, STP., MP.",
+      "nidn": "0010087107",
+      "nip": "197108102005021003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "d7724f05-0f65-4580-8bbd-297a53e32b9a",
+      "pivot": {
+        "id_kelas_kuliah": 110037,
+        "id_dosen": 3208
+      }
+    }
+  ]
+}

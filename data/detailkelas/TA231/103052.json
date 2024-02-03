@@ -1,0 +1,61 @@
+{
+  "id_prodi": 118,
+  "nama_prodi": "PPDS ILMU PENYAKIT DALAM",
+  "id_prodi_semester": 2460,
+  "idnumber_sikola": "29882.103052.118",
+  "shortname_sikola": "TA231-103052",
+  "kode_matkul": "0402C20406",
+  "nama_matkul": "DIVISI GASTROENTEROHEPATOLOGI",
+  "nama_kelas": "Gastroenterohepatologi 11",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1785,
+      "id_user": 37517,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Fardhah Akil, SpPD, K-GEH",
+      "nidn": "0021127404",
+      "nip": "197412212006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1c36a0d-197b-4546-9653-128b0f84c0ca",
+      "pivot": {
+        "id_kelas_kuliah": 103052,
+        "id_dosen": 1785
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3152,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "Dr. dr. A. Muh. Luthfi, Sp.PD., K-GEH",
+      "nidn": null,
+      "nip": "197012022005021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103052,
+        "id_dosen": 3152
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3157,
+      "id_user": 37628,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Nu'man AS Daud, Sp.PD., K-GEH",
+      "nidn": null,
+      "nip": "197112142018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103052,
+        "id_dosen": 3157
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id_prodi": 66,
+  "nama_prodi": "ILMU KELAUTAN - S1",
+  "id_prodi_semester": 2414,
+  "idnumber_sikola": "44936.112292.66",
+  "shortname_sikola": "TA231-112292",
+  "kode_matkul": "23L01131402",
+  "nama_matkul": "Tata Kelola Proyek Kelautan (P)",
+  "nama_kelas": "Tata Kelola Proyek Kelautan (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141519,
+      "id_user": 44072,
+      "id_prodi": 66,
+      "angkatan": 2020,
+      "nama_mahasiswa": "SANGLI PANTUN",
+      "nim": "L011201060",
+      "jalan": "JALAN POROS TORAJA-PALOPO",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "91832",
+      "nisn": "0",
+      "tempat_lahir": "RANTEPAO",
+      "tanggal_lahir": "2002-09-01",
+      "telepon": "0",
+      "handphone": "082319412566",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tallunglipu matallo",
+      "id_wilayah": "192717",
+      "nik": "7326110109020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "pantunsangli@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0b7b1656-e901-4f89-ba2f-92d932492146",
+      "id_registrasi_mahasiswa_pddikti": "6a7d0569-b0b5-4860-9b57-b4ee0e99e92a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112292,
+        "id_mahasiswa": 141519,
+        "created_at": "2023-08-10 01:18:09"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 79140,
+      "id_user": 8372,
+      "id_prodi": 66,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Yogandi Ayub Tadu",
+      "nim": "L011191060",
+      "jalan": "Jalan poros Toraja-Makassar KM276 perumahan Sutera Alam",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Pana",
+      "kode_pos": "91754",
+      "nisn": "0012656745",
+      "tempat_lahir": "Makale",
+      "tanggal_lahir": "2001-01-29",
+      "telepon": "082346557273",
+      "handphone": "081239501995",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Pana",
+      "id_wilayah": "191605",
+      "nik": "7316052901010003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Yogandi29@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "48998011-c282-4563-bc31-4c9302d99500",
+      "id_registrasi_mahasiswa_pddikti": "5e317bfb-b507-408a-8ef2-1df7c48e81e2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112292,
+        "id_mahasiswa": 79140,
+        "created_at": "2023-08-23 14:03:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1745,
+      "id_user": 12683,
+      "id_prodi": 66,
+      "nama": "Dr. Ir. M. Rijal Idrus, M.Sc.",
+      "nidn": "0019126504",
+      "nip": "196512191990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1124dd3-6d4c-40ba-8a6e-db59abf3d64c",
+      "pivot": {
+        "id_kelas_kuliah": 112292,
+        "id_dosen": 1745
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 112292,
+        "id_dosen": 779
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1863,
+      "id_user": 27644,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Nurjanna, ST., M.Si.",
+      "nidn": "0018096801",
+      "nip": "196809181997032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a2877bd3-e2c0-4be3-8d43-18480f386aba",
+      "pivot": {
+        "id_kelas_kuliah": 112292,
+        "id_dosen": 1863
+      }
+    }
+  ]
+}

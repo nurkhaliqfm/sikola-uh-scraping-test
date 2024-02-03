@@ -1,0 +1,77 @@
+{
+  "id_prodi": 229,
+  "nama_prodi": "PPDS ILMU PENYAKIT DALAM (Sp2)",
+  "id_prodi_semester": 2562,
+  "idnumber_sikola": "42767.121415.229",
+  "shortname_sikola": "TA231-121415",
+  "kode_matkul": "20C03830110",
+  "nama_matkul": "Metabolisme",
+  "nama_kelas": "Kelas Metabolisme",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1140,
+      "id_user": 37555,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Andi Makbul Aman, Sp.PD(K).",
+      "nidn": "0023066401",
+      "nip": "196406231991031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7f2c164c-241d-4589-ba11-9878aaf588af",
+      "pivot": {
+        "id_kelas_kuliah": 121415,
+        "id_dosen": 1140
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3151,
+      "id_user": 37690,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Husaini Umar, Sp.PD., K-EMD",
+      "nidn": null,
+      "nip": "196512012018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 121415,
+        "id_dosen": 3151
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3154,
+      "id_user": 37579,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Himawan Dharmayani Sanusi, Sp.PD., K-EMD",
+      "nidn": "8811820016",
+      "nip": "197404042018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60462718-bccb-4c1c-8410-2055a1fa32f4",
+      "pivot": {
+        "id_kelas_kuliah": 121415,
+        "id_dosen": 3154
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3153,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Fabiola MS Adam, Sp.PD, K-EMD",
+      "nidn": null,
+      "nip": "197502252010012007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 121415,
+        "id_dosen": 3153
+      }
+    }
+  ]
+}

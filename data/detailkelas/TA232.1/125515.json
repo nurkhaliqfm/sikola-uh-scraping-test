@@ -1,0 +1,85 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2692,
+  "idnumber_sikola": "39140.125515.119",
+  "shortname_sikola": "TA232-125515",
+  "kode_matkul": "20C10522801",
+  "nama_matkul": "Gizi Madya",
+  "nama_kelas": "Gizi Madya - 20232",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157924,
+      "id_user": 54470,
+      "id_prodi": 119,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ABDURRAHMAN HASANUDDIN",
+      "nim": "C105211006",
+      "jalan": "JL. ISAAC NEWTON, PERUMAHAN DOSEN UNHAS TAMALANREA BLOK AC/6 BARU",
+      "rt": 1,
+      "rw": 10,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1994-09-26",
+      "telepon": "0",
+      "handphone": "082213322133",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TAMALANREA JAYA",
+      "id_wilayah": "196012",
+      "nik": "7371142609940003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "abdurrahman.hasanuddin@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "40a576c1-56e0-48da-9ce7-ac585f79c72c",
+      "id_registrasi_mahasiswa_pddikti": "5b27f080-9ac6-430f-bf6a-b15bc1b31f0b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125515,
+        "id_mahasiswa": 157924,
+        "created_at": "2024-01-13 09:47:08"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1583,
+      "id_user": 36994,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Aidah Juliaty A. Baso, Sp.A(K), Sp.GK",
+      "nidn": "0018077001",
+      "nip": "197007181998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2dfad46a-aeac-4458-a7af-2271395f10f1",
+      "pivot": {
+        "id_kelas_kuliah": 125515,
+        "id_dosen": 1583
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3674,
+      "id_user": 58277,
+      "id_prodi": 119,
+      "nama": "dr. Destya Maulani, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "7371104312840001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125515,
+        "id_dosen": 3674
+      }
+    }
+  ]
+}

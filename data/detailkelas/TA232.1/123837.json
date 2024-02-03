@@ -1,0 +1,45 @@
+{
+  "id_prodi": 227,
+  "nama_prodi": "PPDS ANESTESIOLOGI  DAN TERAPI (Sp2)",
+  "id_prodi_semester": 2791,
+  "idnumber_sikola": "39960.123837.227",
+  "shortname_sikola": "TA232-123837",
+  "kode_matkul": "20C01820802",
+  "nama_matkul": "Profesionalism",
+  "nama_kelas": "Profesionalsme - KIC 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2638,
+      "id_user": 74156,
+      "id_prodi": 128,
+      "nama": "Dr. dr. Hisbullah, Sp.An-KIC-KAKV",
+      "nidn": "8859520016",
+      "nip": "196403052018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0fca84ef-de9e-4d35-92d8-aed23e894b5f",
+      "pivot": {
+        "id_kelas_kuliah": 123837,
+        "id_dosen": 2638
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2645,
+      "id_user": 11872,
+      "id_prodi": 128,
+      "nama": "dr. Haizah Nurdin, SpAn-KIC",
+      "nidn": "8886610016",
+      "nip": "198104112018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f94dc39d-1723-4319-a4e0-40849b67a166",
+      "pivot": {
+        "id_kelas_kuliah": 123837,
+        "id_dosen": 2645
+      }
+    }
+  ]
+}

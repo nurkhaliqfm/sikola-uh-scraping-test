@@ -1,0 +1,156 @@
+{
+  "id_prodi": 261,
+  "nama_prodi": "PROFESI ARSITEK",
+  "id_prodi_semester": 2821,
+  "idnumber_sikola": "44433.120397.261",
+  "shortname_sikola": "TA232-120397",
+  "kode_matkul": "22D02411203",
+  "nama_matkul": "SIMULASI KINERJA BANGUNAN GEDUNG",
+  "nama_kelas": "SIMULASI KINERJA BANGUNAN GEDUNG",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415370,
+      "id_user": 75477,
+      "id_prodi": 261,
+      "angkatan": 2023,
+      "nama_mahasiswa": "KRISMAWAN YOGA ASHARI",
+      "nim": "D024231012",
+      "jalan": "Jl. Kalimantan RT 03 RW 01, Link. Bleber, Kel. Sidoharjo, Kec. Pacitan, Kab. Pacitan, Prov. Jawa Timur",
+      "rt": 3,
+      "rw": 1,
+      "dusun": "Bleber",
+      "kode_pos": "63514",
+      "nisn": null,
+      "tempat_lahir": "PACITAN",
+      "tanggal_lahir": "1998-07-07",
+      "telepon": "0",
+      "handphone": "085875723994",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Sidoharjo",
+      "id_wilayah": "051200",
+      "nik": "3501040707980001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "krismawanyogaa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "22bd0dfa-02c3-4e79-b098-b5648e2cd1ae",
+      "id_registrasi_mahasiswa_pddikti": "954c1ecc-7ceb-4d4f-9784-2b6bc26a4bd9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120397,
+        "id_mahasiswa": 415370,
+        "created_at": "2024-01-26 10:55:52"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 415361,
+      "id_user": 76398,
+      "id_prodi": 261,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD FARHAN DJAFAR",
+      "nim": "D024231003",
+      "jalan": "Hartaco Indah Blok 1.S No.8",
+      "rt": 3,
+      "rw": 10,
+      "dusun": null,
+      "kode_pos": "90224",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1997-03-14",
+      "telepon": "0",
+      "handphone": "085299354373",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Balang Baru",
+      "id_wilayah": "196003",
+      "nik": "7371101403970001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "farhandjafar34@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "08f84d59-5a64-49b8-8c3e-09d7c8653241",
+      "id_registrasi_mahasiswa_pddikti": "afd51977-9b6a-40e8-a597-a3e5af829681",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120397,
+        "id_mahasiswa": 415361,
+        "created_at": "2024-02-01 09:49:38"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 120397,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1227,
+      "id_user": 17220,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Rosady Mulyadi, ST., MT.",
+      "nidn": "0010087001",
+      "nip": "197008101998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c5ca569-9daf-42b2-863d-dbaa2c1e7189",
+      "pivot": {
+        "id_kelas_kuliah": 120397,
+        "id_dosen": 1227
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1230,
+      "id_user": 16366,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Nurul Jamala B, MT.",
+      "nidn": "0004096407",
+      "nip": "196409041994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8e2445f0-50bf-481f-902f-009d11107045",
+      "pivot": {
+        "id_kelas_kuliah": 120397,
+        "id_dosen": 1230
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1581,
+      "id_user": 20337,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Asniawaty, ST., MT.",
+      "nidn": "0025097103",
+      "nip": "197109251999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "84165af9-44e5-440c-86d6-565a2078e2df",
+      "pivot": {
+        "id_kelas_kuliah": 120397,
+        "id_dosen": 1581
+      }
+    }
+  ]
+}

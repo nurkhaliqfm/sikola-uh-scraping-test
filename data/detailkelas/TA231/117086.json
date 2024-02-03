@@ -1,0 +1,29 @@
+{
+  "id_prodi": 147,
+  "nama_prodi": "PROFESI DOKTER",
+  "id_prodi_semester": 2487,
+  "idnumber_sikola": "32861.117086.147",
+  "shortname_sikola": "TA231-117086",
+  "kode_matkul": "601C1135",
+  "nama_matkul": "OBSTETRI DAN GINEKOLOGI",
+  "nama_kelas": "OBGYN PERIODE Gabungan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1926,
+      "id_user": 34289,
+      "id_prodi": 6,
+      "nama": "dr.  Monika Fitria Farid, SpOG, M. Kes",
+      "nidn": "0020087908",
+      "nip": "197908202010122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5b0c3e1a-112b-4705-80c3-9e6af784d0e7",
+      "pivot": {
+        "id_kelas_kuliah": 117086,
+        "id_dosen": 1926
+      }
+    }
+  ]
+}

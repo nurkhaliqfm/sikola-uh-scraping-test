@@ -1,0 +1,29 @@
+{
+  "id_prodi": 126,
+  "nama_prodi": "PPDS ILMU PENYAKIT SARAF",
+  "id_prodi_semester": 2468,
+  "idnumber_sikola": "39713.124867.126",
+  "shortname_sikola": "TA231-124867",
+  "kode_matkul": "20C15512801",
+  "nama_matkul": "Fundamental Neuroscience",
+  "nama_kelas": "Fundamental Neuroscience Semester 2 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1188,
+      "id_user": 34587,
+      "id_prodi": 6,
+      "nama": "dr.  Muhammad Akbar,  Ph.D., DFM.",
+      "nidn": "0021096201",
+      "nip": "196209211988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e5577700-5e50-4ace-b825-f53efc2a272e",
+      "pivot": {
+        "id_kelas_kuliah": 124867,
+        "id_dosen": 1188
+      }
+    }
+  ]
+}

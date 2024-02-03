@@ -1,0 +1,45 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44118.108785.47",
+  "shortname_sikola": "TA231-108785",
+  "kode_matkul": "23H02135402",
+  "nama_matkul": "FISIKA SERAT OPTIK",
+  "nama_kelas": "Fisika Serat Optik (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 892,
+      "id_user": 31288,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Syamsir D.,  D., MS.",
+      "nidn": "0011016302",
+      "nip": "196301111990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "86c2a15c-92c0-41cd-8fc8-be3f134489e8",
+      "pivot": {
+        "id_kelas_kuliah": 108785,
+        "id_dosen": 892
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1548,
+      "id_user": 22291,
+      "id_prodi": 47,
+      "nama": "Bannu, S.Si.,M.Si.",
+      "nidn": "0005077303",
+      "nip": "197305021998021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e2f07929-d6de-42f5-8e2b-efa51d9a4512",
+      "pivot": {
+        "id_kelas_kuliah": 108785,
+        "id_dosen": 1548
+      }
+    }
+  ]
+}

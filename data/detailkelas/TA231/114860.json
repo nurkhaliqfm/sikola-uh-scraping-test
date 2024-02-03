@@ -1,0 +1,29 @@
+{
+  "id_prodi": 22,
+  "nama_prodi": "TEKNIK PERTAMBANGAN - S1",
+  "id_prodi_semester": 2387,
+  "idnumber_sikola": "46537.114860.22",
+  "shortname_sikola": "TA231-114860",
+  "kode_matkul": "23U02131602",
+  "nama_matkul": "Kreativitas Solutif",
+  "nama_kelas": "Kreatifitas Solutif",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1803,
+      "id_user": 18301,
+      "id_prodi": 22,
+      "nama": "Dr. Aryanti Virtanti Anas, ST.,MT.",
+      "nidn": "0005107007",
+      "nip": "197010052008012026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd7802a8-81b1-4ee4-b09e-0a03510ec7bc",
+      "pivot": {
+        "id_kelas_kuliah": 114860,
+        "id_dosen": 1803
+      }
+    }
+  ]
+}

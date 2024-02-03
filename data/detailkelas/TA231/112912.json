@@ -1,0 +1,45 @@
+{
+  "id_prodi": 124,
+  "nama_prodi": "PPDS ILMU RADIOLOGI",
+  "id_prodi_semester": 2466,
+  "idnumber_sikola": "30661.112912.124",
+  "shortname_sikola": "TA231-112912",
+  "kode_matkul": "19C12540502",
+  "nama_matkul": "Sari Pustaka\r\n",
+  "nama_kelas": "Sari pustaka_2019",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1730,
+      "id_user": 34063,
+      "id_prodi": 6,
+      "nama": "dr.  Sri Asriyani, Sp.Rad (K).,M.Med.Ed",
+      "nidn": "0023127207",
+      "nip": "197212232002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "61156ebb-f943-4151-a1bf-55831c50aa57",
+      "pivot": {
+        "id_kelas_kuliah": 112912,
+        "id_dosen": 1730
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1849,
+      "id_user": 9811,
+      "id_prodi": 6,
+      "nama": "dr. Rafikah Rauf, M.Kes., Sp.Rad (K)",
+      "nidn": "0025058205",
+      "nip": "198205252008122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d43af6a-7074-4ff1-aa92-c34e2f2844c0",
+      "pivot": {
+        "id_kelas_kuliah": 112912,
+        "id_dosen": 1849
+      }
+    }
+  ]
+}

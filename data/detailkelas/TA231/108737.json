@@ -1,0 +1,45 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44075.108737.47",
+  "shortname_sikola": "TA231-108737",
+  "kode_matkul": "23H02131302",
+  "nama_matkul": "PENGOLAHAN CITRA DIGITAL",
+  "nama_kelas": "Pengolahan Citra Digital (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1861,
+      "id_user": 15269,
+      "id_prodi": 47,
+      "nama": "Eko Juarlin, S.Si.,M.Si.",
+      "nidn": "0006118104",
+      "nip": "198111062008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ddd96c79-dcb1-468a-b2d7-ed432bc4728e",
+      "pivot": {
+        "id_kelas_kuliah": 108737,
+        "id_dosen": 1861
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3295,
+      "id_user": 34576,
+      "id_prodi": 47,
+      "nama": "Heryanto, S.Si., M.Si.",
+      "nidn": "0029119104",
+      "nip": "199111292020053001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "b1cd0d12-2aec-40d4-b485-20b240a61d20",
+      "pivot": {
+        "id_kelas_kuliah": 108737,
+        "id_dosen": 3295
+      }
+    }
+  ]
+}

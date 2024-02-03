@@ -1,0 +1,1728 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Kata budaya “Buddayah” berasal dari bahasa</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50630</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify">Sangsekerta</p>
+
+<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">       </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Inggeris                    </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Prancis                      </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Pallawa        </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Totalitas pengetahuan manusia, pengalaman yang terakumulasi dan yang ditransmisikan secara sosial.  Pernyatan tersebut adalah defenisi kebudayaan menurut.</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50631</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Andreas Eppink</span></span></p>
+
+<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">            </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Keesing</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Robert  H. Lowie</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Edwar B. Tylor</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Menurut J. Hoenigman, wujud kebudayaan dibedakan menjadi tiga di antaranya  gagasan yang berwujud, kecuali:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50633</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Ide-ide.                       </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Peraturan</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Nilai-nilai </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Tingkah laku</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Wujud Kebudayaan material di bawah ini, kecuali:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50634</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Mangkuk tanah liat</span></span></p>
+
+<p style="text-align:justify"> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Perhisalan </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Senjata                      </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif"><span style="color:red">Tarian</span></span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Wujud kebudayaan sebagai suatu tindakan berpola dari manusia dalam masyarakat itu. Wujud ini disebut pula dengan system sosial dinamakan: </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50637</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Gagasan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Aktifitas</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Artefak</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Nilai</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Di bawah ini ciri umum kebudayaan adalah universal yang terdiri dari sistem, kecuali:  </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50641</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify">sosial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>politik </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>ekonomi dan teknologi,</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>system pertahanan</p>
+
+<p> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Di bawah ini fungsi kebudayaan kecuali:  </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50645</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Status Sosial</p>
+
+<p> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p> Hidup lebih baik   </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Lebih manusiawi    </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>berperikemanusiaan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Cara masyarakat mengembangkan dan membangun sistem kepercayaan atau keyakinan terhadap sesuatu akan mempengaruhi sistem penilaian yang ada dalam masyarakat dinamakan</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50646</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Sistem Sosial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Sistem Agama</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Sistem Politik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Sistem Kepercayaan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Di  bawah ini adalah yang mempengaruhi perubahan sosial, kecuali</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50647</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify">Perkembangan Ilmu Pengetahuan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Tekanan kerja dalam masyarakat                  </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Perubahan lingkungan alam.</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">keefektifan komunikasi</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Manusia  sebagai pencipta kebudayaan memiliki kemampuan daya sebagai berikut , kecuali</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50648</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Akal, intelegensia dan intuisi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Perasaan dan emosi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Kemauan dan fantasi</p>
+
+<p> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Pendidikan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Tahap dimana realitas obyektif hasil ciptaan manusia dicerap oleh manusia Kembali dinamakan:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50649</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="margin-left:25.1pt; text-align:justify">Tahap eksternalisasi </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Tahap obyektivasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Tahap Internalisasi,</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Tahap Subyektivasi,  </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Di bawah ini Ciri Kebudayaan, kecuali:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50650</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>¨Berkembang dalam ruang / bidang geografis tertentu</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span style="tab-stops:list .5in">Bersifat menyeluruh       </span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span style="tab-stops:list .5in">Berpusat pada perwujudan nilai-nilai tertentu</span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Alat kontrol</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Penyebaran kebudayaan dinamakan</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50651</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p style="margin-left:25.1pt; text-align:justify"><span style="color:#262626">Difusi     </span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span style="color:#262626">akulturasi  </span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span style="color:#262626">      asimilasi           </span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span style="color:#262626">internalidsasi  </span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Proses peleburan dari kebudayaan satu ke kebudayaan lain. dinamakan</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50656</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Akulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Enkulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Difusi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Candi Borobudur meriupakan salah satu  contoh:  </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50658</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif"> </span></span><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Disimilasi                   </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Sintesis                  </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Akulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Asimilasi</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Bercampurnya dua kebudayaan yang berakibat pada terbentuknya sebuah kebudayaan baru yang sangat berbeda dengan kebudayaan asli dinamakan:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50659</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Asimilasi                    </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Akulturasi                </span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Sintesis</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Difusi</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Bahasa: Dalam bidang bahasa banyak kosakata bahasa Inggris diserap ke dalam bahasa Indonesia karena bahasa Inggris sendiri adalah bahasa yang digunakan sebagai bahasa internasional., merupakan contoh dari</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50661</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Akulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Difusi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Seni rupa meruakan contoh dari</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50663</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Akulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Difusi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Enkulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Hari Libur Yang Jatuh Pada Hari Minggu: Wacana akhir pekan merujuk pada hari sabtu sebagai awal dan hari minggu sebagai akhiran atau puncaknya, merupakan contoh dari:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50664</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Akulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Difusi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Enkulturasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Yang dimaksud dengan penetrasi kebudayaan adalah</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50665</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif"><span style="color:#262626">Masuknya pengaruh suatu kebudayaan ke kebudayaan lainnya.</span></span></span></p>
+
+<p style="text-align:justify"> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Bergantinya suatu pemerintah yang menjadi penguasa</span></span></p>
+
+<p style="text-align:justify"> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p style="text-align:justify"><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Penerimaan kedua macam kebudayaan dalam suatu daerah</span></span></p>
+
+<p style="text-align:justify"> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p><span lang="IN" style="font-size:10.0pt"><span style="font-family:"Arial",sans-serif">Bercampurnya suatu kebudayan yang tidak menimbulkan konflik</span></span></p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Faktor-faktor yang mendorong :perubahan kebudayaan adalah, kecuali:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50667</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Kontak dengan kebudayaan lain</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Sistem pendidikan yang maju</p>
+
+<p> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Sikap menghargai hasil karya orang lain dan keinginan untuk maju</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Perkembangan ilmu pengetahuan yang lambat</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Di bawah ini Struktur Kebudayaan yang terkait dengan Harmoni dan Integrasi Kebudayaan, kecuali</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50672</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>¨WUjud kebudayaan terbentuk sebagai wujud harmoni(sasi);</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Dalam harmonisasi terwujudlah integrasi kebudayaan sebagai wujud kontinum kebudayaan;</p>
+
+<p> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Menguji kesatuan kebudayaan diperlukan perspektif struktur atau konfigurasi kebudayaan, plus kata sifat dinamis</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Itulah sebabnya, berbagai wujud kebudayaan terpola dalam bentuk-bentuk yang berbeda</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Penetrasi kebudayaan adalah </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50677</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Pencemplungan seseorang kedalam suatu lingkungan kebudayaan, dimana desain khusus untuk kehidupan kelihatan sebagai sesuatu yang alamiah belaka</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Penyebaran kebudayaan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Masuknya pengaruh suatu kebudayaan ke kebudayaan lainnya</p>
+
+<p> </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Proses peleburan dari kebudayaan satu ke kebudayaan lain.</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Bangunan Masjid yang ada di wilayah Indonesia menyerupai dengan bagunan Vihara merupakan contoh dari:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50680</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi  Struktural</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi Arsitektur</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi Agama</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Asimilasi Sosial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>MID TES MASYARAKAT DAN KEBUDAYAAN INDONESIA</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Enkulturasi adalah</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_50684</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Percampuran dua atau lebih kebudayaan yang dalam percampuran itu masing-masing unsurnya masih kelihatan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Proses peleburan dari kebudayaan satu ke kebudayaan lain</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="40.0" format="html">
+            <text>
+                <![CDATA[<p>Pencemplungan seseorang kedalam suatu lingkungan kebudayaan, dimana desain khusus untuk kehidupan kelihatan sebagai sesuatu yang alamiah belaka.<br />
+ </p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Penyebaran kebudayaan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+</quiz>

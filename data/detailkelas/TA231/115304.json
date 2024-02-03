@@ -1,0 +1,85 @@
+{
+  "id_prodi": 46,
+  "nama_prodi": "STATISTIKA - S1",
+  "id_prodi_semester": 2404,
+  "idnumber_sikola": "46537.115304.46",
+  "shortname_sikola": "TA231-115304",
+  "kode_matkul": "23U02131602",
+  "nama_matkul": "Kreativitas Solutif",
+  "nama_kelas": "Kreatifitas Solutif (Kelas Statistika)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 136923,
+      "id_user": 43619,
+      "id_prodi": 46,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NURHALIZA RAIS",
+      "nim": "H051201030",
+      "jalan": "BUMI BUNG PERMAI BLOK B/1",
+      "rt": 2,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0023993614",
+      "tempat_lahir": "KOTA MAKASSAR",
+      "tanggal_lahir": "2002-07-18",
+      "telepon": "0",
+      "handphone": "62895806333977",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea jaya",
+      "id_wilayah": "196012",
+      "nik": "7371145807020006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nurhalizaraiss@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4435bb62-0fa6-4f0a-94a2-5899906e4f26",
+      "id_registrasi_mahasiswa_pddikti": "8174c746-7946-4dd7-adce-c81fedbde36c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115304,
+        "id_mahasiswa": 136923,
+        "created_at": "2023-08-16 20:46:35"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1685,
+      "id_user": 10451,
+      "id_prodi": 46,
+      "nama": "Dr. Anna Islamiyati, S.Si.,M.Si.",
+      "nidn": "0028067701",
+      "nip": "197708082005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2b97ed7b-f52e-4570-bf4e-15413bb64be4",
+      "pivot": {
+        "id_kelas_kuliah": 115304,
+        "id_dosen": 1685
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1045,
+      "id_user": 9523,
+      "id_prodi": 46,
+      "nama": "Anisa, S.Si.,M.Si.",
+      "nidn": "0027027301",
+      "nip": "197302271998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cf4d954d-3f59-4e7e-9575-db599a17ac80",
+      "pivot": {
+        "id_kelas_kuliah": 115304,
+        "id_dosen": 1045
+      }
+    }
+  ]
+}

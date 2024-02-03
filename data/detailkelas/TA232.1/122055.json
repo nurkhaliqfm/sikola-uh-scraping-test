@@ -1,0 +1,85 @@
+{
+  "id_prodi": 215,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH DAN KOTA - S2",
+  "id_prodi_semester": 2780,
+  "idnumber_sikola": "38129.122055.215",
+  "shortname_sikola": "TA232-122055",
+  "kode_matkul": "20D10220402",
+  "nama_matkul": "Sistem Infrastruktur dan Transportasi",
+  "nama_kelas": "Sistem Infrastruktur dan Transportasi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 416193,
+      "id_user": 75243,
+      "id_prodi": 215,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NUR ALBANIAH",
+      "nim": "D102231004",
+      "jalan": "Cluster Cassia Wood Blok B 17. Jalan Kebon Kelapa",
+      "rt": 7,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "17510",
+      "nisn": null,
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "2000-08-10",
+      "telepon": "0",
+      "handphone": "085817373499",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Tambun",
+      "id_wilayah": "022216",
+      "nik": "3216065008000019",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nuralbaniah.carr@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "41d90b87-6e38-4b66-9fd7-5528be007ecd",
+      "id_registrasi_mahasiswa_pddikti": "c28b2126-c34e-4a9e-96aa-f75c9b339ca2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122055,
+        "id_mahasiswa": 416193,
+        "created_at": "2024-01-27 14:21:00"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1928,
+      "id_user": 60313,
+      "id_prodi": 20,
+      "nama": "Dr. Ing. Venny Veronica Natalia, ST.,MT.",
+      "nidn": "0022128302",
+      "nip": "198312222010122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ace182bd-8126-4fc5-9d8f-1722dce9dd6a",
+      "pivot": {
+        "id_kelas_kuliah": 122055,
+        "id_dosen": 1928
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1794,
+      "id_user": 31724,
+      "id_prodi": 19,
+      "nama": "Dr. Techn. Yashinta Kumala Dewi, ST., MIP.",
+      "nidn": "0017017901",
+      "nip": "197901172001122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bbf033a6-b8cb-4a42-9536-741733c630b7",
+      "pivot": {
+        "id_kelas_kuliah": 122055,
+        "id_dosen": 1794
+      }
+    }
+  ]
+}

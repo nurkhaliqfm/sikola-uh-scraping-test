@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>UJIAN AKHIR 2022 - Kls B</text></name><questiontext format="html"><text><![CDATA[<p>Data hasil tangkapan gill net dengan ukuran mata jaring berbeda. Uji dengan menggunakan pangkat bertanda Wilcoxon pd microsoft excel dan buat kesimpulan hasil analisisnya. (T0.05(15)=25).</p><table border="0" cellpadding="0" cellspacing="0" width="163">
+	<tbody>
+		<tr height="19">
+			<td height="19" width="77">Gill net 2 inc</td>
+			<td width="86">Gill net 2.5 inc</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">30</td>
+			<td align="right">17</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">32</td>
+			<td align="right">20</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">21</td>
+			<td align="right">24</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">22</td>
+			<td align="right">20</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">19</td>
+			<td align="right">21</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">25</td>
+			<td align="right">18</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">27</td>
+			<td align="right">18</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">20</td>
+			<td align="right">15</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">18</td>
+			<td align="right">21</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">21</td>
+			<td align="right">14</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">23</td>
+			<td align="right">16</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">21</td>
+			<td align="right">18</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">22</td>
+			<td align="right">24</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">19</td>
+			<td align="right">21</td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19">25</td>
+			<td align="right">16</td>
+		</tr>
+	</tbody>
+</table>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>350.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_205920</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>UJIAN AKHIR 2022 - Kls B</text></name><questiontext format="html"><text><![CDATA[<p>Tabulasi data panjang total ikan dengan menggunakan software microsoft excel, sesuai selang kelas yang telah ditentukan  pada kolom 7. Gunakan formula frequency untuk menghitung frekuencynya.</p><table border="0" cellpadding="0" cellspacing="0" width="448">
+	<tbody>
+		<tr height="19">
+			<td height="19" width="64">19.3</td>
+			<td width="64">11</td>
+			<td width="64">9</td>
+			<td width="64">9</td>
+			<td width="64">18.4</td>
+			<td width="64">18.1</td>
+			<td width="64">KELAS</td>
+		</tr>
+		<tr height="19">
+			<td height="19">18.9</td>
+			<td>9</td>
+			<td>8</td>
+			<td>8</td>
+			<td>17.8</td>
+			<td>18.5</td>
+			<td>6-8</td>
+		</tr>
+		<tr height="19">
+			<td height="19">21.3</td>
+			<td>9</td>
+			<td>12</td>
+			<td>11</td>
+			<td>17.9</td>
+			<td>18.7</td>
+			<td>8-10</td>
+		</tr>
+		<tr height="19">
+			<td height="19">19.1</td>
+			<td>10</td>
+			<td>10</td>
+			<td>10</td>
+			<td>18.6</td>
+			<td>17.6</td>
+			<td>10-12</td>
+		</tr>
+		<tr height="19">
+			<td height="19">13.4</td>
+			<td>11</td>
+			<td>13</td>
+			<td>11</td>
+			<td>18.9</td>
+			<td>16.7</td>
+			<td>12-14</td>
+		</tr>
+		<tr height="19">
+			<td height="19">18.3</td>
+			<td>10</td>
+			<td>11</td>
+			<td>11</td>
+			<td>19.3</td>
+			<td>17.1</td>
+			<td>14-16</td>
+		</tr>
+		<tr height="19">
+			<td height="19">20.2</td>
+			<td>11</td>
+			<td>12</td>
+			<td>10</td>
+			<td>18.8</td>
+			<td>16.9</td>
+			<td>16-18</td>
+		</tr>
+		<tr height="19">
+			<td height="19">20.5</td>
+			<td>11</td>
+			<td>11</td>
+			<td>9</td>
+			<td>17.7</td>
+			<td>16.9</td>
+			<td>18-20</td>
+		</tr>
+		<tr height="19">
+			<td height="19">19.1</td>
+			<td>11</td>
+			<td>11</td>
+			<td>19.1</td>
+			<td>18.5</td>
+			<td>19.1</td>
+			<td>20-22</td>
+		</tr>
+		<tr height="19">
+			<td height="19">19.8</td>
+			<td>10</td>
+			<td>9</td>
+			<td>17.8</td>
+			<td>19.0</td>
+			<td>19.4</td>
+			<td>22-24</td>
+		</tr>
+	</tbody>
+</table>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>300.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_205921</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>UJIAN AKHIR 2022 - Kls B</text></name><questiontext format="html"><text><![CDATA[<p>Olah data berikut dg microsoft access. Buat dalam 2 tabel, kemudian dibuat linknya. Hitung nilai akhir dengan formula 75% ujian 1 ditmabh 85% ujian 2</p><table border="0" cellpadding="0" cellspacing="0" width="618">
+	<tbody>
+		<tr height="19">
+			<td height="19" width="53">
+			<table border="0" cellpadding="0" cellspacing="0" width="537">
+				<tbody>
+					<tr height="19">
+						<td height="19" width="64">Nomer</td>
+						<td width="130">Nama Mhs</td>
+						<td width="87">NIM</td>
+						<td width="64">Umur</td>
+						<td width="64">Prodi</td>
+						<td width="64">Ujian 1</td>
+						<td width="64">Ujian 2</td>
+					</tr>
+					<tr height="19">
+						<td height="19">1</td>
+						<td>NOVI AFNIRSA</td>
+						<td>L051181001</td>
+						<td>20</td>
+						<td>PSP</td>
+						<td>40</td>
+						<td>30</td>
+					</tr>
+					<tr height="19">
+						<td height="19">2</td>
+						<td>KARMILA</td>
+						<td>L051181002</td>
+						<td>19</td>
+						<td>PSP</td>
+						<td>38</td>
+						<td>31</td>
+					</tr>
+					<tr height="19">
+						<td height="19">3</td>
+						<td>SITI KHADIJAH SRIOKTOVIANA</td>
+						<td>L051181003</td>
+						<td>20</td>
+						<td>PSP</td>
+						<td>37</td>
+						<td>31</td>
+					</tr>
+					<tr height="19">
+						<td height="19">4</td>
+						<td>PUTRI AYUNDA PRATIWI</td>
+						<td>L051181004</td>
+						<td>19</td>
+						<td>PSP</td>
+						<td>39</td>
+						<td>35</td>
+					</tr>
+					<tr height="19">
+						<td height="19">5</td>
+						<td>ALMAGHVIRA</td>
+						<td>L051181005</td>
+						<td>21</td>
+						<td>PSP</td>
+						<td>40</td>
+						<td>34</td>
+					</tr>
+					<tr height="19">
+						<td height="19">6</td>
+						<td>ISMAYANTI</td>
+						<td>L051181006</td>
+						<td>20</td>
+						<td>PSP</td>
+						<td>33</td>
+						<td>30</td>
+					</tr>
+					<tr height="19">
+						<td height="19">7</td>
+						<td>RIKA RAMADHANI RUSDI</td>
+						<td>L051181007</td>
+						<td>21</td>
+						<td>PSP</td>
+						<td>37</td>
+						<td>38</td>
+					</tr>
+					<tr height="19">
+						<td height="19">8</td>
+						<td>MARSELINA</td>
+						<td>L051181008</td>
+						<td>19</td>
+						<td>PSP</td>
+						<td>35</td>
+						<td>30</td>
+					</tr>
+					<tr height="19">
+						<td height="19">9</td>
+						<td>KOSNANTO</td>
+						<td>L051181009</td>
+						<td>20</td>
+						<td>PSP</td>
+						<td>32</td>
+						<td>32</td>
+					</tr>
+					<tr height="19">
+						<td height="19">10</td>
+						<td>NURSALAM SAPUTRA</td>
+						<td>L051181010</td>
+						<td>21</td>
+						<td>PSP</td>
+						<td>36</td>
+						<td>39</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td width="164"> </td>
+			<td width="101"> </td>
+			<td width="108"> </td>
+			<td width="64"> </td>
+			<td width="64"> </td>
+			<td width="64"> </td>
+		</tr>
+		<tr height="19">
+			<td align="right" height="19"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td align="right"> </td>
+			<td> </td>
+			<td>r</td>
+		</tr>
+	</tbody>
+</table>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>350.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_205922</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

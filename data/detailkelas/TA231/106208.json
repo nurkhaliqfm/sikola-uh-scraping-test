@@ -1,0 +1,85 @@
+{
+  "id_prodi": 3,
+  "nama_prodi": "AKUNTANSI - S1",
+  "id_prodi_semester": 2370,
+  "idnumber_sikola": "48359.106208.3",
+  "shortname_sikola": "TA231-106208",
+  "kode_matkul": "23A03110103",
+  "nama_matkul": "PENGANTAR AKUNTANSI",
+  "nama_kelas": "PENGANTAR AKUNTANSI  KELAS  H",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 413592,
+      "id_user": 84394,
+      "id_prodi": 3,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANISA JULIANTI",
+      "nim": "A031231050",
+      "jalan": "RAYA",
+      "rt": 12,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "75655",
+      "nisn": "0057898318",
+      "tempat_lahir": "KUTAI TIMUR",
+      "tanggal_lahir": "2005-07-18",
+      "telepon": "081257722222",
+      "handphone": "085248067123",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Wanasari",
+      "id_wilayah": "161002",
+      "nik": "6408025807050001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anisajuliii1@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "bf323435-9025-4a5f-b8a9-1399a1b2d43b",
+      "id_registrasi_mahasiswa_pddikti": "212fc874-bf75-47f9-b7b7-4e359c270067",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106208,
+        "id_mahasiswa": 413592,
+        "created_at": "2023-08-16 19:33:55"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 943,
+      "id_user": 25521,
+      "id_prodi": 3,
+      "nama": "Prof. Dr. Arifuddin, SE., MSi.Ak,CA",
+      "nidn": "0009066401",
+      "nip": "196406091992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b29796f1-ebca-4a59-9ac4-ee4074a68de0",
+      "pivot": {
+        "id_kelas_kuliah": 106208,
+        "id_dosen": 943
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4127,
+      "id_user": 79080,
+      "id_prodi": 3,
+      "nama": "Fadly Achmad Arifuddin Mannan, S.E., M.Si.,AK",
+      "nidn": null,
+      "nip": "7371033012920001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 106208,
+        "id_dosen": 4127
+      }
+    }
+  ]
+}

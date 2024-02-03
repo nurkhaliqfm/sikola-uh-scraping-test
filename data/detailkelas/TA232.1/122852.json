@@ -1,0 +1,140 @@
+{
+  "id_prodi": 29,
+  "nama_prodi": "SOSIOLOGI - S1",
+  "id_prodi_semester": 2624,
+  "idnumber_sikola": "11350.122852.29",
+  "shortname_sikola": "TA232-122852",
+  "kode_matkul": "335E4103",
+  "nama_matkul": "Praktikum Pekerja Sosial I",
+  "nama_kelas": "Praktikum Pekerja Sosial I",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 155118,
+      "id_user": 51494,
+      "id_prodi": 29,
+      "angkatan": 2021,
+      "nama_mahasiswa": "HADI SISWADI HAMRAN",
+      "nim": "E031211052",
+      "jalan": "JALAN PANAKKUKANG DOLE DUSUN TANETE",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "TANETE",
+      "kode_pos": "92355",
+      "nisn": "0007413046",
+      "tempat_lahir": "Tanete",
+      "tanggal_lahir": "2001-08-27",
+      "telepon": "085299907639",
+      "handphone": "6282292922137",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BARANA",
+      "id_wilayah": "190506",
+      "nik": "7304062708010001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "hadisiswadi27@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9e1a0ec2-e66d-4f59-a541-6c807ac96ee5",
+      "id_registrasi_mahasiswa_pddikti": "a7d70e35-46d3-4165-a799-6676a195bdcc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122852,
+        "id_mahasiswa": 155118,
+        "created_at": "2024-01-31 15:30:15"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 160243,
+      "id_user": 56931,
+      "id_prodi": 29,
+      "angkatan": 2021,
+      "nama_mahasiswa": "RENATA PHOULIN PONGBULAAN",
+      "nim": "E031211012",
+      "jalan": "JLN. MUNGKASA BTN MERDEKA BLOK D.5",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91921",
+      "nisn": "0031738788",
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "2003-07-09",
+      "telepon": "0",
+      "handphone": "089504006753",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SALEKOE",
+      "id_wilayah": "196205",
+      "nik": "7373054907030001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "renataphoulin07@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3c23cee6-eff8-466c-88b7-e77528de6a4d",
+      "id_registrasi_mahasiswa_pddikti": "93c7c6e6-5e12-4649-aec5-7f2df590ebde",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122852,
+        "id_mahasiswa": 160243,
+        "created_at": "2024-01-31 22:18:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1154,
+      "id_user": 34099,
+      "id_prodi": 29,
+      "nama": "Dr. Muh. Iqbal Latief, M.Si",
+      "nidn": "0016106505",
+      "nip": "196510161990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7059a033-138f-4d05-8198-4f834adf3af7",
+      "pivot": {
+        "id_kelas_kuliah": 122852,
+        "id_dosen": 1154
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2471,
+      "id_user": 37729,
+      "id_prodi": 29,
+      "nama": "Andi Nurlela, S.Sos., M.Si",
+      "nidn": "8806170018",
+      "nip": "198409302018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "80a3e204-9d02-43f0-aa0d-736ddc295dea",
+      "pivot": {
+        "id_kelas_kuliah": 122852,
+        "id_dosen": 2471
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2918,
+      "id_user": 34101,
+      "id_prodi": 29,
+      "nama": "Andi Muhammad Arif Haris S.Tr.Sos., Sp.P.S.M",
+      "nidn": "8812823420",
+      "nip": "199302212020015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "23c85ee7-6491-4ab2-b841-c0f2788436b4",
+      "pivot": {
+        "id_kelas_kuliah": 122852,
+        "id_dosen": 2918
+      }
+    }
+  ]
+}

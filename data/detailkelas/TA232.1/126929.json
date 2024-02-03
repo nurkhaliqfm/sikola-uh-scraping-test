@@ -1,0 +1,101 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47525.126929.10",
+  "shortname_sikola": "TA232-126929",
+  "kode_matkul": "23D01132702",
+  "nama_matkul": "Rekayasa Jalan Rel",
+  "nama_kelas": "Rekayasa Jalan Rel Pilihan INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 160003,
+      "id_user": 56652,
+      "id_prodi": 10,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUH. FIKRI IDRIS",
+      "nim": "D011211121",
+      "jalan": "JL. POROS ANABANUA - SENGKANG",
+      "rt": 3,
+      "rw": 1,
+      "dusun": "Lapao",
+      "kode_pos": "90951",
+      "nisn": "0034630695",
+      "tempat_lahir": "LAPAO",
+      "tanggal_lahir": "2003-03-20",
+      "telepon": "0811427521",
+      "handphone": "088242420102",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MAPPADAELO",
+      "id_wilayah": "190808",
+      "nik": "7313086003030002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muhfikriidris8@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "75c817db-00e9-4b5a-aa0b-a1346311e86f",
+      "id_registrasi_mahasiswa_pddikti": "cfe4d480-282c-46cb-8835-1d3d95ff27ce",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126929,
+        "id_mahasiswa": 160003,
+        "created_at": "2024-01-25 21:57:58"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 979,
+      "id_user": 33532,
+      "id_prodi": 11,
+      "nama": "Prof. Dr. Ir. Sumarni Hamid, MT.",
+      "nidn": "0028125802",
+      "nip": "195812281986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3de517d9-c7d4-4d2a-bda6-ac3c8eb2ce98",
+      "pivot": {
+        "id_kelas_kuliah": 126929,
+        "id_dosen": 979
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1278,
+      "id_user": 32360,
+      "id_prodi": 10,
+      "nama": "Prof. Ir. Sakti Adji Adisasmita, M.Si.,M.Eng.Sc.,Ph.D.",
+      "nidn": "0022046402",
+      "nip": "196404221993031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ae851b29-79b3-43ef-ac3d-e9b762084438",
+      "pivot": {
+        "id_kelas_kuliah": 126929,
+        "id_dosen": 1278
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1282,
+      "id_user": 19425,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Eng. Muhammad Isran Ramli, ST., MT.",
+      "nidn": "0026097301",
+      "nip": "197309262000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c5dcceb-62d9-434f-aacd-29386867ffc8",
+      "pivot": {
+        "id_kelas_kuliah": 126929,
+        "id_dosen": 1282
+      }
+    }
+  ]
+}

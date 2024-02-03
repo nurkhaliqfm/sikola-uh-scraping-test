@@ -1,0 +1,140 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28161.129442.102",
+  "shortname_sikola": "TA232-129442",
+  "kode_matkul": "18P06212602",
+  "nama_matkul": "Mikrobiologi Lingkungan",
+  "nama_kelas": "Mikrobiologi Lingkungan (Mikro-Afirmasi)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423797,
+      "id_user": 82355,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ASE NURUL HIDAYAH",
+      "nim": "P062231047",
+      "jalan": "JL PARAKAN WONOSOBO KM 09",
+      "rt": 8,
+      "rw": 2,
+      "dusun": "Tlahab",
+      "kode_pos": "56264",
+      "nisn": "P062231047",
+      "tempat_lahir": "TEMANGGUNG",
+      "tanggal_lahir": "1996-02-11",
+      "telepon": "0",
+      "handphone": "081215041995",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Tlahab",
+      "id_wilayah": "032314",
+      "nik": "3323175102960002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ase.nurulhidayah11@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0d3b03d8-b41f-45bb-9563-c5969079269d",
+      "id_registrasi_mahasiswa_pddikti": "b9418a19-9185-4ea1-96ab-6412cb4a45a1",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129442,
+        "id_mahasiswa": 423797,
+        "created_at": "2024-01-30 09:53:23"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 423614,
+      "id_user": 82878,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FADEL RAJAB NUGRAHA",
+      "nim": "P062231045",
+      "jalan": "JLN KAMPUNG BARU, LR. BERKAH",
+      "rt": 2,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "93232",
+      "nisn": null,
+      "tempat_lahir": "RAHA",
+      "tanggal_lahir": "1997-11-08",
+      "telepon": "0",
+      "handphone": "085222210953",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Aundonohu",
+      "id_wilayah": "206002",
+      "nik": "7403100811970203",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "frnugraha8@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "26dc4abc-c753-44fa-8012-db597d1ae063",
+      "id_registrasi_mahasiswa_pddikti": "d4e2d28d-a1df-45c6-a8f1-20567f7283f9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129442,
+        "id_mahasiswa": 423614,
+        "created_at": "2024-01-31 18:30:11"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1485,
+      "id_user": 34491,
+      "id_prodi": 6,
+      "nama": "dr.  Rizalinda, M.Sc.,Ph.D., Sp.MK",
+      "nidn": "0018096904",
+      "nip": "196909181996032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b90217-d34c-4cd0-b128-058f1d8ed421",
+      "pivot": {
+        "id_kelas_kuliah": 129442,
+        "id_dosen": 1485
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3633,
+      "id_user": 60680,
+      "id_prodi": 6,
+      "nama": "dr. Yunialthy Dwia Pertiwi, Ph.D",
+      "nidn": "0021069008",
+      "nip": "199006212022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "45a0a53a-a152-4972-bd1e-3de53cd42a45",
+      "pivot": {
+        "id_kelas_kuliah": 129442,
+        "id_dosen": 3633
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1124,
+      "id_user": 14553,
+      "id_prodi": 50,
+      "nama": "Dr.  Rosana Agus, M.Si., M.Si.",
+      "nidn": "0005096502",
+      "nip": "196509051991032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57ec59bf-d1c2-48ba-9cf2-642801541f1d",
+      "pivot": {
+        "id_kelas_kuliah": 129442,
+        "id_dosen": 1124
+      }
+    }
+  ]
+}

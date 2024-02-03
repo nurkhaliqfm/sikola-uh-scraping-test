@@ -1,0 +1,45 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47515.127553.10",
+  "shortname_sikola": "TA232-127553",
+  "kode_matkul": "23D01131702",
+  "nama_matkul": "Rekayasa Sungai dan Rawa",
+  "nama_kelas": "Rekayasa Sungai dan Rawa Pilihan INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1044,
+      "id_user": 33440,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Ir. Rita Tahir Lopa, MT.",
+      "nidn": "0019036709",
+      "nip": "196703191992032010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "761d1af0-a943-4d65-97ae-cb1abb9a5a8f",
+      "pivot": {
+        "id_kelas_kuliah": 127553,
+        "id_dosen": 1044
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1832,
+      "id_user": 33443,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Bambang Bakri, ST., MT.",
+      "nidn": "0025048108",
+      "nip": "198104252008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b3baa0c0-551d-44bd-8786-713c7c9a593c",
+      "pivot": {
+        "id_kelas_kuliah": 127553,
+        "id_dosen": 1832
+      }
+    }
+  ]
+}

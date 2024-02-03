@@ -1,0 +1,77 @@
+{
+  "id_prodi": 194,
+  "nama_prodi": "BIOLOGI - S2",
+  "id_prodi_semester": 2530,
+  "idnumber_sikola": "35935.104584.194",
+  "shortname_sikola": "TA231-104584",
+  "kode_matkul": "18H05210903",
+  "nama_matkul": "FISIOLOGI DAN GENETIKA MIKROBA",
+  "nama_kelas": "FISIOLOGI DAN GENETIKA MIKROBA",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1153,
+      "id_user": 11054,
+      "id_prodi": 50,
+      "nama": "Dr.  Zaraswati Dwyana Zainuddin, M.Si.",
+      "nidn": "0009126502",
+      "nip": "196512091990082001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ed0e50f-359f-4496-bd4e-734d1b57a381",
+      "pivot": {
+        "id_kelas_kuliah": 104584,
+        "id_dosen": 1153
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1124,
+      "id_user": 14553,
+      "id_prodi": 50,
+      "nama": "Dr.  Rosana Agus, M.Si., M.Si.",
+      "nidn": "0005096502",
+      "nip": "196509051991032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57ec59bf-d1c2-48ba-9cf2-642801541f1d",
+      "pivot": {
+        "id_kelas_kuliah": 104584,
+        "id_dosen": 1124
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 826,
+      "id_user": 26986,
+      "id_prodi": 50,
+      "nama": "Dr.  Sjafaraenan, M.Si.",
+      "nidn": "0018065804",
+      "nip": "195808161987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ad92b844-e533-4d23-853f-99370234276e",
+      "pivot": {
+        "id_kelas_kuliah": 104584,
+        "id_dosen": 826
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1573,
+      "id_user": 33082,
+      "id_prodi": 50,
+      "nama": "Dr.  Irma Andriani, S.Si.,M.Si.",
+      "nidn": "0009087101",
+      "nip": "197108091999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "021459e6-b6f7-4374-a472-0dbdaf294a26",
+      "pivot": {
+        "id_kelas_kuliah": 104584,
+        "id_dosen": 1573
+      }
+    }
+  ]
+}

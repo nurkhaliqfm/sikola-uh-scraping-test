@@ -1,0 +1,77 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2643,
+  "idnumber_sikola": "21383.120658.57",
+  "shortname_sikola": "TA232-120658",
+  "kode_matkul": "143K1622",
+  "nama_matkul": "Dasar Kesehatan Lingkungan",
+  "nama_kelas": "Dasar Kesehatan Lingkungan Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 934,
+      "id_user": 30673,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Anwar Daud, S.KM., M.Kes.",
+      "nidn": "0012106610",
+      "nip": "196610121993031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "017f0e4a-88d9-48b5-acff-2e0d80dc6a5a",
+      "pivot": {
+        "id_kelas_kuliah": 120658,
+        "id_dosen": 934
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1654,
+      "id_user": 27640,
+      "id_prodi": 57,
+      "nama": "Dr. Erniwati Ibrahim, SKM.,M.Kes.",
+      "nidn": "0019047302",
+      "nip": "197304192005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "21f243cf-a2b1-4cb7-b5eb-95ec244434f5",
+      "pivot": {
+        "id_kelas_kuliah": 120658,
+        "id_dosen": 1654
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2316,
+      "id_user": 37398,
+      "id_prodi": 57,
+      "nama": "Ruslan, SKM.,MPH.",
+      "nidn": "0016067605",
+      "nip": "197906262002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7cd7a739-0a7f-4bf0-b36e-5adbba2e5ae3",
+      "pivot": {
+        "id_kelas_kuliah": 120658,
+        "id_dosen": 2316
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3608,
+      "id_user": 57883,
+      "id_prodi": 57,
+      "nama": "Basir, S.KM., M.Sc.",
+      "nidn": "0007059404",
+      "nip": "199405072021073001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "ceef287b-1d1c-42ee-9515-9b55c8c9bcb4",
+      "pivot": {
+        "id_kelas_kuliah": 120658,
+        "id_dosen": 3608
+      }
+    }
+  ]
+}

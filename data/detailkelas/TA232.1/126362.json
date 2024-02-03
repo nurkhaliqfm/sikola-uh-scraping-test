@@ -1,0 +1,29 @@
+{
+  "id_prodi": 13,
+  "nama_prodi": "TEKNIK INDUSTRI - S1",
+  "id_prodi_semester": 2609,
+  "idnumber_sikola": "46510.126362.13",
+  "shortname_sikola": "TA232-126362",
+  "kode_matkul": "23U02133620",
+  "nama_matkul": "Pengembangan Karakter Humanis",
+  "nama_kelas": "Pengembangan Karaktek Humanis",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1707,
+      "id_user": 26764,
+      "id_prodi": 13,
+      "nama": "Dr. Eng. Ir. Irwan Setiawan, ST. MT",
+      "nidn": "0002067605",
+      "nip": "197606022005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8957f6ec-09b3-47b5-b522-d07e7490eee4",
+      "pivot": {
+        "id_kelas_kuliah": 126362,
+        "id_dosen": 1707
+      }
+    }
+  ]
+}

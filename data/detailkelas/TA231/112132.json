@@ -1,0 +1,45 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2480,
+  "idnumber_sikola": "31929.112132.138",
+  "shortname_sikola": "TA231-112132",
+  "kode_matkul": "19L06214103",
+  "nama_matkul": "Valuasi Ekonomi Sumberdaya Perikanan",
+  "nama_kelas": "Valuasi Ekonomi Sumberdaya Perikanan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 794,
+      "id_user": 28188,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Aris, M.Si.",
+      "nidn": "0025046202",
+      "nip": "196204251990031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55b2ea46-51e8-4719-b42e-1f79aa4ecc4a",
+      "pivot": {
+        "id_kelas_kuliah": 112132,
+        "id_dosen": 794
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1788,
+      "id_user": 21497,
+      "id_prodi": 70,
+      "nama": "Dr.  Hamzah, S.Pi., M.Si.",
+      "nidn": "0026017101",
+      "nip": "197101262001121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5cb64997-4d9d-477c-bbcd-b7de1cd0d0e4",
+      "pivot": {
+        "id_kelas_kuliah": 112132,
+        "id_dosen": 1788
+      }
+    }
+  ]
+}

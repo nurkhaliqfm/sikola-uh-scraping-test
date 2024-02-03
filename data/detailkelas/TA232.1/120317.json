@@ -1,0 +1,125 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48140.120317.12",
+  "shortname_sikola": "TA232-120317",
+  "kode_matkul": "23D02130904",
+  "nama_matkul": "Sistem Pembangkit Daya + Praktikum",
+  "nama_kelas": "SISTEM PEMBANGKIT DAYA + PRAKTIKUM C2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1194,
+      "id_user": 14331,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng. Andi Erwin Eka Putra, ST., MT.",
+      "nidn": "0021127102",
+      "nip": "197112211998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e084b56a-9c49-4d8b-8546-40f886bf3c72",
+      "pivot": {
+        "id_kelas_kuliah": 120317,
+        "id_dosen": 1194
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1141,
+      "id_user": 34320,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ing. Wahyu Haryadi Piarah, MSME.",
+      "nidn": "0002036004",
+      "nip": "196003021986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "602228c6-6068-469f-8ea1-2aaab24b24cb",
+      "pivot": {
+        "id_kelas_kuliah": 120317,
+        "id_dosen": 1141
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 845,
+      "id_user": 31914,
+      "id_prodi": 12,
+      "nama": "Ir. Baharuddin Mire, MT.",
+      "nidn": "9990044083",
+      "nip": "195509141987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50b8024a-0592-4908-bb76-e97c8b3e6762",
+      "pivot": {
+        "id_kelas_kuliah": 120317,
+        "id_dosen": 845
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1427,
+      "id_user": 31767,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng Jalaluddin, ST., MT.",
+      "nidn": "0025087201",
+      "nip": "197208252000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "67974365-53ce-4226-b25a-972ab0cf7489",
+      "pivot": {
+        "id_kelas_kuliah": 120317,
+        "id_dosen": 1427
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1833,
+      "id_user": 23149,
+      "id_prodi": 12,
+      "nama": "Dr. Eng. Novriany Amaliyah, ST.,MT.",
+      "nidn": "0012117908",
+      "nip": "197911122008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "07ea883b-769b-4131-89d2-daabac9cf204",
+      "pivot": {
+        "id_kelas_kuliah": 120317,
+        "id_dosen": 1833
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2565,
+      "id_user": 26211,
+      "id_prodi": 12,
+      "nama": "Gerard Antonini Duma, S.T., M.T.",
+      "nidn": "0926029201",
+      "nip": "199202262019031009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ad2a0fcc-8994-4364-83d4-dc0fc9a997a8",
+      "pivot": {
+        "id_kelas_kuliah": 120317,
+        "id_dosen": 2565
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1644,
+      "id_user": 34415,
+      "id_prodi": 12,
+      "nama": "Ir. Andi Mangkau, MT.",
+      "nidn": "0031126108",
+      "nip": "196112311990021003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9555c6f4-6d09-4577-80f5-f3c364281143",
+      "pivot": {
+        "id_kelas_kuliah": 120317,
+        "id_dosen": 1644
+      }
+    }
+  ]
+}

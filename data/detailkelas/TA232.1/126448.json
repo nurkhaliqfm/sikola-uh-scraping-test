@@ -1,0 +1,29 @@
+{
+  "id_prodi": 29,
+  "nama_prodi": "SOSIOLOGI - S1",
+  "id_prodi_semester": 2624,
+  "idnumber_sikola": "11358.126448.29",
+  "shortname_sikola": "TA232-126448",
+  "kode_matkul": "445E4103",
+  "nama_matkul": "Teori Pembangunan",
+  "nama_kelas": "Teori Pembangunan (Kelas Khusus 2017)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1883,
+      "id_user": 47462,
+      "id_prodi": 29,
+      "nama": "Ria Renita Abbas, S.Sos.,M.Si.",
+      "nidn": "0016057605",
+      "nip": "197605162009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "04f90469-8d0a-477e-aa60-e54a7b24f3c3",
+      "pivot": {
+        "id_kelas_kuliah": 126448,
+        "id_dosen": 1883
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 162,
+  "nama_prodi": "GEOFISIKA - S2",
+  "id_prodi_semester": 2730,
+  "idnumber_sikola": "39775.119286.162",
+  "shortname_sikola": "TA232-119286",
+  "kode_matkul": "18H04211802",
+  "nama_matkul": "Kuliah Lapangan",
+  "nama_kelas": "KULIAH LAPANGAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1111,
+      "id_user": 19772,
+      "id_prodi": 48,
+      "nama": "Dr.  Sakka, M.Si.",
+      "nidn": "0025106401",
+      "nip": "196410251991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a344fa7a-9733-4b3a-8881-d58ea6a471a4",
+      "pivot": {
+        "id_kelas_kuliah": 119286,
+        "id_dosen": 1111
+      }
+    }
+  ]
+}

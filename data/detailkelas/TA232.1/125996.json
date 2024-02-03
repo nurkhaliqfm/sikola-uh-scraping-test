@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2733,
+  "idnumber_sikola": "34744.125996.165",
+  "shortname_sikola": "TA232-125996",
+  "kode_matkul": "18D02330602",
+  "nama_matkul": "UJIAN PROMOSI",
+  "nama_kelas": "UJIAN PROMOSI (MARWATY)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 135937,
+      "id_user": 36610,
+      "id_prodi": 165,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MARWATI",
+      "nim": "D023201002",
+      "jalan": "JL. Tamalanrea Raya BTP Blok M / 34 A",
+      "rt": 8,
+      "rw": 22,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "Merauke",
+      "tanggal_lahir": "1976-02-01",
+      "telepon": "0411582719",
+      "handphone": "628124118351",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "7371144102760004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "marwati.adalle@uin-alauddin.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "cbe50b40-b89a-40aa-a7d9-05ff2c23f10d",
+      "id_registrasi_mahasiswa_pddikti": "74203841-4991-404a-8ba2-0daf0bcc92af",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125996,
+        "id_mahasiswa": 135937,
+        "created_at": "2024-02-02 06:18:57"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 125996,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 125996,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 125996,
+        "id_dosen": 1454
+      }
+    }
+  ]
+}

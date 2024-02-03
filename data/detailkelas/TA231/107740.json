@@ -1,0 +1,77 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2504,
+  "idnumber_sikola": "34836.107740.167",
+  "shortname_sikola": "TA231-107740",
+  "kode_matkul": "18D05311104",
+  "nama_matkul": "TOPIK KHUSUS SISTEM KOMPUTER LANJUT",
+  "nama_kelas": "PILIHAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1609,
+      "id_user": 32004,
+      "id_prodi": 17,
+      "nama": "Prof. Dr.-Ing. Ir. Faizal Arya Samman, ST, MT, IPU, AseanEng, ACPE",
+      "nidn": "0005067507",
+      "nip": "197506052002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "06214b1e-7d41-4708-982d-94adb48684de",
+      "pivot": {
+        "id_kelas_kuliah": 107740,
+        "id_dosen": 1609
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1175,
+      "id_user": 31334,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Zahir Zainuddin, M.Sc.",
+      "nidn": "0027046402",
+      "nip": "196404271989101002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e1f329a7-0124-4722-958b-2ff1239718ac",
+      "pivot": {
+        "id_kelas_kuliah": 107740,
+        "id_dosen": 1175
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1743,
+      "id_user": 9405,
+      "id_prodi": 18,
+      "nama": "Dr.  Adnan, ST.,MT.",
+      "nidn": "0026047403",
+      "nip": "197404262003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bac0aac1-75a3-4536-a442-abace2e0c4d5",
+      "pivot": {
+        "id_kelas_kuliah": 107740,
+        "id_dosen": 1743
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1979,
+      "id_user": 15926,
+      "id_prodi": 17,
+      "nama": "Muh. Anshar, S.T., M.Sc(Research), Ph. D",
+      "nidn": "0017087713",
+      "nip": "197708172005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f091dc64-d02a-4427-aaf1-1b4ba2d7ba6d",
+      "pivot": {
+        "id_kelas_kuliah": 107740,
+        "id_dosen": 1979
+      }
+    }
+  ]
+}

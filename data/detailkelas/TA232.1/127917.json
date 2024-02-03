@@ -1,0 +1,61 @@
+{
+  "id_prodi": 133,
+  "nama_prodi": "TEKNIK PERENCANAAN PRASARANA - S2",
+  "id_prodi_semester": 2706,
+  "idnumber_sikola": "31550.127917.133",
+  "shortname_sikola": "TA232-127917",
+  "kode_matkul": "18P08211402",
+  "nama_matkul": "Ekonomi Sumber Daya dan Lingkungan\r\n",
+  "nama_kelas": "Ekonomi Sumberdaya dan Lingkungan (P) (TPP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 127917,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3461,
+      "id_user": 60404,
+      "id_prodi": 10,
+      "nama": "Muhammad Akbar Walenna, S.T., M.Sc",
+      "nidn": "0016039008",
+      "nip": "199003162021083001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "ea903c3c-37ce-47b2-bef7-929aa8d5a94b",
+      "pivot": {
+        "id_kelas_kuliah": 127917,
+        "id_dosen": 3461
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3590,
+      "id_user": 60888,
+      "id_prodi": 133,
+      "nama": "Dr. Wadzibah Nas, SE., M.M.",
+      "nidn": "0020128508",
+      "nip": "198512202010122003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "9dca7e28-2cdf-4c55-974b-5ca3aabc8130",
+      "pivot": {
+        "id_kelas_kuliah": 127917,
+        "id_dosen": 3590
+      }
+    }
+  ]
+}

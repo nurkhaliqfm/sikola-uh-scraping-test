@@ -1,0 +1,140 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "19688.103272.51",
+  "shortname_sikola": "TA231-103272",
+  "kode_matkul": "340I1103",
+  "nama_matkul": "BIOTEKNOLOGI PAKAN",
+  "nama_kelas": "Bioteknologi Pakan (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 140111,
+      "id_user": 40961,
+      "id_prodi": 51,
+      "angkatan": 2020,
+      "nama_mahasiswa": "REKA NUR ALIZA",
+      "nim": "I011201186",
+      "jalan": "jl. sepakat kera kera",
+      "rt": 2,
+      "rw": 6,
+      "dusun": "kera kera",
+      "kode_pos": "90245",
+      "nisn": "0031319471",
+      "tempat_lahir": "LEBBAE",
+      "tanggal_lahir": "2003-02-02",
+      "telepon": "00000000000",
+      "handphone": "0895632014432",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "tamalanrea indah",
+      "id_wilayah": "190000",
+      "nik": "7308126202020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nuralizareka@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "bea9e540-8817-4377-975b-3c2269bc7e12",
+      "id_registrasi_mahasiswa_pddikti": "6a6e4433-98cd-41a3-b4ca-6e538fd8642f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103272,
+        "id_mahasiswa": 140111,
+        "created_at": "2023-07-31 16:27:35"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 140114,
+      "id_user": 40963,
+      "id_prodi": 51,
+      "angkatan": 2020,
+      "nama_mahasiswa": "AFIQA MARDHATILLAH MUHAMMAD",
+      "nim": "I011201191",
+      "jalan": "BTN Danau Tempe Permai Blok LL 3",
+      "rt": 4,
+      "rw": 3,
+      "dusun": "Tanjong Manik",
+      "kode_pos": "90951",
+      "nisn": "0016011898",
+      "tempat_lahir": "MANGKOSO",
+      "tanggal_lahir": "2001-11-19",
+      "telepon": "000000",
+      "handphone": "6285298212413",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Assorajang",
+      "id_wilayah": "190808",
+      "nik": "7313085911010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "afiqamardhatillah@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ba4bb616-dd0e-4b8d-a60c-6660758bc7cb",
+      "id_registrasi_mahasiswa_pddikti": "abcac7f6-0ff1-4037-ac78-d6f9424d1756",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103272,
+        "id_mahasiswa": 140114,
+        "created_at": "2023-08-03 10:54:55"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 831,
+      "id_user": 15465,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir.  Budiman, MP.",
+      "nidn": "0031125812",
+      "nip": "195812311986031026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0949c7b3-e5e1-4e75-aad2-09f901e80e10",
+      "pivot": {
+        "id_kelas_kuliah": 103272,
+        "id_dosen": 831
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1219,
+      "id_user": 18215,
+      "id_prodi": 51,
+      "nama": "Dr.  A. Mujnisa, S.Pt.,MP.",
+      "nidn": "0027037302",
+      "nip": "197303271997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8922a713-518d-408d-8ace-017cd5d0125c",
+      "pivot": {
+        "id_kelas_kuliah": 103272,
+        "id_dosen": 1219
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1825,
+      "id_user": 16858,
+      "id_prodi": 51,
+      "nama": "Marhamah Nadir, SP.,M.Si., Ph.D.",
+      "nidn": "0009027303",
+      "nip": "197302092008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "765b7372-1002-4fc8-988c-7c28b540e4b3",
+      "pivot": {
+        "id_kelas_kuliah": 103272,
+        "id_dosen": 1825
+      }
+    }
+  ]
+}

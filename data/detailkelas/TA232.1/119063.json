@@ -1,0 +1,85 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2617,
+  "idnumber_sikola": "47987.119063.21",
+  "shortname_sikola": "TA232-119063",
+  "kode_matkul": "23D06140302",
+  "nama_matkul": "Tsunami",
+  "nama_kelas": "Tsunami",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 39688,
+      "id_user": 7619,
+      "id_prodi": 21,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Yoga Miguel Enrico Frederik",
+      "nim": "D061191030",
+      "jalan": "Jl. Krakatau F. 203",
+      "rt": 3,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "92983",
+      "nisn": "0017888180",
+      "tempat_lahir": "Sleman",
+      "tanggal_lahir": "2001-05-08",
+      "telepon": "0",
+      "handphone": "081354915194",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Magani",
+      "id_wilayah": "192605",
+      "nik": "7324020805010002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "yogafrederik@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f08f4815-a1ca-4c94-961c-3a2e1762faac",
+      "id_registrasi_mahasiswa_pddikti": "c3c4058c-7e10-430f-ab16-a4a71e1c69fc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119063,
+        "id_mahasiswa": 39688,
+        "created_at": "2024-01-23 11:31:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2174,
+      "id_user": 58033,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Safri Burhanuddin, DEA.",
+      "nidn": "0024076103",
+      "nip": "196107241988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "018223b6-477f-4128-bc88-c26ead46606e",
+      "pivot": {
+        "id_kelas_kuliah": 119063,
+        "id_dosen": 2174
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1469,
+      "id_user": 13038,
+      "id_prodi": 21,
+      "nama": "Dr. Ir. Haerani Sirajuddin, M.T.",
+      "nidn": "0019116701",
+      "nip": "196711191998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fa52c8b-c8fc-432b-95e6-c7707dc470ed",
+      "pivot": {
+        "id_kelas_kuliah": 119063,
+        "id_dosen": 1469
+      }
+    }
+  ]
+}

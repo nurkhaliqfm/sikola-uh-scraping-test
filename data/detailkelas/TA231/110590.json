@@ -1,0 +1,69 @@
+{
+  "id_prodi": 125,
+  "nama_prodi": "PPDS ILMU KEDOKTERAN JIWA - PSIKIATRI",
+  "id_prodi_semester": 2467,
+  "idnumber_sikola": "30774.110590.125",
+  "shortname_sikola": "TA231-110590",
+  "kode_matkul": "0703C21101",
+  "nama_matkul": "KOGNITIF THERAPY",
+  "nama_kelas": "KELAS J - KOGNITIF THERAPY 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 102928,
+      "id_user": 20951,
+      "id_prodi": 125,
+      "angkatan": 2016,
+      "nama_mahasiswa": "Muhammad Alim Jaya, M.Kes",
+      "nim": "C106216101",
+      "jalan": "Jalan Perintis Kemerdekaan IV Lr. 9, Jl. Effendi 2 No. 123",
+      "rt": 6,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "Ujung Pandang",
+      "tanggal_lahir": "1988-02-24",
+      "telepon": "0",
+      "handphone": "085341909642",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "8271032401880002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "adjieafra@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "54b3342f-4ccc-4a17-8925-c5eed01007cf",
+      "id_registrasi_mahasiswa_pddikti": "ff4f4f1c-f871-4e85-bf8c-5cf6b02cca95",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110590,
+        "id_mahasiswa": 102928,
+        "created_at": "2023-08-04 09:38:02"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2998,
+      "id_user": 59362,
+      "id_prodi": 125,
+      "nama": "dr. Indrawaty Suhuyanli, M.Kes, Sp.KJ",
+      "nidn": "8810011019",
+      "nip": "198108292014122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "39bf17c8-3bac-4c7d-a21d-e9f7c4dc1795",
+      "pivot": {
+        "id_kelas_kuliah": 110590,
+        "id_dosen": 2998
+      }
+    }
+  ]
+}

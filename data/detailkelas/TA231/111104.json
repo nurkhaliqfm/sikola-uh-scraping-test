@@ -1,0 +1,77 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2419,
+  "idnumber_sikola": "39616.111104.71",
+  "shortname_sikola": "TA231-111104",
+  "kode_matkul": "20M01130103",
+  "nama_matkul": "Kehutanan Masyarakat",
+  "nama_kelas": "KEHUTANAN MASYARAKAT (C)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1834,
+      "id_user": 10744,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. forest. Muhammad Alif KS., S.Hut., M.Si.",
+      "nidn": "0031087903",
+      "nip": "197908312008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b39a91d9-f3db-4e3f-9442-1b829450f4e6",
+      "pivot": {
+        "id_kelas_kuliah": 111104,
+        "id_dosen": 1834
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 786,
+      "id_user": 19301,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Yusran, S.Hut., M.Si., IPU",
+      "nidn": "0006126901",
+      "nip": "196912061996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a3342-cddb-406b-835b-703b68bdce5f",
+      "pivot": {
+        "id_kelas_kuliah": 111104,
+        "id_dosen": 786
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1035,
+      "id_user": 11001,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Supratman, S.Hut., MP.",
+      "nidn": "0018097001",
+      "nip": "197009181997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6f64e940-dc0a-409c-b9a5-dd3aeab3dc37",
+      "pivot": {
+        "id_kelas_kuliah": 111104,
+        "id_dosen": 1035
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2014,
+      "id_user": 19489,
+      "id_prodi": 71,
+      "nama": "Emban Ibnurusyd Masud, S.Hut., MP.",
+      "nidn": "0003048602",
+      "nip": "198604032014041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05978719-a210-4285-8a24-647dcb41ada6",
+      "pivot": {
+        "id_kelas_kuliah": 111104,
+        "id_dosen": 2014
+      }
+    }
+  ]
+}

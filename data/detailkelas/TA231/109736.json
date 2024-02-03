@@ -1,0 +1,45 @@
+{
+  "id_prodi": 157,
+  "nama_prodi": "KETEKNIKAN PERTANIAN - S2",
+  "id_prodi_semester": 2494,
+  "idnumber_sikola": "36934.109736.157",
+  "shortname_sikola": "TA231-109736",
+  "kode_matkul": "19G04211503",
+  "nama_matkul": "Analisis Spasial",
+  "nama_kelas": "Analisis Spasial (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1520,
+      "id_user": 28582,
+      "id_prodi": 155,
+      "nama": "Dr. Ir.  Daniel Useng, M.Eng.Sc.",
+      "nidn": "0001026209",
+      "nip": "196202011990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "743d73ae-1702-4298-9146-f23c7e97a224",
+      "pivot": {
+        "id_kelas_kuliah": 109736,
+        "id_dosen": 1520
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2340,
+      "id_user": 31538,
+      "id_prodi": 155,
+      "nama": "Haerani, STP.,M.Eng.Sc.",
+      "nidn": "0009127711",
+      "nip": "197712092008012011",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "49e014bd-1f93-43d3-9ae7-57fc413c85b5",
+      "pivot": {
+        "id_kelas_kuliah": 109736,
+        "id_dosen": 2340
+      }
+    }
+  ]
+}

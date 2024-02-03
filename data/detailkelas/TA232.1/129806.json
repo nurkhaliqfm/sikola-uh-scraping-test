@@ -1,0 +1,45 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2769,
+  "idnumber_sikola": "45456.129806.202",
+  "shortname_sikola": "TA232-129806",
+  "kode_matkul": "23H08121603",
+  "nama_matkul": "Proses Stokastik",
+  "nama_kelas": "Proses Stokastik B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3941,
+      "id_user": 71569,
+      "id_prodi": 202,
+      "nama": "Mauliddin, S.Si., M.Si",
+      "nidn": "0905088304",
+      "nip": "198308052015031005",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "ae6e0b5f-3c5f-4ed2-b852-3cd5c96743f5",
+      "pivot": {
+        "id_kelas_kuliah": 129806,
+        "id_dosen": 3941
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1617,
+      "id_user": 23154,
+      "id_prodi": 45,
+      "nama": "Dr. Firman, S.Si.,M.Si.",
+      "nidn": "0029046810",
+      "nip": "196804292002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ecfe62ce-72e5-4a1a-b25b-494d3d448393",
+      "pivot": {
+        "id_kelas_kuliah": 129806,
+        "id_dosen": 1617
+      }
+    }
+  ]
+}

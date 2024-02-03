@@ -1,0 +1,61 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2425,
+  "idnumber_sikola": "43236.102919.78",
+  "shortname_sikola": "TA231-102919",
+  "kode_matkul": "22I02213303",
+  "nama_matkul": "Perbibitan Sapi Potong Berbasis Peternakan Rakyat",
+  "nama_kelas": "Perbibitan Sapi Potong Berbasis Peternakan Rakyat",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 748,
+      "id_user": 25832,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Sudirman Baco, M.Sc.",
+      "nidn": "0031126449",
+      "nip": "196412311989031025",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "29db2047-00e6-40a8-9b8c-9c30ae45ade8",
+      "pivot": {
+        "id_kelas_kuliah": 102919,
+        "id_dosen": 748
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 724,
+      "id_user": 15921,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Herry Sonjaya, DEA.",
+      "nidn": "0029015702",
+      "nip": "195701291980031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a66d6aaf-2e7f-4447-a93c-a73d96037617",
+      "pivot": {
+        "id_kelas_kuliah": 102919,
+        "id_dosen": 724
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2034,
+      "id_user": 19038,
+      "id_prodi": 51,
+      "nama": "Dr. Muhammad Hatta, S.Pt.,M.Si.",
+      "nidn": "0031126926",
+      "nip": "196912312005011013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "47705cb4-2f17-4bc9-9f91-597c90a7c68c",
+      "pivot": {
+        "id_kelas_kuliah": 102919,
+        "id_dosen": 2034
+      }
+    }
+  ]
+}

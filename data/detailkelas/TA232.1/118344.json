@@ -1,0 +1,133 @@
+{
+  "id_prodi": 48,
+  "nama_prodi": "GEOFISIKA - S1",
+  "id_prodi_semester": 2637,
+  "idnumber_sikola": "46549.118344.48",
+  "shortname_sikola": "TA232-118344",
+  "kode_matkul": "23U02132304",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141362,
+      "id_user": 43546,
+      "id_prodi": 48,
+      "angkatan": 2020,
+      "nama_mahasiswa": "CHEALSEA JANE CENCIANA",
+      "nim": "H061201023",
+      "jalan": "Jln. Gallung, Lingkungan Limbong",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "91854",
+      "nisn": "0020407842",
+      "tempat_lahir": "Rantepao",
+      "tanggal_lahir": "2002-04-16",
+      "telepon": "0",
+      "handphone": "081245075305",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kelurahan Pangala' Utara",
+      "id_wilayah": "192711",
+      "nik": "7326045604020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "chealseacenciana@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "13e28dda-668b-4fec-aad8-54d29c31d785",
+      "id_registrasi_mahasiswa_pddikti": "d013a7d6-8bf7-4623-9eab-ab3462af9b8d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118344,
+        "id_mahasiswa": 141362,
+        "created_at": "2024-01-29 09:37:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1550,
+      "id_user": 32506,
+      "id_prodi": 48,
+      "nama": "Dr.  Muhammad Alimuddin, Eng.",
+      "nidn": "0029096705",
+      "nip": "196709291993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6ab8f88c-84ab-4393-a290-bca8191ce5f5",
+      "pivot": {
+        "id_kelas_kuliah": 118344,
+        "id_dosen": 1550
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 829,
+      "id_user": 13547,
+      "id_prodi": 48,
+      "nama": "Prof. Dr. Ir. Muh. Altin Massinai, MT., Surv.",
+      "nidn": "0016066414",
+      "nip": "196406161989031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "512c3a9b-cfac-41bd-b430-ee85fb8d3628",
+      "pivot": {
+        "id_kelas_kuliah": 118344,
+        "id_dosen": 829
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1111,
+      "id_user": 19772,
+      "id_prodi": 48,
+      "nama": "Dr.  Sakka, M.Si.",
+      "nidn": "0025106401",
+      "nip": "196410251991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a344fa7a-9733-4b3a-8881-d58ea6a471a4",
+      "pivot": {
+        "id_kelas_kuliah": 118344,
+        "id_dosen": 1111
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3538,
+      "id_user": 59423,
+      "id_prodi": 48,
+      "nama": "Aswar Syafnur, S.Si., M.Eng",
+      "nidn": "8919820021",
+      "nip": "199312152021115001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "c1590f63-4d5b-43da-9bbd-fd9677453b9f",
+      "pivot": {
+        "id_kelas_kuliah": 118344,
+        "id_dosen": 3538
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4080,
+      "id_user": 74192,
+      "id_prodi": 48,
+      "nama": "Andika, S.Si., M.Si.",
+      "nidn": null,
+      "nip": "7306062804970003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 118344,
+        "id_dosen": 4080
+      }
+    }
+  ]
+}

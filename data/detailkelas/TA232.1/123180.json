@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46486.123180.11",
+  "shortname_sikola": "TA232-123180",
+  "kode_matkul": "23D13140403",
+  "nama_matkul": "Remediasi Badan Air dan Pesisir",
+  "nama_kelas": "Remediasi Badan Air dan Pesisir",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2084,
+      "id_user": 32479,
+      "id_prodi": 11,
+      "nama": "Dr. Roslinda Ibrahim, S.P., M.T",
+      "nidn": "0023067502",
+      "nip": "197506232015042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aafa63e6-4385-4e1b-9d7f-2bcd92fbcb15",
+      "pivot": {
+        "id_kelas_kuliah": 123180,
+        "id_dosen": 2084
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2586,
+      "id_user": 37680,
+      "id_prodi": 11,
+      "nama": "Nurjannah Oktorina Abdullah, S.T., M.T.",
+      "nidn": "8883201019",
+      "nip": "199210242019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "133910d7-1f13-49d9-a222-2cabcde0ba70",
+      "pivot": {
+        "id_kelas_kuliah": 123180,
+        "id_dosen": 2586
+      }
+    }
+  ]
+}

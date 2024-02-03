@@ -1,0 +1,61 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2480,
+  "idnumber_sikola": "31902.111698.138",
+  "shortname_sikola": "TA231-111698",
+  "kode_matkul": "19L06211403",
+  "nama_matkul": "Rehabilitasi dan Pengembangan Sumberdaya Perikanan",
+  "nama_kelas": "Rehabilitasi dan Pengembangan Sumberdaya Perikanan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1487,
+      "id_user": 18572,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Nita Rukminasari, S.Pi., MP.",
+      "nidn": "0029126901",
+      "nip": "196912291998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc475580-d411-44b1-a260-e0a9fa1dc8bb",
+      "pivot": {
+        "id_kelas_kuliah": 111698,
+        "id_dosen": 1487
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 768,
+      "id_user": 25703,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Chair Rani, M.Si.",
+      "nidn": "0002046801",
+      "nip": "196804021992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22708aa6-9cb0-4d32-91b3-7f4d28f214a5",
+      "pivot": {
+        "id_kelas_kuliah": 111698,
+        "id_dosen": 768
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1390,
+      "id_user": 18487,
+      "id_prodi": 66,
+      "nama": "Dr. Syafyudin, ST., M.Si.",
+      "nidn": "0019076901",
+      "nip": "196907191996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d610e69-f6af-41e1-aace-bf62ed265bd2",
+      "pivot": {
+        "id_kelas_kuliah": 111698,
+        "id_dosen": 1390
+      }
+    }
+  ]
+}

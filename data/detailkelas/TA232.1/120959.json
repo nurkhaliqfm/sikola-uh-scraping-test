@@ -1,0 +1,45 @@
+{
+  "id_prodi": 31,
+  "nama_prodi": "SASTRA INDONESIA - S1",
+  "id_prodi_semester": 2626,
+  "idnumber_sikola": "37661.120959.31",
+  "shortname_sikola": "TA232-120959",
+  "kode_matkul": "20F01165904",
+  "nama_matkul": "PRAGMATIK BAHASA INDONESIA",
+  "nama_kelas": "Prakmatik Bahasa Indonesia Kls B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 756,
+      "id_user": 34272,
+      "id_prodi": 31,
+      "nama": "Prof. Dr.  Tadjuddin Maknun, SU.",
+      "nidn": "0031125409",
+      "nip": "195412311981031041",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ce7a1cdf-a2dc-488b-9dc3-93ffdc2509a1",
+      "pivot": {
+        "id_kelas_kuliah": 120959,
+        "id_dosen": 756
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2811,
+      "id_user": 36862,
+      "id_prodi": 31,
+      "nama": "A. Meirling, S.S., M.Hum",
+      "nidn": null,
+      "nip": "7313014905890000",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 120959,
+        "id_dosen": 2811
+      }
+    }
+  ]
+}

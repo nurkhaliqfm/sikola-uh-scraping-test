@@ -1,0 +1,61 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2427,
+  "idnumber_sikola": "26323.108215.80",
+  "shortname_sikola": "TA231-108215",
+  "kode_matkul": "18P02214702",
+  "nama_matkul": "Manajemen Keuangan Pusat dan Daerah",
+  "nama_kelas": "Manajemen Keuangan Pusat dan Daerah (P) (PPW/Otoda-Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 973,
+      "id_user": 12995,
+      "id_prodi": 2,
+      "nama": "Prof. Dr.  Cepi Pahlevi, SE., M.Si.",
+      "nidn": "0013116004",
+      "nip": "196011131993031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1eeb8f95-7c65-47e2-884a-8729e4c904ab",
+      "pivot": {
+        "id_kelas_kuliah": 108215,
+        "id_dosen": 973
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1049,
+      "id_user": 10458,
+      "id_prodi": 3,
+      "nama": "Prof. Dr. Kartini, SE.,M.Si.Ak.",
+      "nidn": "0005036504",
+      "nip": "196503051992032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ef855e9-2f44-409b-91ff-1c0e5395f2fc",
+      "pivot": {
+        "id_kelas_kuliah": 108215,
+        "id_dosen": 1049
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1436,
+      "id_user": 29514,
+      "id_prodi": 2,
+      "nama": "Dr. Erlina Pakki, S.E., MA.",
+      "nidn": "0011095902",
+      "nip": "195909111987112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3cd00930-a8d0-47d6-a5e5-d8a2ad2e5a30",
+      "pivot": {
+        "id_kelas_kuliah": 108215,
+        "id_dosen": 1436
+      }
+    }
+  ]
+}

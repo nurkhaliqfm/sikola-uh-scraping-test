@@ -1,0 +1,101 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28142.129374.102",
+  "shortname_sikola": "TA232-129374",
+  "kode_matkul": "18P06211602",
+  "nama_matkul": "Sistem Pencernaan dan Metabolisme",
+  "nama_kelas": "Sistem Pencernaan dan Metabolisme (Fisio-Afirmasi)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421829,
+      "id_user": 79444,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FATMAH M. ABDULLAH",
+      "nim": "P062231018",
+      "jalan": "JL. BRIG. JEND.PIOLA ISA",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Lingkungan 1 qauman",
+      "kode_pos": "96218",
+      "nisn": "P062231018",
+      "tempat_lahir": "TIBAWA",
+      "tanggal_lahir": "1993-09-27",
+      "telepon": "0",
+      "handphone": "082351750810",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Bolihuangga",
+      "id_wilayah": "300207",
+      "nik": "7501046709930002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fatmahabdullah2702@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "60c301b9-0b8d-4913-bdbc-35c78bad9b48",
+      "id_registrasi_mahasiswa_pddikti": "0f314db5-0c29-4c3c-a034-3c5883003c7b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129374,
+        "id_mahasiswa": 421829,
+        "created_at": "2024-01-17 10:13:15"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1206,
+      "id_user": 32788,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Irfan Idris, M.Kes.",
+      "nidn": "0003116703",
+      "nip": "196711031998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aec58579-a6fc-49c0-934e-cc822cb02eb8",
+      "pivot": {
+        "id_kelas_kuliah": 129374,
+        "id_dosen": 1206
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1184,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Ilhamjaya Pattelongi, M.Kes.",
+      "nidn": "9990132192",
+      "nip": "195801281989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c04b5837-e3a3-4743-94b4-6df10a3b68d6",
+      "pivot": {
+        "id_kelas_kuliah": 129374,
+        "id_dosen": 1184
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 776,
+      "id_user": 34358,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Rosdiana Natsir, Ph.D., Sp.Biok.",
+      "nidn": "0026035702",
+      "nip": "195703261988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6a320981-0647-4823-b655-f59c6064e081",
+      "pivot": {
+        "id_kelas_kuliah": 129374,
+        "id_dosen": 776
+      }
+    }
+  ]
+}

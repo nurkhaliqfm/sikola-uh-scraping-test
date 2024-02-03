@@ -1,0 +1,77 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2617,
+  "idnumber_sikola": "48003.119378.21",
+  "shortname_sikola": "TA232-119378",
+  "kode_matkul": "23D06141702",
+  "nama_matkul": "Eskursi Geologi",
+  "nama_kelas": "Eskursi Geologi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 885,
+      "id_user": 17198,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Busthan, MT.",
+      "nidn": "0008105902",
+      "nip": "195910081987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4512e15d-7dd2-4ec0-847a-de59b68b9d98",
+      "pivot": {
+        "id_kelas_kuliah": 119378,
+        "id_dosen": 885
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1270,
+      "id_user": 28264,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Adi Tonggiroh, ST., MT.",
+      "nidn": "0028096501",
+      "nip": "196509282000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5c28690a-0f4c-4053-8bc8-da669a992ac0",
+      "pivot": {
+        "id_kelas_kuliah": 119378,
+        "id_dosen": 1270
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2622,
+      "id_user": 15048,
+      "id_prodi": 21,
+      "nama": "Sahabuddin, S.T., M.Eng.",
+      "nidn": "0030018805",
+      "nip": "198801302019031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c4f4340-d907-4e60-a1ff-b954381fd985",
+      "pivot": {
+        "id_kelas_kuliah": 119378,
+        "id_dosen": 2622
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3410,
+      "id_user": 60418,
+      "id_prodi": 21,
+      "nama": "A. Bahrul Hidayah, S.T., M.T",
+      "nidn": "8989810021",
+      "nip": "198806302021015001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "7cd1e9b9-d2c0-40f2-b89f-bff10e156af9",
+      "pivot": {
+        "id_kelas_kuliah": 119378,
+        "id_dosen": 3410
+      }
+    }
+  ]
+}

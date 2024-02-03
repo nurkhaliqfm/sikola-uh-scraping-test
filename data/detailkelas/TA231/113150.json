@@ -1,0 +1,101 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2382,
+  "idnumber_sikola": "46509.113150.17",
+  "shortname_sikola": "TA231-113150",
+  "kode_matkul": "23U02131102",
+  "nama_matkul": "Kepemimpinan Inovatif",
+  "nama_kelas": "Kepemimpinan Inovatif / Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142879,
+      "id_user": 42143,
+      "id_prodi": 17,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD ADI RAJASYAH",
+      "nim": "D041201132",
+      "jalan": "POROS ENREKANG TORAJA",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "SOSSOK II",
+      "kode_pos": "91752",
+      "nisn": "0022251643",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-01-09",
+      "telepon": "0",
+      "handphone": "085298100623",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KEL. MATARAN",
+      "id_wilayah": "191604",
+      "nik": "7316040901020002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ajasadidafa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "58b908cc-97d8-4775-9e07-0650aa476490",
+      "id_registrasi_mahasiswa_pddikti": "56316da8-0a5d-4e42-849c-3b4c5ee328d9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113150,
+        "id_mahasiswa": 142879,
+        "created_at": "2023-08-01 19:28:16"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1335,
+      "id_user": 34360,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Yustinus Upa Sombolayuk, M.T.",
+      "nidn": "0007085902",
+      "nip": "195907081988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73279d59-93fa-49b4-9333-12a8d9b85a4e",
+      "pivot": {
+        "id_kelas_kuliah": 113150,
+        "id_dosen": 1335
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2186,
+      "id_user": 11656,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Zaenab, MT.",
+      "nidn": "0001026601",
+      "nip": "196602011992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55aa9594-9254-4d35-b309-9b4345ea745e",
+      "pivot": {
+        "id_kelas_kuliah": 113150,
+        "id_dosen": 2186
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1032,
+      "id_user": 18023,
+      "id_prodi": 17,
+      "nama": "Dr.  Ir. Sri Mawar Said, MT.",
+      "nidn": "0006116002",
+      "nip": "196011061986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fa705025-8ddf-47f9-8719-ffcb3acfcb5c",
+      "pivot": {
+        "id_kelas_kuliah": 113150,
+        "id_dosen": 1032
+      }
+    }
+  ]
+}

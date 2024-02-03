@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34896.107871.168",
+  "shortname_sikola": "TA231-107871",
+  "kode_matkul": "18D04320403",
+  "nama_matkul": "PRESENTASI MAKALAH ILMIAH PADA SEMINAR INTERNASIONAL",
+  "nama_kelas": "Presentasi Makalah Ilmiah pada Seminar Internasional (Budiawan Sulaiman)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117073,
+      "id_user": 27456,
+      "id_prodi": 168,
+      "angkatan": 2018,
+      "nama_mahasiswa": "BUDIAWAN SULAEMAN",
+      "nim": "D043181001",
+      "jalan": "Jln. Pulau Bangka No 7 AA",
+      "rt": 2,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91912",
+      "nisn": null,
+      "tempat_lahir": "Palopo",
+      "tanggal_lahir": "1977-08-04",
+      "telepon": "047122999",
+      "handphone": "08124262598",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Malatunrung",
+      "id_wilayah": "196205",
+      "nik": "7373010108770004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "budiawan.sulaeman77@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "79bc6ada-98d5-4e03-999a-f8a6d9cad897",
+      "id_registrasi_mahasiswa_pddikti": "2cc35272-4ccf-44e5-95c4-d09371ec07af",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107871,
+        "id_mahasiswa": 117073,
+        "created_at": "2023-09-16 13:47:22"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 804,
+      "id_user": 18142,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir.  H. Nasaruddin Salam, M.T.",
+      "nidn": "0020125903",
+      "nip": "195912201986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2c953d6f-d7d3-409f-940d-19fe73ac4551",
+      "pivot": {
+        "id_kelas_kuliah": 107871,
+        "id_dosen": 804
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1194,
+      "id_user": 14331,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng. Andi Erwin Eka Putra, ST., MT.",
+      "nidn": "0021127102",
+      "nip": "197112211998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e084b56a-9c49-4d8b-8546-40f886bf3c72",
+      "pivot": {
+        "id_kelas_kuliah": 107871,
+        "id_dosen": 1194
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1605,
+      "id_user": 26206,
+      "id_prodi": 12,
+      "nama": "Dr. Eng Lukmanul Hakim Arma, ST, MT",
+      "nidn": "0015047401",
+      "nip": "197404151999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b7a1de71-f97d-4379-94ab-2fe4655e92be",
+      "pivot": {
+        "id_kelas_kuliah": 107871,
+        "id_dosen": 1605
+      }
+    }
+  ]
+}

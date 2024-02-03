@@ -1,0 +1,61 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30391.126950.122",
+  "shortname_sikola": "TA232-126950",
+  "kode_matkul": "0208C20802",
+  "nama_matkul": "PENYAKIT TROPIS DAN INFEKSI I",
+  "nama_kelas": "Penyakit Tropis dan Infeksi I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2966,
+      "id_user": 71684,
+      "id_prodi": 122,
+      "nama": "dr. Irda Handayani, M.Kes, SpPK",
+      "nidn": "8802920016",
+      "nip": "196705242018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e282f755-be71-4e9b-a588-acd5d0f30adc",
+      "pivot": {
+        "id_kelas_kuliah": 126950,
+        "id_dosen": 2966
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2968,
+      "id_user": 71577,
+      "id_prodi": 122,
+      "nama": "Dr. dr. Nursin Abd Kadir, M.Kes., Sp.PK",
+      "nidn": null,
+      "nip": "197003022018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126950,
+        "id_dosen": 2968
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1962,
+      "id_user": 31387,
+      "id_prodi": 6,
+      "nama": "dr. Kartika Paramita",
+      "nidn": "0022108402",
+      "nip": "198410222012122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bc45e1d5-d475-4090-bb85-64d55d76c4ff",
+      "pivot": {
+        "id_kelas_kuliah": 126950,
+        "id_dosen": 1962
+      }
+    }
+  ]
+}

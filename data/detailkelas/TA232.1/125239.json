@@ -1,0 +1,85 @@
+{
+  "id_prodi": 233,
+  "nama_prodi": "PROTEKSI TANAMAN - S1",
+  "id_prodi_semester": 2797,
+  "idnumber_sikola": "41776.125239.233",
+  "shortname_sikola": "TA232-125239",
+  "kode_matkul": "21G06121503",
+  "nama_matkul": "PENCEMARAN LINGKUNGAN",
+  "nama_kelas": "Pencemaran Lingkungan Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 348736,
+      "id_user": 63207,
+      "id_prodi": 233,
+      "angkatan": 2022,
+      "nama_mahasiswa": "JIHAN NURUL FAHIRA",
+      "nim": "G061221037",
+      "jalan": "JL. JAMBU  KAB. PANGKAJENE KEPULAUAN  PROV. SULAWESI SELATAN 90617",
+      "rt": 3,
+      "rw": 5,
+      "dusun": "Mappasaile",
+      "kode_pos": "90617",
+      "nisn": "0042815667",
+      "tempat_lahir": "PANGKAJENE",
+      "tanggal_lahir": "2004-02-24",
+      "telepon": "0",
+      "handphone": "085394992568",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MAPPASAILE",
+      "id_wilayah": "190204",
+      "nik": "7310046402040002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anaphalis240204@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f73a48f8-7b01-4a28-80c2-0b037895b597",
+      "id_registrasi_mahasiswa_pddikti": "c7b00af3-85a6-45d5-b34b-787159901a27",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125239,
+        "id_mahasiswa": 348736,
+        "created_at": "2024-01-19 15:42:54"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1717,
+      "id_user": 21700,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Vien Sartika Dewi, M.Si.",
+      "nidn": "0027126504",
+      "nip": "196512271989102001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e6a82e1c-6004-4e19-bf36-4747f2daf40d",
+      "pivot": {
+        "id_kelas_kuliah": 125239,
+        "id_dosen": 1717
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1088,
+      "id_user": 24829,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Ahdin Gassa, M.Sc.",
+      "nidn": "0015056003",
+      "nip": "196005151986091002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "91eb32aa-1230-4660-bb4f-d7435ff2d3d1",
+      "pivot": {
+        "id_kelas_kuliah": 125239,
+        "id_dosen": 1088
+      }
+    }
+  ]
+}

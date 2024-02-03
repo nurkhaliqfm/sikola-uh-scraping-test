@@ -1,0 +1,85 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2375,
+  "idnumber_sikola": "44642.112174.10",
+  "shortname_sikola": "TA231-112174",
+  "kode_matkul": "23U01111102",
+  "nama_matkul": "Bahasa Inggris",
+  "nama_kelas": "Bahasa Inggris C",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 24487,
+      "id_user": 26140,
+      "id_prodi": 10,
+      "angkatan": 2019,
+      "nama_mahasiswa": "HASANUDDIN",
+      "nim": "D011191132",
+      "jalan": "Jl. Sinassara No. 90",
+      "rt": 5,
+      "rw": 7,
+      "dusun": "Sinassara",
+      "kode_pos": "90211",
+      "nisn": "0012417514",
+      "tempat_lahir": "Martapura",
+      "tanggal_lahir": "2001-01-01",
+      "telepon": "0",
+      "handphone": "6289635825323",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kaluku bodoa",
+      "id_wilayah": "190000",
+      "nik": "7371070101010011",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "hasanuddinrudi2019@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "78a29287-a424-4ebd-9a3e-e7c519e9e50a",
+      "id_registrasi_mahasiswa_pddikti": "451d68b3-7f9b-4b26-b869-9c576c9ea452",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112174,
+        "id_mahasiswa": 24487,
+        "created_at": "2023-08-04 16:36:51"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2079,
+      "id_user": 16788,
+      "id_prodi": 32,
+      "nama": "Andi Inayah Soraya, S.S., M.Hum",
+      "nidn": "0027128904",
+      "nip": "198912272015042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8b14a5a4-1e2b-40bb-9b2a-b6e7762e2365",
+      "pivot": {
+        "id_kelas_kuliah": 112174,
+        "id_dosen": 2079
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2870,
+      "id_user": 60791,
+      "id_prodi": 142,
+      "nama": "Ratih Ariani, S.Pd, M.Hum",
+      "nidn": null,
+      "nip": "7313094801890002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 112174,
+        "id_dosen": 2870
+      }
+    }
+  ]
+}

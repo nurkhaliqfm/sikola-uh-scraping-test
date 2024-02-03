@@ -1,0 +1,140 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "42131.104186.148",
+  "shortname_sikola": "TA231-104186",
+  "kode_matkul": "21R01412102",
+  "nama_matkul": "Maternity Nursing",
+  "nama_kelas": "Maternity Nursing.Kerjasama",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 387378,
+      "id_user": 72792,
+      "id_prodi": 148,
+      "angkatan": 2022,
+      "nama_mahasiswa": "CITRA",
+      "nim": "R014222032",
+      "jalan": "Jl. Paccerakkang Lr. Dg. Subu Basse",
+      "rt": 3,
+      "rw": 5,
+      "dusun": "-",
+      "kode_pos": "90241",
+      "nisn": "3861439219",
+      "tempat_lahir": "Maros",
+      "tanggal_lahir": "1986-08-16",
+      "telepon": "0",
+      "handphone": "081241722456",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Katimbang",
+      "id_wilayah": "196011",
+      "nik": "7305015608860001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "citra.citoz@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ec409165-edd7-48f7-a5a2-36b8533c37d5",
+      "id_registrasi_mahasiswa_pddikti": "0f13b126-aa9d-4f0c-8c4a-a582e1813fda",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104186,
+        "id_mahasiswa": 387378,
+        "created_at": "2023-08-04 15:07:53"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 387310,
+      "id_user": 73291,
+      "id_prodi": 148,
+      "angkatan": 2022,
+      "nama_mahasiswa": "RISNAWATI",
+      "nim": "R014222015",
+      "jalan": "M.E.SAELAN PERUM KODIM NO.3",
+      "rt": 5,
+      "rw": 17,
+      "dusun": "-",
+      "kode_pos": "90921",
+      "nisn": "3873128776",
+      "tempat_lahir": "MANDING",
+      "tanggal_lahir": "1987-06-08",
+      "telepon": "0",
+      "handphone": "082347462133",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "GUNUNG SARI",
+      "id_wilayah": "196013",
+      "nik": "7373014806870002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "risnawatinawir@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "125c1e1e-3b92-434b-ac9e-e18db81b3177",
+      "id_registrasi_mahasiswa_pddikti": "c4e168ff-8614-4480-9197-2ff1f0a9d1a4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104186,
+        "id_mahasiswa": 387310,
+        "created_at": "2023-08-04 18:48:00"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2373,
+      "id_user": 34561,
+      "id_prodi": 8,
+      "nama": "Dr. Erfina, S.Kep.,NS.,M.Kep.",
+      "nidn": "0015048301",
+      "nip": "198304152010122006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0c2ce8d5-1fe1-455a-8d3f-94fed9fb0712",
+      "pivot": {
+        "id_kelas_kuliah": 104186,
+        "id_dosen": 2373
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3958,
+      "id_user": 74211,
+      "id_prodi": 8,
+      "nama": "Sri Bintari Rahayu, S.Kep., Ns., M.Kep",
+      "nidn": null,
+      "nip": "7371144404920006",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 104186,
+        "id_dosen": 3958
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1919,
+      "id_user": 25194,
+      "id_prodi": 8,
+      "nama": "Nurmaulid, S.Kep.,NS, M.Kep.",
+      "nidn": "0019128301",
+      "nip": "198312192010122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45b47055-0c22-4b64-a883-ae805338c623",
+      "pivot": {
+        "id_kelas_kuliah": 104186,
+        "id_dosen": 1919
+      }
+    }
+  ]
+}

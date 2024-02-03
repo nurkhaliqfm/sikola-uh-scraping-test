@@ -1,0 +1,61 @@
+{
+  "id_prodi": 83,
+  "nama_prodi": "PENGELOLAAN LINGKUNGAN HIDUP - S2",
+  "id_prodi_semester": 2429,
+  "idnumber_sikola": "26525.110333.83",
+  "shortname_sikola": "TA231-110333",
+  "kode_matkul": "18P03211002",
+  "nama_matkul": "Toksikologi dan Pencemaran Lingkungan\r\n",
+  "nama_kelas": "Toksikologi dan Pencemaran Lingkungan (PLH_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 823,
+      "id_user": 18079,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Sri Suryani, DEA.",
+      "nidn": "0008055803",
+      "nip": "195805081983122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2235230d-c8f2-4434-a700-8323c844a6a5",
+      "pivot": {
+        "id_kelas_kuliah": 110333,
+        "id_dosen": 823
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1202,
+      "id_user": 29454,
+      "id_prodi": 50,
+      "nama": "Prof. Dr. Fahruddin, M.Si.",
+      "nidn": "0015096501",
+      "nip": "196509151991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73261e22-a194-4536-9a88-7c012eec58ba",
+      "pivot": {
+        "id_kelas_kuliah": 110333,
+        "id_dosen": 1202
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1522,
+      "id_user": 30923,
+      "id_prodi": 49,
+      "nama": "Prof. Dra. Paulina Taba,  M.Phil., Ph.D",
+      "nidn": "0015115701",
+      "nip": "195711151988102001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c9e6947-6bda-46fa-ae33-349e20ac755e",
+      "pivot": {
+        "id_kelas_kuliah": 110333,
+        "id_dosen": 1522
+      }
+    }
+  ]
+}

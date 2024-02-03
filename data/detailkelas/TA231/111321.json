@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2376,
+  "idnumber_sikola": "46448.111321.11",
+  "shortname_sikola": "TA231-111321",
+  "kode_matkul": "23D13110302",
+  "nama_matkul": "Pengantar Pemrograman",
+  "nama_kelas": "Pengantar Pemrograman A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2050,
+      "id_user": 33509,
+      "id_prodi": 18,
+      "nama": "Dr. Ibrahim Djamaluddin, ST., M.Eng",
+      "nidn": "0014127505",
+      "nip": "197512142015041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3cd5ce06-95a4-43c3-8695-7a89d467a9d0",
+      "pivot": {
+        "id_kelas_kuliah": 111321,
+        "id_dosen": 2050
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2039,
+      "id_user": 31454,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Ardy Arsyad, S.T., M.Eng.Sc",
+      "nidn": "0007077607",
+      "nip": "197607072005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d60f3ca6-77f7-4eb8-aec3-17ce61268336",
+      "pivot": {
+        "id_kelas_kuliah": 111321,
+        "id_dosen": 2039
+      }
+    }
+  ]
+}

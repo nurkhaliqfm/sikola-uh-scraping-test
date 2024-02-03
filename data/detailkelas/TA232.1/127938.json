@@ -1,0 +1,45 @@
+{
+  "id_prodi": 22,
+  "nama_prodi": "TEKNIK PERTAMBANGAN - S1",
+  "id_prodi_semester": 2618,
+  "idnumber_sikola": "46507.127938.22",
+  "shortname_sikola": "TA232-127938",
+  "kode_matkul": "23U02133020",
+  "nama_matkul": "Riset Mandiri",
+  "nama_kelas": "Riset Mandiri",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1803,
+      "id_user": 18301,
+      "id_prodi": 22,
+      "nama": "Dr. Aryanti Virtanti Anas, ST.,MT.",
+      "nidn": "0005107007",
+      "nip": "197010052008012026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd7802a8-81b1-4ee4-b09e-0a03510ec7bc",
+      "pivot": {
+        "id_kelas_kuliah": 127938,
+        "id_dosen": 1803
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2390,
+      "id_user": 45204,
+      "id_prodi": 22,
+      "nama": "Rini Novrianti Sutardjo Tui, ST.,MT.",
+      "nidn": "0014118305",
+      "nip": "198311142014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f88084fa-c3ee-4ad2-8527-53c7b134cab0",
+      "pivot": {
+        "id_kelas_kuliah": 127938,
+        "id_dosen": 2390
+      }
+    }
+  ]
+}

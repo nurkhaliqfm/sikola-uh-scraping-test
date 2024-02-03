@@ -1,0 +1,29 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46538.113045.16",
+  "shortname_sikola": "TA231-113045",
+  "kode_matkul": "23U02130802",
+  "nama_matkul": "Pengembangan Masyarakat",
+  "nama_kelas": "Pengembangan Masyarakat",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2568,
+      "id_user": 15882,
+      "id_prodi": 14,
+      "nama": "Muhammad Iqbal Nikmatullah, S.T., M.T.",
+      "nidn": "0931018704",
+      "nip": "198701312019031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "10f9d2eb-a2d7-44ae-a210-4affd0359f79",
+      "pivot": {
+        "id_kelas_kuliah": 113045,
+        "id_dosen": 2568
+      }
+    }
+  ]
+}

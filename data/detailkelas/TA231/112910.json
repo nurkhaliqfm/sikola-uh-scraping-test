@@ -1,0 +1,45 @@
+{
+  "id_prodi": 124,
+  "nama_prodi": "PPDS ILMU RADIOLOGI",
+  "id_prodi_semester": 2466,
+  "idnumber_sikola": "30659.112910.124",
+  "shortname_sikola": "TA231-112910",
+  "kode_matkul": "19C12540302",
+  "nama_matkul": "Head & Neck (2) \r\n",
+  "nama_kelas": "Head&Neck_2019",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2584,
+      "id_user": 44946,
+      "id_prodi": 6,
+      "nama": "dr. Junus Baan, Sp.Rad(K)",
+      "nidn": "8849001019",
+      "nip": "195810192019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "325b3e2b-bea9-4e79-9fdb-c0f52bb81e7c",
+      "pivot": {
+        "id_kelas_kuliah": 112910,
+        "id_dosen": 2584
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1813,
+      "id_user": 47177,
+      "id_prodi": 6,
+      "nama": "dr. Dario Agustino Nelwan, Sp.Rad (K)",
+      "nidn": "0015127208",
+      "nip": "197212152008121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4e7e1c2e-e89e-4d4e-9013-2d31d95e4071",
+      "pivot": {
+        "id_kelas_kuliah": 112910,
+        "id_dosen": 1813
+      }
+    }
+  ]
+}

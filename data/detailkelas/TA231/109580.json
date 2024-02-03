@@ -1,0 +1,140 @@
+{
+  "id_prodi": 221,
+  "nama_prodi": "FISIKA - S3",
+  "id_prodi_semester": 2555,
+  "idnumber_sikola": "39791.109580.221",
+  "shortname_sikola": "TA231-109580",
+  "kode_matkul": "19H03310703",
+  "nama_matkul": "Fisika Material",
+  "nama_kelas": "Fisika Material",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 418995,
+      "id_user": 79920,
+      "id_prodi": 221,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ALI UMAR DANI",
+      "nim": "H033231001",
+      "jalan": "PERUMAHAN THE MOUNTAIN VILLAGE",
+      "rt": 2,
+      "rw": 2,
+      "dusun": "Sangnging sangnging",
+      "kode_pos": "92172",
+      "nisn": null,
+      "tempat_lahir": "PELAPPO",
+      "tanggal_lahir": "1986-08-03",
+      "telepon": "0",
+      "handphone": "081214414530",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Pattallassang",
+      "id_wilayah": "190315",
+      "nik": "7306080308860007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 79920,
+      "kode_status": "A",
+      "email": "ali.umardani@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a6d46e6b-77c0-47e8-803c-fea42e9c1411",
+      "id_registrasi_mahasiswa_pddikti": "71b660f8-3557-4e10-ace5-821817e77201",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109580,
+        "id_mahasiswa": 418995,
+        "created_at": "2023-08-04 14:02:15"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 418996,
+      "id_user": 82730,
+      "id_prodi": 221,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NADIA NURAFIAH SYAMSUR",
+      "nim": "H033231002",
+      "jalan": "BTN AURA PERMAI",
+      "rt": 2,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "92161",
+      "nisn": null,
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "1998-02-28",
+      "telepon": "0",
+      "handphone": "085156330708",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Bontoala",
+      "id_wilayah": "190303",
+      "nik": "7306076802980003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nadiaaa.nns@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "dffd9516-ab68-4d4a-a01e-97c5e1395086",
+      "id_registrasi_mahasiswa_pddikti": "c093378b-5ada-4bd0-81b2-23a6cc6d3a4a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109580,
+        "id_mahasiswa": 418996,
+        "created_at": "2023-08-04 14:12:58"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1290,
+      "id_user": 10165,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Dahlang T., S.Si.,M.Si.",
+      "nidn": "0007097502",
+      "nip": "197509072000031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1236f72e-cfc7-4c79-883a-7e6f50b36d3c",
+      "pivot": {
+        "id_kelas_kuliah": 109580,
+        "id_dosen": 1290
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1122,
+      "id_user": 20039,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Nurlaela Rauf, M.Sc.",
+      "nidn": "0024066001",
+      "nip": "196006241986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "709146ea-ab69-487b-a25b-5d6f0ad150ad",
+      "pivot": {
+        "id_kelas_kuliah": 109580,
+        "id_dosen": 1122
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1310,
+      "id_user": 31947,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Paulus Lobo Gareso, M.Sc.",
+      "nidn": "0005036503",
+      "nip": "196503051991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4f10bcf-e135-4a32-986d-ef2748f7a1a5",
+      "pivot": {
+        "id_kelas_kuliah": 109580,
+        "id_dosen": 1310
+      }
+    }
+  ]
+}

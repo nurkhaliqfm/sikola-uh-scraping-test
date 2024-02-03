@@ -1,0 +1,45 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2474,
+  "idnumber_sikola": "31476.106627.132",
+  "shortname_sikola": "TA231-106627",
+  "kode_matkul": "18D03213002",
+  "nama_matkul": "TEKNOLOGI MATERIAL ELEKTROTEKNIK",
+  "nama_kelas": "Teknik Telekomunikasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 880,
+      "id_user": 34226,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir. H. Salama Manjang, MT., IPM.",
+      "nidn": "0011116211",
+      "nip": "196212311990031024",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5a512f7-1d68-4546-b716-54465bfc1293",
+      "pivot": {
+        "id_kelas_kuliah": 106627,
+        "id_dosen": 880
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1054,
+      "id_user": 34386,
+      "id_prodi": 17,
+      "nama": "Elyas, S.T., M.Eng., Ph.D",
+      "nidn": "0001026406",
+      "nip": "196902011994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3347a460-6adc-4ed4-afdc-c0d70cbbbd20",
+      "pivot": {
+        "id_kelas_kuliah": 106627,
+        "id_dosen": 1054
+      }
+    }
+  ]
+}

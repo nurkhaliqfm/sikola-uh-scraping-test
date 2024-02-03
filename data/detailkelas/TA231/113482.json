@@ -1,0 +1,149 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "48257.113482.19",
+  "shortname_sikola": "TA231-113482",
+  "kode_matkul": "23D05140204",
+  "nama_matkul": "Workshop Tugas Akhir Riset (LBE Perumahan dan Lingkungan Permukiman)",
+  "nama_kelas": "Workshop Tugas Akhir Riset (LBE Perumahan dan Lingkungan Permukiman)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142485,
+      "id_user": 42070,
+      "id_prodi": 19,
+      "angkatan": 2020,
+      "nama_mahasiswa": "AFIFAH PUTRI ABDI",
+      "nim": "D051201027",
+      "jalan": "Jl. Arief rate no. 15A",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Mangkura",
+      "kode_pos": "90113",
+      "nisn": "02",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2002-04-21",
+      "telepon": "0411871617",
+      "handphone": "6282195236821",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Mangkura",
+      "id_wilayah": "196005",
+      "nik": "7303026104020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "afifah.putri2102@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4fa5fb27-b816-4b42-96c3-ad4126e8b04a",
+      "id_registrasi_mahasiswa_pddikti": "4ded9240-8ab8-46bd-be12-38590e8a55e9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113482,
+        "id_mahasiswa": 142485,
+        "created_at": "2023-08-01 15:11:01"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1173,
+      "id_user": 32083,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Idawarni, MT.",
+      "nidn": "0001076502",
+      "nip": "196507011994032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fe5c9f9c-97d7-461c-bea3-0213c6bd1261",
+      "pivot": {
+        "id_kelas_kuliah": 113482,
+        "id_dosen": 1173
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 113482,
+        "id_dosen": 1619
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2027,
+      "id_user": 23304,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Nurul Nadjmi,  S.T., M.T",
+      "nidn": "0004097603",
+      "nip": "197609042002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bbf44b38-516c-4c40-96cf-288c3817fb8e",
+      "pivot": {
+        "id_kelas_kuliah": 113482,
+        "id_dosen": 2027
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1370,
+      "id_user": 29496,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Samsuddin, M.T",
+      "nidn": "0031126606",
+      "nip": "196612311994031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a04c83f5-bf5c-44ed-ae7c-7dfa8215390a",
+      "pivot": {
+        "id_kelas_kuliah": 113482,
+        "id_dosen": 1370
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1303,
+      "id_user": 16579,
+      "id_prodi": 19,
+      "nama": "Nurmaida Amri, S.T., M.T.",
+      "nidn": "0018126702",
+      "nip": "196712181995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f5202c88-f048-439a-92e1-3e4e768f876c",
+      "pivot": {
+        "id_kelas_kuliah": 113482,
+        "id_dosen": 1303
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1640,
+      "id_user": 31373,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. M. Yahya, ST., M.Eng",
+      "nidn": "0004047006",
+      "nip": "197004041997031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7570e827-2996-4142-a47d-d15565c63690",
+      "pivot": {
+        "id_kelas_kuliah": 113482,
+        "id_dosen": 1640
+      }
+    }
+  ]
+}

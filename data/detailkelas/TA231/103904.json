@@ -1,0 +1,77 @@
+{
+  "id_prodi": 193,
+  "nama_prodi": "PETERNAKAN - S3",
+  "id_prodi_semester": 2529,
+  "idnumber_sikola": "37458.103904.193",
+  "shortname_sikola": "TA231-103904",
+  "kode_matkul": "20I01312703",
+  "nama_matkul": "SOSIOLOGI EKONOMI PETERNAKAN",
+  "nama_kelas": "Sosiologi Ekonomi Peternakan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1155,
+      "id_user": 31242,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Sitti Nurani Sirajuddin, S.Pt., M.Si.",
+      "nidn": "0021047114",
+      "nip": "197104211997022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b76b9994-20b4-4f8d-913d-089e1b2096e9",
+      "pivot": {
+        "id_kelas_kuliah": 103904,
+        "id_dosen": 1155
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1466,
+      "id_user": 14897,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Siti Nurlaelah, S.Pt., M.Si., IPM",
+      "nidn": "0003106901",
+      "nip": "196910031999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c8f6cb2a-5a26-42c6-ae21-3112d256c551",
+      "pivot": {
+        "id_kelas_kuliah": 103904,
+        "id_dosen": 1466
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1552,
+      "id_user": 19700,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. A. Amidah Amrawaty, S.Pt.,M.Si., IPM.",
+      "nidn": "0030077201",
+      "nip": "197208302000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4c216b02-db40-4a82-a109-e102989560c1",
+      "pivot": {
+        "id_kelas_kuliah": 103904,
+        "id_dosen": 1552
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1770,
+      "id_user": 18531,
+      "id_prodi": 51,
+      "nama": "Dr. Kasmiyati Kasim, S.Pt.,M.Si.",
+      "nidn": "0019077307",
+      "nip": "197307192006042012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4b6fbb29-de2d-4d33-a441-33f67768be89",
+      "pivot": {
+        "id_kelas_kuliah": 103904,
+        "id_dosen": 1770
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 233,
+  "nama_prodi": "PROTEKSI TANAMAN - S1",
+  "id_prodi_semester": 2797,
+  "idnumber_sikola": "41777.125242.233",
+  "shortname_sikola": "TA232-125242",
+  "kode_matkul": "21G06121603",
+  "nama_matkul": "MIKROBA DAN SERANGGA URBAN",
+  "nama_kelas": "Mikroba dan Serangga Urban",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 348736,
+      "id_user": 63207,
+      "id_prodi": 233,
+      "angkatan": 2022,
+      "nama_mahasiswa": "JIHAN NURUL FAHIRA",
+      "nim": "G061221037",
+      "jalan": "JL. JAMBU  KAB. PANGKAJENE KEPULAUAN  PROV. SULAWESI SELATAN 90617",
+      "rt": 3,
+      "rw": 5,
+      "dusun": "Mappasaile",
+      "kode_pos": "90617",
+      "nisn": "0042815667",
+      "tempat_lahir": "PANGKAJENE",
+      "tanggal_lahir": "2004-02-24",
+      "telepon": "0",
+      "handphone": "085394992568",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MAPPASAILE",
+      "id_wilayah": "190204",
+      "nik": "7310046402040002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anaphalis240204@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f73a48f8-7b01-4a28-80c2-0b037895b597",
+      "id_registrasi_mahasiswa_pddikti": "c7b00af3-85a6-45d5-b34b-787159901a27",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125242,
+        "id_mahasiswa": 348736,
+        "created_at": "2024-01-19 15:42:54"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1740,
+      "id_user": 27977,
+      "id_prodi": 152,
+      "nama": "Dr. Sri Nur Aminah Ngatimin, SP., M.Si.",
+      "nidn": "0029087201",
+      "nip": "197208291998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7c0e32fc-5921-4eae-bac5-80d328a06084",
+      "pivot": {
+        "id_kelas_kuliah": 125242,
+        "id_dosen": 1740
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1841,
+      "id_user": 22511,
+      "id_prodi": 152,
+      "nama": "Muhammad Junaid, SP., MP., Ph.D.",
+      "nidn": "0031127607",
+      "nip": "197612312008121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b1a3b9db-319c-479b-957e-e547076258d6",
+      "pivot": {
+        "id_kelas_kuliah": 125242,
+        "id_dosen": 1841
+      }
+    }
+  ]
+}

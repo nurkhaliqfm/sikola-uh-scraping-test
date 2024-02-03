@@ -1,0 +1,77 @@
+{
+  "id_prodi": 49,
+  "nama_prodi": "KIMIA - S1",
+  "id_prodi_semester": 2407,
+  "idnumber_sikola": "44813.109299.49",
+  "shortname_sikola": "TA231-109299",
+  "kode_matkul": "23H03120802",
+  "nama_matkul": "Biokimia Lanjutan",
+  "nama_kelas": "BIOKIMIA LANJUTAN (B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1055,
+      "id_user": 11503,
+      "id_prodi": 49,
+      "nama": "Dr.. Rugaiyah, M.Si.",
+      "nidn": "0012126102",
+      "nip": "196112311987022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "79915ff5-dddd-4fd0-9015-d8a6bdfcde62",
+      "pivot": {
+        "id_kelas_kuliah": 109299,
+        "id_dosen": 1055
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 941,
+      "id_user": 10585,
+      "id_prodi": 49,
+      "nama": "Dr.  Seniwati Dali, M.Si.",
+      "nidn": "0031125814",
+      "nip": "195812311988032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ac99e48-3344-4efb-875a-b1da9853a4a4",
+      "pivot": {
+        "id_kelas_kuliah": 109299,
+        "id_dosen": 941
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1056,
+      "id_user": 25210,
+      "id_prodi": 49,
+      "nama": "Dr. Abdul Karim, M.Si.",
+      "nidn": "0010076202",
+      "nip": "196207101988031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "495acd44-f620-4425-91d1-2a0a50ded964",
+      "pivot": {
+        "id_kelas_kuliah": 109299,
+        "id_dosen": 1056
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2349,
+      "id_user": 18265,
+      "id_prodi": 49,
+      "nama": "Dr. Nur Umriani Permatasari, S.Si.,M.Si.",
+      "nidn": "0009128101",
+      "nip": "198112092006042003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f169db82-76d1-4d9a-939e-674f0ec12aaf",
+      "pivot": {
+        "id_kelas_kuliah": 109299,
+        "id_dosen": 2349
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2531,
+  "idnumber_sikola": "36025.110077.195",
+  "shortname_sikola": "TA231-110077",
+  "kode_matkul": "19M03340304",
+  "nama_matkul": "SEMINAR HASIL PENELITIAN DISERTASI",
+  "nama_kelas": "SEMINAR HASIL PENELITIAN (BERBASIS RISET)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 137503,
+      "id_user": 35328,
+      "id_prodi": 195,
+      "angkatan": 2020,
+      "nama_mahasiswa": "KARNO BAHARUDDIN BATIRAN",
+      "nim": "M013201001",
+      "jalan": "Griya Wisata Bantimurung Blok E. No. 1\nJL. POROS MAROS - BONE KM 13, Maros",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Bantimurung",
+      "kode_pos": "90561",
+      "nisn": null,
+      "tempat_lahir": "REA BARAT",
+      "tanggal_lahir": "1981-02-22",
+      "telepon": "04113971275",
+      "handphone": "085255222852",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Jenetaesa",
+      "id_wilayah": "190112",
+      "nik": "7309012202810001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "annoswt@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e8060e91-3ae4-4c9e-bf14-1c79d93f336a",
+      "id_registrasi_mahasiswa_pddikti": "e4c4b4ce-a433-48be-9505-b003f710c113",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110077,
+        "id_mahasiswa": 137503,
+        "created_at": "2023-08-04 21:26:53"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 154335,
+      "id_user": 50659,
+      "id_prodi": 195,
+      "angkatan": 2021,
+      "nama_mahasiswa": "NURHADY SIRIMOROK",
+      "nim": "M013211001",
+      "jalan": "PERUMAHAN BADDOKA INDAH F2 NOMOR 4, JALAN DAENG RAMANG",
+      "rt": 8,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "90243",
+      "nisn": null,
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "1975-09-12",
+      "telepon": "-1",
+      "handphone": "089501464272",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "PAI",
+      "id_wilayah": "196011",
+      "nik": "7371111209750014",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "nurhadys@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "24a4690b-d7a5-40b6-9ff8-027c4fa6e672",
+      "id_registrasi_mahasiswa_pddikti": "f8a1c4c7-b16f-41f3-90bd-44841a2af4df",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110077,
+        "id_mahasiswa": 154335,
+        "created_at": "2023-08-04 22:59:18"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1834,
+      "id_user": 10744,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. forest. Muhammad Alif KS., S.Hut., M.Si.",
+      "nidn": "0031087903",
+      "nip": "197908312008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b39a91d9-f3db-4e3f-9442-1b829450f4e6",
+      "pivot": {
+        "id_kelas_kuliah": 110077,
+        "id_dosen": 1834
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3231,
+      "id_user": null,
+      "id_prodi": 77,
+      "nama": "Micah Radandima Fisher, M.Si., Ph.D",
+      "nidn": null,
+      "nip": "482163536",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110077,
+        "id_dosen": 3231
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3342,
+      "id_user": null,
+      "id_prodi": 195,
+      "nama": "Lambert Johan Verheijen, Ph.D",
+      "nidn": null,
+      "nip": "NTK269HL1",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110077,
+        "id_dosen": 3342
+      }
+    }
+  ]
+}

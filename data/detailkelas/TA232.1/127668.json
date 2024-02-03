@@ -1,0 +1,45 @@
+{
+  "id_prodi": 29,
+  "nama_prodi": "SOSIOLOGI - S1",
+  "id_prodi_semester": 2624,
+  "idnumber_sikola": "11323.127668.29",
+  "shortname_sikola": "TA232-127668",
+  "kode_matkul": "207E4103",
+  "nama_matkul": "Teori Sosiologi Klasik",
+  "nama_kelas": "Teori Sosiologi Klasik (Kelas Kerja Sama Kependudukan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 861,
+      "id_user": 34098,
+      "id_prodi": 29,
+      "nama": "Drs. Andi Haris, M.Sc.,Ph.D",
+      "nidn": "0002066210",
+      "nip": "196206021987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cafa1e20-c1e7-447c-be15-f106596147d3",
+      "pivot": {
+        "id_kelas_kuliah": 127668,
+        "id_dosen": 861
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1092,
+      "id_user": 33600,
+      "id_prodi": 29,
+      "nama": "Drs. Arsyad, M.Si.",
+      "nidn": "0010036308",
+      "nip": "196303101990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cbe1d763-bf07-40b1-9bc7-9bf7374b070d",
+      "pivot": {
+        "id_kelas_kuliah": 127668,
+        "id_dosen": 1092
+      }
+    }
+  ]
+}

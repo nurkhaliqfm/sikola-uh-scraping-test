@@ -1,0 +1,61 @@
+{
+  "id_prodi": 171,
+  "nama_prodi": "ILMU KEBIDANAN - S2",
+  "id_prodi_semester": 2508,
+  "idnumber_sikola": "35037.110470.171",
+  "shortname_sikola": "TA231-110470",
+  "kode_matkul": "18P10210102",
+  "nama_matkul": "Filsafat Ilmu dan Metode Penelitian\r\n",
+  "nama_kelas": "Filsafat Ilmu dan Metode Penelitian (W) Kelas B (NIM 026 - 050) (Kebidanan_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 696,
+      "id_user": 33840,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Suryani As'ad, M.Sc., Sp.GK(K)",
+      "nidn": "0004056002",
+      "nip": "196005041986012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5fc0f27-cc61-45a0-b25c-7b8f535a650e",
+      "pivot": {
+        "id_kelas_kuliah": 110470,
+        "id_dosen": 696
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2517,
+      "id_user": 15771,
+      "id_prodi": 171,
+      "nama": "Dr. Andi Nilawati Usman, S.KM., M.Kes",
+      "nidn": "0907048302",
+      "nip": "198304072019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5db167a4-287f-4d25-9723-f1f6110a959c",
+      "pivot": {
+        "id_kelas_kuliah": 110470,
+        "id_dosen": 2517
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1003,
+      "id_user": 30012,
+      "id_prodi": 57,
+      "nama": "Prof. Dr.  Stang, M.Kes.",
+      "nidn": "0007126507",
+      "nip": "196507121992021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b0ea0693-b968-454d-a9a6-870a920af687",
+      "pivot": {
+        "id_kelas_kuliah": 110470,
+        "id_dosen": 1003
+      }
+    }
+  ]
+}

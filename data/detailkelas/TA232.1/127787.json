@@ -1,0 +1,61 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2736,
+  "idnumber_sikola": "34897.127787.168",
+  "shortname_sikola": "TA232-127787",
+  "kode_matkul": "18D04320305",
+  "nama_matkul": "JURNAL INTERNASIONAL TERINDEKS SCOPUS ATAU BEREPUTASI",
+  "nama_kelas": "Jurnal Internasional Terindeks Scopus atau bereputasi ( Albertha Lolo Tandung)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1194,
+      "id_user": 14331,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng. Andi Erwin Eka Putra, ST., MT.",
+      "nidn": "0021127102",
+      "nip": "197112211998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e084b56a-9c49-4d8b-8546-40f886bf3c72",
+      "pivot": {
+        "id_kelas_kuliah": 127787,
+        "id_dosen": 1194
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2242,
+      "id_user": 31434,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. Syamsul Asri, MT.",
+      "nidn": "0018036501",
+      "nip": "196503181991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37fab9e6-b66b-4b95-bf1a-6014c96b003b",
+      "pivot": {
+        "id_kelas_kuliah": 127787,
+        "id_dosen": 2242
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1479,
+      "id_user": 31590,
+      "id_prodi": 16,
+      "nama": "Rahimuddin, ST.,MT.,Ph.D.",
+      "nidn": "0025087101",
+      "nip": "197108251999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2d63bd63-658b-4475-8652-753278c1d21b",
+      "pivot": {
+        "id_kelas_kuliah": 127787,
+        "id_dosen": 1479
+      }
+    }
+  ]
+}

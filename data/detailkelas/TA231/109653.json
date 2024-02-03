@@ -1,0 +1,45 @@
+{
+  "id_prodi": 214,
+  "nama_prodi": "SASTRA INDONESIA - S3",
+  "id_prodi_semester": 2548,
+  "idnumber_sikola": "38066.109653.214",
+  "shortname_sikola": "TA231-109653",
+  "kode_matkul": "19F033101003",
+  "nama_matkul": "Konstruksi Teori",
+  "nama_kelas": "Konstruksi Teori",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2140,
+      "id_user": 10026,
+      "id_prodi": 31,
+      "nama": "Prof. Dr. Lukman, MS.",
+      "nidn": "0031126059",
+      "nip": "196012311987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37782f0f-06fe-40ff-8909-ebb9196c2875",
+      "pivot": {
+        "id_kelas_kuliah": 109653,
+        "id_dosen": 2140
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 815,
+      "id_user": 34158,
+      "id_prodi": 36,
+      "nama": "Prof. Dr. Akin Duli,  MA.",
+      "nidn": "0016076401",
+      "nip": "196407161991031010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4545c664-fa98-4aff-b49c-d44f01a40468",
+      "pivot": {
+        "id_kelas_kuliah": 109653,
+        "id_dosen": 815
+      }
+    }
+  ]
+}

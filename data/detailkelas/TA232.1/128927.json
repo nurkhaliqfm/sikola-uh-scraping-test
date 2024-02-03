@@ -1,0 +1,156 @@
+{
+  "id_prodi": 83,
+  "nama_prodi": "PENGELOLAAN LINGKUNGAN HIDUP - S2",
+  "id_prodi_semester": 2660,
+  "idnumber_sikola": "26512.128927.83",
+  "shortname_sikola": "TA232-128927",
+  "kode_matkul": "18P03211902",
+  "nama_matkul": "Wawasan Pembangunan Berkelanjutan\r\n",
+  "nama_kelas": "Wawasan Pembangunan Berkelanjutan (PLH_Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427512,
+      "id_user": 86035,
+      "id_prodi": 83,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUTTAQIN",
+      "nim": "P032232014",
+      "jalan": "JL. MANGGALA RAYA NO.93/111 BLOK V PERUMNAS ANTANG",
+      "rt": 1,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90234",
+      "nisn": null,
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "1967-12-19",
+      "telepon": "0411493047",
+      "handphone": "082188424914",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "KEL. MANGGALA",
+      "id_wilayah": "196014",
+      "nik": "7371121912670005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86035,
+      "kode_status": "A",
+      "email": "muttaqin_a@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128927,
+        "id_mahasiswa": 427512,
+        "created_at": "2024-01-11 16:03:36"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427821,
+      "id_user": 86348,
+      "id_prodi": 83,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANDI HARDIANTY TENRI OJI",
+      "nim": "P032232019",
+      "jalan": "H.A.MAHMUD N0.450 , CANGADI",
+      "rt": 2,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90863",
+      "nisn": "0011744734",
+      "tempat_lahir": "CANGADI",
+      "tanggal_lahir": "2001-03-24",
+      "telepon": "0",
+      "handphone": "085240834861",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "GALUNG",
+      "id_wilayah": "190903",
+      "nik": "7312026903010002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86348,
+      "kode_status": "A",
+      "email": "anditenrioji05@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128927,
+        "id_mahasiswa": 427821,
+        "created_at": "2024-01-12 09:11:41"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 753,
+      "id_user": 23860,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Ambo Tuwo, DEA.",
+      "nidn": "0018116201",
+      "nip": "196211181987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0576f604-c848-4f32-b422-e9f55f5e2218",
+      "pivot": {
+        "id_kelas_kuliah": 128927,
+        "id_dosen": 753
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 689,
+      "id_user": 14145,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Sharifuddin Bin Andy Omar, M.Sc",
+      "nidn": "0023025902",
+      "nip": "195902231988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e572e6bf-f8ad-4c26-a255-43264256907c",
+      "pivot": {
+        "id_kelas_kuliah": 128927,
+        "id_dosen": 689
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3365,
+      "id_user": null,
+      "id_prodi": 80,
+      "nama": "Dr. Mursyid, S.p., M.M",
+      "nidn": null,
+      "nip": "123456789",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128927,
+        "id_dosen": 3365
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1243,
+      "id_user": 27670,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Ngakan Putu Oka, M.Sc.",
+      "nidn": "0030036003",
+      "nip": "196003301988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a2ecbf11-210b-4d61-9f59-7c4bccce2bff",
+      "pivot": {
+        "id_kelas_kuliah": 128927,
+        "id_dosen": 1243
+      }
+    }
+  ]
+}

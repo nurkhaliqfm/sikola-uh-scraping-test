@@ -1,0 +1,85 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2684,
+  "idnumber_sikola": "29101.127982.109",
+  "shortname_sikola": "TA232-127982",
+  "kode_matkul": "18P07211002",
+  "nama_matkul": "Gender dan Ketenagakerjaan",
+  "nama_kelas": "Gender dan Ketenagakerjaan (Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428427,
+      "id_user": 86954,
+      "id_prodi": 109,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FAJRIANI",
+      "nim": "P072232001",
+      "jalan": "JL. BTN PONDOK INDAH SOREANG NO. 4",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91132",
+      "nisn": "0",
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1981-07-12",
+      "telepon": "0",
+      "handphone": "085255514450",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BUKIT HARAPAN",
+      "id_wilayah": "020819",
+      "nik": "7372035207810002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86954,
+      "kode_status": "A",
+      "email": "vajoji42@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127982,
+        "id_mahasiswa": 428427,
+        "created_at": "2024-01-18 16:22:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 743,
+      "id_user": 27096,
+      "id_prodi": 2,
+      "nama": "Prof. Dr. Siti Haerani, S.E., M.Si.",
+      "nidn": "0016066204",
+      "nip": "196206161987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2bfb0fa2-2daf-4715-aaa2-948069395252",
+      "pivot": {
+        "id_kelas_kuliah": 127982,
+        "id_dosen": 743
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 873,
+      "id_user": 11654,
+      "id_prodi": 1,
+      "nama": "Dr.  Fatmawati, S.E., M.Si.",
+      "nidn": "0006016402",
+      "nip": "196401061988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73ab129a-1788-44cd-8bfd-756ac3584f91",
+      "pivot": {
+        "id_kelas_kuliah": 127982,
+        "id_dosen": 873
+      }
+    }
+  ]
+}

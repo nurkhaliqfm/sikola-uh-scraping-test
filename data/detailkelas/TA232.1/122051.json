@@ -1,0 +1,101 @@
+{
+  "id_prodi": 215,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH DAN KOTA - S2",
+  "id_prodi_semester": 2780,
+  "idnumber_sikola": "38123.122051.215",
+  "shortname_sikola": "TA232-122051",
+  "kode_matkul": "20D10211302",
+  "nama_matkul": "Pengembangan Real Estate",
+  "nama_kelas": "Pengembangan Rea; Estate",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427233,
+      "id_user": 85756,
+      "id_prodi": 215,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RIZKA DAMAYANTI",
+      "nim": "D102232002",
+      "jalan": "JL. TINGGI MAE, NO. 10",
+      "rt": 4,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "92114",
+      "nisn": null,
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2000-09-10",
+      "telepon": "0",
+      "handphone": "082191744548",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "TOMBOLO",
+      "id_wilayah": "190304",
+      "nik": "7313075009000004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 85756,
+      "kode_status": "A",
+      "email": "rizkadamayanti109@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122051,
+        "id_mahasiswa": 427233,
+        "created_at": "2024-01-18 10:06:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1297,
+      "id_user": 31686,
+      "id_prodi": 20,
+      "nama": "Dr. Ir. Mimi Arifin, M.Si.",
+      "nidn": "0018126602",
+      "nip": "196612181993032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "03e72bef-f196-432a-bc8c-a9dfff2abea9",
+      "pivot": {
+        "id_kelas_kuliah": 122051,
+        "id_dosen": 1297
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 739,
+      "id_user": 31919,
+      "id_prodi": 20,
+      "nama": "Prof. Dr. Ir. Shirly Wunas, DEA.",
+      "nidn": "8803560018",
+      "nip": "194712152018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ffb4adaf-a431-427d-be1e-f05a9cfa952c",
+      "pivot": {
+        "id_kelas_kuliah": 122051,
+        "id_dosen": 739
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1711,
+      "id_user": 31970,
+      "id_prodi": 20,
+      "nama": "Dr. Wiwik Wahidah Osman, ST., MT.",
+      "nidn": "0022106801",
+      "nip": "196810222000032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d9afff7-eb1c-4a72-91b8-2e92f97dde10",
+      "pivot": {
+        "id_kelas_kuliah": 122051,
+        "id_dosen": 1711
+      }
+    }
+  ]
+}

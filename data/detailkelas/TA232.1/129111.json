@@ -1,0 +1,52 @@
+{
+  "id_prodi": 213,
+  "nama_prodi": "Rekayasa Kehutanan - S1",
+  "id_prodi_semester": 2778,
+  "idnumber_sikola": "39682.129111.213",
+  "shortname_sikola": "TA232-129111",
+  "kode_matkul": "20M01132403",
+  "nama_matkul": "Metodologi Penelitian",
+  "nama_kelas": "Metodologi Penelitian ( A )",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 160229,
+      "id_user": 56917,
+      "id_prodi": 213,
+      "angkatan": 2021,
+      "nama_mahasiswa": "IMAM BAIHAKI. T",
+      "nim": "M021211044",
+      "jalan": "SAMANGGI",
+      "rt": 3,
+      "rw": 2,
+      "dusun": "DUSUN SAMANGGI",
+      "kode_pos": "90561",
+      "nisn": "0032612008",
+      "tempat_lahir": "MAROS",
+      "tanggal_lahir": "2003-09-15",
+      "telepon": "0",
+      "handphone": "082192409570",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SAMANGKI",
+      "id_wilayah": "190112",
+      "nik": "7309091509030003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "hakitamrin@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c037500d-937e-454c-ab67-5824fe221b37",
+      "id_registrasi_mahasiswa_pddikti": "c25b4731-25c7-4db6-b546-00f25a32ebab",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129111,
+        "id_mahasiswa": 160229,
+        "created_at": "2024-01-30 10:35:03"
+      }
+    }
+  ],
+  "dosens": []
+}

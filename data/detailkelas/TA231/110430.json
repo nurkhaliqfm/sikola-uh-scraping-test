@@ -1,0 +1,61 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2506,
+  "idnumber_sikola": "41920.110430.169",
+  "shortname_sikola": "TA231-110430",
+  "kode_matkul": "21P11210902",
+  "nama_matkul": "Sistem Sosial, Ekonomi, dan Budaya Masyarakat Pantai",
+  "nama_kelas": "Sistem Sosial, Ekonomi, dan Budaya Masyarakat Pantai (PSPT_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 110430,
+        "id_dosen": 779
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3593,
+      "id_user": 60681,
+      "id_prodi": 169,
+      "nama": "Dr. Athira Rinandha Eragradini GP., S.Pi., M.Si",
+      "nidn": "0024128808",
+      "nip": "198812242022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "f42c6713-3c89-4a36-a3bd-67f00da69fa1",
+      "pivot": {
+        "id_kelas_kuliah": 110430,
+        "id_dosen": 3593
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1428,
+      "id_user": 15416,
+      "id_prodi": 66,
+      "nama": "Dr.  Ahmad Bahar, S.T., M.Si.",
+      "nidn": "0022027001",
+      "nip": "197002221998031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3a727593-b034-4add-8912-fb704c946288",
+      "pivot": {
+        "id_kelas_kuliah": 110430,
+        "id_dosen": 1428
+      }
+    }
+  ]
+}

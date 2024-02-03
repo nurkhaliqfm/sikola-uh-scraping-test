@@ -1,0 +1,93 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "48757.116952.102",
+  "shortname_sikola": "TA231-116952",
+  "kode_matkul": "23P06218302",
+  "nama_matkul": "Sistem Kardiorespirasi dan Sistem Digestivus",
+  "nama_kelas": "Sistem Kardiorespirasi dan Sistem Digestivus (W) (Anatomi-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1298,
+      "id_user": 34554,
+      "id_prodi": 55,
+      "nama": "Dr. drg. Irene Edith Rieuwpassa, M.Si.",
+      "nidn": "0012107101",
+      "nip": "197110121999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0ecc0089-a704-4575-94ab-7a916decd377",
+      "pivot": {
+        "id_kelas_kuliah": 116952,
+        "id_dosen": 1298
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1738,
+      "id_user": 33943,
+      "id_prodi": 6,
+      "nama": "dr. Muh. Iqbal Basri, M.Kes., Sp.S(K).",
+      "nidn": "0010077006",
+      "nip": "197007102002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "52ab442e-0a27-4990-9697-197077afe227",
+      "pivot": {
+        "id_kelas_kuliah": 116952,
+        "id_dosen": 1738
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2548,
+      "id_user": 33409,
+      "id_prodi": 6,
+      "nama": "dr Nirwana Fitriani Walenna, S.Ked",
+      "nidn": "0020058808",
+      "nip": "198805202019032014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "93e5ea71-94f1-4200-bc87-f94aa0a624a3",
+      "pivot": {
+        "id_kelas_kuliah": 116952,
+        "id_dosen": 2548
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1570,
+      "id_user": 37402,
+      "id_prodi": 6,
+      "nama": "dr. Nikmatia Latief, M.Kes., Sp. Rad (K)",
+      "nidn": "0009096804",
+      "nip": "196809081999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d2b6ab21-2c96-4864-9edb-c20542e2ac2a",
+      "pivot": {
+        "id_kelas_kuliah": 116952,
+        "id_dosen": 1570
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1782,
+      "id_user": 58361,
+      "id_prodi": 6,
+      "nama": "dr.  Hasan Nyambe, S.Ked., M.Med.Ed",
+      "nidn": "0015068002",
+      "nip": "198006152006041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e6c34a5-66ca-4faf-9f5f-164cfcd0b0b9",
+      "pivot": {
+        "id_kelas_kuliah": 116952,
+        "id_dosen": 1782
+      }
+    }
+  ]
+}

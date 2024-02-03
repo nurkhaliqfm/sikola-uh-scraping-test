@@ -1,0 +1,45 @@
+{
+  "id_prodi": 113,
+  "nama_prodi": "TEKNIK SIPIL - S2",
+  "id_prodi_semester": 2456,
+  "idnumber_sikola": "29476.111947.113",
+  "shortname_sikola": "TA231-111947",
+  "kode_matkul": "18D01215503",
+  "nama_matkul": "MANAJEMEN WAKTU DAN BIAYA PROYEK",
+  "nama_kelas": "Manajemen Waktu dan Biaya Proyek (MK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1133,
+      "id_user": 33433,
+      "id_prodi": 10,
+      "nama": "Dr. Rusdi Usman Latif, MT.",
+      "nidn": "0005026603",
+      "nip": "196602051991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1b7759f7-3b8a-423d-9b83-eeb015688aad",
+      "pivot": {
+        "id_kelas_kuliah": 111947,
+        "id_dosen": 1133
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1467,
+      "id_user": 33631,
+      "id_prodi": 10,
+      "nama": "Ir. Suharman Hamzah, ST., MT., Ph.D., HSE",
+      "nidn": "0005037608",
+      "nip": "197605032002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7852bd4b-fe3a-42ef-977b-a50620806bbb",
+      "pivot": {
+        "id_kelas_kuliah": 111947,
+        "id_dosen": 1467
+      }
+    }
+  ]
+}

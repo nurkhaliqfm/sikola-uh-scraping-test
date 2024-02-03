@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34728.110086.165",
+  "shortname_sikola": "TA231-110086",
+  "kode_matkul": "18D02310702",
+  "nama_matkul": "SEMINAR PROPOSAL PENELITIAN DISERTASI",
+  "nama_kelas": "SEMINAR PROPOSAL PENELITIAN DISERTASI ( M. FAUZAN ALGIFFARI)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 340409,
+      "id_user": 58831,
+      "id_prodi": 165,
+      "angkatan": 2021,
+      "nama_mahasiswa": "M. FAUZHAN ALGIFFARI",
+      "nim": "D023212002",
+      "jalan": "JLN. IWOIMOKULA",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "01",
+      "kode_pos": "93342",
+      "nisn": null,
+      "tempat_lahir": "KENDARI",
+      "tanggal_lahir": "1995-08-17",
+      "telepon": "082223335065",
+      "handphone": "082223335065",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Toreo",
+      "id_wilayah": "200913",
+      "nik": "7409051708950001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fauzan.algiffari@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "da2700ce-17d3-4ed2-b112-39f54be54ec2",
+      "id_registrasi_mahasiswa_pddikti": "81f3570a-e3d1-444a-9ed4-770cdfc0d072",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110086,
+        "id_mahasiswa": 340409,
+        "created_at": "2023-08-04 07:42:05"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1299,
+      "id_user": 19550,
+      "id_prodi": 19,
+      "nama": "Prof. Dr. Ir. Triyatni Martosenjoyo, M.Si",
+      "nidn": "0029075702",
+      "nip": "195707291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f216d8a-9be5-4120-a230-56b08cc5d3ec",
+      "pivot": {
+        "id_kelas_kuliah": 110086,
+        "id_dosen": 1299
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1218,
+      "id_user": 31573,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Syarif, MT.",
+      "nidn": "9990247524",
+      "nip": "195803251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e14accf2-a657-4007-8cc5-b4583c6873f0",
+      "pivot": {
+        "id_kelas_kuliah": 110086,
+        "id_dosen": 1218
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1633,
+      "id_user": 15400,
+      "id_prodi": 19,
+      "nama": "Dr. Rahmi Amin Ishak, ST., MT.",
+      "nidn": "0014037605",
+      "nip": "197603142002122005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "92c5305f-d658-424e-8cc2-6aa718f7b3ac",
+      "pivot": {
+        "id_kelas_kuliah": 110086,
+        "id_dosen": 1633
+      }
+    }
+  ]
+}

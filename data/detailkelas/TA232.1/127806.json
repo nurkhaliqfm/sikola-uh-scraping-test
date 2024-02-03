@@ -1,0 +1,45 @@
+{
+  "id_prodi": 171,
+  "nama_prodi": "ILMU KEBIDANAN - S2",
+  "id_prodi_semester": 2739,
+  "idnumber_sikola": "35044.127806.171",
+  "shortname_sikola": "TA232-127806",
+  "kode_matkul": "18P10210802",
+  "nama_matkul": "Anatomi dan Fisiologi\r\n",
+  "nama_kelas": "Anatomi dan Fisiologi (P) Kelas B (Kebidanan Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1287,
+      "id_user": 33639,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Sitti Rafiah, S.Ked.,M.Si.",
+      "nidn": "0030056803",
+      "nip": "196805301997032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "572723b9-3e4c-428e-aed2-c44603d2ad9c",
+      "pivot": {
+        "id_kelas_kuliah": 127806,
+        "id_dosen": 1287
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1473,
+      "id_user": 34247,
+      "id_prodi": 6,
+      "nama": "Dr.  M. Aryadi Arsyad, MBM.Sc.",
+      "nidn": "0020087604",
+      "nip": "197608202002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c65e2eba-3472-4f7f-95ab-d1cc3d565dd8",
+      "pivot": {
+        "id_kelas_kuliah": 127806,
+        "id_dosen": 1473
+      }
+    }
+  ]
+}

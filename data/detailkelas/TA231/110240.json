@@ -1,0 +1,61 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2484.110240.5",
+  "shortname_sikola": "TA231-110240",
+  "kode_matkul": "18B01144503",
+  "nama_matkul": "FILSAFAT HUKUM DAN ETIKA PROFESI\r\n",
+  "nama_kelas": "FILSAFAT HUKUM KELAS INTERNASIONAL",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 837,
+      "id_user": 34234,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Abdul Maasba Magassing, SH., MH.",
+      "nidn": "0003085503",
+      "nip": "195508031984031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d47965d4-ac8d-4826-a58f-2b9bb2e34503",
+      "pivot": {
+        "id_kelas_kuliah": 110240,
+        "id_dosen": 837
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 791,
+      "id_user": 34085,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Syamsuddin Muhammad Noor, SH., MH.",
+      "nidn": "0002075503",
+      "nip": "195507021988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2fbfbcbd-83b7-43a5-b6f4-c58f244758a2",
+      "pivot": {
+        "id_kelas_kuliah": 110240,
+        "id_dosen": 791
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1652,
+      "id_user": 44539,
+      "id_prodi": 5,
+      "nama": "Birkah Latif, SH.,MH.,LLM.",
+      "nidn": "0008098005",
+      "nip": "198009082005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c49e773c-025e-413e-8490-7fa52d44c781",
+      "pivot": {
+        "id_kelas_kuliah": 110240,
+        "id_dosen": 1652
+      }
+    }
+  ]
+}

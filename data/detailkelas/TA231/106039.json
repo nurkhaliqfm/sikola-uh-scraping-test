@@ -1,0 +1,45 @@
+{
+  "id_prodi": 187,
+  "nama_prodi": "ILMU FARMASI - S3",
+  "id_prodi_semester": 2524,
+  "idnumber_sikola": "35743.106039.187",
+  "shortname_sikola": "TA231-106039",
+  "kode_matkul": "18N04311103",
+  "nama_matkul": "NUTRISI MEDIK",
+  "nama_kelas": "NUTRISI MEDIK (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1036,
+      "id_user": 22650,
+      "id_prodi": 73,
+      "nama": "Prof. Dr. rer. nat. Marianti A. Manggau, Apt",
+      "nidn": "0019036702",
+      "nip": "196703191992032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1b963be7-6dd2-4659-8bae-7aceb288982b",
+      "pivot": {
+        "id_kelas_kuliah": 106039,
+        "id_dosen": 1036
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 700,
+      "id_user": 31933,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  M. Natsir Djide, M.Si, Apt.",
+      "nidn": "8987110021",
+      "nip": "195008171979031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b80d439-82c7-45ce-9607-be647e6e028b",
+      "pivot": {
+        "id_kelas_kuliah": 106039,
+        "id_dosen": 700
+      }
+    }
+  ]
+}

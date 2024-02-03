@@ -1,0 +1,29 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2368,
+  "idnumber_sikola": "47881.113023.1",
+  "shortname_sikola": "TA231-113023",
+  "kode_matkul": "23A01110302",
+  "nama_matkul": "Pengantar Ekonomi Makro",
+  "nama_kelas": "PENGANTAR EKONOMI MAKRO KELAS V",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1636,
+      "id_user": 10135,
+      "id_prodi": 1,
+      "nama": "Muhammad Agung Ady Mangilep, SE.,M.Si.",
+      "nidn": "0015037402",
+      "nip": "197403152003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fa338e23-e3cd-4214-8ae2-3304a16028a8",
+      "pivot": {
+        "id_kelas_kuliah": 113023,
+        "id_dosen": 1636
+      }
+    }
+  ]
+}

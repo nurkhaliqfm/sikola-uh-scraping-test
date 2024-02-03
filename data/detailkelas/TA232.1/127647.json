@@ -1,0 +1,85 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "39481.127647.76",
+  "shortname_sikola": "TA232-127647",
+  "kode_matkul": "20M01312605",
+  "nama_matkul": "Publikasi Jurnal Scopus 3",
+  "nama_kelas": "Publikasi Internasional Scopus 3 (S3 Pert By Reasearch)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157174,
+      "id_user": 53670,
+      "id_prodi": 76,
+      "angkatan": 2021,
+      "nama_mahasiswa": "BONNY LANTANG",
+      "nim": "P013211014",
+      "jalan": "PERIKANAN DARAT",
+      "rt": 19,
+      "rw": 5,
+      "dusun": "Kelapa Lima",
+      "kode_pos": "99612",
+      "nisn": null,
+      "tempat_lahir": "MAKALE",
+      "tanggal_lahir": "1979-03-22",
+      "telepon": "0",
+      "handphone": "082248084409",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "KELAPA LIMA",
+      "id_wilayah": "250700",
+      "nik": "9101012203790004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "bonnylantangunmus@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "cf9c9fd5-c1bf-4942-9dca-2bbcfac0da8c",
+      "id_registrasi_mahasiswa_pddikti": "23264885-8a4c-4636-a854-05ada418c067",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127647,
+        "id_mahasiswa": 157174,
+        "created_at": "2024-01-23 06:29:41"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 127647,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3906,
+      "id_user": null,
+      "id_prodi": 255,
+      "nama": "Prof. Dr. Sc. Agr. Ir. Baharuddin",
+      "nidn": null,
+      "nip": "0024126002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 127647,
+        "id_dosen": 3906
+      }
+    }
+  ]
+}

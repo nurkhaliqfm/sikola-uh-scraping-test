@@ -1,0 +1,61 @@
+{
+  "id_prodi": 174,
+  "nama_prodi": "ILMU POLITIK - S2",
+  "id_prodi_semester": 2742,
+  "idnumber_sikola": "43010.122564.174",
+  "shortname_sikola": "TA232-122564",
+  "kode_matkul": "22E05210903",
+  "nama_matkul": "Politik Ekonomi",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1668,
+      "id_user": 10130,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Phil. Sukri, S.IP., M.Si.",
+      "nidn": "0018087507",
+      "nip": "197508182008011008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "72714fe6-561d-40d4-bfda-a92776daff64",
+      "pivot": {
+        "id_kelas_kuliah": 122564,
+        "id_dosen": 1668
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2232,
+      "id_user": 33548,
+      "id_prodi": 24,
+      "nama": "Drs. Andi Yakub, M.Si., Ph.D",
+      "nidn": "0002066211",
+      "nip": "196212311990031023",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05279457-f91b-4f7c-a42c-940f85794c9c",
+      "pivot": {
+        "id_kelas_kuliah": 122564,
+        "id_dosen": 2232
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2206,
+      "id_user": 34444,
+      "id_prodi": 24,
+      "nama": "Dr.  Muhammad Saad, MA.",
+      "nidn": "8900210021",
+      "nip": "195501281985021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a679931b-ebda-4ebe-8f47-c83fe7247390",
+      "pivot": {
+        "id_kelas_kuliah": 122564,
+        "id_dosen": 2206
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26258.125589.80",
+  "shortname_sikola": "TA232-125589",
+  "kode_matkul": "18P02212702",
+  "nama_matkul": "Sosek Pedesaan \r\n",
+  "nama_kelas": "Sosek Pedesaan (P) (PPW)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 799,
+      "id_user": 25526,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Sitti Bulkis, MS.",
+      "nidn": "0029085401",
+      "nip": "196108291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2522df57-c432-4189-b3ac-136ee3209855",
+      "pivot": {
+        "id_kelas_kuliah": 125589,
+        "id_dosen": 799
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1254,
+      "id_user": 23764,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Mahyuddin, M.Si.",
+      "nidn": "0002076801",
+      "nip": "196807021993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3ae8f218-0817-4b55-ad94-8de75413000e",
+      "pivot": {
+        "id_kelas_kuliah": 125589,
+        "id_dosen": 1254
+      }
+    }
+  ]
+}

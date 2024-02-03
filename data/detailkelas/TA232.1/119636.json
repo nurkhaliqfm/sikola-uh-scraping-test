@@ -1,0 +1,29 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48150.119636.12",
+  "shortname_sikola": "TA232-119636",
+  "kode_matkul": "23D02131302",
+  "nama_matkul": "Seminar Proposal",
+  "nama_kelas": "SEMINAR PROPOSAL T",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 845,
+      "id_user": 31914,
+      "id_prodi": 12,
+      "nama": "Ir. Baharuddin Mire, MT.",
+      "nidn": "9990044083",
+      "nip": "195509141987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50b8024a-0592-4908-bb76-e97c8b3e6762",
+      "pivot": {
+        "id_kelas_kuliah": 119636,
+        "id_dosen": 845
+      }
+    }
+  ]
+}

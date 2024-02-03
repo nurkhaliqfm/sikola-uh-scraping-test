@@ -1,0 +1,85 @@
+{
+  "id_prodi": 38,
+  "nama_prodi": "SASTRA JEPANG - S1",
+  "id_prodi_semester": 2633,
+  "idnumber_sikola": "15018.120433.38",
+  "shortname_sikola": "TA232-120433",
+  "kode_matkul": "496F9132",
+  "nama_matkul": "Ekstra  Kokurikuler",
+  "nama_kelas": "Ekstra Kokurikuler",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 55621,
+      "id_user": 837,
+      "id_prodi": 38,
+      "angkatan": 2019,
+      "nama_mahasiswa": "ANDI MUH ALDI HERDIMAN",
+      "nim": "F081191002",
+      "jalan": "Perum. Dosen UNHAS Tamalanrea",
+      "rt": 1,
+      "rw": 10,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": "0011995431",
+      "tempat_lahir": "Makassar, 1 April 2001",
+      "tanggal_lahir": "2001-04-01",
+      "telepon": "0",
+      "handphone": "0882020387411",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "7371140104010007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aldiherdiman1212@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "69a8b9d6-3795-4191-be86-43e4fe62bac6",
+      "id_registrasi_mahasiswa_pddikti": "9d296683-6d21-469b-af4b-8816dd0c8672",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120433,
+        "id_mahasiswa": 55621,
+        "created_at": "2024-02-01 09:32:22"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2384,
+      "id_user": 74069,
+      "id_prodi": 38,
+      "nama": "Fithyani Anwar, SS., MA., Ph.D",
+      "nidn": "0028108203",
+      "nip": "198210282008122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9ddd316b-7e26-4edd-be73-ccb9f2bb5aae",
+      "pivot": {
+        "id_kelas_kuliah": 120433,
+        "id_dosen": 2384
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 994,
+      "id_user": 32302,
+      "id_prodi": 31,
+      "nama": "Dr. Kaharuddin, M.Hum.",
+      "nidn": "0031126486",
+      "nip": "196412311991031029",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73ad567b-c462-41a4-9a31-4d6fb956a647",
+      "pivot": {
+        "id_kelas_kuliah": 120433,
+        "id_dosen": 994
+      }
+    }
+  ]
+}

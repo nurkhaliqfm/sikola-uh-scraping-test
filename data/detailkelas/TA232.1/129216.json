@@ -1,0 +1,109 @@
+{
+  "id_prodi": 74,
+  "nama_prodi": "PROG. PROFESI APOTEKER",
+  "id_prodi_semester": 2652,
+  "idnumber_sikola": "43184.129216.74",
+  "shortname_sikola": "TA232-129216",
+  "kode_matkul": "22N01410402",
+  "nama_matkul": "Manajemen Farmasi",
+  "nama_kelas": "Manajemen Farmasi D",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1906,
+      "id_user": 25690,
+      "id_prodi": 73,
+      "nama": "Anshar Saud, S.Si.,M.Farm.,Apt.",
+      "nidn": "0030067807",
+      "nip": "197806302008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3b365285-a5d6-45fd-bc0e-4cda7e284412",
+      "pivot": {
+        "id_kelas_kuliah": 129216,
+        "id_dosen": 1906
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1905,
+      "id_user": 14283,
+      "id_prodi": 73,
+      "nama": "Abdul Rahim, S.Si.,M.Si.,Ph.D.,Apt.",
+      "nidn": "0011117708",
+      "nip": "197711112008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e9de157a-6483-4ed4-984e-be31a77fce09",
+      "pivot": {
+        "id_kelas_kuliah": 129216,
+        "id_dosen": 1905
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4062,
+      "id_user": null,
+      "id_prodi": 74,
+      "nama": "Irfan Kurniawan, S.Si., M.M., Apt.",
+      "nidn": null,
+      "nip": "7471041311950001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 129216,
+        "id_dosen": 4062
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1632,
+      "id_user": 20731,
+      "id_prodi": 73,
+      "nama": "Dr.  Herlina Rante, S.Si., M.Si., Apt.",
+      "nidn": "0025117702",
+      "nip": "197711252002122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "029419b8-2945-42bc-b2a3-6745b12b83a1",
+      "pivot": {
+        "id_kelas_kuliah": 129216,
+        "id_dosen": 1632
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2199,
+      "id_user": null,
+      "id_prodi": 73,
+      "nama": "Drs. Muzakkir Rewa, M.Si. Apt.",
+      "nidn": "9901000002",
+      "nip": "195108071981031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d8d25da-c579-4400-9fda-0cd1ff2a9248",
+      "pivot": {
+        "id_kelas_kuliah": 129216,
+        "id_dosen": 2199
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2367,
+      "id_user": 48078,
+      "id_prodi": 73,
+      "nama": "Nurhasni Hasan, S.Si., M.Si., M.Pharm.Sc., Apt., Ph.D",
+      "nidn": "0016018601",
+      "nip": "198601162010122009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "de60febc-9b50-485d-ba7e-0f35891495f3",
+      "pivot": {
+        "id_kelas_kuliah": 129216,
+        "id_dosen": 2367
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2735,
+  "idnumber_sikola": "34844.118770.167",
+  "shortname_sikola": "TA232-118770",
+  "kode_matkul": "18D05311903",
+  "nama_matkul": "KOMUNIKASI GELOMBANH RADIO DAN MIKROWAVE LANJUT",
+  "nama_kelas": "PILIHAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1411,
+      "id_user": 12582,
+      "id_prodi": 17,
+      "nama": "Dr. Eng. Ir. Dewiani, MT.",
+      "nidn": "0026106904",
+      "nip": "196910261994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a412f61-9ddd-4d25-a231-cb8a93934a9a",
+      "pivot": {
+        "id_kelas_kuliah": 118770,
+        "id_dosen": 1411
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2196,
+      "id_user": 33490,
+      "id_prodi": 17,
+      "nama": "Dr. Ir.  Zulfajri Basri Hasanuddin, M.Eng.",
+      "nidn": "0024016905",
+      "nip": "196901241993031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "396573ba-e683-41f9-8f53-bbc5e358b0ce",
+      "pivot": {
+        "id_kelas_kuliah": 118770,
+        "id_dosen": 2196
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1054,
+      "id_user": 34386,
+      "id_prodi": 17,
+      "nama": "Elyas, S.T., M.Eng., Ph.D",
+      "nidn": "0001026406",
+      "nip": "196902011994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3347a460-6adc-4ed4-afdc-c0d70cbbbd20",
+      "pivot": {
+        "id_kelas_kuliah": 118770,
+        "id_dosen": 1054
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1981,
+      "id_user": 31207,
+      "id_prodi": 17,
+      "nama": "Merna Baharuddin, ST.,M.Tel.Eng.,Ph.D.",
+      "nidn": "0005127503",
+      "nip": "197512052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "935fd211-7d06-44ef-b04b-99b3dd9200be",
+      "pivot": {
+        "id_kelas_kuliah": 118770,
+        "id_dosen": 1981
+      }
+    }
+  ]
+}

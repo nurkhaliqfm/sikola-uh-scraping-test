@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Quiz 4</text></name><questiontext format="html"><text><![CDATA[<p>Buat disribusi frekuensi data  bb badan pasien DM dibawah  ini :</p><p style="margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; margin-left:36.0pt"><span lang="SV" style="font-size:12.0pt"><span style="line-height:115%"><span style="font-family:"Times New Roman","serif"">56        66        65        70        80        90        88        78        100      110</span></span></span></p>
+
+<p style="margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; margin-left:36.0pt"><span lang="SV" style="font-size:12.0pt"><span style="line-height:115%"><span style="font-family:"Times New Roman","serif"">49        70        55        66        85        84        77        68        89        68</span></span></span></p>
+
+<p style="margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; margin-left:36.0pt"><span lang="SV" style="font-size:12.0pt"><span style="line-height:115%"><span style="font-family:"Times New Roman","serif"">56        70        60        68        70        88        60        70        80        50</span></span></span></p>
+
+<p style="margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; margin-left:36.0pt"> </p>
+
+<p style="margin-left:36.0pt"><span lang="SV" style="font-size:12.0pt"><span style="line-height:115%"><span style="font-family:"Times New Roman","serif"">Catatan gunakan data terkecil sebagai ujung bawah kelas pertama</span></span></span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>50.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_81519</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

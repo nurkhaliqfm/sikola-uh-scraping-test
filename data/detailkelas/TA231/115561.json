@@ -1,0 +1,85 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2375,
+  "idnumber_sikola": "44639.115561.10",
+  "shortname_sikola": "TA231-115561",
+  "kode_matkul": "23U01110702",
+  "nama_matkul": "Pendidikan Pancasila",
+  "nama_kelas": "Pendidikan Pancasila INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 424226,
+      "id_user": 83154,
+      "id_prodi": 10,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD WAHYU",
+      "nim": "D011231150",
+      "jalan": "JLN TRANZ LUWUK",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Dusun 3 Kuwanto Desa Nonong",
+      "kode_pos": "94762",
+      "nisn": "0053319260",
+      "tempat_lahir": "KUWANTO",
+      "tanggal_lahir": "2005-02-19",
+      "telepon": "0",
+      "handphone": "085298913764",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "NONONG",
+      "id_wilayah": "180402",
+      "nik": "7201011902050001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muhamadw517@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "966873fe-8c5f-4be8-9430-88bceac27df3",
+      "id_registrasi_mahasiswa_pddikti": "9c9eaa89-98da-4041-9be1-cf8bd8ef204b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115561,
+        "id_mahasiswa": 424226,
+        "created_at": "2023-08-23 11:53:29"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1649,
+      "id_user": 34056,
+      "id_prodi": 25,
+      "nama": "Rahmatullah, SIP., M.Si.",
+      "nidn": "0013057706",
+      "nip": "197705132003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57b1ba60-23f6-4cc1-8b62-6ea81407c3c4",
+      "pivot": {
+        "id_kelas_kuliah": 115561,
+        "id_dosen": 1649
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2871,
+      "id_user": 34387,
+      "id_prodi": 142,
+      "nama": "Nursamsani,SS,M.Hum",
+      "nidn": null,
+      "nip": "7314015411890001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115561,
+        "id_dosen": 2871
+      }
+    }
+  ]
+}

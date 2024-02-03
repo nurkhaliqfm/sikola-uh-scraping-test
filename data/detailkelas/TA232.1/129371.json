@@ -1,0 +1,77 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28139.129371.102",
+  "shortname_sikola": "TA232-129371",
+  "kode_matkul": "18P06211302",
+  "nama_matkul": "Keterampilan Riset dan Laboratorium",
+  "nama_kelas": "Keterampilan Riset dan Laboratorium (Fisio-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1473,
+      "id_user": 34247,
+      "id_prodi": 6,
+      "nama": "Dr.  M. Aryadi Arsyad, MBM.Sc.",
+      "nidn": "0020087604",
+      "nip": "197608202002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c65e2eba-3472-4f7f-95ab-d1cc3d565dd8",
+      "pivot": {
+        "id_kelas_kuliah": 129371,
+        "id_dosen": 1473
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1783,
+      "id_user": 18560,
+      "id_prodi": 6,
+      "nama": "dr.  Arif Santoso, Sp.P(K)., Ph.D., FAPSR.",
+      "nidn": "0015077712",
+      "nip": "197707152006041012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f485eac-45f4-4c64-8d2e-d68e62b6acbe",
+      "pivot": {
+        "id_kelas_kuliah": 129371,
+        "id_dosen": 1783
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2361,
+      "id_user": 37596,
+      "id_prodi": 6,
+      "nama": "dr.  Andi Ariyandy",
+      "nidn": "0004068401",
+      "nip": "198406042010121007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e75b2ac4-9f39-4a85-be0f-2a02f2b4aa32",
+      "pivot": {
+        "id_kelas_kuliah": 129371,
+        "id_dosen": 2361
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1475,
+      "id_user": 34089,
+      "id_prodi": 6,
+      "nama": "Dr.dr.  Ika Yustisia, S.Ked.,M.Sc.",
+      "nidn": "0021017705",
+      "nip": "197701212003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a7d178bb-2b7d-4d80-830a-ea037d32e2f4",
+      "pivot": {
+        "id_kelas_kuliah": 129371,
+        "id_dosen": 1475
+      }
+    }
+  ]
+}

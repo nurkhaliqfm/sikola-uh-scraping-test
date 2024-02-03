@@ -1,0 +1,29 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2617,
+  "idnumber_sikola": "46524.128854.21",
+  "shortname_sikola": "TA232-128854",
+  "kode_matkul": "23U02130202",
+  "nama_matkul": "Manajemen Kegiatan",
+  "nama_kelas": "Manajemen Kegiatan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1257,
+      "id_user": 22098,
+      "id_prodi": 21,
+      "nama": "Dr. Sultan, ST., MT.",
+      "nidn": "0007057009",
+      "nip": "197007051997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22f1b4fc-a227-462b-9549-139d969cfb19",
+      "pivot": {
+        "id_kelas_kuliah": 128854,
+        "id_dosen": 1257
+      }
+    }
+  ]
+}

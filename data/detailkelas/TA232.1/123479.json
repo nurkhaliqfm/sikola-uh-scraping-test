@@ -1,0 +1,156 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "35202.123479.173",
+  "shortname_sikola": "TA232-123479",
+  "kode_matkul": "18K01311102",
+  "nama_matkul": "Ekonomi Kesehatan dan Manajemen Pembiayaan",
+  "nama_kelas": "Ekonomi Kesehatan dan Manajemen Pembiayaan Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427781,
+      "id_user": 86308,
+      "id_prodi": 173,
+      "angkatan": 2023,
+      "nama_mahasiswa": "LUSSIANA MEISYE MARAMIS",
+      "nim": "K013232010",
+      "jalan": "jl. Gelora.",
+      "rt": 16,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "95711",
+      "nisn": "0",
+      "tempat_lahir": "INOBONTO",
+      "tanggal_lahir": "1980-05-24",
+      "telepon": "0",
+      "handphone": "085240005376",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "KOTAMOBAGU",
+      "id_wilayah": "176301",
+      "nik": "7174046405800001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86308,
+      "kode_status": "A",
+      "email": "mercymaramis80@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123479,
+        "id_mahasiswa": 427781,
+        "created_at": "2024-01-22 10:09:39"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 420243,
+      "id_user": 80519,
+      "id_prodi": 173,
+      "angkatan": 2023,
+      "nama_mahasiswa": "LA ODE ALI IMRAN AHMAD",
+      "nim": "K013231020",
+      "jalan": "JALAN TERONG BTN NAFA GRAHA KAMPUS BLOK I NO 3",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "93231",
+      "nisn": null,
+      "tempat_lahir": "DURUKA/RAHA",
+      "tanggal_lahir": "1983-03-08",
+      "telepon": "081354872332",
+      "handphone": "081354872332",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "MOKOAU",
+      "id_wilayah": "206010",
+      "nik": "7403160804830001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "imranoder@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "683e0864-a6a5-40e8-9a1f-ab7a37f17049",
+      "id_registrasi_mahasiswa_pddikti": "8c3cbeb4-60d6-4d14-935c-145bc1435ad8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123479,
+        "id_mahasiswa": 420243,
+        "created_at": "2024-01-31 21:21:16"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 717,
+      "id_user": 28583,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Amran Razak,SE, M.Sc",
+      "nidn": "0002015701",
+      "nip": "195701021986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d6a2d617-1a60-434b-82a5-22a0a1926382",
+      "pivot": {
+        "id_kelas_kuliah": 123479,
+        "id_dosen": 717
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 767,
+      "id_user": 34452,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. dr.  M. Alimin Maidin, MPH.",
+      "nidn": "0014045502",
+      "nip": "195504141986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "088e84cf-a170-4171-87de-32cc81b99e7b",
+      "pivot": {
+        "id_kelas_kuliah": 123479,
+        "id_dosen": 767
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1018,
+      "id_user": 28403,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Darmawansyah, SE., M.S",
+      "nidn": "0024046403",
+      "nip": "196404241991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ca2f2cda-a103-46ab-8040-722ce895843a",
+      "pivot": {
+        "id_kelas_kuliah": 123479,
+        "id_dosen": 1018
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1408,
+      "id_user": 29184,
+      "id_prodi": 57,
+      "nama": "Dr. H. Muhammad Alwy Arifin, M.Kes.",
+      "nidn": "0008076402",
+      "nip": "196407081991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "48dc6383-e9ec-4118-abdd-d937e8bae1d1",
+      "pivot": {
+        "id_kelas_kuliah": 123479,
+        "id_dosen": 1408
+      }
+    }
+  ]
+}

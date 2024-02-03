@@ -1,0 +1,45 @@
+{
+  "id_prodi": 128,
+  "nama_prodi": "PPDS ANESTESIOLOGI",
+  "id_prodi_semester": 2701,
+  "idnumber_sikola": "38887.121647.128",
+  "shortname_sikola": "TA232-121647",
+  "kode_matkul": "20Y00510402",
+  "nama_matkul": "EPIDEMIOLOGI KLINIK DAN KEDOKTERAN BERBASIS BUKTI",
+  "nama_kelas": "Epidemiologi Klinik",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3053,
+      "id_user": null,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Nur Nasry Noor, MPH.",
+      "nidn": null,
+      "nip": "193909092018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 121647,
+        "id_dosen": 3053
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 771,
+      "id_user": 12060,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Husein Albar, Sp.A(K)",
+      "nidn": "9990342218",
+      "nip": "195105211980111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e8ca3e0c-5ce3-43ae-ae66-5bee37291533",
+      "pivot": {
+        "id_kelas_kuliah": 121647,
+        "id_dosen": 771
+      }
+    }
+  ]
+}

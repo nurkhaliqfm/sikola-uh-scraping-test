@@ -1,0 +1,85 @@
+{
+  "id_prodi": 217,
+  "nama_prodi": "KEDOKTERAN GIGI - S2",
+  "id_prodi_semester": 2782,
+  "idnumber_sikola": "39584.118166.217",
+  "shortname_sikola": "TA232-118166",
+  "kode_matkul": "20J08222902",
+  "nama_matkul": "Teori Dasar Terapi implan dental",
+  "nama_kelas": "TEORI DASAR TERAPI IMPLAN DENTAL",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385873,
+      "id_user": 72066,
+      "id_prodi": 217,
+      "angkatan": 2022,
+      "nama_mahasiswa": "INSIYAH HURIYAH AKBAR",
+      "nim": "J012222002",
+      "jalan": "PERUMAHAN BUMI TAKKALALA PERMAI BLOK D NO. 7",
+      "rt": 4,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91959",
+      "nisn": null,
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "1996-01-10",
+      "telepon": "0",
+      "handphone": "085315028608",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "wara selatan",
+      "id_wilayah": "190805",
+      "nik": "7373035201960001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "huriyah_insiyah@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3c7f10f9-c0f0-481d-8843-18eded1d0996",
+      "id_registrasi_mahasiswa_pddikti": "037cd2f6-3ab5-4b86-9bfa-dd5d84a8ae2d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118166,
+        "id_mahasiswa": 385873,
+        "created_at": "2024-01-16 20:30:03"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1179,
+      "id_user": 35537,
+      "id_prodi": 55,
+      "nama": "Prof. Dr. drg. Sri Oktawati, Sp.Perio.",
+      "nidn": "0003106401",
+      "nip": "196410031990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "152df927-936a-4272-a364-aaab0f4c30d0",
+      "pivot": {
+        "id_kelas_kuliah": 118166,
+        "id_dosen": 1179
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1853,
+      "id_user": 37297,
+      "id_prodi": 55,
+      "nama": "drg. Arni Irawaty Djais, Sp.Perio.(K)",
+      "nidn": "0030017509",
+      "nip": "197501302008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d662c03e-9458-4273-aa84-d4fed471d25c",
+      "pivot": {
+        "id_kelas_kuliah": 118166,
+        "id_dosen": 1853
+      }
+    }
+  ]
+}

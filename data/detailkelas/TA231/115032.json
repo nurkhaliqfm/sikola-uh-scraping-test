@@ -1,0 +1,140 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2380,
+  "idnumber_sikola": "47412.115032.15",
+  "shortname_sikola": "TA231-115032",
+  "kode_matkul": "23D08133202",
+  "nama_matkul": "Mitigasi Bencana",
+  "nama_kelas": "Mitigasi Bencana MBKM",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142272,
+      "id_user": 38884,
+      "id_prodi": 15,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ISMY SYATIRAH NIGGA",
+      "nim": "D081201010",
+      "jalan": "JL. LASINRANG DG. SESE NO.10",
+      "rt": 1,
+      "rw": 9,
+      "dusun": "Pokobulo",
+      "kode_pos": "92351",
+      "nisn": "0016819540",
+      "tempat_lahir": "JENEPONTO",
+      "tanggal_lahir": "2001-06-24",
+      "telepon": "085341373198",
+      "handphone": "085298549613",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Bangkalaloe",
+      "id_wilayah": "190507",
+      "nik": "7304076406010003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ismysyatirah@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "740df2c2-e64f-4b84-8a3f-7680715828d2",
+      "id_registrasi_mahasiswa_pddikti": "62f70291-8551-4ed5-bef6-46c063f16c80",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115032,
+        "id_mahasiswa": 142272,
+        "created_at": "2023-08-04 22:35:18"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 138767,
+      "id_user": 39891,
+      "id_prodi": 15,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUSDALIFAH AKBAR SIMANJUNTAK",
+      "nim": "D081201009",
+      "jalan": "Mutiara Hijau Blok D3 no 3 tj.piayu batam",
+      "rt": 6,
+      "rw": 6,
+      "dusun": "Tj.piayu",
+      "kode_pos": "94383",
+      "nisn": "0011141681",
+      "tempat_lahir": "BATAM",
+      "tanggal_lahir": "2001-10-22",
+      "telepon": "0",
+      "handphone": "6285356994142",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Duriangkang",
+      "id_wilayah": "316003",
+      "nik": "2171076210019006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ifahakbar86@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "336ce2c5-7a4d-4515-8707-f9ce7c727e79",
+      "id_registrasi_mahasiswa_pddikti": "f327300f-1f69-4a2d-a9b2-8d986ff2b251",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115032,
+        "id_mahasiswa": 138767,
+        "created_at": "2023-08-14 09:02:29"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1793,
+      "id_user": 31659,
+      "id_prodi": 15,
+      "nama": "Dr. Chairul Paotonan, ST.,MT.",
+      "nidn": "0005067506",
+      "nip": "197506052002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "da77c090-29a0-424a-ab33-9443560c7ae5",
+      "pivot": {
+        "id_kelas_kuliah": 115032,
+        "id_dosen": 1793
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1641,
+      "id_user": 10466,
+      "id_prodi": 15,
+      "nama": "Ashury, ST.,MT.",
+      "nidn": "0018037405",
+      "nip": "197403182006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "674c48a5-5cf3-4037-b05f-5bc339221e74",
+      "pivot": {
+        "id_kelas_kuliah": 115032,
+        "id_dosen": 1641
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1592,
+      "id_user": 28475,
+      "id_prodi": 15,
+      "nama": "Dr.  Hasdinar Umar, ST.,MT.",
+      "nidn": "0028047806",
+      "nip": "197804282003122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b12d581-777c-4ea0-84b8-79eefc87a8a5",
+      "pivot": {
+        "id_kelas_kuliah": 115032,
+        "id_dosen": 1592
+      }
+    }
+  ]
+}

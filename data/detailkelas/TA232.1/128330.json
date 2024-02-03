@@ -1,0 +1,140 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2711,
+  "idnumber_sikola": "31900.128330.138",
+  "shortname_sikola": "TA232-128330",
+  "kode_matkul": "19L06211203",
+  "nama_matkul": "Ikhtiologi",
+  "nama_kelas": "Ikhtiologi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427742,
+      "id_user": 86269,
+      "id_prodi": 138,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUTMAINNAH",
+      "nim": "L012232027",
+      "jalan": "KEBUN SIRIH",
+      "rt": 3,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "99910",
+      "nisn": "3021142823",
+      "tempat_lahir": "BONTO REA",
+      "tanggal_lahir": "2002-04-22",
+      "telepon": "0",
+      "handphone": "081241039382",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KOPERAPOKA",
+      "id_wilayah": "251203",
+      "nik": "7311066204020003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86269,
+      "kode_status": "A",
+      "email": "mutmainnahabdillahh@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128330,
+        "id_mahasiswa": 427742,
+        "created_at": "2024-01-12 13:19:51"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427741,
+      "id_user": 86268,
+      "id_prodi": 138,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD REZA PERDIANSYAH",
+      "nim": "L012232026",
+      "jalan": "JLN CUMI-CUMI",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Tamanroya",
+      "kode_pos": "92255",
+      "nisn": "3000701887",
+      "tempat_lahir": "TAKALAR",
+      "tanggal_lahir": "2000-03-24",
+      "telepon": "0",
+      "handphone": "082311145708",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA BIRINGKASSI",
+      "id_wilayah": "190406",
+      "nik": "7305062403000002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86268,
+      "kode_status": "A",
+      "email": "muhammadrezaperdiansyah19@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128330,
+        "id_mahasiswa": 427741,
+        "created_at": "2024-01-26 20:34:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1245,
+      "id_user": 9489,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  Andi Iqbal, ST., M.Fish.,Sc.",
+      "nidn": "0015126901",
+      "nip": "196912151994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8fd40067-611f-4766-be4b-761abda5995e",
+      "pivot": {
+        "id_kelas_kuliah": 128330,
+        "id_dosen": 1245
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 689,
+      "id_user": 14145,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Sharifuddin Bin Andy Omar, M.Sc",
+      "nidn": "0023025902",
+      "nip": "195902231988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e572e6bf-f8ad-4c26-a255-43264256907c",
+      "pivot": {
+        "id_kelas_kuliah": 128330,
+        "id_dosen": 689
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1144,
+      "id_user": 18815,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Joeharnani Tresnati, DEA.",
+      "nidn": "0007096301",
+      "nip": "196509071989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eee3075-615b-468b-a9f2-1876ed8e646b",
+      "pivot": {
+        "id_kelas_kuliah": 128330,
+        "id_dosen": 1144
+      }
+    }
+  ]
+}

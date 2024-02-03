@@ -1,0 +1,45 @@
+{
+  "id_prodi": 153,
+  "nama_prodi": "AGRIBISNIS - S1",
+  "id_prodi_semester": 2721,
+  "idnumber_sikola": "36545.120947.153",
+  "shortname_sikola": "TA232-120947",
+  "kode_matkul": "19G02131503",
+  "nama_matkul": "AGRIBISNIS TANAMAN SEMUSIM",
+  "nama_kelas": "Agribisnis Tanaman Semusim Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1663,
+      "id_user": 20999,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. A. Nixia Tenriawaru, SP., M.Si.",
+      "nidn": "0007117201",
+      "nip": "197211071997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "19003e3b-e7ce-4fd6-b6d4-40bd89c513ea",
+      "pivot": {
+        "id_kelas_kuliah": 120947,
+        "id_dosen": 1663
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3425,
+      "id_user": 60691,
+      "id_prodi": 153,
+      "nama": "Ayu Anisa Amir, S.P., M.Si",
+      "nidn": "0014099010",
+      "nip": "199009142022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "586fb5a2-6718-4281-a660-d556d1451fd0",
+      "pivot": {
+        "id_kelas_kuliah": 120947,
+        "id_dosen": 3425
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "37048.106939.76",
+  "shortname_sikola": "TA231-106939",
+  "kode_matkul": "18P01313303",
+  "nama_matkul": "Ekonomi Peternakan Lanjutan",
+  "nama_kelas": "Ekonomi Peternakan Lanjutan (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 726,
+      "id_user": 15614,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Ahmad Ramadhan Siregar, MS.",
+      "nidn": "0020026207",
+      "nip": "196202201988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb2d4cf3-b7c4-4527-8c65-1b6768f0f690",
+      "pivot": {
+        "id_kelas_kuliah": 106939,
+        "id_dosen": 726
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1516,
+      "id_user": 16485,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Palmarudi M, SU.",
+      "nidn": "0022126003",
+      "nip": "196012221991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fccee74c-b084-4e14-87c9-e9ad70abb562",
+      "pivot": {
+        "id_kelas_kuliah": 106939,
+        "id_dosen": 1516
+      }
+    }
+  ]
+}

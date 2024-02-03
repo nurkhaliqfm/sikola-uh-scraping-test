@@ -1,0 +1,77 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2512,
+  "idnumber_sikola": "37023.106755.175",
+  "shortname_sikola": "TA231-106755",
+  "kode_matkul": "19G01211702",
+  "nama_matkul": "Produksi dan Penyimpanan Benih",
+  "nama_kelas": "Produksi dan Penyimpanan Benih (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 961,
+      "id_user": 21539,
+      "id_prodi": 152,
+      "nama": "Dr. Ir.  Syatrianty Andi Syaiful, MS.",
+      "nidn": "0024036202",
+      "nip": "196203241987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "431837c8-74d9-4d2e-8801-800e2c682112",
+      "pivot": {
+        "id_kelas_kuliah": 106755,
+        "id_dosen": 961
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 982,
+      "id_user": 23755,
+      "id_prodi": 152,
+      "nama": "Dr. Ir Amirullah Dachlan, MP.",
+      "nidn": "9990163462",
+      "nip": "195608221986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf1498b9-e6f0-4e9d-a204-35912ed01143",
+      "pivot": {
+        "id_kelas_kuliah": 106755,
+        "id_dosen": 982
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1300,
+      "id_user": 22661,
+      "id_prodi": 152,
+      "nama": "Dr. Ir.  Muh. Riadi, MP.",
+      "nidn": "0005096403",
+      "nip": "196409051989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "01310d25-ce09-4208-a207-e8a8c939c484",
+      "pivot": {
+        "id_kelas_kuliah": 106755,
+        "id_dosen": 1300
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3587,
+      "id_user": 74064,
+      "id_prodi": 152,
+      "nama": "Dr. Muhammad Azrai, Sp., MP.",
+      "nidn": "0020017204",
+      "nip": "197201201999031002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "00dd63a1-4b17-4388-b98d-4583795e70c7",
+      "pivot": {
+        "id_kelas_kuliah": 106755,
+        "id_dosen": 3587
+      }
+    }
+  ]
+}

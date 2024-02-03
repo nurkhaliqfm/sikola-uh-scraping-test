@@ -1,0 +1,45 @@
+{
+  "id_prodi": 136,
+  "nama_prodi": "TEKNIK PERKAPALAN - S2",
+  "id_prodi_semester": 2478,
+  "idnumber_sikola": "31718.110178.136",
+  "shortname_sikola": "TA231-110178",
+  "kode_matkul": "18D05210702",
+  "nama_matkul": "Teknologi Pembangunan Kapal",
+  "nama_kelas": "Teknologi Pembangunan Kapal A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2242,
+      "id_user": 31434,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. Syamsul Asri, MT.",
+      "nidn": "0018036501",
+      "nip": "196503181991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37fab9e6-b66b-4b95-bf1a-6014c96b003b",
+      "pivot": {
+        "id_kelas_kuliah": 110178,
+        "id_dosen": 2242
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1579,
+      "id_user": 33555,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Eng Suandar Baso, S.T., MT.",
+      "nidn": "0006027301",
+      "nip": "197302062000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cdbebdf1-79ac-43e9-b3f0-4daeb0f4267a",
+      "pivot": {
+        "id_kelas_kuliah": 110178,
+        "id_dosen": 1579
+      }
+    }
+  ]
+}

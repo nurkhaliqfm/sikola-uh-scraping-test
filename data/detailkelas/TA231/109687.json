@@ -1,0 +1,140 @@
+{
+  "id_prodi": 157,
+  "nama_prodi": "KETEKNIKAN PERTANIAN - S2",
+  "id_prodi_semester": 2494,
+  "idnumber_sikola": "36925.109687.157",
+  "shortname_sikola": "TA231-109687",
+  "kode_matkul": "19G04210602",
+  "nama_matkul": "Pemodelan Matematika dan Teknik Simulasi",
+  "nama_kelas": "Pemodelan Matematika & Teknik Simulasi  (Kelas A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385811,
+      "id_user": 73069,
+      "id_prodi": 157,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SALEH ALI AHFI",
+      "nim": "G042222001",
+      "jalan": "JALAN POROS ANDOOLO-KENDARI",
+      "rt": 2,
+      "rw": 3,
+      "dusun": "2",
+      "kode_pos": "93811",
+      "nisn": "9996506416",
+      "tempat_lahir": "AMERORO",
+      "tanggal_lahir": "1999-10-02",
+      "telepon": "0",
+      "handphone": "081342635939",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Potoro",
+      "id_wilayah": "200509",
+      "nik": "7405030210990001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "salehaliahfi@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "556e1549-e47c-4395-89f8-2953d7edc5eb",
+      "id_registrasi_mahasiswa_pddikti": "f82ea4a1-3b8b-4f8a-9aca-d28d42ea7338",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109687,
+        "id_mahasiswa": 385811,
+        "created_at": "2023-08-02 20:43:38"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 385184,
+      "id_user": 71967,
+      "id_prodi": 157,
+      "angkatan": 2022,
+      "nama_mahasiswa": "ASNIDAR MASTAM",
+      "nim": "G042222003",
+      "jalan": "Desa Mabbiring",
+      "rt": 1,
+      "rw": 4,
+      "dusun": "Mabbiring",
+      "kode_pos": "92781",
+      "nisn": "0005671640",
+      "tempat_lahir": "MABBIRING",
+      "tanggal_lahir": "2000-02-16",
+      "telepon": "0",
+      "handphone": "081703396314",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MABBIRING",
+      "id_wilayah": "190709",
+      "nik": "7308085602000001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "asnidarmastam16@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4028249b-8385-4ebd-ad65-59aba8bd1804",
+      "id_registrasi_mahasiswa_pddikti": "96794226-cbfe-4e5e-a18b-b4f36b60aeab",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109687,
+        "id_mahasiswa": 385184,
+        "created_at": "2023-08-03 18:47:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3208,
+      "id_user": 60086,
+      "id_prodi": 155,
+      "nama": "Dr. Suhardi, STP., MP.",
+      "nidn": "0010087107",
+      "nip": "197108102005021003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "d7724f05-0f65-4580-8bbd-297a53e32b9a",
+      "pivot": {
+        "id_kelas_kuliah": 109687,
+        "id_dosen": 3208
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1532,
+      "id_user": 19872,
+      "id_prodi": 155,
+      "nama": "Dr. Ir.  Mahmud, MP.",
+      "nidn": "0003067005",
+      "nip": "197006031994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8bfed169-61f9-43f9-8938-12f93d05c127",
+      "pivot": {
+        "id_kelas_kuliah": 109687,
+        "id_dosen": 1532
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1210,
+      "id_user": 23509,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Junaedi Muhidong, M.Sc.",
+      "nidn": "0025115712",
+      "nip": "196001011985031014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6e82961d-915e-49c9-b1cb-a7691035ca48",
+      "pivot": {
+        "id_kelas_kuliah": 109687,
+        "id_dosen": 1210
+      }
+    }
+  ]
+}

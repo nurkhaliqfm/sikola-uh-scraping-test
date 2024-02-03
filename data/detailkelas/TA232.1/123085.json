@@ -1,0 +1,101 @@
+{
+  "id_prodi": 231,
+  "nama_prodi": "ILMU POLITIK - S3",
+  "id_prodi_semester": 2795,
+  "idnumber_sikola": "41899.123085.231",
+  "shortname_sikola": "TA232-123085",
+  "kode_matkul": "21E05310603",
+  "nama_matkul": "Analisis Politik Lokal, Global dan Kepentingan Nasional",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423386,
+      "id_user": 80584,
+      "id_prodi": 231,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANDI MEGANINGRATNA",
+      "nim": "E053231004",
+      "jalan": "JL. CENDRAWASIH LRG. 15",
+      "rt": 3,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90134",
+      "nisn": null,
+      "tempat_lahir": "MALANG",
+      "tanggal_lahir": "1980-10-31",
+      "telepon": "0",
+      "handphone": "0895800146876",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "KARANG ANYAR",
+      "id_wilayah": "196002",
+      "nik": "7371097110800005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ningratna07@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c4667c32-d742-4806-a447-aa9249a9c568",
+      "id_registrasi_mahasiswa_pddikti": "e7e6f15f-b78c-48d8-9a79-7b89070cf13b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123085,
+        "id_mahasiswa": 423386,
+        "created_at": "2024-01-23 16:12:14"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1002,
+      "id_user": 10701,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Armin, M.Si.",
+      "nidn": "0009116508",
+      "nip": "196511091991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8c4fcacf-e9ad-4e0e-8986-0a788f7868ba",
+      "pivot": {
+        "id_kelas_kuliah": 123085,
+        "id_dosen": 1002
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2232,
+      "id_user": 33548,
+      "id_prodi": 24,
+      "nama": "Drs. Andi Yakub, M.Si., Ph.D",
+      "nidn": "0002066211",
+      "nip": "196212311990031023",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05279457-f91b-4f7c-a42c-940f85794c9c",
+      "pivot": {
+        "id_kelas_kuliah": 123085,
+        "id_dosen": 2232
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1379,
+      "id_user": 34261,
+      "id_prodi": 26,
+      "nama": "Dr. Adi Suryadi B., M.Si.",
+      "nidn": "0017026306",
+      "nip": "196302171992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7a8de633-fda4-4e0d-a28f-aace17cd6c47",
+      "pivot": {
+        "id_kelas_kuliah": 123085,
+        "id_dosen": 1379
+      }
+    }
+  ]
+}

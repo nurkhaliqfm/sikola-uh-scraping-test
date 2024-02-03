@@ -1,0 +1,61 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "25794.127308.76",
+  "shortname_sikola": "TA232-127308",
+  "kode_matkul": "18P01311703",
+  "nama_matkul": "Teknologi Proses Pangan Terkini",
+  "nama_kelas": "Teknologi Proses Pangan Terkini (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 127308,
+        "id_dosen": 1038
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 842,
+      "id_user": 34449,
+      "id_prodi": 154,
+      "nama": "Prof. Dr. Ir. Abu Bakar",
+      "nidn": "0003076302",
+      "nip": "196307021988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "490c99f6-3eff-4440-a1ca-a6d24b1e5dff",
+      "pivot": {
+        "id_kelas_kuliah": 127308,
+        "id_dosen": 842
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1657,
+      "id_user": 75,
+      "id_prodi": 154,
+      "nama": "Dr. rer.nat. Ir. Zainal, STP., M.Food.Tech.",
+      "nidn": "0009047202",
+      "nip": "197204091999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c2de969-7c5d-4f6a-9461-b9d4518d2cac",
+      "pivot": {
+        "id_kelas_kuliah": 127308,
+        "id_dosen": 1657
+      }
+    }
+  ]
+}

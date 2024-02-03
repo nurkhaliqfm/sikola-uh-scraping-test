@@ -1,0 +1,85 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2684,
+  "idnumber_sikola": "29099.127963.109",
+  "shortname_sikola": "TA232-127963",
+  "kode_matkul": "18P07210803",
+  "nama_matkul": "Politik dan Keadilan Gender",
+  "nama_kelas": "Politik dan Keadilan Gender (Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428427,
+      "id_user": 86954,
+      "id_prodi": 109,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FAJRIANI",
+      "nim": "P072232001",
+      "jalan": "JL. BTN PONDOK INDAH SOREANG NO. 4",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91132",
+      "nisn": "0",
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1981-07-12",
+      "telepon": "0",
+      "handphone": "085255514450",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BUKIT HARAPAN",
+      "id_wilayah": "020819",
+      "nik": "7372035207810002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86954,
+      "kode_status": "A",
+      "email": "vajoji42@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127963,
+        "id_mahasiswa": 428427,
+        "created_at": "2024-01-18 16:22:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 965,
+      "id_user": 34242,
+      "id_prodi": 25,
+      "nama": "Prof. Dr.  Rabina Yunus, M.Si.",
+      "nidn": "0023116007",
+      "nip": "196011231986032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ae8b02d1-4f20-4a95-8029-070baac1c02d",
+      "pivot": {
+        "id_kelas_kuliah": 127963,
+        "id_dosen": 965
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1668,
+      "id_user": 10130,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Phil. Sukri, S.IP., M.Si.",
+      "nidn": "0018087507",
+      "nip": "197508182008011008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "72714fe6-561d-40d4-bfda-a92776daff64",
+      "pivot": {
+        "id_kelas_kuliah": 127963,
+        "id_dosen": 1668
+      }
+    }
+  ]
+}

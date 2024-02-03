@@ -1,0 +1,101 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2602,
+  "idnumber_sikola": "2473.118755.5",
+  "shortname_sikola": "TA232-118755",
+  "kode_matkul": "18B01133502",
+  "nama_matkul": "HUKUM PESISIR & PULAU2 KECIL\r\n",
+  "nama_kelas": "HUKUM PESISIR & PULAU-PULAU KECIL",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 155699,
+      "id_user": 52107,
+      "id_prodi": 5,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MARGARETH TRISANIA TANDIROGANG",
+      "nim": "B011211118",
+      "jalan": "SEMPAJA LESTARI INDAH 8 BLOK B 24",
+      "rt": 16,
+      "rw": 0,
+      "dusun": "0",
+      "kode_pos": "75119",
+      "nisn": "0031239122",
+      "tempat_lahir": "SAMARINDA",
+      "tanggal_lahir": "2003-03-24",
+      "telepon": "0",
+      "handphone": "08115545451",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SEMPAJA TIMUR",
+      "id_wilayah": "166006",
+      "nik": "6472056403030001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "mtsania2016@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c25391d5-7884-4919-b364-1f134135f624",
+      "id_registrasi_mahasiswa_pddikti": "6ef27ad1-a5ec-4e40-b6bd-f683ac187884",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118755,
+        "id_mahasiswa": 155699,
+        "created_at": "2024-01-19 15:06:41"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 896,
+      "id_user": 34097,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Farida Patittingi, S.H., M.Hum.",
+      "nidn": "0031126724",
+      "nip": "196712311991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ccf669e-87e0-4958-b39d-90be5c469ac2",
+      "pivot": {
+        "id_kelas_kuliah": 118755,
+        "id_dosen": 896
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 820,
+      "id_user": 58039,
+      "id_prodi": 5,
+      "nama": "Dr. Sudirman Saad, SH.,M.Hum.",
+      "nidn": "0022106406",
+      "nip": "196410221988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "51e15661-4c5c-48e1-827a-89f0b8e9ed0d",
+      "pivot": {
+        "id_kelas_kuliah": 118755,
+        "id_dosen": 820
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1377,
+      "id_user": 27672,
+      "id_prodi": 5,
+      "nama": "Dr. Kahar Lahae, S.H., M.Hum.",
+      "nidn": "0031126603",
+      "nip": "196612311990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9ea7702-44d7-46cc-a613-3df741381bb0",
+      "pivot": {
+        "id_kelas_kuliah": 118755,
+        "id_dosen": 1377
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2736,
+  "idnumber_sikola": "34894.128126.168",
+  "shortname_sikola": "TA232-128126",
+  "kode_matkul": "18D04320104",
+  "nama_matkul": "PENELITIAN DAN SEMINAR DISERTASI I",
+  "nama_kelas": "Penelitian dan Seminar Disertasi I (Kristiana Pasau)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 160329,
+      "id_user": 57024,
+      "id_prodi": 168,
+      "angkatan": 2021,
+      "nama_mahasiswa": "KRISTIANA PASAU",
+      "nim": "D043211006",
+      "jalan": "PERUMAHAN GOLDEN HILLS B.16 MAKASSAR",
+      "rt": 7,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "TANA TORAJA",
+      "tanggal_lahir": "1972-05-28",
+      "telepon": "0",
+      "handphone": "081311211487",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "TAMALANREA",
+      "id_wilayah": "196012",
+      "nik": "7371026805720003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "kristianapasau@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f92db1c8-f2f8-437f-ab7e-d5447b2ac016",
+      "id_registrasi_mahasiswa_pddikti": "5876c7d7-5c87-45a0-b19b-b4652cb14f99",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128126,
+        "id_mahasiswa": 160329,
+        "created_at": "2024-02-01 18:43:49"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 804,
+      "id_user": 18142,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir.  H. Nasaruddin Salam, M.T.",
+      "nidn": "0020125903",
+      "nip": "195912201986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2c953d6f-d7d3-409f-940d-19fe73ac4551",
+      "pivot": {
+        "id_kelas_kuliah": 128126,
+        "id_dosen": 804
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1960,
+      "id_user": 21402,
+      "id_prodi": 12,
+      "nama": "Azwar Hayat, ST., M.Sc., Ph.D.",
+      "nidn": "0026018403",
+      "nip": "198401262012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e25bf60f-d7cc-4e97-8166-6f4ceddcc378",
+      "pivot": {
+        "id_kelas_kuliah": 128126,
+        "id_dosen": 1960
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2308,
+      "id_user": 19116,
+      "id_prodi": 12,
+      "nama": "Dr. Hairul Arsyad, ST.,MT.",
+      "nidn": "0022037505",
+      "nip": "197503222002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c2d4c46-88cb-4f41-925c-123ed7364600",
+      "pivot": {
+        "id_kelas_kuliah": 128126,
+        "id_dosen": 2308
+      }
+    }
+  ]
+}

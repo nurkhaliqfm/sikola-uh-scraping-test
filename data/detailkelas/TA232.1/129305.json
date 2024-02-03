@@ -1,0 +1,101 @@
+{
+  "id_prodi": 181,
+  "nama_prodi": "PPDS - MIKROBIOLOGI KLINIK",
+  "id_prodi_semester": 2749,
+  "idnumber_sikola": "38754.129305.181",
+  "shortname_sikola": "TA232-129305",
+  "kode_matkul": "20C19530604",
+  "nama_matkul": "Infeksi Mycobacterium",
+  "nama_kelas": "Infeksi Mycobacterium - 20232",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 158676,
+      "id_user": 55255,
+      "id_prodi": 181,
+      "angkatan": 2021,
+      "nama_mahasiswa": "FANNY INDRIYANI BIYANG",
+      "nim": "C195211002",
+      "jalan": "KOMP. PURI TATA INDAH BLOK F2",
+      "rt": 6,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90224",
+      "nisn": "uh10001294",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1987-10-20",
+      "telepon": "0",
+      "handphone": "08114118014",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BALANG BARU",
+      "id_wilayah": "196003",
+      "nik": "7371036010870001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fanny.indriyani.biyang@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ce2b056b-29a6-4aa7-af2d-ca469856d004",
+      "id_registrasi_mahasiswa_pddikti": "8e6adcdb-0a8e-41b0-bd72-0fe438ac9302",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129305,
+        "id_mahasiswa": 158676,
+        "created_at": "2024-01-19 13:50:43"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 889,
+      "id_user": 34368,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Muh. Nasrum Massi, M.Sc., Ph.D., Sp.MK",
+      "nidn": "0010096703",
+      "nip": "196709101996031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f425e8b-c8d4-4329-9187-182e4989367e",
+      "pivot": {
+        "id_kelas_kuliah": 129305,
+        "id_dosen": 889
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 697,
+      "id_user": 19833,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Mochammad Hatta, Ph.D., Sp.MK(K)",
+      "nidn": "0014045703",
+      "nip": "195704161985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34a19bf1-32eb-4cbc-9ef2-b89416188fd0",
+      "pivot": {
+        "id_kelas_kuliah": 129305,
+        "id_dosen": 697
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1957,
+      "id_user": 33725,
+      "id_prodi": 6,
+      "nama": "dr. Lisa Tenriesa M, M.Med.Sc.",
+      "nidn": "0004038304",
+      "nip": "198303042012122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4034b0a9-5d90-4d5f-bba3-7d0c9d4174df",
+      "pivot": {
+        "id_kelas_kuliah": 129305,
+        "id_dosen": 1957
+      }
+    }
+  ]
+}

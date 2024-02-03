@@ -1,0 +1,85 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2386,
+  "idnumber_sikola": "47969.112952.21",
+  "shortname_sikola": "TA231-112952",
+  "kode_matkul": "23D06131902",
+  "nama_matkul": "Konversi Energi Laut",
+  "nama_kelas": "Konvesi Energi Laut",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 143320,
+      "id_user": 44331,
+      "id_prodi": 21,
+      "angkatan": 2020,
+      "nama_mahasiswa": "JUAN KEVIN SEMDARIS",
+      "nim": "D061201083",
+      "jalan": "JALAN MONGINSIDI BARU BLOK AB7 NO 1N",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "0023499622",
+      "tempat_lahir": "MAKASSAR, 8 JULI 2002",
+      "tanggal_lahir": "2002-07-08",
+      "telepon": "0",
+      "handphone": "082346943639",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Ballaparang",
+      "id_wilayah": "196013",
+      "nik": "7371130207020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "semdarisjuan@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "66b76be8-232e-4031-a662-5352cd31018a",
+      "id_registrasi_mahasiswa_pddikti": "813224b0-3810-4508-a7d3-a806e1ea2b53",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112952,
+        "id_mahasiswa": 143320,
+        "created_at": "2023-08-03 20:59:29"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2174,
+      "id_user": 58033,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Safri Burhanuddin, DEA.",
+      "nidn": "0024076103",
+      "nip": "196107241988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "018223b6-477f-4128-bc88-c26ead46606e",
+      "pivot": {
+        "id_kelas_kuliah": 112952,
+        "id_dosen": 2174
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1469,
+      "id_user": 13038,
+      "id_prodi": 21,
+      "nama": "Dr. Ir. Haerani Sirajuddin, M.T.",
+      "nidn": "0019116701",
+      "nip": "196711191998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fa52c8b-c8fc-432b-95e6-c7707dc470ed",
+      "pivot": {
+        "id_kelas_kuliah": 112952,
+        "id_dosen": 1469
+      }
+    }
+  ]
+}

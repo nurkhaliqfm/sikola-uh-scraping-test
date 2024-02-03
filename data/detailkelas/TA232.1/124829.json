@@ -1,0 +1,85 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "47146.124829.17",
+  "shortname_sikola": "TA232-124829",
+  "kode_matkul": "23D04135002",
+  "nama_matkul": "Analisis Transien Mesin Listrik",
+  "nama_kelas": "Analisis Transien Mesin Listrik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 155063,
+      "id_user": 51433,
+      "id_prodi": 17,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUHAMMAD DWI JULIANTO",
+      "nim": "D041211111",
+      "jalan": "JL. DIPONEGORO KAB. MUNA PROV. SULAWESI TENGGARA 93613",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "93613",
+      "nisn": "0035231624",
+      "tempat_lahir": "RAHA",
+      "tanggal_lahir": "2003-07-26",
+      "telepon": "0",
+      "handphone": "082249934413",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "WAMPONIKI",
+      "id_wilayah": "200207",
+      "nik": "7403162607030202",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anto45220@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "45f8db10-9707-4bb8-b8a4-7418fd408752",
+      "id_registrasi_mahasiswa_pddikti": "b7579474-29af-4473-92d0-a9fe39c6b7bd",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124829,
+        "id_mahasiswa": 155063,
+        "created_at": "2024-02-02 12:28:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1032,
+      "id_user": 18023,
+      "id_prodi": 17,
+      "nama": "Dr.  Ir. Sri Mawar Said, MT.",
+      "nidn": "0006116002",
+      "nip": "196011061986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fa705025-8ddf-47f9-8719-ffcb3acfcb5c",
+      "pivot": {
+        "id_kelas_kuliah": 124829,
+        "id_dosen": 1032
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1280,
+      "id_user": 16426,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Indar Chaerah Gunadin, ST., MT.",
+      "nidn": "0018117301",
+      "nip": "197311181998031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "459be265-d348-4a8f-8f58-38fb2ce2a38d",
+      "pivot": {
+        "id_kelas_kuliah": 124829,
+        "id_dosen": 1280
+      }
+    }
+  ]
+}

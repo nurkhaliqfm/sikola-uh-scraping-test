@@ -1,0 +1,45 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "46526.128846.17",
+  "shortname_sikola": "TA232-128846",
+  "kode_matkul": "23U02130902",
+  "nama_matkul": "Kewirausahaan Rintisan",
+  "nama_kelas": "Kewirausahaan Rintisan (MKPK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1575,
+      "id_user": 19608,
+      "id_prodi": 17,
+      "nama": "Dr. Eng. Ir Wardi, ST., M.Eng.",
+      "nidn": "0028087203",
+      "nip": "197208281999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b2d9603e-82a4-439e-98ee-32d4ea1b58cc",
+      "pivot": {
+        "id_kelas_kuliah": 128846,
+        "id_dosen": 1575
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1700,
+      "id_user": 16977,
+      "id_prodi": 17,
+      "nama": "Dr. Ikhlas Kitta, ST., MT.",
+      "nidn": "0014097603",
+      "nip": "197609142008011006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1718683-c9ac-4825-9fff-6baa5409f663",
+      "pivot": {
+        "id_kelas_kuliah": 128846,
+        "id_dosen": 1700
+      }
+    }
+  ]
+}

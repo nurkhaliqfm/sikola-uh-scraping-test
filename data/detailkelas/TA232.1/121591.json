@@ -1,0 +1,61 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "45563.121591.19",
+  "shortname_sikola": "TA232-121591",
+  "kode_matkul": "23D05121404",
+  "nama_matkul": "Struktur dan Konstruksi Bangunan 3",
+  "nama_kelas": "Building Structure and Construction 3",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 121591,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3822,
+      "id_user": 71364,
+      "id_prodi": 165,
+      "nama": "Andi Lolo Sinrang Arisaputra, ST., M.Eng., Ph.D",
+      "nidn": "8980860023",
+      "nip": "7371021502910004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "d90f2508-7d11-4e43-b0a6-c52039bf021e",
+      "pivot": {
+        "id_kelas_kuliah": 121591,
+        "id_dosen": 3822
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1513,
+      "id_user": 31644,
+      "id_prodi": 19,
+      "nama": "Ir. Muhammad Taufik Ishak, MT.",
+      "nidn": "0019016006",
+      "nip": "196001191989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b16d191-8815-4f33-b1dc-7396fa0b7211",
+      "pivot": {
+        "id_kelas_kuliah": 121591,
+        "id_dosen": 1513
+      }
+    }
+  ]
+}

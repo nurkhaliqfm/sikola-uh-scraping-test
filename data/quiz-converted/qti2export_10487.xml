@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>課題１</text></name><questiontext format="html"><text><![CDATA[<p>Jelaskanlah pola di bawah ini, kemudian buatkan kalimat. </p><ol style="list-style-type:lower-alpha">
+	<li style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">～という～</span></span></span></span></li>
+</ol>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">説明：</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">例文：</span></span></span></span></p>
+
+<ol start="2" style="list-style-type:lower-alpha">
+	<li style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">～何～ても</span></span></span></span></li>
+</ol>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">説明：</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">例文：</span></span></span></span></p>
+
+<ol start="3" style="list-style-type:lower-alpha">
+	<li style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">～ことが～</span></span></span></span></li>
+</ol>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">説明：</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">例文：</span></span></span></span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>150.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_131681</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>課題１</text></name><questiontext format="html"><text><![CDATA[<p>Buatlah percakapan dengan mengikuti alur percakapan yang telah diberikan.</p><p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">目上の人に頼みにくいことをおねがいしましょう。断られても、何とかお願いして引き受けてもらってください。（先生に作文のチェックを頼む）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho""><span style="background-color:#f1c40f;">会話の流れ：</span></span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">私</span></span>        <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（依頼を切り出す）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">先生</span></span>    <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：　何でしょうか。</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">私</span></span>        <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（頼む）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">先生</span></span>    <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（とまどう）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">私</span></span>        <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（依頼の理由を説明する）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">先生</span></span>    <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（依頼を受けるのを躊躇する）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">私</span></span>        <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（さらに依頼の理由を言うそれからもう一度頼む）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">先生</span></span>    <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（依頼を受ける）</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">私</span></span>        <span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">：（お礼を言う）</span></span></span></span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>450.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_131683</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>課題１</text></name><questiontext format="html"><text><![CDATA[<p>Buatlah 1 paragraf (minimal 3 kalimat)</p><p><span style="font-size:16px;">日本の畳について自分の意見を述べなさい。</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>210.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_131685</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>課題１</text></name><questiontext format="html"><text><![CDATA[<p>Jawablah pertanyaan berikut:</p><p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">畳の良い点を</span></span><span lang="SV" style="line-height:150%"><span style="font-family:"Century Gothic",sans-serif">3</span></span><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">つ書いてください。</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">１．</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">２．</span></span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px;"><span style="line-height:150%"><span lang="JA" style="line-height:150%"><span style="font-family:"MS Mincho"">３．</span></span></span></span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>90.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_131684</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

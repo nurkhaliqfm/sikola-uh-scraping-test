@@ -1,0 +1,45 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46564.110367.16",
+  "shortname_sikola": "TA231-110367",
+  "kode_matkul": "23D09140602",
+  "nama_matkul": "Sistem Monitoring Kapal",
+  "nama_kelas": "Sistem Monitoring Kapal",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1909,
+      "id_user": 31687,
+      "id_prodi": 16,
+      "nama": "Haryanti Rivai, S.T., M,T., Ph.D",
+      "nidn": "0025027907",
+      "nip": "197902252002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ac401f43-e288-4bbc-b40d-881ea074052b",
+      "pivot": {
+        "id_kelas_kuliah": 110367,
+        "id_dosen": 1909
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1596,
+      "id_user": 33707,
+      "id_prodi": 16,
+      "nama": "Surya Hariyanto, ST.,MT.",
+      "nidn": "0002077110",
+      "nip": "197107022000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a6ac0969-bb75-4a64-8f59-570a240d6890",
+      "pivot": {
+        "id_kelas_kuliah": 110367,
+        "id_dosen": 1596
+      }
+    }
+  ]
+}

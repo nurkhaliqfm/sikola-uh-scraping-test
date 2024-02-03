@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46529.124235.50",
+  "shortname_sikola": "TA231-124235",
+  "kode_matkul": "23U02131202",
+  "nama_matkul": "Pengambilan Keputusan",
+  "nama_kelas": "Pengambilan Keputusan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1021,
+      "id_user": 33995,
+      "id_prodi": 50,
+      "nama": "Dr.  Andi Ilham, M.Si.",
+      "nidn": "0007026706",
+      "nip": "196702071991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ef315322-491e-4ec7-95a4-6ebac28349d4",
+      "pivot": {
+        "id_kelas_kuliah": 124235,
+        "id_dosen": 1021
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 141,
+  "nama_prodi": "MKU  Eksakta",
+  "id_prodi_semester": 2483,
+  "idnumber_sikola": "44625.107608.141",
+  "shortname_sikola": "TA231-107608",
+  "kode_matkul": "23H03112702",
+  "nama_matkul": "Kimia Dasar",
+  "nama_kelas": "Kimia Dasar 00001",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2135,
+      "id_user": 33546,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Abd.Wahid Wahab, M.Sc.",
+      "nidn": "8824223419",
+      "nip": "194908271976021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6fa09864-a353-46fc-b390-160d503242ec",
+      "pivot": {
+        "id_kelas_kuliah": 107608,
+        "id_dosen": 2135
+      }
+    }
+  ]
+}

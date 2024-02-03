@@ -1,0 +1,52 @@
+{
+  "id_prodi": 68,
+  "nama_prodi": "BUDIDAYA PERAIRAN - S1",
+  "id_prodi_semester": 2647,
+  "idnumber_sikola": "46526.129980.68",
+  "shortname_sikola": "TA232-129980",
+  "kode_matkul": "23U02130902",
+  "nama_matkul": "Kewirausahaan Rintisan",
+  "nama_kelas": "Kewirausahaan Rintisan (MKPK)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 158688,
+      "id_user": 55267,
+      "id_prodi": 68,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUHAMMAD ALIF IRAWAN",
+      "nim": "L031211080",
+      "jalan": "DUSUN BARANA PANCE",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Barana Pance",
+      "kode_pos": "91994",
+      "nisn": "0035570002",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-07-18",
+      "telepon": "0",
+      "handphone": "082398482252",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PAMMANU",
+      "id_wilayah": "191703",
+      "nik": "7317141807020003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 55267,
+      "kode_status": "A",
+      "email": "alifirawann17@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c8ff4e50-8078-41b5-a4de-3aad66431060",
+      "id_registrasi_mahasiswa_pddikti": "2eca68aa-2391-4ab0-b919-fa98ebf30761",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129980,
+        "id_mahasiswa": 158688,
+        "created_at": "2024-02-02 11:30:39"
+      }
+    }
+  ],
+  "dosens": []
+}

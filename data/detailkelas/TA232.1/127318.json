@@ -1,0 +1,61 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26257.127318.80",
+  "shortname_sikola": "TA232-127318",
+  "kode_matkul": "18P02212602",
+  "nama_matkul": "Benchmarking \r\n",
+  "nama_kelas": "Benchmarking (PPW)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 782,
+      "id_user": 31673,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Ahmad Munir, M.Eng.",
+      "nidn": "0027076201",
+      "nip": "196207271989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9fe5c2d9-d111-444c-8d46-21ac6ce09521",
+      "pivot": {
+        "id_kelas_kuliah": 127318,
+        "id_dosen": 782
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2519,
+      "id_user": 11866,
+      "id_prodi": 80,
+      "nama": "Dr. Kurniaty, S.E., M.Si",
+      "nidn": "0901058005",
+      "nip": "198005012019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87653b30-453f-44d8-a24c-9bd90c2d18ec",
+      "pivot": {
+        "id_kelas_kuliah": 127318,
+        "id_dosen": 2519
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3759,
+      "id_user": null,
+      "id_prodi": 80,
+      "nama": "Dr. Ir. H. M. Nurdin, M.T.",
+      "nidn": null,
+      "nip": "3174011005640014",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 127318,
+        "id_dosen": 3759
+      }
+    }
+  ]
+}

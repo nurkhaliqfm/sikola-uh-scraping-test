@@ -1,0 +1,101 @@
+{
+  "id_prodi": 152,
+  "nama_prodi": "AGROTEKNOLOGI - S1",
+  "id_prodi_semester": 2720,
+  "idnumber_sikola": "36348.122708.152",
+  "shortname_sikola": "TA232-122708",
+  "kode_matkul": "19G01133803",
+  "nama_matkul": "BIOLOGI TANAH",
+  "nama_kelas": "BIOLOGI TANAH",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139427,
+      "id_user": 43091,
+      "id_prodi": 152,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUH YUSRIL AZIS",
+      "nim": "G011201006",
+      "jalan": "JL.POROS PALOPO-MAKASSAR",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Padang lambe",
+      "kode_pos": "91999",
+      "nisn": "0006993723",
+      "tempat_lahir": "PADANG SAPPA",
+      "tanggal_lahir": "2000-06-20",
+      "telepon": "0",
+      "handphone": "08152344227",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Padang sappa",
+      "id_wilayah": "191720",
+      "nik": "7317112006000002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "yusrilazis7@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "807a7966-0f30-4e18-a6f0-3de2335b0cb3",
+      "id_registrasi_mahasiswa_pddikti": "4dd1c986-b6ba-4b02-a729-6141507a302d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122708,
+        "id_mahasiswa": 139427,
+        "created_at": "2024-01-22 12:39:41"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1251,
+      "id_user": 23371,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Muh. Jayadi, MP.",
+      "nidn": "0026095901",
+      "nip": "195909261986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6bc3b874-c874-4c1d-912e-fbebbc6ff878",
+      "pivot": {
+        "id_kelas_kuliah": 122708,
+        "id_dosen": 1251
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1486,
+      "id_user": 20248,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Burhanuddin Rasyid, M.Sc",
+      "nidn": "0021076401",
+      "nip": "196407211990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ed79384-f4ab-4d47-94ba-844afd02025c",
+      "pivot": {
+        "id_kelas_kuliah": 122708,
+        "id_dosen": 1486
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3811,
+      "id_user": 60710,
+      "id_prodi": 232,
+      "nama": "Risky Nurhikmayani, S.Si., M.Sc.",
+      "nidn": "0012029406",
+      "nip": "199402122022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "7cf6e45d-6b09-424b-87e4-a5e193cea29b",
+      "pivot": {
+        "id_kelas_kuliah": 122708,
+        "id_dosen": 3811
+      }
+    }
+  ]
+}

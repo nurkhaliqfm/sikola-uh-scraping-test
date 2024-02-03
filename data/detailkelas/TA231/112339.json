@@ -1,0 +1,140 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2415,
+  "idnumber_sikola": "45479.112339.67",
+  "shortname_sikola": "TA231-112339",
+  "kode_matkul": "23L02130903",
+  "nama_matkul": "Produktivitas Perairan",
+  "nama_kelas": "Produktivitas Perairan (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 80367,
+      "id_user": 1706,
+      "id_prodi": 67,
+      "angkatan": 2018,
+      "nama_mahasiswa": "SRI SUTRA YULIANTI S.",
+      "nim": "L021181028",
+      "jalan": "Maccinibaji",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "99998",
+      "nisn": "L021181028",
+      "tempat_lahir": "Jeneponto",
+      "tanggal_lahir": "2001-02-19",
+      "telepon": "082351933950",
+      "handphone": "082351933950",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tolo",
+      "id_wilayah": "190505",
+      "nik": "7304055902010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "yuliantisrisutra@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "570ae023-e39a-4bd6-9b63-b34d2f0e9ea7",
+      "id_registrasi_mahasiswa_pddikti": "48ae2bb9-9d1a-437b-b44c-d127ab124a8c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112339,
+        "id_mahasiswa": 80367,
+        "created_at": "2023-08-02 11:52:09"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 140414,
+      "id_user": 39722,
+      "id_prodi": 67,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NUR ASIKIN",
+      "nim": "L021201061",
+      "jalan": "Pinrang",
+      "rt": 2,
+      "rw": 5,
+      "dusun": "Lambalumama",
+      "kode_pos": "91254",
+      "nisn": "0021990256",
+      "tempat_lahir": "Tuppu",
+      "tanggal_lahir": "2002-09-05",
+      "telepon": "0",
+      "handphone": "6285348672701",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tadokkong",
+      "id_wilayah": "022312",
+      "nik": "7315074509020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nurasikin225@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f1e90b58-9b28-4dd3-9846-00021f59c385",
+      "id_registrasi_mahasiswa_pddikti": "cedfb9bd-e1d8-4ef3-9552-b4735065c193",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112339,
+        "id_mahasiswa": 140414,
+        "created_at": "2023-08-10 10:27:02"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1487,
+      "id_user": 18572,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Nita Rukminasari, S.Pi., MP.",
+      "nidn": "0029126901",
+      "nip": "196912291998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc475580-d411-44b1-a260-e0a9fa1dc8bb",
+      "pivot": {
+        "id_kelas_kuliah": 112339,
+        "id_dosen": 1487
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3132,
+      "id_user": 15274,
+      "id_prodi": 67,
+      "nama": "Wilma Joanna Carolina Moka, S.Kel., M.Agr",
+      "nidn": "0916098602",
+      "nip": "198609162019032014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a892101d-6755-4d2b-8164-8c0c68adaed4",
+      "pivot": {
+        "id_kelas_kuliah": 112339,
+        "id_dosen": 3132
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3497,
+      "id_user": 48424,
+      "id_prodi": 67,
+      "nama": "Jamaluddin Fitrah Alam, S.Pi., M.Si., Ph.D",
+      "nidn": "0027049008",
+      "nip": "199004272021073001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "5f314267-9507-473a-983e-1e47c34d66ad",
+      "pivot": {
+        "id_kelas_kuliah": 112339,
+        "id_dosen": 3497
+      }
+    }
+  ]
+}

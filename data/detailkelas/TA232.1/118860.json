@@ -1,0 +1,77 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43223.118860.78",
+  "shortname_sikola": "TA232-118860",
+  "kode_matkul": "22I02212003",
+  "nama_matkul": "Teknologi Industri Pakan",
+  "nama_kelas": "Teknologi Industri Pakan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 843,
+      "id_user": 14610,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Jasmal Ahmari Syamsu, M.Si., IPU., ASEAN Eng",
+      "nidn": "0005116901",
+      "nip": "196811051993011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "91352c8c-6353-47fa-9666-adc6e67381d8",
+      "pivot": {
+        "id_kelas_kuliah": 118860,
+        "id_dosen": 843
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1117,
+      "id_user": 15191,
+      "id_prodi": 51,
+      "nama": "Dr. Ir.  Syahriani, M.Si.",
+      "nidn": "0012116503",
+      "nip": "196511121990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "603b95b7-c194-4d6b-badc-d90c3fb10143",
+      "pivot": {
+        "id_kelas_kuliah": 118860,
+        "id_dosen": 1117
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1468,
+      "id_user": 15908,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Sri Purwanti, S.Pt.,M.Si., IPM., ASEAN Eng",
+      "nidn": "0001117507",
+      "nip": "197511012003122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8af87648-21c5-4060-9daa-358877f0b3f6",
+      "pivot": {
+        "id_kelas_kuliah": 118860,
+        "id_dosen": 1468
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1600,
+      "id_user": 20519,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Jamila, S.Pt., M.Si., IPM.",
+      "nidn": "0011057506",
+      "nip": "197505112003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8d5b9cf5-8cbe-41dd-8e25-ab35c865a8e4",
+      "pivot": {
+        "id_kelas_kuliah": 118860,
+        "id_dosen": 1600
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 35,
+  "nama_prodi": "SASTRA BUGIS-MAKASSAR - S1",
+  "id_prodi_semester": 2630,
+  "idnumber_sikola": "46856.122076.35",
+  "shortname_sikola": "TA232-122076",
+  "kode_matkul": "23F02121302",
+  "nama_matkul": "Kodikologi",
+  "nama_kelas": "KODIKOLOGI (KELAS B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 788,
+      "id_user": 15373,
+      "id_prodi": 35,
+      "nama": "Prof. Dr.  Nurhayati Rahman, MS.",
+      "nidn": "0029125703",
+      "nip": "195712291984032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5b1b4832-3166-4f45-9ab2-dac529d2e92f",
+      "pivot": {
+        "id_kelas_kuliah": 122076,
+        "id_dosen": 788
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2943,
+      "id_user": 12614,
+      "id_prodi": 35,
+      "nama": "Basiah , S.S.,M.A",
+      "nidn": "8804170018",
+      "nip": "197303192018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f4ff751a-66a7-4903-869f-260ad8e9afbd",
+      "pivot": {
+        "id_kelas_kuliah": 122076,
+        "id_dosen": 2943
+      }
+    }
+  ]
+}

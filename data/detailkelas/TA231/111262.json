@@ -1,0 +1,45 @@
+{
+  "id_prodi": 213,
+  "nama_prodi": "Rekayasa Kehutanan - S1",
+  "id_prodi_semester": 2547,
+  "idnumber_sikola": "39664.111262.213",
+  "shortname_sikola": "TA231-111262",
+  "kode_matkul": "20M01140401",
+  "nama_matkul": "Seminar Akhir",
+  "nama_kelas": "Seminar Akhir",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1684,
+      "id_user": 34270,
+      "id_prodi": 71,
+      "nama": "Dr. Ir.  Sitti Nuraeni, MP.",
+      "nidn": "0010046805",
+      "nip": "196804101995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d24b1a0-00b1-42a6-8ff9-2a24e9a6cecf",
+      "pivot": {
+        "id_kelas_kuliah": 111262,
+        "id_dosen": 1684
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3389,
+      "id_user": 48355,
+      "id_prodi": 71,
+      "nama": "Chairil A, S.Hut., M.Hut",
+      "nidn": "8988020021",
+      "nip": "199402212021015001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "3cc6547e-c9d6-4d98-9b7f-bc7e677bc978",
+      "pivot": {
+        "id_kelas_kuliah": 111262,
+        "id_dosen": 3389
+      }
+    }
+  ]
+}

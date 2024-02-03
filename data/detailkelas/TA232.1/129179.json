@@ -1,0 +1,101 @@
+{
+  "id_prodi": 226,
+  "nama_prodi": "STUDI PEMBANGUNAN - S3",
+  "id_prodi_semester": 2790,
+  "idnumber_sikola": "39812.129179.226",
+  "shortname_sikola": "TA232-129179",
+  "kode_matkul": "20P02310302",
+  "nama_matkul": "Teori dan Paradigma Pembangunan",
+  "nama_kelas": "Teori dan Paradigma Pembangunan (S3 SP Sem_I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428373,
+      "id_user": 86900,
+      "id_prodi": 226,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MANSUR YAHYA",
+      "nim": "P023232001",
+      "jalan": "POROS BONE - MAKASSAR",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Ujung",
+      "kode_pos": "90562",
+      "nisn": "-",
+      "tempat_lahir": "CAMBA KAB. MAROS",
+      "tanggal_lahir": "1982-05-25",
+      "telepon": "081342398820",
+      "handphone": "081342398820",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PATTIRO DECENG",
+      "id_wilayah": "190106",
+      "nik": "7309022505820001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86900,
+      "kode_status": "A",
+      "email": "yahya_mansur@ymail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129179,
+        "id_mahasiswa": 428373,
+        "created_at": "2024-01-24 14:43:32"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 708,
+      "id_user": 25455,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir.  Darmawan, M.Sc.",
+      "nidn": "0006066301",
+      "nip": "196306061988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4986613c-e075-4352-b8fb-b986f2715bb0",
+      "pivot": {
+        "id_kelas_kuliah": 129179,
+        "id_dosen": 708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1322,
+      "id_user": 33569,
+      "id_prodi": 1,
+      "nama": "Drs. Muhammad Yusri Zamhuri, MA., Ph.D",
+      "nidn": "0006086113",
+      "nip": "196108061989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c191fe7a-125f-414c-8cf7-7a5ec2c86fb8",
+      "pivot": {
+        "id_kelas_kuliah": 129179,
+        "id_dosen": 1322
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3594,
+      "id_user": 58095,
+      "id_prodi": 226,
+      "nama": "Dr. Ir. Muhammad Yamin, M.Si",
+      "nidn": "1109036001",
+      "nip": "196003091990031007",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d48dd14-6560-4bc6-a759-fb115eee177b",
+      "pivot": {
+        "id_kelas_kuliah": 129179,
+        "id_dosen": 3594
+      }
+    }
+  ]
+}

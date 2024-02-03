@@ -1,0 +1,149 @@
+{
+  "id_prodi": 164,
+  "nama_prodi": "PROFESI DOKTER HEWAN",
+  "id_prodi_semester": 2501,
+  "idnumber_sikola": "34657.115048.164",
+  "shortname_sikola": "TA231-115048",
+  "kode_matkul": "106O2134",
+  "nama_matkul": "Kesehatan Masyarakat Veteriner",
+  "nama_kelas": "Kesehatan Masyarakat Veteriner Ang.11",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 356899,
+      "id_user": 71461,
+      "id_prodi": 164,
+      "angkatan": 2022,
+      "nama_mahasiswa": "FITRIAH F JAYA",
+      "nim": "C024221040",
+      "jalan": "RSI FAISAL 17 LR.2 NO.32",
+      "rt": 1,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "9988372025",
+      "tempat_lahir": "TAKALAR",
+      "tanggal_lahir": "1998-02-01",
+      "telepon": "0",
+      "handphone": "085256668990",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "BANTA-BANTAENG",
+      "id_wilayah": "196013",
+      "nik": "7371134102980005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "jfitriahfattah@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "748663a7-d267-40b3-a118-1ac382808a46",
+      "id_registrasi_mahasiswa_pddikti": "a3690075-88d4-441f-9ee4-dd7199e7c643",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115048,
+        "id_mahasiswa": 356899,
+        "created_at": "2023-08-04 16:22:51"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3224,
+      "id_user": 87706,
+      "id_prodi": 146,
+      "nama": "Drh. Anak Agung Putu Joniwahyuda, M.Si.",
+      "nidn": "0007026805",
+      "nip": "196802071999031003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "8f3ea70d-c05e-4763-ae4a-083f6639d84b",
+      "pivot": {
+        "id_kelas_kuliah": 115048,
+        "id_dosen": 3224
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2522,
+      "id_user": 20502,
+      "id_prodi": 146,
+      "nama": "drh. Baso Yusuf, S.K.H., M.Sc.",
+      "nidn": "0015058806",
+      "nip": "198805152019043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f2250a4-43fd-4482-b11d-0ce7fdaa40ae",
+      "pivot": {
+        "id_kelas_kuliah": 115048,
+        "id_dosen": 2522
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2507,
+      "id_user": 31567,
+      "id_prodi": 146,
+      "nama": "drh. Rasdiyanah, M.Si",
+      "nidn": "8889880018",
+      "nip": "198803132018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e35fcc9f-e9fe-4b71-8f1a-aabef75673f3",
+      "pivot": {
+        "id_kelas_kuliah": 115048,
+        "id_dosen": 2507
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2549,
+      "id_user": 34096,
+      "id_prodi": 146,
+      "nama": "drh. Zainal Abidin Kholilullah, S.KH., M.Kes.",
+      "nidn": "0017106907",
+      "nip": "196910172008041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00df6c34-56a0-4cd0-9aa3-c674483dc099",
+      "pivot": {
+        "id_kelas_kuliah": 115048,
+        "id_dosen": 2549
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3758,
+      "id_user": 74016,
+      "id_prodi": 146,
+      "nama": "Drh. Rini Amriani, M.Biomed.",
+      "nidn": "8928550022",
+      "nip": "199409042022086001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4906fd50-df19-4c11-a67b-8be1bdb261cf",
+      "pivot": {
+        "id_kelas_kuliah": 115048,
+        "id_dosen": 3758
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1992,
+      "id_user": 58381,
+      "id_prodi": 146,
+      "nama": "drh. Muhammad Fadhlullah Mursalim, M.Kes",
+      "nidn": "0002028801",
+      "nip": "198802022014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9507181f-f8cc-4106-bdd6-c10dfb98e4b9",
+      "pivot": {
+        "id_kelas_kuliah": 115048,
+        "id_dosen": 1992
+      }
+    }
+  ]
+}

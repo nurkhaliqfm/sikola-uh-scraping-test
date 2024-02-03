@@ -1,0 +1,45 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2453,
+  "idnumber_sikola": "29093.110389.109",
+  "shortname_sikola": "TA231-110389",
+  "kode_matkul": "18P07210203",
+  "nama_matkul": "Perencanaan Pembangunan dan Penganggaran Berwawasan Gender",
+  "nama_kelas": "Perencanaan Pembangunan dan Penganggaran Berwawasan Gender (W) (Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 993,
+      "id_user": 15939,
+      "id_prodi": 1,
+      "nama": "Dr.  Agussalim, SE., M.Si.",
+      "nidn": "0017086710",
+      "nip": "196708171991031021",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e41f142b-8442-40f7-8336-785f73a19dfa",
+      "pivot": {
+        "id_kelas_kuliah": 110389,
+        "id_dosen": 993
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 799,
+      "id_user": 25526,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Sitti Bulkis, MS.",
+      "nidn": "0029085401",
+      "nip": "196108291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2522df57-c432-4189-b3ac-136ee3209855",
+      "pivot": {
+        "id_kelas_kuliah": 110389,
+        "id_dosen": 799
+      }
+    }
+  ]
+}

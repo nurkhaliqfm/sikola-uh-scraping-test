@@ -1,0 +1,85 @@
+{
+  "id_prodi": 33,
+  "nama_prodi": "SASTRA PRANCIS - S1",
+  "id_prodi_semester": 2397,
+  "idnumber_sikola": "47560.115000.33",
+  "shortname_sikola": "TA231-115000",
+  "kode_matkul": "23F05120702",
+  "nama_matkul": "Pengantar Linguistik",
+  "nama_kelas": "Pengantar Linguistik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 353767,
+      "id_user": 68275,
+      "id_prodi": 33,
+      "angkatan": 2022,
+      "nama_mahasiswa": "GIBRAN SYACH FATAHILLAH",
+      "nim": "F051221006",
+      "jalan": "JL. SULTAN ALAUDDIN ASRAMA BRIMOB DEN A  KOTA MAKASSAR  PROV. SULAWESI SELATAN 90223",
+      "rt": 1,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90223",
+      "nisn": "0057909909",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-02-10",
+      "telepon": "0",
+      "handphone": "089699023477",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PABAENG BAENG",
+      "id_wilayah": "196003",
+      "nik": "7371100202040004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "gibrans499@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c8f315ed-91a6-4df9-9ab0-fa8924f642d4",
+      "id_registrasi_mahasiswa_pddikti": "86b9698d-9af5-4b48-986a-b00024c56d22",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115000,
+        "id_mahasiswa": 353767,
+        "created_at": "2023-08-15 21:47:12"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1412,
+      "id_user": 13975,
+      "id_prodi": 33,
+      "nama": "Dr. Ade Yolanda Latjuba, SS.,MA.",
+      "nidn": "0015106002",
+      "nip": "196010151987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b9263fad-9d22-4482-8c64-1cb2e9ed24af",
+      "pivot": {
+        "id_kelas_kuliah": 115000,
+        "id_dosen": 1412
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1933,
+      "id_user": 18434,
+      "id_prodi": 33,
+      "nama": "Masdiana, SS.,M.Hum.",
+      "nidn": "0017117907",
+      "nip": "197911172010122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aca4afe6-bcd8-4a1a-9b43-684acf33c70e",
+      "pivot": {
+        "id_kelas_kuliah": 115000,
+        "id_dosen": 1933
+      }
+    }
+  ]
+}

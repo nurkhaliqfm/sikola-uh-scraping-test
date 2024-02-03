@@ -1,0 +1,112 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2498.107998.5",
+  "shortname_sikola": "TA231-107998",
+  "kode_matkul": "18B01145902",
+  "nama_matkul": "HUKUM LAUT INTERNASIONAL\r\n",
+  "nama_kelas": "HUKUM LAUT INTERNASIONAL",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 7874,
+      "id_user": 26512,
+      "id_prodi": 5,
+      "angkatan": 2019,
+      "nama_mahasiswa": "M. Nibraas Rezwa Adnan",
+      "nim": "B011191090",
+      "jalan": "JL. SUNGAI LIMBOTO LR. 53 A NO. 2",
+      "rt": 4,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90114",
+      "nisn": "0013598606",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2001-11-06",
+      "telepon": "08114487777",
+      "handphone": "08114487777",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Pisang Selatan",
+      "id_wilayah": "196005",
+      "nik": "7371040611010003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "dewairwans@icloud.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "54db32f8-70a7-4c53-916b-cb1ac7467e5a",
+      "id_registrasi_mahasiswa_pddikti": "e39e9a32-e5be-4658-9aea-facfef2c99dc",
+      "spp": null,
+      "whatsapp": null
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 791,
+      "id_user": 34085,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Syamsuddin Muhammad Noor, SH., MH.",
+      "nidn": "0002075503",
+      "nip": "195507021988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2fbfbcbd-83b7-43a5-b6f4-c58f244758a2",
+      "pivot": {
+        "id_kelas_kuliah": 107998,
+        "id_dosen": 791
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 851,
+      "id_user": 34074,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Marcel Hendrapati Yaparno, SH., MH.",
+      "nidn": "9990084008",
+      "nip": "195010271980031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b1025c3a-9678-4318-ad4c-009806036607",
+      "pivot": {
+        "id_kelas_kuliah": 107998,
+        "id_dosen": 851
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2112,
+      "id_user": 34250,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Ny. Alma Manuputty, SH., MH.",
+      "nidn": "9900981981",
+      "nip": "194603121969022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "855605e6-1ccb-4102-b55e-9f420a9cd4f3",
+      "pivot": {
+        "id_kelas_kuliah": 107998,
+        "id_dosen": 2112
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4107,
+      "id_user": null,
+      "id_prodi": 5,
+      "nama": "Dr. Muh. Asri Arief, S.H., M.Si.,CTMP",
+      "nidn": null,
+      "nip": "3201060710680005",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 107998,
+        "id_dosen": 4107
+      }
+    }
+  ]
+}

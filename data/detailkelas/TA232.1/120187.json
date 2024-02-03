@@ -1,0 +1,93 @@
+{
+  "id_prodi": 92,
+  "nama_prodi": "ILMU KIMIA - S3",
+  "id_prodi_semester": 2668,
+  "idnumber_sikola": "37316.120187.92",
+  "shortname_sikola": "TA232-120187",
+  "kode_matkul": "18H01310202",
+  "nama_matkul": "Metodologi Penelitian",
+  "nama_kelas": "Metodologi Penelitian",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 706,
+      "id_user": 16642,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Ahyar",
+      "nidn": "0031126362",
+      "nip": "196712311991031020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ab02eec5-d0e6-4077-b0da-ae88a1ecb5dc",
+      "pivot": {
+        "id_kelas_kuliah": 120187,
+        "id_dosen": 706
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 783,
+      "id_user": 33014,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Nunuk Hariani Soekamto, MS.",
+      "nidn": "0031126163",
+      "nip": "196012151987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b01e7481-9b77-48b8-8df1-8dba32fe6034",
+      "pivot": {
+        "id_kelas_kuliah": 120187,
+        "id_dosen": 783
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1382,
+      "id_user": 19176,
+      "id_prodi": 49,
+      "nama": "Dr.  Indah Raya, M.Si.",
+      "nidn": "0025116402",
+      "nip": "196411251990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f34e92de-dc4d-42d1-8423-738b0acfb6bd",
+      "pivot": {
+        "id_kelas_kuliah": 120187,
+        "id_dosen": 1382
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1522,
+      "id_user": 30923,
+      "id_prodi": 49,
+      "nama": "Prof. Dra. Paulina Taba,  M.Phil., Ph.D",
+      "nidn": "0015115701",
+      "nip": "195711151988102001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c9e6947-6bda-46fa-ae33-349e20ac755e",
+      "pivot": {
+        "id_kelas_kuliah": 120187,
+        "id_dosen": 1522
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2135,
+      "id_user": 33546,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Abd.Wahid Wahab, M.Sc.",
+      "nidn": "8824223419",
+      "nip": "194908271976021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6fa09864-a353-46fc-b390-160d503242ec",
+      "pivot": {
+        "id_kelas_kuliah": 120187,
+        "id_dosen": 2135
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 77,
+  "nama_prodi": "KEHUTANAN - S2",
+  "id_prodi_semester": 2424,
+  "idnumber_sikola": "44150.108767.77",
+  "shortname_sikola": "TA231-108767",
+  "kode_matkul": "21M01211803",
+  "nama_matkul": "PENGUSAHAAN KEHUTANAN DAN KETENAGAKERJAAN",
+  "nama_kelas": "PENGUSAHAAN KEHUTANAN DAN KETENAGAKERJAAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1226,
+      "id_user": 28326,
+      "id_prodi": 71,
+      "nama": "Dr. A. Mujetahid M, S.Hut., MP.",
+      "nidn": "0008026901",
+      "nip": "196902081997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6be7c11e-0d82-4947-acc5-1e03dd864128",
+      "pivot": {
+        "id_kelas_kuliah": 108767,
+        "id_dosen": 1226
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 999,
+      "id_user": 34339,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Iswara Gautama, M.Si.",
+      "nidn": "0015096302",
+      "nip": "196309151990031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9bab8215-0850-4a87-af4f-7e11091209fa",
+      "pivot": {
+        "id_kelas_kuliah": 108767,
+        "id_dosen": 999
+      }
+    }
+  ]
+}

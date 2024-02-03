@@ -1,0 +1,61 @@
+{
+  "id_prodi": 133,
+  "nama_prodi": "TEKNIK PERENCANAAN PRASARANA - S2",
+  "id_prodi_semester": 2706,
+  "idnumber_sikola": "31549.127916.133",
+  "shortname_sikola": "TA232-127916",
+  "kode_matkul": "18P08211302",
+  "nama_matkul": "Perencanaan Prasarana Keairan/SDA \r\n",
+  "nama_kelas": "Perencanaan Prasarana Keairan/SDA (P) (TPP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1044,
+      "id_user": 33440,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Ir. Rita Tahir Lopa, MT.",
+      "nidn": "0019036709",
+      "nip": "196703191992032010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "761d1af0-a943-4d65-97ae-cb1abb9a5a8f",
+      "pivot": {
+        "id_kelas_kuliah": 127916,
+        "id_dosen": 1044
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2455,
+      "id_user": 37710,
+      "id_prodi": 11,
+      "nama": "Prof. Dr. Ir. Mary Selintung, M.Sc.",
+      "nidn": "",
+      "nip": "194306122018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 127916,
+        "id_dosen": 2455
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3347,
+      "id_user": 85713,
+      "id_prodi": 100,
+      "nama": "Dr. Ir. A. Bachtiar Arief, M.T.",
+      "nidn": "8965110021",
+      "nip": "195903252021015001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "74691d5b-7e1c-4375-85bd-e536ba46a196",
+      "pivot": {
+        "id_kelas_kuliah": 127916,
+        "id_dosen": 3347
+      }
+    }
+  ]
+}

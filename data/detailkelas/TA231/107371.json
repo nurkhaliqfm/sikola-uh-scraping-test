@@ -1,0 +1,140 @@
+{
+  "id_prodi": 101,
+  "nama_prodi": "ILMU KOMUNIKASI - S2",
+  "id_prodi_semester": 2446,
+  "idnumber_sikola": "37287.107371.101",
+  "shortname_sikola": "TA231-107371",
+  "kode_matkul": "19E02210803",
+  "nama_matkul": "METODE DAN MANAJEMEN RISET KOMUNIKASI (W)",
+  "nama_kelas": "Pendidikan II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385728,
+      "id_user": 72195,
+      "id_prodi": 101,
+      "angkatan": 2022,
+      "nama_mahasiswa": "AYU CANDRAYANI",
+      "nim": "E022222012",
+      "jalan": "JL. PENAS VII",
+      "rt": 6,
+      "rw": 5,
+      "dusun": "-",
+      "kode_pos": "90614",
+      "nisn": "E022222012",
+      "tempat_lahir": "BONTANG",
+      "tanggal_lahir": "1998-04-15",
+      "telepon": "0",
+      "handphone": "085173012490",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Biraeng",
+      "id_wilayah": "190210",
+      "nik": "7310105504980001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ayucandrayani492@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a6e111d5-b2b3-4496-a0c4-0679f057b2e2",
+      "id_registrasi_mahasiswa_pddikti": "cfac97b5-5688-40f6-ae3a-9e95ffb0bda2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107371,
+        "id_mahasiswa": 385728,
+        "created_at": "2023-08-04 09:14:17"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 386811,
+      "id_user": 72500,
+      "id_prodi": 101,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MAGFIRAH",
+      "nim": "E022222021",
+      "jalan": "Bumi Findaria Mas 2 Moncongloe",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90564",
+      "nisn": "9990418170",
+      "tempat_lahir": "SINJAI",
+      "tanggal_lahir": "1999-07-19",
+      "telepon": "0",
+      "handphone": "0882019609899",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Moncongloe",
+      "id_wilayah": "190108",
+      "nik": "7307065907990003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "magfirahnawir460@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "83eb9c19-875a-40df-bfa7-03a6771bd3aa",
+      "id_registrasi_mahasiswa_pddikti": "4ebded25-7292-4fda-8a93-c07770b3afb9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107371,
+        "id_mahasiswa": 386811,
+        "created_at": "2023-08-04 09:16:02"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 781,
+      "id_user": 34330,
+      "id_prodi": 28,
+      "nama": "Prof. Dr.  Andi Alimuddin, M.Si.",
+      "nidn": "0018016208",
+      "nip": "196201181987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0dd13887-a5b2-49bd-92d7-d13c3d64a508",
+      "pivot": {
+        "id_kelas_kuliah": 107371,
+        "id_dosen": 781
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1120,
+      "id_user": 22526,
+      "id_prodi": 28,
+      "nama": "Dr.  Muhammad Farid, M.Si.",
+      "nidn": "0016076108",
+      "nip": "196107161987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3b5e8265-2513-4c31-8ddb-bac0bb457660",
+      "pivot": {
+        "id_kelas_kuliah": 107371,
+        "id_dosen": 1120
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1689,
+      "id_user": 21863,
+      "id_prodi": 28,
+      "nama": "Prof. Dr. Tuti Bahfiarti, S.Sos., M.Si.",
+      "nidn": "0017067305",
+      "nip": "197306172006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "30298cda-2981-4043-8933-af6041918788",
+      "pivot": {
+        "id_kelas_kuliah": 107371,
+        "id_dosen": 1689
+      }
+    }
+  ]
+}

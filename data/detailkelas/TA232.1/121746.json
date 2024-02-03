@@ -1,0 +1,61 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2611,
+  "idnumber_sikola": "47374.121746.15",
+  "shortname_sikola": "TA232-121746",
+  "kode_matkul": "23D08132402",
+  "nama_matkul": "Manajemen Operasional Pelabuhan",
+  "nama_kelas": "Manajemen Operasional Pelabuhan A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1793,
+      "id_user": 31659,
+      "id_prodi": 15,
+      "nama": "Dr. Chairul Paotonan, ST.,MT.",
+      "nidn": "0005067506",
+      "nip": "197506052002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "da77c090-29a0-424a-ab33-9443560c7ae5",
+      "pivot": {
+        "id_kelas_kuliah": 121746,
+        "id_dosen": 1793
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1641,
+      "id_user": 10466,
+      "id_prodi": 15,
+      "nama": "Ashury, ST.,MT.",
+      "nidn": "0018037405",
+      "nip": "197403182006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "674c48a5-5cf3-4037-b05f-5bc339221e74",
+      "pivot": {
+        "id_kelas_kuliah": 121746,
+        "id_dosen": 1641
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3808,
+      "id_user": null,
+      "id_prodi": 15,
+      "nama": "Yusida M. Palesang, S.E., M.M (praktisi)",
+      "nidn": null,
+      "nip": "7371094205730005",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 121746,
+        "id_dosen": 3808
+      }
+    }
+  ]
+}

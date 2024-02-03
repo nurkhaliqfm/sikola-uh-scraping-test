@@ -1,0 +1,45 @@
+{
+  "id_prodi": 75,
+  "nama_prodi": "SISTEM-SISTEM PERTANIAN - S2",
+  "id_prodi_semester": 2422,
+  "idnumber_sikola": "25597.107821.75",
+  "shortname_sikola": "TA231-107821",
+  "kode_matkul": "18P01211403",
+  "nama_matkul": "Agroekologi dan Biodiversity\r\n",
+  "nama_kelas": "Agroekologi dan Biodiversity (P) (SSP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 694,
+      "id_user": 33360,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Ambo Ala, MS.",
+      "nidn": "0031125408",
+      "nip": "195412311981021006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6396c876-deae-4c09-a3f6-92fa5470fb7e",
+      "pivot": {
+        "id_kelas_kuliah": 107821,
+        "id_dosen": 694
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 689,
+      "id_user": 14145,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Sharifuddin Bin Andy Omar, M.Sc",
+      "nidn": "0023025902",
+      "nip": "195902231988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e572e6bf-f8ad-4c26-a255-43264256907c",
+      "pivot": {
+        "id_kelas_kuliah": 107821,
+        "id_dosen": 689
+      }
+    }
+  ]
+}

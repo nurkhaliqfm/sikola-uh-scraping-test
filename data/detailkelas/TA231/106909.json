@@ -1,0 +1,61 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36875.106909.176",
+  "shortname_sikola": "TA231-106909",
+  "kode_matkul": "19G05212702",
+  "nama_matkul": "Teknik Pemodelan dan Simulasi",
+  "nama_kelas": "Teknik Pemodelan dan Simulasi (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1210,
+      "id_user": 23509,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Junaedi Muhidong, M.Sc.",
+      "nidn": "0025115712",
+      "nip": "196001011985031014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6e82961d-915e-49c9-b1cb-a7691035ca48",
+      "pivot": {
+        "id_kelas_kuliah": 106909,
+        "id_dosen": 1210
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1532,
+      "id_user": 19872,
+      "id_prodi": 155,
+      "nama": "Dr. Ir.  Mahmud, MP.",
+      "nidn": "0003067005",
+      "nip": "197006031994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8bfed169-61f9-43f9-8938-12f93d05c127",
+      "pivot": {
+        "id_kelas_kuliah": 106909,
+        "id_dosen": 1532
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1710,
+      "id_user": 18800,
+      "id_prodi": 155,
+      "nama": "Dr. Ir. Iqbal, STP., M.Si., IPM",
+      "nidn": "0025127802",
+      "nip": "197812252002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a13b99ab-2215-4f46-b3c5-24959e0f8e14",
+      "pivot": {
+        "id_kelas_kuliah": 106909,
+        "id_dosen": 1710
+      }
+    }
+  ]
+}

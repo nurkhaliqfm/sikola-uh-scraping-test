@@ -1,0 +1,85 @@
+{
+  "id_prodi": 22,
+  "nama_prodi": "TEKNIK PERTAMBANGAN - S1",
+  "id_prodi_semester": 2618,
+  "idnumber_sikola": "46532.128439.22",
+  "shortname_sikola": "TA232-128439",
+  "kode_matkul": "23U02131801",
+  "nama_matkul": "Pengembangan Talenta",
+  "nama_kelas": "Pengembangan Talenta",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 159868,
+      "id_user": 56511,
+      "id_prodi": 22,
+      "angkatan": 2021,
+      "nama_mahasiswa": "DANIEL JOVANDRI SIANTURI",
+      "nim": "D111211081",
+      "jalan": "JL. KOL. H. SYAHRIFUDDIN YOES",
+      "rt": 50,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "76114",
+      "nisn": "0011493020",
+      "tempat_lahir": "BALIKPAPAN",
+      "tanggal_lahir": "2001-01-07",
+      "telepon": "878025",
+      "handphone": "081549601518",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "GUNUNG BAHAGIA",
+      "id_wilayah": "166101",
+      "nik": "6471050701010001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "danielglen7101@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f0b20462-b858-4dce-968d-72540283765d",
+      "id_registrasi_mahasiswa_pddikti": "8fa7124b-55ef-481d-b6ed-4868142dfe4f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128439,
+        "id_mahasiswa": 159868,
+        "created_at": "2024-02-01 10:46:52"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1803,
+      "id_user": 18301,
+      "id_prodi": 22,
+      "nama": "Dr. Aryanti Virtanti Anas, ST.,MT.",
+      "nidn": "0005107007",
+      "nip": "197010052008012026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd7802a8-81b1-4ee4-b09e-0a03510ec7bc",
+      "pivot": {
+        "id_kelas_kuliah": 128439,
+        "id_dosen": 1803
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2390,
+      "id_user": 45204,
+      "id_prodi": 22,
+      "nama": "Rini Novrianti Sutardjo Tui, ST.,MT.",
+      "nidn": "0014118305",
+      "nip": "198311142014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f88084fa-c3ee-4ad2-8527-53c7b134cab0",
+      "pivot": {
+        "id_kelas_kuliah": 128439,
+        "id_dosen": 2390
+      }
+    }
+  ]
+}

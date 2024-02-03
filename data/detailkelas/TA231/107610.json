@@ -1,0 +1,29 @@
+{
+  "id_prodi": 141,
+  "nama_prodi": "MKU  Eksakta",
+  "id_prodi_semester": 2483,
+  "idnumber_sikola": "44625.107610.141",
+  "shortname_sikola": "TA231-107610",
+  "kode_matkul": "23H03112702",
+  "nama_matkul": "Kimia Dasar",
+  "nama_kelas": "Kimia Dasar 00002",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1113,
+      "id_user": 31103,
+      "id_prodi": 49,
+      "nama": "Dr.  Hasnah Natsir, M.Si.",
+      "nidn": "0027086204",
+      "nip": "196203201987112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7f77704c-a731-4dfd-bb3f-3e779d63a770",
+      "pivot": {
+        "id_kelas_kuliah": 107610,
+        "id_dosen": 1113
+      }
+    }
+  ]
+}

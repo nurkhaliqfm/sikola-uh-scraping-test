@@ -1,0 +1,45 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2375,
+  "idnumber_sikola": "44642.112028.10",
+  "shortname_sikola": "TA231-112028",
+  "kode_matkul": "23U01111102",
+  "nama_matkul": "Bahasa Inggris",
+  "nama_kelas": "Bahasa Inggris B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2147,
+      "id_user": null,
+      "id_prodi": 32,
+      "nama": "Dr. M. Syafri Badaruddin, M.Hum.",
+      "nidn": "8887501019",
+      "nip": "195311061983011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3bdbe85b-1ade-4117-82c6-cf80e99eb3b5",
+      "pivot": {
+        "id_kelas_kuliah": 112028,
+        "id_dosen": 2147
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2928,
+      "id_user": 85637,
+      "id_prodi": 142,
+      "nama": "Risma Asriani Aziz, M.Hum",
+      "nidn": null,
+      "nip": "7371074706820000",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 112028,
+        "id_dosen": 2928
+      }
+    }
+  ]
+}

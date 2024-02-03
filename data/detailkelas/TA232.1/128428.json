@@ -1,0 +1,29 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2650,
+  "idnumber_sikola": "48778.128428.71",
+  "shortname_sikola": "TA232-128428",
+  "kode_matkul": "499U004",
+  "nama_matkul": "Kuliah Kerja Nyata",
+  "nama_kelas": "Inovasi Teknologi Tepat Guna Bantaeng 2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1370,
+      "id_user": 29496,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Samsuddin, M.T",
+      "nidn": "0031126606",
+      "nip": "196612311994031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a04c83f5-bf5c-44ed-ae7c-7dfa8215390a",
+      "pivot": {
+        "id_kelas_kuliah": 128428,
+        "id_dosen": 1370
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2531,
+  "idnumber_sikola": "35965.109979.195",
+  "shortname_sikola": "TA231-109979",
+  "kode_matkul": "19M03310203",
+  "nama_matkul": "TATA KELOLA KEHUTANAN TEORI DAN PRAKTEK",
+  "nama_kelas": "TATA KELOLA KEHUTANAN TEORI DAN PRAKTEK",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421302,
+      "id_user": 82401,
+      "id_prodi": 195,
+      "angkatan": 2023,
+      "nama_mahasiswa": "PONISRI",
+      "nim": "M013231001",
+      "jalan": "ASRAMA KOREM 171/PVT",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "98416",
+      "nisn": null,
+      "tempat_lahir": "BANYUWANGI",
+      "tanggal_lahir": "1973-06-06",
+      "telepon": "082399124485",
+      "handphone": "082399124485",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Klabulu",
+      "id_wilayah": "326011",
+      "nik": "9271055006730001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ponisri@um-sorong.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0500b45b-13b4-44a9-9325-5a62eabdc772",
+      "id_registrasi_mahasiswa_pddikti": "bdfe0ab3-c75b-46ab-bc52-c57797ce7b58",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109979,
+        "id_mahasiswa": 421302,
+        "created_at": "2023-08-03 12:51:09"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1834,
+      "id_user": 10744,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. forest. Muhammad Alif KS., S.Hut., M.Si.",
+      "nidn": "0031087903",
+      "nip": "197908312008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b39a91d9-f3db-4e3f-9442-1b829450f4e6",
+      "pivot": {
+        "id_kelas_kuliah": 109979,
+        "id_dosen": 1834
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1093,
+      "id_user": 34333,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Syamsu Alam, MS.",
+      "nidn": "0020045904",
+      "nip": "195904201985031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "493ecbb8-d60c-4778-b224-c682803ba9ee",
+      "pivot": {
+        "id_kelas_kuliah": 109979,
+        "id_dosen": 1093
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 786,
+      "id_user": 19301,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Yusran, S.Hut., M.Si., IPU",
+      "nidn": "0006126901",
+      "nip": "196912061996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a3342-cddb-406b-835b-703b68bdce5f",
+      "pivot": {
+        "id_kelas_kuliah": 109979,
+        "id_dosen": 786
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1035,
+      "id_user": 11001,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Supratman, S.Hut., MP.",
+      "nidn": "0018097001",
+      "nip": "197009181997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6f64e940-dc0a-409c-b9a5-dd3aeab3dc37",
+      "pivot": {
+        "id_kelas_kuliah": 109979,
+        "id_dosen": 1035
+      }
+    }
+  ]
+}

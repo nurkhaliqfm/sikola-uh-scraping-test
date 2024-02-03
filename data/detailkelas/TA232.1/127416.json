@@ -1,0 +1,77 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26128.127416.79",
+  "shortname_sikola": "TA232-127416",
+  "kode_matkul": "19L08312903",
+  "nama_matkul": "Industri Hilir Perikanan",
+  "nama_kelas": "Industri Hilir Perikanan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 900,
+      "id_user": 24123,
+      "id_prodi": 235,
+      "nama": "Prof. Dr. Ir. Metusalach, M.Sc.",
+      "nidn": "0025056002",
+      "nip": "196005251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5efa67f5-93cd-419d-ad65-4fc29782cf3e",
+      "pivot": {
+        "id_kelas_kuliah": 127416,
+        "id_dosen": 900
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1763,
+      "id_user": 21087,
+      "id_prodi": 235,
+      "nama": "Dr. Nursinah Amir, S.Pi., MP.",
+      "nidn": "0015117904",
+      "nip": "197911152006042030",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5245705b-cdb7-4031-a378-c23c8ba06f9f",
+      "pivot": {
+        "id_kelas_kuliah": 127416,
+        "id_dosen": 1763
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1766,
+      "id_user": 10399,
+      "id_prodi": 235,
+      "nama": "Dr. Fahrul, S.Pi., M.Si.",
+      "nidn": "0019047406",
+      "nip": "197404192006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45df60ce-91a0-4379-819f-46b8984c0a6c",
+      "pivot": {
+        "id_kelas_kuliah": 127416,
+        "id_dosen": 1766
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2305,
+      "id_user": 27413,
+      "id_prodi": 69,
+      "nama": "Kasmiati, STP., MP., Ph.D.",
+      "nidn": "0016087405",
+      "nip": "197408162003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e97b8dc3-6500-4ffb-be8c-7ef1f15090ba",
+      "pivot": {
+        "id_kelas_kuliah": 127416,
+        "id_dosen": 2305
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 115,
+  "nama_prodi": "PPDS ILMU BEDAH",
+  "id_prodi_semester": 2457,
+  "idnumber_sikola": "38361.115110.115",
+  "shortname_sikola": "TA231-115110",
+  "kode_matkul": "20Y00510502",
+  "nama_matkul": "Biologi Molekuler",
+  "nama_kelas": "Biologi Molekuler 20231",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 776,
+      "id_user": 34358,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Rosdiana Natsir, Ph.D., Sp.Biok.",
+      "nidn": "0026035702",
+      "nip": "195703261988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6a320981-0647-4823-b655-f59c6064e081",
+      "pivot": {
+        "id_kelas_kuliah": 115110,
+        "id_dosen": 776
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1629,
+      "id_user": 34353,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Marhaen Hardjo, M.Biomed.",
+      "nidn": "0018126703",
+      "nip": "196712121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b51e505e-e114-4f69-ac4c-dce854dbb848",
+      "pivot": {
+        "id_kelas_kuliah": 115110,
+        "id_dosen": 1629
+      }
+    }
+  ]
+}

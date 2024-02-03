@@ -1,0 +1,61 @@
+{
+  "id_prodi": 18,
+  "nama_prodi": "TEKNIK INFORMATIKA - S1",
+  "id_prodi_semester": 2614,
+  "idnumber_sikola": "46519.128910.18",
+  "shortname_sikola": "TA232-128910",
+  "kode_matkul": "23U02133720",
+  "nama_matkul": "Komunikasi dan Interaksi Sosial",
+  "nama_kelas": "Komunikasi dan Interaksi Sosial Kls. Informatika",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1461,
+      "id_user": 9936,
+      "id_prodi": 18,
+      "nama": "Prof. Dr. Ir. Indrabayu, S.T., M.T., M.Bus.Sys., IPM., ASEAN.Eng.",
+      "nidn": "0016067507",
+      "nip": "197507162002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "63a1c425-af3a-4a1e-a31e-b2637e41c2f2",
+      "pivot": {
+        "id_kelas_kuliah": 128910,
+        "id_dosen": 1461
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1929,
+      "id_user": 8613,
+      "id_prodi": 18,
+      "nama": "Dr. Eng. Ir. Zulkifli Tahir, ST., M.Sc.",
+      "nidn": "0003048403",
+      "nip": "198404032010121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a684379e-041d-45de-bf65-4462103b4107",
+      "pivot": {
+        "id_kelas_kuliah": 128910,
+        "id_dosen": 1929
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3358,
+      "id_user": 60764,
+      "id_prodi": 18,
+      "nama": "Muhammad Alief  Fadhal Imran Oemar, S.T., M.Sc",
+      "nidn": "8975910021",
+      "nip": "199405222022043001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "1ad4404a-4f7d-4796-b1f1-750490592be4",
+      "pivot": {
+        "id_kelas_kuliah": 128910,
+        "id_dosen": 3358
+      }
+    }
+  ]
+}

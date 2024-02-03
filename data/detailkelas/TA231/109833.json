@@ -1,0 +1,29 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "45718.109833.148",
+  "shortname_sikola": "TA231-109833",
+  "kode_matkul": "23R01410602",
+  "nama_matkul": "Praktik Profesi Keperawatan Tropis",
+  "nama_kelas": "Kep.Tropis Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1990,
+      "id_user": 58811,
+      "id_prodi": 6,
+      "nama": "Andina Setyawati, S.Kep.,Ns.,M.Kep",
+      "nidn": "0006098306",
+      "nip": "198309162014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38da69b1-7207-4509-b87a-60c5a79f0744",
+      "pivot": {
+        "id_kelas_kuliah": 109833,
+        "id_dosen": 1990
+      }
+    }
+  ]
+}

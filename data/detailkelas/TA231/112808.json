@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34742.112808.165",
+  "shortname_sikola": "TA231-112808",
+  "kode_matkul": "18D02330409",
+  "nama_matkul": "DISERTASI DAN UJIAN DISERTASI",
+  "nama_kelas": "DISERTASI DAN UJIAN DISERTASI ( MICHAEL MULYONO)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 145891,
+      "id_user": 45595,
+      "id_prodi": 165,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MICHAEL MULYONO",
+      "nim": "D023202001",
+      "jalan": "Perintis Kemerdekaan KM 15",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Daya",
+      "kode_pos": "90241",
+      "nisn": null,
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1972-05-28",
+      "telepon": "0",
+      "handphone": "082220683257",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Daya",
+      "id_wilayah": "196011",
+      "nik": "3171062805720001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "mulyono.michael@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4ff78579-0d7c-4506-8204-4c134f54c178",
+      "id_registrasi_mahasiswa_pddikti": "91d709ac-4c87-42a2-9738-f7b8c03a36ae",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112808,
+        "id_mahasiswa": 145891,
+        "created_at": "2023-07-31 12:05:08"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 112808,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 112808,
+        "id_dosen": 1454
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1670,
+      "id_user": 18194,
+      "id_prodi": 19,
+      "nama": "Dr. Imriyanti, ST., MT.",
+      "nidn": "0008027304",
+      "nip": "197302082006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f618ce8-941f-4871-b850-de9b4ffd1281",
+      "pivot": {
+        "id_kelas_kuliah": 112808,
+        "id_dosen": 1670
+      }
+    }
+  ]
+}

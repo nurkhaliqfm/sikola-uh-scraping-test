@@ -1,0 +1,101 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26114.127355.79",
+  "shortname_sikola": "TA232-127355",
+  "kode_matkul": "19L08311203",
+  "nama_matkul": "Parasitologi dan Immunologi Akuakultur",
+  "nama_kelas": "Parasitologi dan Immunologi Akuakultur",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427815,
+      "id_user": 86342,
+      "id_prodi": 79,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUSLIMIN  S.",
+      "nim": "L013232001",
+      "jalan": "JLN. KEBUN SAYUR NO.7 KOTA PAREPARE",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "91131",
+      "nisn": null,
+      "tempat_lahir": "PAREPARE",
+      "tanggal_lahir": "1969-09-04",
+      "telepon": "0",
+      "handphone": "081242100775",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "BUKIT INDAH",
+      "id_wilayah": "020819",
+      "nik": "7372040409690001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86342,
+      "kode_status": "A",
+      "email": "musliminsyarif2@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127355,
+        "id_mahasiswa": 427815,
+        "created_at": "2024-01-29 17:10:34"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1168,
+      "id_user": 23176,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Hilal Anshary, M.Sc..",
+      "nidn": "0012106701",
+      "nip": "196710121992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3dd91fd6-dadb-490c-925c-3d96307663fe",
+      "pivot": {
+        "id_kelas_kuliah": 127355,
+        "id_dosen": 1168
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1095,
+      "id_user": 21858,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Gunarto Latama, M.Sc.",
+      "nidn": "0024026102",
+      "nip": "196202241988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9dff4c0a-ed22-4d4f-832e-ba31af34b66b",
+      "pivot": {
+        "id_kelas_kuliah": 127355,
+        "id_dosen": 1095
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1332,
+      "id_user": 10986,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Sriwulan, MP.",
+      "nidn": "0030066601",
+      "nip": "196606301991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9104d50-b4df-4c59-806e-045dbe51a2a8",
+      "pivot": {
+        "id_kelas_kuliah": 127355,
+        "id_dosen": 1332
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 135,
+  "nama_prodi": "TEKNIK GEOLOGI - S2",
+  "id_prodi_semester": 2477,
+  "idnumber_sikola": "31669.111250.135",
+  "shortname_sikola": "TA231-111250",
+  "kode_matkul": "18D06210902",
+  "nama_matkul": "OSEANOGRAFI LANJUT",
+  "nama_kelas": "Oseanografi Lanjut",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423511,
+      "id_user": 80803,
+      "id_prodi": 135,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MENDILINE THEOFILIA NANURU",
+      "nim": "D062231008",
+      "jalan": "KAYU BESI",
+      "rt": 12,
+      "rw": 3,
+      "dusun": "Airlouw",
+      "kode_pos": "97118",
+      "nisn": "9984074710",
+      "tempat_lahir": "AMBON",
+      "tanggal_lahir": "2000-03-31",
+      "telepon": "0",
+      "handphone": "081240705167",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Nusaniwe",
+      "id_wilayah": "216001",
+      "nik": "8171017103000002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "mendylinetheofilia@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f7eb8144-d430-48d5-b220-b33750b050ea",
+      "id_registrasi_mahasiswa_pddikti": "9bff481a-2b40-4290-809b-b2adc52d6586",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111250,
+        "id_mahasiswa": 423511,
+        "created_at": "2023-08-23 20:17:09"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2174,
+      "id_user": 58033,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Safri Burhanuddin, DEA.",
+      "nidn": "0024076103",
+      "nip": "196107241988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "018223b6-477f-4128-bc88-c26ead46606e",
+      "pivot": {
+        "id_kelas_kuliah": 111250,
+        "id_dosen": 2174
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1469,
+      "id_user": 13038,
+      "id_prodi": 21,
+      "nama": "Dr. Ir. Haerani Sirajuddin, M.T.",
+      "nidn": "0019116701",
+      "nip": "196711191998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fa52c8b-c8fc-432b-95e6-c7707dc470ed",
+      "pivot": {
+        "id_kelas_kuliah": 111250,
+        "id_dosen": 1469
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1257,
+      "id_user": 22098,
+      "id_prodi": 21,
+      "nama": "Dr. Sultan, ST., MT.",
+      "nidn": "0007057009",
+      "nip": "197007051997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22f1b4fc-a227-462b-9549-139d969cfb19",
+      "pivot": {
+        "id_kelas_kuliah": 111250,
+        "id_dosen": 1257
+      }
+    }
+  ]
+}

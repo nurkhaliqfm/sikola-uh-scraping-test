@@ -1,0 +1,101 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44038.108721.47",
+  "shortname_sikola": "TA231-108721",
+  "kode_matkul": "23H02110602",
+  "nama_matkul": "STATISTIKA PENGUKURAN",
+  "nama_kelas": "Statistika Pengukuran",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 61121,
+      "id_user": 8387,
+      "id_prodi": 47,
+      "angkatan": 2018,
+      "nama_mahasiswa": "FIRDAYANTI FIRMAN",
+      "nim": "H021181007",
+      "jalan": "Jalan Sahabat V",
+      "rt": 2,
+      "rw": 7,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": "0007136919",
+      "tempat_lahir": "Malaysia",
+      "tanggal_lahir": "2000-03-09",
+      "telepon": "085240704",
+      "handphone": "6285240704464",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea indah",
+      "id_wilayah": "340000",
+      "nik": "7308205003000003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "firdayantifirman57@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "30e6a450-cfe4-49a9-8d7c-62e8aa9cc456",
+      "id_registrasi_mahasiswa_pddikti": "c6060d85-ead2-43a7-94b7-94a943bd07c3",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108721,
+        "id_mahasiswa": 61121,
+        "created_at": "2023-07-28 21:38:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2248,
+      "id_user": 19688,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Ir. Bidayatul Armynah, M.T",
+      "nidn": "0003086302",
+      "nip": "196308301989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d18bcf92-6413-498e-9fe6-b720ac5e8c9a",
+      "pivot": {
+        "id_kelas_kuliah": 108721,
+        "id_dosen": 2248
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1310,
+      "id_user": 31947,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Paulus Lobo Gareso, M.Sc.",
+      "nidn": "0005036503",
+      "nip": "196503051991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4f10bcf-e135-4a32-986d-ef2748f7a1a5",
+      "pivot": {
+        "id_kelas_kuliah": 108721,
+        "id_dosen": 1310
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3295,
+      "id_user": 34576,
+      "id_prodi": 47,
+      "nama": "Heryanto, S.Si., M.Si.",
+      "nidn": "0029119104",
+      "nip": "199111292020053001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "b1cd0d12-2aec-40d4-b485-20b240a61d20",
+      "pivot": {
+        "id_kelas_kuliah": 108721,
+        "id_dosen": 3295
+      }
+    }
+  ]
+}

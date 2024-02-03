@@ -1,0 +1,172 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2504,
+  "idnumber_sikola": "34799.108657.167",
+  "shortname_sikola": "TA231-108657",
+  "kode_matkul": "804D4123",
+  "nama_matkul": "PUBLIKASI KARYA ILMIAH II",
+  "nama_kelas": "KLS WAJIB",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117048,
+      "id_user": 24177,
+      "id_prodi": 167,
+      "angkatan": 2018,
+      "nama_mahasiswa": "RIDWANSYAH",
+      "nim": "D053181001",
+      "jalan": "Jl. Kumala No. 48",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90223",
+      "nisn": null,
+      "tempat_lahir": "Ujung Pandang",
+      "tanggal_lahir": "1975-12-17",
+      "telepon": "0811449939",
+      "handphone": "0811449939",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Bongaya",
+      "id_wilayah": "190502",
+      "nik": "7371101712750009",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ridwansyah@unm.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "47ce7166-3116-4c73-95e0-29e64e0ce943",
+      "id_registrasi_mahasiswa_pddikti": "d4f11fc3-6afd-463e-a100-9a81e1f6c66b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108657,
+        "id_mahasiswa": 117048,
+        "created_at": "2023-08-03 09:22:54"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 340424,
+      "id_user": 58656,
+      "id_prodi": 167,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ERICK DEPTHIOS",
+      "nim": "D053212001",
+      "jalan": "PERUMAHAN BUMI TIRTA NUSANTARA II BLOK B/2",
+      "rt": 4,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": null,
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1970-02-22",
+      "telepon": "0",
+      "handphone": "085796008367",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tello Baru",
+      "id_wilayah": "196010",
+      "nik": "7371032202700004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 60778,
+      "kode_status": "C",
+      "email": "erickdepthios@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "46ebd370-7225-4496-bd65-3bf32d7e6cfe",
+      "id_registrasi_mahasiswa_pddikti": "7f589f50-07e0-49e8-a6b5-122f57442fa2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108657,
+        "id_mahasiswa": 340424,
+        "created_at": "2023-08-04 14:51:49"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 827,
+      "id_user": 17599,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Andani, MT.",
+      "nidn": "0531126002",
+      "nip": "196012311987031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41633592-f13b-4062-99dc-2c91d5a10984",
+      "pivot": {
+        "id_kelas_kuliah": 108657,
+        "id_dosen": 827
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1175,
+      "id_user": 31334,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Zahir Zainuddin, M.Sc.",
+      "nidn": "0027046402",
+      "nip": "196404271989101002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e1f329a7-0124-4722-958b-2ff1239718ac",
+      "pivot": {
+        "id_kelas_kuliah": 108657,
+        "id_dosen": 1175
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1680,
+      "id_user": 28598,
+      "id_prodi": 17,
+      "nama": "Yusri Syam Akil, S.T., M.T., Ph.D.",
+      "nidn": "0022037702",
+      "nip": "197703222005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5920be2f-5210-4d27-ba8a-480e387d4cf5",
+      "pivot": {
+        "id_kelas_kuliah": 108657,
+        "id_dosen": 1680
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1981,
+      "id_user": 31207,
+      "id_prodi": 17,
+      "nama": "Merna Baharuddin, ST.,M.Tel.Eng.,Ph.D.",
+      "nidn": "0005127503",
+      "nip": "197512052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "935fd211-7d06-44ef-b04b-99b3dd9200be",
+      "pivot": {
+        "id_kelas_kuliah": 108657,
+        "id_dosen": 1981
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1673,
+      "id_user": 27863,
+      "id_prodi": 17,
+      "nama": "Prof. Ardiaty Arief, S.T., MTM., Ph.D",
+      "nidn": "0024047802",
+      "nip": "197804242001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0254541c-a111-43e8-a119-eec05d67ae45",
+      "pivot": {
+        "id_kelas_kuliah": 108657,
+        "id_dosen": 1673
+      }
+    }
+  ]
+}

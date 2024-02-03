@@ -1,0 +1,45 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2369,
+  "idnumber_sikola": "48399.113186.2",
+  "shortname_sikola": "TA231-113186",
+  "kode_matkul": "23A02110203",
+  "nama_matkul": "Pengantar Bisnis",
+  "nama_kelas": "PENGANTAR BISNIS KELAS O",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1099,
+      "id_user": 10456,
+      "id_prodi": 2,
+      "nama": "Prof. Dr. Muhammad Idrus Taba, S.E., M.Si.",
+      "nidn": "0003046005",
+      "nip": "196004031986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0b2af90b-a53c-4801-a584-b53d903a3c42",
+      "pivot": {
+        "id_kelas_kuliah": 113186,
+        "id_dosen": 1099
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3455,
+      "id_user": 60857,
+      "id_prodi": 2,
+      "nama": "Rianda Ridho Hafizh Thaha, S.E., MBA",
+      "nidn": "0009039405",
+      "nip": "199403092022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "d5ba8749-316b-411b-aded-ff83add04dbc",
+      "pivot": {
+        "id_kelas_kuliah": 113186,
+        "id_dosen": 3455
+      }
+    }
+  ]
+}

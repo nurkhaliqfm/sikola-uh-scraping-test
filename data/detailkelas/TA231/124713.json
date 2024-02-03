@@ -1,0 +1,61 @@
+{
+  "id_prodi": 115,
+  "nama_prodi": "PPDS ILMU BEDAH",
+  "id_prodi_semester": 2457,
+  "idnumber_sikola": "38370.124713.115",
+  "shortname_sikola": "TA231-124713",
+  "kode_matkul": "20C04510203",
+  "nama_matkul": "Bedah Orthopedi 1",
+  "nama_kelas": "Bedah Orthopedi 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3064,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. Jufri Latief, SpB, SpOT",
+      "nidn": null,
+      "nip": "195501291985111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124713,
+        "id_dosen": 3064
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2594,
+      "id_user": 37486,
+      "id_prodi": 115,
+      "nama": "dr. M. Nasser Mustari, Sp.OT",
+      "nidn": "8806501019",
+      "nip": "196712232019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41f4efa9-4f63-422b-bdec-63fe5047a8d1",
+      "pivot": {
+        "id_kelas_kuliah": 124713,
+        "id_dosen": 2594
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3097,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. Arman Bausat, SpB, SpOT",
+      "nidn": null,
+      "nip": "196302241990011000",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124713,
+        "id_dosen": 3097
+      }
+    }
+  ]
+}

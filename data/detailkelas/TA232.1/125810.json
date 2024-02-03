@@ -1,0 +1,300 @@
+{
+  "id_prodi": 123,
+  "nama_prodi": "PPDS PATOLOGI ANATOMI",
+  "id_prodi_semester": 2696,
+  "idnumber_sikola": "38863.125810.123",
+  "shortname_sikola": "TA232-125810",
+  "kode_matkul": "20C07540106",
+  "nama_matkul": "Tesis dan Publikasi",
+  "nama_kelas": "Kelas Sem.7 Tesis&Publish 2023-02",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 147170,
+      "id_user": 45956,
+      "id_prodi": 123,
+      "angkatan": 2020,
+      "nama_mahasiswa": "GINA ANDYKA HUTASOIT",
+      "nim": "C075202001",
+      "jalan": "Perumahan Taman Losari jl Rasamala no 7",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "90224",
+      "nisn": null,
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "1987-05-25",
+      "telepon": "0811450700",
+      "handphone": "0811450700",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Tanjung Merdeka",
+      "id_wilayah": "196003",
+      "nik": "7271016505870004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ginaandyka@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7faab837-e694-47b2-bbb0-96eb583dd5e5",
+      "id_registrasi_mahasiswa_pddikti": "c4db3070-ccc3-40d8-bf9b-d87467643621",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_mahasiswa": 147170,
+        "created_at": "2024-01-31 08:25:44"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 147839,
+      "id_user": 47042,
+      "id_prodi": 123,
+      "angkatan": 2020,
+      "nama_mahasiswa": "EMI SUMARYA",
+      "nim": "C075202002",
+      "jalan": "Kompleks Puri tata indah A.20",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "93772",
+      "nisn": null,
+      "tempat_lahir": "BOEPINANG",
+      "tanggal_lahir": "1987-01-25",
+      "telepon": "0",
+      "handphone": "082189141887",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Parangtambung",
+      "id_wilayah": "196003",
+      "nik": "7408026501870001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "emysunarya11@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "39140c04-3de0-42e0-a945-4d8cfcf9cb71",
+      "id_registrasi_mahasiswa_pddikti": "8ca4f7aa-583b-4c7a-87b3-5db6ea03e706",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_mahasiswa": 147839,
+        "created_at": "2024-01-31 11:44:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3037,
+      "id_user": null,
+      "id_prodi": 127,
+      "nama": "Prof. Dr. Syarifuddin Wahid, PhD, SpPA(K), SpF",
+      "nidn": null,
+      "nip": "194407241973081001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 3037
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3032,
+      "id_user": 48406,
+      "id_prodi": 127,
+      "nama": "dr. Djumadi Achmad, SpPA(K), SpF",
+      "nidn": null,
+      "nip": "194810151974121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 3032
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3031,
+      "id_user": null,
+      "id_prodi": 127,
+      "nama": "dr. Gunawan Arsyadi, SpPA(K), SpF",
+      "nidn": null,
+      "nip": "130359351",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 3031
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2227,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr.  Mahmud Ghaznawie, Ph.D., Sp.PA(K)",
+      "nidn": "8835433420",
+      "nip": "195110291981031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "091b6e95-af07-49b2-b7ba-2c841a5407b8",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 2227
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1089,
+      "id_user": 45112,
+      "id_prodi": 6,
+      "nama": "dr. Cahyono Kaelan, Ph.D., Sp.PA(K)., Sp.S(K).",
+      "nidn": "8834460018",
+      "nip": "195010232018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a180f-0f76-4ade-995d-a514ad0ef02f",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 1089
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1204,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Tarsisia Truly Djimahit, Sp.PA.(K)",
+      "nidn": "9900985029",
+      "nip": "195311201983012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09d6be3f-7968-4e08-bb24-f35e1869d022",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 1204
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1353,
+      "id_user": 33782,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Gatot Susilo Lawrence, M.Sc., Sp.PA.",
+      "nidn": "0011046001",
+      "nip": "196004111990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d014b741-5a87-4eed-8517-8b6af6a2d925",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 1353
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1185,
+      "id_user": 37385,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Rina Masadah, Sp.PA.,M.Phil.DFM.",
+      "nidn": "0027046604",
+      "nip": "196704291992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e78375e-a10f-4e11-854e-2f7001e6ba12",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 1185
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1747,
+      "id_user": 37390,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Berti Julian Nelwan, DFM, Sp.F, M.Kes., Sp.PA(K)",
+      "nidn": "0018076701",
+      "nip": "196707181999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a65e87d6-06b7-4e6b-9538-e8d6b4fb4239",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 1747
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1698,
+      "id_user": 28383,
+      "id_prodi": 6,
+      "nama": "dr.  Muhammad Husni, S.Ked.,Ph.D.",
+      "nidn": "0009047705",
+      "nip": "197704092002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b68f6dd7-336c-4183-a776-5a1a23796817",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 1698
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3185,
+      "id_user": null,
+      "id_prodi": 123,
+      "nama": "dr. Juanita, M.Kes., Sp.PA",
+      "nidn": null,
+      "nip": "196906022009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 3185
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1595,
+      "id_user": 34487,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Upik A. Miskad, Ph.D., Sp.P.A(K)",
+      "nidn": "0030037403",
+      "nip": "197403302005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d75b2995-5612-4951-ba3c-8f851c187413",
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 1595
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3184,
+      "id_user": null,
+      "id_prodi": 123,
+      "nama": "dr. Ni Ketut Sungowati, Sp.PA(K)",
+      "nidn": null,
+      "nip": "196301281988032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125810,
+        "id_dosen": 3184
+      }
+    }
+  ]
+}

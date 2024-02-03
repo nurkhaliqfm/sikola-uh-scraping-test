@@ -1,0 +1,29 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2369,
+  "idnumber_sikola": "48358.110862.2",
+  "shortname_sikola": "TA231-110862",
+  "kode_matkul": "23A02110103",
+  "nama_matkul": "Pengantar Manajemen",
+  "nama_kelas": "PENGANTAR MANAJEMEN KELAS P",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 973,
+      "id_user": 12995,
+      "id_prodi": 2,
+      "nama": "Prof. Dr.  Cepi Pahlevi, SE., M.Si.",
+      "nidn": "0013116004",
+      "nip": "196011131993031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1eeb8f95-7c65-47e2-884a-8729e4c904ab",
+      "pivot": {
+        "id_kelas_kuliah": 110862,
+        "id_dosen": 973
+      }
+    }
+  ]
+}

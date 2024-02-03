@@ -1,0 +1,109 @@
+{
+  "id_prodi": 166,
+  "nama_prodi": "TEKNOLOGI KEBUMIAN DAN LINGKUNGAN - S3",
+  "id_prodi_semester": 2503,
+  "idnumber_sikola": "34773.113148.166",
+  "shortname_sikola": "TA231-113148",
+  "kode_matkul": "18D03320103",
+  "nama_matkul": "PENUNJANG DISERTASI 3",
+  "nama_kelas": "PENUNJANG DISERTASI 3 Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 113148,
+        "id_dosen": 1268
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1270,
+      "id_user": 28264,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Adi Tonggiroh, ST., MT.",
+      "nidn": "0028096501",
+      "nip": "196509282000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5c28690a-0f4c-4053-8bc8-da669a992ac0",
+      "pivot": {
+        "id_kelas_kuliah": 113148,
+        "id_dosen": 1270
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1950,
+      "id_user": 28829,
+      "id_prodi": 21,
+      "nama": "Dr. Eng. Hendra Pachri, S.T., M.Eng",
+      "nidn": "0014127705",
+      "nip": "197712142005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38f01ca0-2989-4839-9af6-40a23858cb01",
+      "pivot": {
+        "id_kelas_kuliah": 113148,
+        "id_dosen": 1950
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 885,
+      "id_user": 17198,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Busthan, MT.",
+      "nidn": "0008105902",
+      "nip": "195910081987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4512e15d-7dd2-4ec0-847a-de59b68b9d98",
+      "pivot": {
+        "id_kelas_kuliah": 113148,
+        "id_dosen": 885
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2174,
+      "id_user": 58033,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Safri Burhanuddin, DEA.",
+      "nidn": "0024076103",
+      "nip": "196107241988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "018223b6-477f-4128-bc88-c26ead46606e",
+      "pivot": {
+        "id_kelas_kuliah": 113148,
+        "id_dosen": 2174
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1469,
+      "id_user": 13038,
+      "id_prodi": 21,
+      "nama": "Dr. Ir. Haerani Sirajuddin, M.T.",
+      "nidn": "0019116701",
+      "nip": "196711191998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fa52c8b-c8fc-432b-95e6-c7707dc470ed",
+      "pivot": {
+        "id_kelas_kuliah": 113148,
+        "id_dosen": 1469
+      }
+    }
+  ]
+}

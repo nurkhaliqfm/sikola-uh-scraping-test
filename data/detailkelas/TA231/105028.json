@@ -1,0 +1,45 @@
+{
+  "id_prodi": 95,
+  "nama_prodi": "ILMU HUKUM - S2",
+  "id_prodi_semester": 2440,
+  "idnumber_sikola": "27587.105028.95",
+  "shortname_sikola": "TA231-105028",
+  "kode_matkul": "18B01224102",
+  "nama_matkul": "Hukum Adat Pertanahan\r\n",
+  "nama_kelas": "Hukum Adat pertanahan (Mk. Pilihan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1037,
+      "id_user": 34274,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. A. Suriyaman Mustari Pide, SH., M.Hum.",
+      "nidn": "0027076901",
+      "nip": "196907271998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b7056e24-9897-4dbd-a51e-ff1d4594ed14",
+      "pivot": {
+        "id_kelas_kuliah": 105028,
+        "id_dosen": 1037
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1377,
+      "id_user": 27672,
+      "id_prodi": 5,
+      "nama": "Dr. Kahar Lahae, S.H., M.Hum.",
+      "nidn": "0031126603",
+      "nip": "196612311990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9ea7702-44d7-46cc-a613-3df741381bb0",
+      "pivot": {
+        "id_kelas_kuliah": 105028,
+        "id_dosen": 1377
+      }
+    }
+  ]
+}

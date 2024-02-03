@@ -1,0 +1,61 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2382,
+  "idnumber_sikola": "46509.113157.17",
+  "shortname_sikola": "TA231-113157",
+  "kode_matkul": "23U02131102",
+  "nama_matkul": "Kepemimpinan Inovatif",
+  "nama_kelas": "Kepemimpinan Inovatif / Kelas C (MKPK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1283,
+      "id_user": 20573,
+      "id_prodi": 17,
+      "nama": "Dr. Yusran, ST.,MT.",
+      "nidn": "0004047509",
+      "nip": "197504042000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a8ae9f3-a4eb-430a-ac81-6ff3513236a1",
+      "pivot": {
+        "id_kelas_kuliah": 113157,
+        "id_dosen": 1283
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1609,
+      "id_user": 32004,
+      "id_prodi": 17,
+      "nama": "Prof. Dr.-Ing. Ir. Faizal Arya Samman, ST, MT, IPU, AseanEng, ACPE",
+      "nidn": "0005067507",
+      "nip": "197506052002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "06214b1e-7d41-4708-982d-94adb48684de",
+      "pivot": {
+        "id_kelas_kuliah": 113157,
+        "id_dosen": 1609
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2196,
+      "id_user": 33490,
+      "id_prodi": 17,
+      "nama": "Dr. Ir.  Zulfajri Basri Hasanuddin, M.Eng.",
+      "nidn": "0024016905",
+      "nip": "196901241993031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "396573ba-e683-41f9-8f53-bbc5e358b0ce",
+      "pivot": {
+        "id_kelas_kuliah": 113157,
+        "id_dosen": 2196
+      }
+    }
+  ]
+}

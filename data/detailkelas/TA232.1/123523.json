@@ -1,0 +1,156 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "35196.123523.173",
+  "shortname_sikola": "TA232-123523",
+  "kode_matkul": "18K01310702",
+  "nama_matkul": "Analisis Risiko Kesehatan dan Keselamatan Kerja",
+  "nama_kelas": "Analisis Risiko Kesehatan dan Keselamatan (Kelas B)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 420256,
+      "id_user": 77042,
+      "id_prodi": 173,
+      "angkatan": 2023,
+      "nama_mahasiswa": "A.AWALIYA ANWAR",
+      "nim": "K013231033",
+      "jalan": "NUSA HARAPAN PERMAI",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "70510",
+      "nisn": null,
+      "tempat_lahir": "SINJAI",
+      "tanggal_lahir": "1990-10-23",
+      "telepon": "0",
+      "handphone": "082396148353",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Buntusu",
+      "id_wilayah": "196012",
+      "nik": "7307026310900001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andi.awaliya8@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "96552713-c105-4bcb-a2f7-e03cae168df3",
+      "id_registrasi_mahasiswa_pddikti": "3e110e97-71ed-461e-ae1d-b6ea420d570a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123523,
+        "id_mahasiswa": 420256,
+        "created_at": "2024-01-17 16:10:52"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 420285,
+      "id_user": 75772,
+      "id_prodi": 173,
+      "angkatan": 2023,
+      "nama_mahasiswa": "AGUS DARMAWAN ",
+      "nim": "K013231062",
+      "jalan": "JL. PERINTIS",
+      "rt": 1,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "93722",
+      "nisn": "K013231062",
+      "tempat_lahir": "WAHA",
+      "tanggal_lahir": "1989-07-07",
+      "telepon": "0",
+      "handphone": "085241629028",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Katobengke",
+      "id_wilayah": "206101",
+      "nik": "7472060707890001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 75772,
+      "kode_status": "A",
+      "email": "agusdarmawan77@unidayan.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "026c5ae6-efee-4861-800f-15bafb62a4ab",
+      "id_registrasi_mahasiswa_pddikti": "78925669-405e-4078-9caa-ddacc97c5239",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123523,
+        "id_mahasiswa": 420285,
+        "created_at": "2024-02-01 09:12:30"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1101,
+      "id_user": 31808,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Syamsiar S. Russeng, MS.",
+      "nidn": "0021025904",
+      "nip": "195912211987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf6ff6e8-d59f-4ec5-a7a7-3a3bddd29b2f",
+      "pivot": {
+        "id_kelas_kuliah": 123523,
+        "id_dosen": 1101
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1276,
+      "id_user": 34244,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Atjo Wahyu, SKM., M.Kes.",
+      "nidn": "0016027001",
+      "nip": "197002161994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fc20c28e-5a3c-44f4-9b9b-222e01dd95a2",
+      "pivot": {
+        "id_kelas_kuliah": 123523,
+        "id_dosen": 1276
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1240,
+      "id_user": 25450,
+      "id_prodi": 57,
+      "nama": "Prof. Yahya Thamrin, SKM., M.Kes., MOHS., Ph.D.",
+      "nidn": "0018027603",
+      "nip": "197602182002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aefc9399-4c17-4e20-9adc-0e8563a7fe0b",
+      "pivot": {
+        "id_kelas_kuliah": 123523,
+        "id_dosen": 1240
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1501,
+      "id_user": 31817,
+      "id_prodi": 57,
+      "nama": "Dr. dr.  Masyitha Muis, S.Ked., MS.",
+      "nidn": "0001096902",
+      "nip": "196909011999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8668e840-b2b9-4e03-ad3d-7deb28a27ac4",
+      "pivot": {
+        "id_kelas_kuliah": 123523,
+        "id_dosen": 1501
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 33,
+  "nama_prodi": "SASTRA PRANCIS - S1",
+  "id_prodi_semester": 2628,
+  "idnumber_sikola": "43879.128206.33",
+  "shortname_sikola": "TA232-128206",
+  "kode_matkul": "21F05149020",
+  "nama_matkul": "Komunikasi dan interaksi sosial",
+  "nama_kelas": "Komunikasi dan Interaksi Sosial",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1481,
+      "id_user": 14009,
+      "id_prodi": 33,
+      "nama": "Dr. Prasuri Kuswarini, MA.",
+      "nidn": "0027016308",
+      "nip": "196301271992032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "973e8b0a-bcca-4bc9-9e4b-f5e72a75bc54",
+      "pivot": {
+        "id_kelas_kuliah": 128206,
+        "id_dosen": 1481
+      }
+    }
+  ]
+}

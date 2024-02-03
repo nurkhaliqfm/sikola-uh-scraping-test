@@ -1,0 +1,45 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2506,
+  "idnumber_sikola": "41925.110490.169",
+  "shortname_sikola": "TA231-110490",
+  "kode_matkul": "21P11211403",
+  "nama_matkul": "Mitigasi Bencana Wilayah Pesisir",
+  "nama_kelas": "Mitigasi Bencana Wilayah Pesisir (PSPT_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1682,
+      "id_user": 28267,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Eng. Adi Maulana, ST., M.Phil.",
+      "nidn": "0028048002",
+      "nip": "198004282005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "df8b487e-bb0b-4f4f-836f-72db6b730210",
+      "pivot": {
+        "id_kelas_kuliah": 110490,
+        "id_dosen": 1682
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1396,
+      "id_user": 10978,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  Ahmad Faizal, ST., M.Si.",
+      "nidn": "0027077506",
+      "nip": "197507272001121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4d020133-6590-4e27-815d-4a46b7dea000",
+      "pivot": {
+        "id_kelas_kuliah": 110490,
+        "id_dosen": 1396
+      }
+    }
+  ]
+}

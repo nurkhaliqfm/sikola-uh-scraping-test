@@ -1,0 +1,61 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2512,
+  "idnumber_sikola": "37032.106797.175",
+  "shortname_sikola": "TA231-106797",
+  "kode_matkul": "19G01212602",
+  "nama_matkul": "Evaluasi Sumber Daya Lahan",
+  "nama_kelas": "Evaluasi Sumberdaya Lahan  (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 958,
+      "id_user": 26868,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Rusnadi Padjung, M.Sc.",
+      "nidn": "0022026009",
+      "nip": "196002221985031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57befb49-36b5-4f20-9dca-884468924bf1",
+      "pivot": {
+        "id_kelas_kuliah": 106797,
+        "id_dosen": 958
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 954,
+      "id_user": 23585,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Hazairin Zubair, MS.",
+      "nidn": "0028085403",
+      "nip": "195408281983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "140a85fa-2f44-4b98-80e2-f14c740ad2ce",
+      "pivot": {
+        "id_kelas_kuliah": 106797,
+        "id_dosen": 954
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1432,
+      "id_user": 23534,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Rismaneswati, SP., MP.",
+      "nidn": "0003027603",
+      "nip": "197603022002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "285ce4a4-ed63-4fd0-ac81-bfb5855aa0f7",
+      "pivot": {
+        "id_kelas_kuliah": 106797,
+        "id_dosen": 1432
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2711,
+  "idnumber_sikola": "31922.128352.138",
+  "shortname_sikola": "TA232-128352",
+  "kode_matkul": "19L06213403",
+  "nama_matkul": "Pengawasan dan Pengendalian Mutu Hasil Perikanan \t",
+  "nama_kelas": "Pengawasan dan Pengendalian Mutu Hasil Perikanan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427786,
+      "id_user": 86313,
+      "id_prodi": 138,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANDI NURHIKMAH ASRIA DEWANTI",
+      "nim": "L012232009",
+      "jalan": "LINGKUNGAN LAPANNI",
+      "rt": 4,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "92718",
+      "nisn": "0014107894",
+      "tempat_lahir": "WATAMPONE",
+      "tanggal_lahir": "2001-05-20",
+      "telepon": "0",
+      "handphone": "085255291022",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "WAETUO",
+      "id_wilayah": "190726",
+      "nik": "7308236005010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86313,
+      "kode_status": "A",
+      "email": "andiimahad@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128352,
+        "id_mahasiswa": 427786,
+        "created_at": "2024-01-11 20:45:46"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428678,
+      "id_user": 87211,
+      "id_prodi": 138,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NURFATIMAH TAUFIK",
+      "nim": "L012232011",
+      "jalan": "RUDAL RAYA 2 BLOK B1 NOMOR 1",
+      "rt": 4,
+      "rw": 12,
+      "dusun": "BTN. Citra Daya Permai 2",
+      "kode_pos": "90242",
+      "nisn": "0059278180",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2001-05-02",
+      "telepon": "0",
+      "handphone": "087840554892",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SUDIANG RAYA",
+      "id_wilayah": "196011",
+      "nik": "7371114205010008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 87211,
+      "kode_status": "A",
+      "email": "taufik.nurfatimah@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128352,
+        "id_mahasiswa": 428678,
+        "created_at": "2024-01-25 17:51:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 900,
+      "id_user": 24123,
+      "id_prodi": 235,
+      "nama": "Prof. Dr. Ir. Metusalach, M.Sc.",
+      "nidn": "0025056002",
+      "nip": "196005251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5efa67f5-93cd-419d-ad65-4fc29782cf3e",
+      "pivot": {
+        "id_kelas_kuliah": 128352,
+        "id_dosen": 900
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2460,
+      "id_user": 60802,
+      "id_prodi": 235,
+      "nama": "Dr. Ir.  Ophirtus Sumule, DEA.",
+      "nidn": "0025105911",
+      "nip": "195910251987111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34069e98-4c09-487f-8ffc-aca87ffcf8f1",
+      "pivot": {
+        "id_kelas_kuliah": 128352,
+        "id_dosen": 2460
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1766,
+      "id_user": 10399,
+      "id_prodi": 235,
+      "nama": "Dr. Fahrul, S.Pi., M.Si.",
+      "nidn": "0019047406",
+      "nip": "197404192006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45df60ce-91a0-4379-819f-46b8984c0a6c",
+      "pivot": {
+        "id_kelas_kuliah": 128352,
+        "id_dosen": 1766
+      }
+    }
+  ]
+}

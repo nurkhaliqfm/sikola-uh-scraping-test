@@ -1,0 +1,172 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2639,
+  "idnumber_sikola": "45052.121543.50",
+  "shortname_sikola": "TA232-121543",
+  "kode_matkul": "23H04121802",
+  "nama_matkul": "FITOKIMIA TUMBUHAN",
+  "nama_kelas": "Fitokimia Tumbuhan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141967,
+      "id_user": 43314,
+      "id_prodi": 50,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ANDI FAKHIRAH FEBRIANI PUTRITA",
+      "nim": "H041201045",
+      "jalan": "BTN ASALMULA BLOK E6 NO.2",
+      "rt": 5,
+      "rw": 5,
+      "dusun": "-",
+      "kode_pos": "90245",
+      "nisn": "0032832153",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2003-02-17",
+      "telepon": "0",
+      "handphone": "62895800966571",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196002",
+      "nik": "7371105702030006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andifakhirah@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "75a0f127-37ad-4b60-882a-d5a1cae692ed",
+      "id_registrasi_mahasiswa_pddikti": "7e2daeaa-610b-44e9-b99f-7d0b1b2f109d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121543,
+        "id_mahasiswa": 141967,
+        "created_at": "2024-01-17 11:37:56"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 350485,
+      "id_user": 64952,
+      "id_prodi": 50,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUH. REZKY FAHREZA RISAL",
+      "nim": "H041221081",
+      "jalan": "JL. SULTAN ALAUDDIN, BTN RESIDEN ALAUDDIN, BLOK C, NO. 5A",
+      "rt": 1,
+      "rw": 11,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "3048287692",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-05-06",
+      "telepon": "0",
+      "handphone": "089694897883",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MANGASA",
+      "id_wilayah": "196003",
+      "nik": "7371100605040003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "parapanjiremaja@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "6b2de653-0d6a-4a9e-a411-5334a1515779",
+      "id_registrasi_mahasiswa_pddikti": "1aceeee7-cb8e-4e26-a9a4-5367220c5399",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121543,
+        "id_mahasiswa": 350485,
+        "created_at": "2024-01-25 23:09:24"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1029,
+      "id_user": 16506,
+      "id_prodi": 50,
+      "nama": "Dr.  Eva Yohannes, M.Si.",
+      "nidn": "0017026101",
+      "nip": "196102171986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "078b001d-4f7d-4fdf-8f41-06d67b295224",
+      "pivot": {
+        "id_kelas_kuliah": 121543,
+        "id_dosen": 1029
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1021,
+      "id_user": 33995,
+      "id_prodi": 50,
+      "nama": "Dr.  Andi Ilham, M.Si.",
+      "nidn": "0007026706",
+      "nip": "196702071991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ef315322-491e-4ec7-95a4-6ebac28349d4",
+      "pivot": {
+        "id_kelas_kuliah": 121543,
+        "id_dosen": 1021
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2349,
+      "id_user": 18265,
+      "id_prodi": 49,
+      "nama": "Dr. Nur Umriani Permatasari, S.Si.,M.Si.",
+      "nidn": "0009128101",
+      "nip": "198112092006042003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f169db82-76d1-4d9a-939e-674f0ec12aaf",
+      "pivot": {
+        "id_kelas_kuliah": 121543,
+        "id_dosen": 2349
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1016,
+      "id_user": 19964,
+      "id_prodi": 50,
+      "nama": "Dr.  Elis Tambaru, M.Si.",
+      "nidn": "0002016306",
+      "nip": "196301021990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f70eb8d1-7881-4a90-8674-fff06ddbcafb",
+      "pivot": {
+        "id_kelas_kuliah": 121543,
+        "id_dosen": 1016
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2592,
+      "id_user": 24956,
+      "id_prodi": 50,
+      "nama": "Mustika Tuwo, S.Si.,S.Pd.,M.Sc",
+      "nidn": "8864501019",
+      "nip": "198608172019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05a704cc-8218-4ecf-8cc2-22471df734c6",
+      "pivot": {
+        "id_kelas_kuliah": 121543,
+        "id_dosen": 2592
+      }
+    }
+  ]
+}

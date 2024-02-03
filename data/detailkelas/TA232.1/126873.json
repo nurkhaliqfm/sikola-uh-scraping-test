@@ -1,0 +1,29 @@
+{
+  "id_prodi": 260,
+  "nama_prodi": "ILMU PENYAKIT MULUT",
+  "id_prodi_semester": 2820,
+  "idnumber_sikola": "44417.126873.260",
+  "shortname_sikola": "TA232-126873",
+  "kode_matkul": "22J13530203",
+  "nama_matkul": "KARYA TULIS AKHIR",
+  "nama_kelas": "KARYA TULIS AKHIR",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2355,
+      "id_user": 36758,
+      "id_prodi": 55,
+      "nama": "drg. Erni Marlina, Sp.MP",
+      "nidn": "0031107610",
+      "nip": "197506012009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b128b3ce-afd0-4aaa-828b-0d19522e4705",
+      "pivot": {
+        "id_kelas_kuliah": 126873,
+        "id_dosen": 2355
+      }
+    }
+  ]
+}

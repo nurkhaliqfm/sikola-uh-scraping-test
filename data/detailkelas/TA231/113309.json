@@ -1,0 +1,69 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2375,
+  "idnumber_sikola": "44623.113309.10",
+  "shortname_sikola": "TA231-113309",
+  "kode_matkul": "23H02111503",
+  "nama_matkul": "Fisika Dasar I",
+  "nama_kelas": "Basic Physics I INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 424226,
+      "id_user": 83154,
+      "id_prodi": 10,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD WAHYU",
+      "nim": "D011231150",
+      "jalan": "JLN TRANZ LUWUK",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Dusun 3 Kuwanto Desa Nonong",
+      "kode_pos": "94762",
+      "nisn": "0053319260",
+      "tempat_lahir": "KUWANTO",
+      "tanggal_lahir": "2005-02-19",
+      "telepon": "0",
+      "handphone": "085298913764",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "NONONG",
+      "id_wilayah": "180402",
+      "nik": "7201011902050001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muhamadw517@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "966873fe-8c5f-4be8-9430-88bceac27df3",
+      "id_registrasi_mahasiswa_pddikti": "9c9eaa89-98da-4041-9be1-cf8bd8ef204b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113309,
+        "id_mahasiswa": 424226,
+        "created_at": "2023-08-23 11:52:49"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1310,
+      "id_user": 31947,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Paulus Lobo Gareso, M.Sc.",
+      "nidn": "0005036503",
+      "nip": "196503051991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4f10bcf-e135-4a32-986d-ef2748f7a1a5",
+      "pivot": {
+        "id_kelas_kuliah": 113309,
+        "id_dosen": 1310
+      }
+    }
+  ]
+}

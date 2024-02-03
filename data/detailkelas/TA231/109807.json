@@ -1,0 +1,45 @@
+{
+  "id_prodi": 25,
+  "nama_prodi": "ILMU PEMERINTAHAN - S1",
+  "id_prodi_semester": 2389,
+  "idnumber_sikola": "10227.109807.25",
+  "shortname_sikola": "TA231-109807",
+  "kode_matkul": "202 E 1103",
+  "nama_matkul": "Sistem Politik Indonesia",
+  "nama_kelas": "Sistem Politik Indonesia",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1559,
+      "id_user": 34208,
+      "id_prodi": 24,
+      "nama": "Dr.  Gustiana, S.I.P.,M.Si.",
+      "nidn": "0013087306",
+      "nip": "197308131998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4aec82d3-4412-4676-9f3c-a790fd3fbec5",
+      "pivot": {
+        "id_kelas_kuliah": 109807,
+        "id_dosen": 1559
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2582,
+      "id_user": 44863,
+      "id_prodi": 25,
+      "nama": "Zulhajar, S.IP., M.A.",
+      "nidn": "8837001019",
+      "nip": "198209252019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "215922fc-ea0b-40a4-b478-b6bdfcc0835b",
+      "pivot": {
+        "id_kelas_kuliah": 109807,
+        "id_dosen": 2582
+      }
+    }
+  ]
+}

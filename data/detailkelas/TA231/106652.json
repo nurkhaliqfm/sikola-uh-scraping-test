@@ -1,0 +1,140 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2474,
+  "idnumber_sikola": "31457.106652.132",
+  "shortname_sikola": "TA231-106652",
+  "kode_matkul": "18D03211402",
+  "nama_matkul": "KARAKTERISTIK DAN PRAKIRAAN BEBAN LISTRIK",
+  "nama_kelas": "Teknik Energi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415468,
+      "id_user": 82108,
+      "id_prodi": 132,
+      "angkatan": 2023,
+      "nama_mahasiswa": "AN NISAA' NOOR RAMADHONI",
+      "nim": "D032231010",
+      "jalan": "JLN. AROEPALA, KOMP. PERMATA HIJAU LESTARI BLOK P14 NO.10",
+      "rt": 6,
+      "rw": 14,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "1999-12-14",
+      "telepon": "0",
+      "handphone": "08114444507",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Kassi-Kassi",
+      "id_wilayah": "196013",
+      "nik": "7371135412990006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "annisaanr.1412@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "41130745-d116-479e-8916-1ec56ddb3c19",
+      "id_registrasi_mahasiswa_pddikti": "633d9ac6-9b02-41d4-9149-eca502153b33",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106652,
+        "id_mahasiswa": 415468,
+        "created_at": "2023-08-02 17:06:54"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 415469,
+      "id_user": 82655,
+      "id_prodi": 132,
+      "angkatan": 2023,
+      "nama_mahasiswa": "WAHYUDI AZIKIN",
+      "nim": "D032231011",
+      "jalan": "Perumahan Puri Yuhana Permai. Jl. Yuhana II No.19",
+      "rt": 4,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90241",
+      "nisn": null,
+      "tempat_lahir": "SINJAI",
+      "tanggal_lahir": "1978-12-10",
+      "telepon": "04118991904",
+      "handphone": "082388881988",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Daya",
+      "id_wilayah": "196011",
+      "nik": "7371141012780009",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "wahyudi.azikin@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8e0cf2fc-85c3-45a4-9edc-78d3f39a6759",
+      "id_registrasi_mahasiswa_pddikti": "0740a328-8799-484f-9405-9914bc6d6a52",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106652,
+        "id_mahasiswa": 415469,
+        "created_at": "2023-08-04 11:54:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1680,
+      "id_user": 28598,
+      "id_prodi": 17,
+      "nama": "Yusri Syam Akil, S.T., M.T., Ph.D.",
+      "nidn": "0022037702",
+      "nip": "197703222005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5920be2f-5210-4d27-ba8a-480e387d4cf5",
+      "pivot": {
+        "id_kelas_kuliah": 106652,
+        "id_dosen": 1680
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2186,
+      "id_user": 11656,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Zaenab, MT.",
+      "nidn": "0001026601",
+      "nip": "196602011992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55aa9594-9254-4d35-b309-9b4345ea745e",
+      "pivot": {
+        "id_kelas_kuliah": 106652,
+        "id_dosen": 2186
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1673,
+      "id_user": 27863,
+      "id_prodi": 17,
+      "nama": "Prof. Ardiaty Arief, S.T., MTM., Ph.D",
+      "nidn": "0024047802",
+      "nip": "197804242001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0254541c-a111-43e8-a119-eec05d67ae45",
+      "pivot": {
+        "id_kelas_kuliah": 106652,
+        "id_dosen": 1673
+      }
+    }
+  ]
+}

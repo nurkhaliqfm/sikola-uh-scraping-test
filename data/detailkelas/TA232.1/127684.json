@@ -1,0 +1,61 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47523.127684.10",
+  "shortname_sikola": "TA232-127684",
+  "kode_matkul": "23D01132502",
+  "nama_matkul": "Rekayasa Gempa",
+  "nama_kelas": "Rekayasa Gempa Pilihan INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 705,
+      "id_user": 32364,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ing Herman Parung, M.Eng.",
+      "nidn": "0029076202",
+      "nip": "196207291987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8d4698bc-3ea9-43d4-b60b-31f62a041dc5",
+      "pivot": {
+        "id_kelas_kuliah": 127684,
+        "id_dosen": 705
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1669,
+      "id_user": 31616,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. A. Arwin Amiruddin, ST., MT.",
+      "nidn": "0026127902",
+      "nip": "197912262005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1cf81b4c-4e19-4d21-b298-06120b4c1832",
+      "pivot": {
+        "id_kelas_kuliah": 127684,
+        "id_dosen": 1669
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3810,
+      "id_user": 74111,
+      "id_prodi": 248,
+      "nama": "Dr. Ir. Miswar Tumpu, S.T., M.T.",
+      "nidn": "0923029501",
+      "nip": "199502232022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "ce1b1f94-b183-4475-87ec-6c67ef7e591d",
+      "pivot": {
+        "id_kelas_kuliah": 127684,
+        "id_dosen": 3810
+      }
+    }
+  ]
+}

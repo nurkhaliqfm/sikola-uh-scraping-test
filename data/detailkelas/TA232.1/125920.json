@@ -1,0 +1,61 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2702,
+  "idnumber_sikola": "38954.125920.129",
+  "shortname_sikola": "TA232-125920",
+  "kode_matkul": "20C14540602",
+  "nama_matkul": "PEDIATRIC 3",
+  "nama_kelas": "Pediatric 3_2023_2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2695,
+      "id_user": null,
+      "id_prodi": 129,
+      "nama": "dr. Muhammad Ihsan Kitta, M.Kes., Sp.OT (K)",
+      "nidn": null,
+      "nip": "7371140905800001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125920,
+        "id_dosen": 2695
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2690,
+      "id_user": 44971,
+      "id_prodi": 129,
+      "nama": "dr. Henry Yurianto, M.Phil, Ph.D., Sp.OT (K)",
+      "nidn": null,
+      "nip": "196806242018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125920,
+        "id_dosen": 2690
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2691,
+      "id_user": 45179,
+      "id_prodi": 129,
+      "nama": "dr. M. Ruksal Saleh, Ph.D., Sp.OT (K)",
+      "nidn": null,
+      "nip": "196404142018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125920,
+        "id_dosen": 2691
+      }
+    }
+  ]
+}

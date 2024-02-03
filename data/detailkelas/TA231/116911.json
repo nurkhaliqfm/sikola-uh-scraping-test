@@ -1,0 +1,29 @@
+{
+  "id_prodi": 30,
+  "nama_prodi": "ANTROPOLOGI SOSIAL - S1",
+  "id_prodi_semester": 2394,
+  "idnumber_sikola": "11754.116911.30",
+  "shortname_sikola": "TA231-116911",
+  "kode_matkul": "410E5123",
+  "nama_matkul": "Gender dan Antropologi",
+  "nama_kelas": "Gender dan Antropologi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1507,
+      "id_user": 18030,
+      "id_prodi": 30,
+      "nama": "Dr.  Tasrifin Tahara, M.Si.",
+      "nidn": "0023087504",
+      "nip": "197508232002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e5761ee3-6af3-4766-ae33-248498fb6873",
+      "pivot": {
+        "id_kelas_kuliah": 116911,
+        "id_dosen": 1507
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46380.118431.16",
+  "shortname_sikola": "TA231-118431",
+  "kode_matkul": "23D09120602",
+  "nama_matkul": "Sistem Komunikasi dan Navigasi",
+  "nama_kelas": "Sistem Komunikasi dan Navigasi Kelas C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 4275,
+      "id_user": null,
+      "id_prodi": 16,
+      "nama": "Heriyanto, S.T",
+      "nidn": null,
+      "nip": "7102133009660001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 118431,
+        "id_dosen": 4275
+      }
+    }
+  ]
+}

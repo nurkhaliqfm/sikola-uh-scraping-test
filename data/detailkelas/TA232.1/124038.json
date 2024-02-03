@@ -1,0 +1,93 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "35204.124038.173",
+  "shortname_sikola": "TA232-124038",
+  "kode_matkul": "18K01311302",
+  "nama_matkul": "Gizi dan Pembangunan Manusia",
+  "nama_kelas": "Gizi dan Pembangunan Manusia (Kelas Papua)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1309,
+      "id_user": 26743,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. Nurhaedar Jafar, Apt., M.Kes.",
+      "nidn": "0031126415",
+      "nip": "196412311990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e36a5cb7-de4b-44b2-a3ac-b9aa80e698c2",
+      "pivot": {
+        "id_kelas_kuliah": 124038,
+        "id_dosen": 1309
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2110,
+      "id_user": 37041,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. dr. Abd. Razak Thaha, M.Sc.",
+      "nidn": "8823311019",
+      "nip": "130609949",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124038,
+        "id_dosen": 2110
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1232,
+      "id_user": 29658,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. dr. Citrakesumasari, M.Kes., Sp.GK",
+      "nidn": "0018036301",
+      "nip": "196303181992022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fb84bff7-5026-4afb-b5a2-72b9270d0add",
+      "pivot": {
+        "id_kelas_kuliah": 124038,
+        "id_dosen": 1232
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1463,
+      "id_user": 27689,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. Aminuddin Syam, SKM., M.Kes., M.Med.Ed",
+      "nidn": "0017066701",
+      "nip": "196706171999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff920b2f-d2de-48c3-a4d1-69c2b987c930",
+      "pivot": {
+        "id_kelas_kuliah": 124038,
+        "id_dosen": 1463
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1800,
+      "id_user": 27450,
+      "id_prodi": 65,
+      "nama": "Dr.  Healthy Hidayanty, SKM.,M.Kes.",
+      "nidn": "0907048101",
+      "nip": "198104072008012013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c40abbc-8f76-4cb6-9917-0635fc6d8976",
+      "pivot": {
+        "id_kelas_kuliah": 124038,
+        "id_dosen": 1800
+      }
+    }
+  ]
+}

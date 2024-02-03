@@ -1,0 +1,45 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2705,
+  "idnumber_sikola": "31486.126493.132",
+  "shortname_sikola": "TA232-126493",
+  "kode_matkul": "18D03214002",
+  "nama_matkul": "ELEKTRONIKA PERTAHANAN KEAMANAN",
+  "nama_kelas": "Teknik Telekomunikasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 126493,
+        "id_dosen": 813
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1981,
+      "id_user": 31207,
+      "id_prodi": 17,
+      "nama": "Merna Baharuddin, ST.,M.Tel.Eng.,Ph.D.",
+      "nidn": "0005127503",
+      "nip": "197512052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "935fd211-7d06-44ef-b04b-99b3dd9200be",
+      "pivot": {
+        "id_kelas_kuliah": 126493,
+        "id_dosen": 1981
+      }
+    }
+  ]
+}

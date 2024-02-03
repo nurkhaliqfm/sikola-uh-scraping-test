@@ -1,0 +1,45 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30408.126962.122",
+  "shortname_sikola": "TA232-126962",
+  "kode_matkul": "0406C20801",
+  "nama_matkul": "ENDOKRINOLOGI DAN METABOLIK II",
+  "nama_kelas": "Endokrinologi dan Metabolik II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1932,
+      "id_user": 33948,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Liong Boy Kurniawan, Sp.PK., M.Kes.",
+      "nidn": "0014078402",
+      "nip": "198407142010121008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4ae4b3e5-f723-4119-925c-fb9a87163137",
+      "pivot": {
+        "id_kelas_kuliah": 126962,
+        "id_dosen": 1932
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2967,
+      "id_user": 56872,
+      "id_prodi": 122,
+      "nama": "Dr. dr. Nurahmi, M.Kes., SpPK",
+      "nidn": null,
+      "nip": "196701242018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126962,
+        "id_dosen": 2967
+      }
+    }
+  ]
+}

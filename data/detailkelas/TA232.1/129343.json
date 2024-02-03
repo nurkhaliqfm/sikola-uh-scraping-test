@@ -1,0 +1,45 @@
+{
+  "id_prodi": 178,
+  "nama_prodi": "PPDS - ILMU PENYAKIT JANTUNG DAN PEMBULUH DARAH",
+  "id_prodi_semester": 2746,
+  "idnumber_sikola": "35389.129343.178",
+  "shortname_sikola": "TA232-129343",
+  "kode_matkul": "0704C21603",
+  "nama_matkul": "ECHOKARDIOGRAPHY II (STASE CHIEF ECHOCARDIOGRAPHY)",
+  "nama_kelas": "Echokardiography II (stase chief Echocardiography) smtr 7 (2018)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1916,
+      "id_user": 37373,
+      "id_prodi": 6,
+      "nama": "dr.  Aussie Fitriani Ghaznawie, Sp.JP",
+      "nidn": "0029058701",
+      "nip": "198705292010122005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87719894-5540-4005-aca0-1f56309e7aff",
+      "pivot": {
+        "id_kelas_kuliah": 129343,
+        "id_dosen": 1916
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2898,
+      "id_user": 34779,
+      "id_prodi": 178,
+      "nama": "dr. Pendrik Tandean , SpPD-KKV",
+      "nidn": null,
+      "nip": "196003252018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 129343,
+        "id_dosen": 2898
+      }
+    }
+  ]
+}

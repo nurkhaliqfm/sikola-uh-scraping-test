@@ -1,0 +1,149 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "48265.113485.19",
+  "shortname_sikola": "TA231-113485",
+  "kode_matkul": "23D05140604",
+  "nama_matkul": "Workshop Tugas Akhir Perancangan (LBE Teori dan Sejarah Arsitektur)",
+  "nama_kelas": "Workshop Tugas Akhir Perancangan (LBE Teori dan Sejarah Arsitektur)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141444,
+      "id_user": 39541,
+      "id_prodi": 19,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUTIARA AULIA ANHAR",
+      "nim": "D051201082",
+      "jalan": "Jl. Andi Tonro Lr. 1B No.09",
+      "rt": 4,
+      "rw": 5,
+      "dusun": "Pa'baeng-Baeng",
+      "kode_pos": "90221",
+      "nisn": "0021350938",
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "2002-01-30",
+      "telepon": "0",
+      "handphone": "6282348363746",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Pa'baeng-Baeng",
+      "id_wilayah": "190000",
+      "nik": "7309127001020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "mutiaraauliaanhar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "381efa11-6c38-4439-8804-fa9068a08727",
+      "id_registrasi_mahasiswa_pddikti": "31e7ad86-1db6-458d-be7b-65df79e3a9d2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113485,
+        "id_mahasiswa": 141444,
+        "created_at": "2023-07-27 21:13:22"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 113485,
+        "id_dosen": 1476
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1549,
+      "id_user": 13000,
+      "id_prodi": 19,
+      "nama": "Afifah Harisah, ST., MT, Ph.D",
+      "nidn": "0004087001",
+      "nip": "197008041997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0ee7a847-d45f-41f7-9d75-128a29f8b30c",
+      "pivot": {
+        "id_kelas_kuliah": 113485,
+        "id_dosen": 1549
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1259,
+      "id_user": 29024,
+      "id_prodi": 19,
+      "nama": "Dr. Mohammad Mochsen Sir, ST., MT.",
+      "nidn": "0007046902",
+      "nip": "196904071996031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d4059066-ecd9-4849-b476-3af5f719b11b",
+      "pivot": {
+        "id_kelas_kuliah": 113485,
+        "id_dosen": 1259
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1456,
+      "id_user": 15189,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Abdul Mufti Radja, ST., MT.",
+      "nidn": "0004036907",
+      "nip": "196903041999031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0113b15-d2f1-42b1-9b3a-9733f0da9032",
+      "pivot": {
+        "id_kelas_kuliah": 113485,
+        "id_dosen": 1456
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1656,
+      "id_user": 21880,
+      "id_prodi": 19,
+      "nama": "Dr. Syahriana Syam, ST., MT.",
+      "nidn": "0024117506",
+      "nip": "197511242006042032",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "31ae4720-5df8-4fbe-a707-a45d2ecc485f",
+      "pivot": {
+        "id_kelas_kuliah": 113485,
+        "id_dosen": 1656
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2547,
+      "id_user": 28606,
+      "id_prodi": 19,
+      "nama": "Andi Karina Deapati, S.Ars., M.T.",
+      "nidn": "0019078707",
+      "nip": "198707192019032012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b4c9806-77aa-4f21-b60e-ca6e7a9df4c0",
+      "pivot": {
+        "id_kelas_kuliah": 113485,
+        "id_dosen": 2547
+      }
+    }
+  ]
+}

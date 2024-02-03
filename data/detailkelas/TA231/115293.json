@@ -1,0 +1,101 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46507.115293.50",
+  "shortname_sikola": "TA231-115293",
+  "kode_matkul": "23U02133020",
+  "nama_matkul": "Riset Mandiri",
+  "nama_kelas": "Riset Mandiri",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 136906,
+      "id_user": 43773,
+      "id_prodi": 50,
+      "angkatan": 2020,
+      "nama_mahasiswa": "DODI SETIAWAN",
+      "nim": "H041201032",
+      "jalan": "JL. KH AHMAD DAHLAN",
+      "rt": 3,
+      "rw": 1,
+      "dusun": "Matoto",
+      "kode_pos": "92961",
+      "nisn": "0021216799",
+      "tempat_lahir": "MASAMBA",
+      "tanggal_lahir": "2002-10-01",
+      "telepon": "0",
+      "handphone": "082145629145",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kappuna",
+      "id_wilayah": "192412",
+      "nik": "7324040107020021",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "dodisetiawan210902@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9ead5c0f-aa59-4e43-8e6c-8d27643b6a9c",
+      "id_registrasi_mahasiswa_pddikti": "1c3db2dc-32bf-443c-9299-ef0a400807d7",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115293,
+        "id_mahasiswa": 136906,
+        "created_at": "2023-08-11 21:01:34"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1518,
+      "id_user": 31757,
+      "id_prodi": 50,
+      "nama": "Dr.  Magdalena Litaay, M.Sc.",
+      "nidn": "0029096401",
+      "nip": "196409291989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "093bd2d0-8503-47c7-8c9d-e935c7b0f724",
+      "pivot": {
+        "id_kelas_kuliah": 115293,
+        "id_dosen": 1518
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1202,
+      "id_user": 29454,
+      "id_prodi": 50,
+      "nama": "Prof. Dr. Fahruddin, M.Si.",
+      "nidn": "0015096501",
+      "nip": "196509151991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73261e22-a194-4536-9a88-7c012eec58ba",
+      "pivot": {
+        "id_kelas_kuliah": 115293,
+        "id_dosen": 1202
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1542,
+      "id_user": 31977,
+      "id_prodi": 50,
+      "nama": "Dr.  Syahribulan, M.Si.",
+      "nidn": "0027086702",
+      "nip": "196708271997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c920806c-203f-4de0-be15-8a9d6baf4f7f",
+      "pivot": {
+        "id_kelas_kuliah": 115293,
+        "id_dosen": 1542
+      }
+    }
+  ]
+}

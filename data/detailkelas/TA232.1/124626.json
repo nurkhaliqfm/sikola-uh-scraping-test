@@ -1,0 +1,45 @@
+{
+  "id_prodi": 136,
+  "nama_prodi": "TEKNIK PERKAPALAN - S2",
+  "id_prodi_semester": 2709,
+  "idnumber_sikola": "31725.124626.136",
+  "shortname_sikola": "TA232-124626",
+  "kode_matkul": "18D05211402",
+  "nama_matkul": "Manajemen Operasi Pelayaran",
+  "nama_kelas": "Manajemen Operasi Pelayaran A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1228,
+      "id_user": 31900,
+      "id_prodi": 14,
+      "nama": "Andi Sitti Chairunnisa Mappangara, ST.,MT.",
+      "nidn": "0018087202",
+      "nip": "197208181999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ce96fb56-f02d-47a3-8793-1813eaf7dfa7",
+      "pivot": {
+        "id_kelas_kuliah": 124626,
+        "id_dosen": 1228
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 978,
+      "id_user": 19431,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. M i s l i a h, M.Str.",
+      "nidn": "0023046201",
+      "nip": "196204231988022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76dccc2f-ba31-4d05-8028-4535c5a03f6f",
+      "pivot": {
+        "id_kelas_kuliah": 124626,
+        "id_dosen": 978
+      }
+    }
+  ]
+}

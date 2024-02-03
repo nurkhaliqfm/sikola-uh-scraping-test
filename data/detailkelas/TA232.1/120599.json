@@ -1,0 +1,85 @@
+{
+  "id_prodi": 94,
+  "nama_prodi": "TEKNIK SIPIL - S3",
+  "id_prodi_semester": 2670,
+  "idnumber_sikola": "27452.120599.94",
+  "shortname_sikola": "TA232-120599",
+  "kode_matkul": "18D01321303",
+  "nama_matkul": "ANALISIS SISTEM TRANSPORTASI",
+  "nama_kelas": "Analisis Sistem Transportasi (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415249,
+      "id_user": 79601,
+      "id_prodi": 94,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SYAHRUL REZI ISMAIL",
+      "nim": "D013231002",
+      "jalan": "POROS PATTALLASSANG",
+      "rt": 2,
+      "rw": 2,
+      "dusun": "Lamuru",
+      "kode_pos": "92171",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1996-05-23",
+      "telepon": "082195974044",
+      "handphone": "082195074044",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Sungumanai",
+      "id_wilayah": "190315",
+      "nik": "7306132305960001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "syahrulrezi2397@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3e971d21-c70f-4947-8a8c-d25da33f2c9a",
+      "id_registrasi_mahasiswa_pddikti": "77fb5f07-244d-472f-a5a9-9b3a606c3569",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120599,
+        "id_mahasiswa": 415249,
+        "created_at": "2024-01-26 21:30:44"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 979,
+      "id_user": 33532,
+      "id_prodi": 11,
+      "nama": "Prof. Dr. Ir. Sumarni Hamid, MT.",
+      "nidn": "0028125802",
+      "nip": "195812281986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3de517d9-c7d4-4d2a-bda6-ac3c8eb2ce98",
+      "pivot": {
+        "id_kelas_kuliah": 120599,
+        "id_dosen": 979
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1282,
+      "id_user": 19425,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Eng. Muhammad Isran Ramli, ST., MT.",
+      "nidn": "0026097301",
+      "nip": "197309262000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c5dcceb-62d9-434f-aacd-29386867ffc8",
+      "pivot": {
+        "id_kelas_kuliah": 120599,
+        "id_dosen": 1282
+      }
+    }
+  ]
+}

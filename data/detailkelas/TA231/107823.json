@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34895.107823.168",
+  "shortname_sikola": "TA231-107823",
+  "kode_matkul": "18D04320204",
+  "nama_matkul": "PENELITIAN DAN SEMINAR DISERTASI II",
+  "nama_kelas": "Penelitian dan Seminar Disertasi II (Akhmad Nurdin)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 156718,
+      "id_user": 53181,
+      "id_prodi": 168,
+      "angkatan": 2021,
+      "nama_mahasiswa": "AKHMAD NURDIN",
+      "nim": "D043211002",
+      "jalan": "PRAJA MUKTI UTARA NO.21 BALIKPAPAN",
+      "rt": 26,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "76115",
+      "nisn": null,
+      "tempat_lahir": "JENEPONTO",
+      "tanggal_lahir": "1971-04-11",
+      "telepon": "0",
+      "handphone": "081347622487",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "SEPINGGAN BARU",
+      "id_wilayah": "166101",
+      "nik": "6471051104710002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anurdin@bukaka.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4ce9b99e-c7eb-48d7-8c6f-303bcc61838f",
+      "id_registrasi_mahasiswa_pddikti": "961958f2-09df-4107-b66a-4096c3ac380f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107823,
+        "id_mahasiswa": 156718,
+        "created_at": "2023-07-26 13:59:22"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1141,
+      "id_user": 34320,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ing. Wahyu Haryadi Piarah, MSME.",
+      "nidn": "0002036004",
+      "nip": "196003021986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "602228c6-6068-469f-8ea1-2aaab24b24cb",
+      "pivot": {
+        "id_kelas_kuliah": 107823,
+        "id_dosen": 1141
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1262,
+      "id_user": 33505,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Zuryati Djafar, MT.",
+      "nidn": "0001036802",
+      "nip": "196803011997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eca59994-74e0-45c2-bfbe-122dc7ab3657",
+      "pivot": {
+        "id_kelas_kuliah": 107823,
+        "id_dosen": 1262
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1312,
+      "id_user": 32555,
+      "id_prodi": 12,
+      "nama": "Dr. Ir. Nasruddin, M.Si",
+      "nidn": "0017106101",
+      "nip": "196110171985031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "730852b4-de5f-444e-b328-f8c1d0f5b26c",
+      "pivot": {
+        "id_kelas_kuliah": 107823,
+        "id_dosen": 1312
+      }
+    }
+  ]
+}

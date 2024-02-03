@@ -1,0 +1,172 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2382,
+  "idnumber_sikola": "47123.115070.17",
+  "shortname_sikola": "TA231-115070",
+  "kode_matkul": "23D04132302",
+  "nama_matkul": "Perancangan Sistem Elektroteknik",
+  "nama_kelas": "Perancangan Sistem Elektroteknik / Kelas N - Di Lab Sistem Tenaga dan Pemasaran Listrik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 135988,
+      "id_user": 37465,
+      "id_prodi": 17,
+      "angkatan": 2020,
+      "nama_mahasiswa": "PONNO SAMPE",
+      "nim": "D041201063",
+      "jalan": "Jl. TADDU",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "BABANGAN",
+      "kode_pos": "91853",
+      "nisn": "0025341348",
+      "tempat_lahir": "KUNDASANG",
+      "tanggal_lahir": "2002-10-13",
+      "telepon": "0",
+      "handphone": "082348789737",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TO'YASA AKUNG",
+      "id_wilayah": "192703",
+      "nik": "7326171310020002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ponnosampe02@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c6f74e5a-535a-4e1f-b30c-f40ef7ebceac",
+      "id_registrasi_mahasiswa_pddikti": "e42b02f6-9114-471f-9713-d8ad5a542fa7",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115070,
+        "id_mahasiswa": 135988,
+        "created_at": "2023-08-16 02:08:29"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 135993,
+      "id_user": 39764,
+      "id_prodi": 17,
+      "angkatan": 2020,
+      "nama_mahasiswa": "FEBE ZAMAN DATU",
+      "nim": "D041201084",
+      "jalan": "Jl Bolong Madandan",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Madandan",
+      "kode_pos": "91862",
+      "nisn": "0018416098",
+      "tempat_lahir": "Tonglo",
+      "tanggal_lahir": "2002-02-06",
+      "telepon": "0",
+      "handphone": "081258314548",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Madandan",
+      "id_wilayah": "191811",
+      "nik": "7318114602020004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "datufz20d@student.unhas.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7f2c5960-8c86-4619-b569-6ef8b9100d3e",
+      "id_registrasi_mahasiswa_pddikti": "9c929d85-f711-4106-901c-c8fe7e52aae2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115070,
+        "id_mahasiswa": 135993,
+        "created_at": "2023-08-16 09:08:10"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 800,
+      "id_user": 31600,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir. H  Ansar Suyuti, MT.,IPU",
+      "nidn": "0031126723",
+      "nip": "196712311992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fef6a3dd-3ab8-4a7d-9532-f00f5471056a",
+      "pivot": {
+        "id_kelas_kuliah": 115070,
+        "id_dosen": 800
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1280,
+      "id_user": 16426,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Indar Chaerah Gunadin, ST., MT.",
+      "nidn": "0018117301",
+      "nip": "197311181998031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "459be265-d348-4a8f-8f58-38fb2ce2a38d",
+      "pivot": {
+        "id_kelas_kuliah": 115070,
+        "id_dosen": 1280
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1335,
+      "id_user": 34360,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Yustinus Upa Sombolayuk, M.T.",
+      "nidn": "0007085902",
+      "nip": "195907081988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73279d59-93fa-49b4-9333-12a8d9b85a4e",
+      "pivot": {
+        "id_kelas_kuliah": 115070,
+        "id_dosen": 1335
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1673,
+      "id_user": 27863,
+      "id_prodi": 17,
+      "nama": "Prof. Ardiaty Arief, S.T., MTM., Ph.D",
+      "nidn": "0024047802",
+      "nip": "197804242001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0254541c-a111-43e8-a119-eec05d67ae45",
+      "pivot": {
+        "id_kelas_kuliah": 115070,
+        "id_dosen": 1673
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1742,
+      "id_user": 27861,
+      "id_prodi": 17,
+      "nama": "Prof. M. Bachtiar Nappu, S.T., MT., Ph.D",
+      "nidn": "0006047603",
+      "nip": "197604062003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "53b0a267-ea6f-4cbe-ba3f-d6c59ad82c32",
+      "pivot": {
+        "id_kelas_kuliah": 115070,
+        "id_dosen": 1742
+      }
+    }
+  ]
+}

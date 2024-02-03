@@ -1,0 +1,69 @@
+{
+  "id_prodi": 203,
+  "nama_prodi": "KEPERAWATAN - D3",
+  "id_prodi_semester": 2770,
+  "idnumber_sikola": "36273.118852.203",
+  "shortname_sikola": "TA232-118852",
+  "kode_matkul": "19C01730202",
+  "nama_matkul": "PRAKTIK KLINIK KMB II",
+  "nama_kelas": "PARAKTIK KLINIK KMB II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142279,
+      "id_user": 44348,
+      "id_prodi": 203,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MATIUS HABEL AORE",
+      "nim": "C017201004",
+      "jalan": "Jln. Perintis kemerdekaan wisma 2 unhas",
+      "rt": 4,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "C017201004",
+      "tempat_lahir": "Syuru 27 oktober 2000",
+      "tanggal_lahir": "2020-09-09",
+      "telepon": "085244207246",
+      "handphone": "6285244207246",
+      "id_agama": null,
+      "id_prodi_jenjang": 8,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "9118012404980002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "matiushabelaore@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "49eaf770-a011-40d7-90e0-56190e587a6b",
+      "id_registrasi_mahasiswa_pddikti": "8861ff09-a618-4f14-9646-ea125a4ec2d2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118852,
+        "id_mahasiswa": 142279,
+        "created_at": "2024-02-02 08:27:42"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3285,
+      "id_user": 34026,
+      "id_prodi": 8,
+      "nama": "Abdul Majid, M. Kep., Ns., Sp.Kep.MB.",
+      "nidn": "0009058007",
+      "nip": "198005092009121006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a6e3c7dc-f35c-4b6f-a834-8aeb805871b7",
+      "pivot": {
+        "id_kelas_kuliah": 118852,
+        "id_dosen": 3285
+      }
+    }
+  ]
+}

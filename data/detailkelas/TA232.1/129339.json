@@ -1,0 +1,93 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28136.129339.102",
+  "shortname_sikola": "TA232-129339",
+  "kode_matkul": "18P06210302",
+  "nama_matkul": "Biologi Sel dan Molekuler",
+  "nama_kelas": "Biologi Sel dan Molekuler (Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1475,
+      "id_user": 34089,
+      "id_prodi": 6,
+      "nama": "Dr.dr.  Ika Yustisia, S.Ked.,M.Sc.",
+      "nidn": "0021017705",
+      "nip": "197701212003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a7d178bb-2b7d-4d80-830a-ea037d32e2f4",
+      "pivot": {
+        "id_kelas_kuliah": 129339,
+        "id_dosen": 1475
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 793,
+      "id_user": 34546,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Irawan Yusuf, Ph.D.",
+      "nidn": "0011025703",
+      "nip": "195702111986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "93281bbb-089a-4ff1-87d4-5f61a7e4f22e",
+      "pivot": {
+        "id_kelas_kuliah": 129339,
+        "id_dosen": 793
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1723,
+      "id_user": 37662,
+      "id_prodi": 6,
+      "nama": "dr.  Isra Wahid, S.Ked., Ph.D.",
+      "nidn": "0027126802",
+      "nip": "196812271998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a108e912-6c59-40ce-bf9e-a4d15cf770f3",
+      "pivot": {
+        "id_kelas_kuliah": 129339,
+        "id_dosen": 1723
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1124,
+      "id_user": 14553,
+      "id_prodi": 50,
+      "nama": "Dr.  Rosana Agus, M.Si., M.Si.",
+      "nidn": "0005096502",
+      "nip": "196509051991032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57ec59bf-d1c2-48ba-9cf2-642801541f1d",
+      "pivot": {
+        "id_kelas_kuliah": 129339,
+        "id_dosen": 1124
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2011,
+      "id_user": 30843,
+      "id_prodi": 50,
+      "nama": "Dr. Sulfahri, S.Si.,M.Si.",
+      "nidn": "0026018901",
+      "nip": "198901262014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d69e251-2dd9-43ce-aade-7b35160e3625",
+      "pivot": {
+        "id_kelas_kuliah": 129339,
+        "id_dosen": 2011
+      }
+    }
+  ]
+}

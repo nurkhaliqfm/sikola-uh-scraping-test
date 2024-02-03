@@ -1,0 +1,45 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2474,
+  "idnumber_sikola": "31478.106631.132",
+  "shortname_sikola": "TA231-106631",
+  "kode_matkul": "18D03213202",
+  "nama_matkul": "TELEKOMUNIKASI MARITIM",
+  "nama_kelas": "Teknik Telekomunikasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1484,
+      "id_user": 9435,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Intan Sari Areni, S.T., MT.",
+      "nidn": "0003027508",
+      "nip": "197502032000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d2d64e8-56cf-40a6-ab07-bc218bdbaf65",
+      "pivot": {
+        "id_kelas_kuliah": 106631,
+        "id_dosen": 1484
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 106631,
+        "id_dosen": 813
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 208,
+  "nama_prodi": "Matematika - S3",
+  "id_prodi_semester": 2543,
+  "idnumber_sikola": "37109.111526.208",
+  "shortname_sikola": "TA231-111526",
+  "kode_matkul": "20H02310703",
+  "nama_matkul": "STUDI INDEPENDEN III",
+  "nama_kelas": "Studi Independen III",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385825,
+      "id_user": 73725,
+      "id_prodi": 208,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUHAMMAD KASIM AIDID",
+      "nim": "H023222001",
+      "jalan": "JL. MUARA IV BLOK F5 NO 12 PERUMAHAN BUKIT TAMARUNANG, KEC. SOMBAOPU KAB GOWA",
+      "rt": 7,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "60111",
+      "nisn": null,
+      "tempat_lahir": "CIKOWANG",
+      "tanggal_lahir": "1978-08-17",
+      "telepon": "0",
+      "handphone": "081342266092",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tamarunang",
+      "id_wilayah": "190304",
+      "nik": "7305021708780011",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Kasimaidid@unm.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b2a57322-4c48-43a9-8d1c-9057e4332905",
+      "id_registrasi_mahasiswa_pddikti": "62772e73-9162-4aa0-9268-9e7a30e17f1d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111526,
+        "id_mahasiswa": 385825,
+        "created_at": "2023-07-30 22:15:48"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 975,
+      "id_user": 29452,
+      "id_prodi": 45,
+      "nama": "Prof. Dr.  Amir Kamal Amir, M.Sc.",
+      "nidn": "0003086802",
+      "nip": "196808031992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "65473916-b3b5-48ee-a8d3-35d801cd1ba4",
+      "pivot": {
+        "id_kelas_kuliah": 111526,
+        "id_dosen": 975
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1281,
+      "id_user": 13550,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Nurdin, S.Si., M.Si.",
+      "nidn": "0007087001",
+      "nip": "197008072000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d7ce9326-a252-46c5-ba6d-d2adfb63770c",
+      "pivot": {
+        "id_kelas_kuliah": 111526,
+        "id_dosen": 1281
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1693,
+      "id_user": 73,
+      "id_prodi": 160,
+      "nama": "Dr. Hendra, S.Si., M.Kom.",
+      "nidn": "0002017604",
+      "nip": "197601022002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3bec323b-0749-477e-bee5-9b999d8e0e99",
+      "pivot": {
+        "id_kelas_kuliah": 111526,
+        "id_dosen": 1693
+      }
+    }
+  ]
+}

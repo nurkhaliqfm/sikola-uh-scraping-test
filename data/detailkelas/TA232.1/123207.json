@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46479.123207.11",
+  "shortname_sikola": "TA232-123207",
+  "kode_matkul": "23D13130803",
+  "nama_matkul": "Pengolahan Limbah Padat",
+  "nama_kelas": "Pengolahan Limbah Padat B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1705,
+      "id_user": 32452,
+      "id_prodi": 11,
+      "nama": "Dr.Eng. Asiyanthi T.Lando, ST., MT.",
+      "nidn": "0020018002",
+      "nip": "198001202002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "627cc3f6-e2eb-4e56-82f7-88db391a775d",
+      "pivot": {
+        "id_kelas_kuliah": 123207,
+        "id_dosen": 1705
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3448,
+      "id_user": 85312,
+      "id_prodi": 11,
+      "nama": "Annisa Dwi Damayanti. S.T., M.T",
+      "nidn": "8919020021",
+      "nip": "199304282021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "8cbc09bd-1c6b-4c84-9701-f0ccef05016f",
+      "pivot": {
+        "id_kelas_kuliah": 123207,
+        "id_dosen": 3448
+      }
+    }
+  ]
+}

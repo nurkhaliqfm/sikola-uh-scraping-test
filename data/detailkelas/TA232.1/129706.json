@@ -1,0 +1,77 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "48841.129706.17",
+  "shortname_sikola": "TA232-129706",
+  "kode_matkul": "23D04136302",
+  "nama_matkul": "Perancangan Elektroteknik 1",
+  "nama_kelas": "Perancangan   Elektroteknik /  Kelas L-  Di RG. Perangkat Lunak Komputer  dan Teknologi Radio",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 129706,
+        "id_dosen": 813
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1054,
+      "id_user": 34386,
+      "id_prodi": 17,
+      "nama": "Elyas, S.T., M.Eng., Ph.D",
+      "nidn": "0001026406",
+      "nip": "196902011994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3347a460-6adc-4ed4-afdc-c0d70cbbbd20",
+      "pivot": {
+        "id_kelas_kuliah": 129706,
+        "id_dosen": 1054
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1981,
+      "id_user": 31207,
+      "id_prodi": 17,
+      "nama": "Merna Baharuddin, ST.,M.Tel.Eng.,Ph.D.",
+      "nidn": "0005127503",
+      "nip": "197512052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "935fd211-7d06-44ef-b04b-99b3dd9200be",
+      "pivot": {
+        "id_kelas_kuliah": 129706,
+        "id_dosen": 1981
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3205,
+      "id_user": 14254,
+      "id_prodi": 17,
+      "nama": "Azran Budi Arief, S.T., M T.",
+      "nidn": "0001028902",
+      "nip": "198902012019031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6fa07146-5df4-4d90-83ef-c75281852d58",
+      "pivot": {
+        "id_kelas_kuliah": 129706,
+        "id_dosen": 3205
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 34,
+  "nama_prodi": "SASTRA ASIA BARAT - S1",
+  "id_prodi_semester": 2398,
+  "idnumber_sikola": "46548.114815.34",
+  "shortname_sikola": "TA231-114815",
+  "kode_matkul": "23U02132203",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja (MKPK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1661,
+      "id_user": 12008,
+      "id_prodi": 34,
+      "nama": "Haeruddin, SS., MA.",
+      "nidn": "0005107807",
+      "nip": "197810052005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1f7d2bf-2f92-4936-b30a-39da71213d57",
+      "pivot": {
+        "id_kelas_kuliah": 114815,
+        "id_dosen": 1661
+      }
+    }
+  ]
+}

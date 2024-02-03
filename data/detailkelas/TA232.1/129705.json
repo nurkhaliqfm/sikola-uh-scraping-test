@@ -1,0 +1,93 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "48841.129705.17",
+  "shortname_sikola": "TA232-129705",
+  "kode_matkul": "23D04136302",
+  "nama_matkul": "Perancangan Elektroteknik 1",
+  "nama_kelas": "Perancangan   Elektroteknik /  Kelas  K-  Di RG Energi Terbarukan  dan Sistem  Cerdas",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1280,
+      "id_user": 16426,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Indar Chaerah Gunadin, ST., MT.",
+      "nidn": "0018117301",
+      "nip": "197311181998031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "459be265-d348-4a8f-8f58-38fb2ce2a38d",
+      "pivot": {
+        "id_kelas_kuliah": 129705,
+        "id_dosen": 1280
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1283,
+      "id_user": 20573,
+      "id_prodi": 17,
+      "nama": "Dr. Yusran, ST.,MT.",
+      "nidn": "0004047509",
+      "nip": "197504042000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a8ae9f3-a4eb-430a-ac81-6ff3513236a1",
+      "pivot": {
+        "id_kelas_kuliah": 129705,
+        "id_dosen": 1283
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1498,
+      "id_user": 28622,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Ir. Syafaruddin, S.T., M.Eng, IPU",
+      "nidn": "0030057407",
+      "nip": "197405301999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f345ff78-0ab1-46c1-a9fe-d193481a6a70",
+      "pivot": {
+        "id_kelas_kuliah": 129705,
+        "id_dosen": 1498
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1680,
+      "id_user": 28598,
+      "id_prodi": 17,
+      "nama": "Yusri Syam Akil, S.T., M.T., Ph.D.",
+      "nidn": "0022037702",
+      "nip": "197703222005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5920be2f-5210-4d27-ba8a-480e387d4cf5",
+      "pivot": {
+        "id_kelas_kuliah": 129705,
+        "id_dosen": 1680
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2186,
+      "id_user": 11656,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Zaenab, MT.",
+      "nidn": "0001026601",
+      "nip": "196602011992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55aa9594-9254-4d35-b309-9b4345ea745e",
+      "pivot": {
+        "id_kelas_kuliah": 129705,
+        "id_dosen": 2186
+      }
+    }
+  ]
+}

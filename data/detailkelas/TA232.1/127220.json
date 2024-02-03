@@ -1,0 +1,117 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26102.127220.79",
+  "shortname_sikola": "TA232-127220",
+  "kode_matkul": "19L08310103",
+  "nama_matkul": "Metodologi Penelitian Perikanan",
+  "nama_kelas": "Metodologi Penelitian Perikanan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427815,
+      "id_user": 86342,
+      "id_prodi": 79,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUSLIMIN  S.",
+      "nim": "L013232001",
+      "jalan": "JLN. KEBUN SAYUR NO.7 KOTA PAREPARE",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "91131",
+      "nisn": null,
+      "tempat_lahir": "PAREPARE",
+      "tanggal_lahir": "1969-09-04",
+      "telepon": "0",
+      "handphone": "081242100775",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "BUKIT INDAH",
+      "id_wilayah": "020819",
+      "nik": "7372040409690001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86342,
+      "kode_status": "A",
+      "email": "musliminsyarif2@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127220,
+        "id_mahasiswa": 427815,
+        "created_at": "2024-01-29 17:10:34"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 734,
+      "id_user": 10271,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Najamuddin, M.Sc.",
+      "nidn": "0001076003",
+      "nip": "196007011986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ee5e972a-e0dc-48d7-bca8-1fffa8d6e73b",
+      "pivot": {
+        "id_kelas_kuliah": 127220,
+        "id_dosen": 734
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 689,
+      "id_user": 14145,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Sharifuddin Bin Andy Omar, M.Sc",
+      "nidn": "0023025902",
+      "nip": "195902231988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e572e6bf-f8ad-4c26-a255-43264256907c",
+      "pivot": {
+        "id_kelas_kuliah": 127220,
+        "id_dosen": 689
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 899,
+      "id_user": 16482,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir. Muhammad Yusri Karim, M.Si.",
+      "nidn": "0008016502",
+      "nip": "196501081991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "437d8afc-1102-4a24-8288-681e6b634f4d",
+      "pivot": {
+        "id_kelas_kuliah": 127220,
+        "id_dosen": 899
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1028,
+      "id_user": 9931,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir. Zainuddin, M.Si.",
+      "nidn": "0021076402",
+      "nip": "196407211991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c8f111f5-48d0-4088-8e9f-acebe1697034",
+      "pivot": {
+        "id_kelas_kuliah": 127220,
+        "id_dosen": 1028
+      }
+    }
+  ]
+}

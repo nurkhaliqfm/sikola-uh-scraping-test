@@ -1,0 +1,77 @@
+{
+  "id_prodi": 253,
+  "nama_prodi": "ILMU LINGKUNGAN - S3",
+  "id_prodi_semester": 2814,
+  "idnumber_sikola": "43027.128478.253",
+  "shortname_sikola": "TA232-128478",
+  "kode_matkul": "22P03310903",
+  "nama_matkul": "Wawasan Pembangunan Berkelanjutan",
+  "nama_kelas": "Wawasan Pembangunan Berkelanjutan (Kelas B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 954,
+      "id_user": 23585,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Hazairin Zubair, MS.",
+      "nidn": "0028085403",
+      "nip": "195408281983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "140a85fa-2f44-4b98-80e2-f14c740ad2ce",
+      "pivot": {
+        "id_kelas_kuliah": 128478,
+        "id_dosen": 954
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 708,
+      "id_user": 25455,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir.  Darmawan, M.Sc.",
+      "nidn": "0006066301",
+      "nip": "196306061988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4986613c-e075-4352-b8fb-b986f2715bb0",
+      "pivot": {
+        "id_kelas_kuliah": 128478,
+        "id_dosen": 708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3594,
+      "id_user": 58095,
+      "id_prodi": 226,
+      "nama": "Dr. Ir. Muhammad Yamin, M.Si",
+      "nidn": "1109036001",
+      "nip": "196003091990031007",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d48dd14-6560-4bc6-a759-fb115eee177b",
+      "pivot": {
+        "id_kelas_kuliah": 128478,
+        "id_dosen": 3594
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3951,
+      "id_user": null,
+      "id_prodi": 253,
+      "nama": "Dr. Lukman Daris, S.Pi., M.Si.",
+      "nidn": null,
+      "nip": "0005127008",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128478,
+        "id_dosen": 3951
+      }
+    }
+  ]
+}

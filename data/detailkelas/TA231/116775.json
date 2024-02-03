@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "28158.116775.102",
+  "shortname_sikola": "TA231-116775",
+  "kode_matkul": "18P06212303",
+  "nama_matkul": "Bakteriologi Khusus",
+  "nama_kelas": "Bakteriologi Khusus (Mikro-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 889,
+      "id_user": 34368,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Muh. Nasrum Massi, M.Sc., Ph.D., Sp.MK",
+      "nidn": "0010096703",
+      "nip": "196709101996031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f425e8b-c8d4-4329-9187-182e4989367e",
+      "pivot": {
+        "id_kelas_kuliah": 116775,
+        "id_dosen": 889
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1470,
+      "id_user": 34331,
+      "id_prodi": 6,
+      "nama": "dr. Firdaus Hamid, S.Ked., Ph.D.",
+      "nidn": "0031127705",
+      "nip": "197712312002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e02f8344-eef9-4a50-abe3-b6fdebf088f9",
+      "pivot": {
+        "id_kelas_kuliah": 116775,
+        "id_dosen": 1470
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2330,
+      "id_user": 37162,
+      "id_prodi": 6,
+      "nama": "dr.  Andi Rofian Sultan,  M. Sc",
+      "nidn": "0010078007",
+      "nip": "198007102006041015",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ec5c1863-f5ef-49b5-9a24-33e99264465e",
+      "pivot": {
+        "id_kelas_kuliah": 116775,
+        "id_dosen": 2330
+      }
+    }
+  ]
+}

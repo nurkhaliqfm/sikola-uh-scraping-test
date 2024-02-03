@@ -1,0 +1,156 @@
+{
+  "id_prodi": 248,
+  "nama_prodi": "MANAJEMEN BENCANA - S2",
+  "id_prodi_semester": 2810,
+  "idnumber_sikola": "42851.128525.248",
+  "shortname_sikola": "TA232-128525",
+  "kode_matkul": "21P12210103",
+  "nama_matkul": "Aspek Kebumian dan Ekologi Kebencanaan",
+  "nama_kelas": "Aspek Kebumian dan Ekonomi Kebencaraan (MB_Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427970,
+      "id_user": 86497,
+      "id_prodi": 248,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NABILAH NUR INAYAH MUCHSIN",
+      "nim": "P122232002",
+      "jalan": "Nusa Tamalanrea Indah Blok GL No. 10",
+      "rt": 7,
+      "rw": 9,
+      "dusun": null,
+      "kode_pos": "90231",
+      "nisn": "P122232002",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1999-04-17",
+      "telepon": "0",
+      "handphone": "085151322202",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kapasa",
+      "id_wilayah": "196012",
+      "nik": "7371125704990004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86497,
+      "kode_status": "A",
+      "email": "nabilahmuchsin99@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128525,
+        "id_mahasiswa": 427970,
+        "created_at": "2024-01-11 21:23:43"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428182,
+      "id_user": 86709,
+      "id_prodi": 248,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RACHMAT LATIEF",
+      "nim": "P122232001",
+      "jalan": "ARIEF RAHMAN HAKIM NO.8",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90211",
+      "nisn": "716803904",
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "1959-02-04",
+      "telepon": "0411448457",
+      "handphone": "081342250000",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "UJUNGPANDANG BARU",
+      "id_wilayah": "196009",
+      "nik": "7371070402590001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86709,
+      "kode_status": "A",
+      "email": "rachmat_l@yahoo.co.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128525,
+        "id_mahasiswa": 428182,
+        "created_at": "2024-01-13 14:14:14"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1682,
+      "id_user": 28267,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Eng. Adi Maulana, ST., M.Phil.",
+      "nidn": "0028048002",
+      "nip": "198004282005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "df8b487e-bb0b-4f4f-836f-72db6b730210",
+      "pivot": {
+        "id_kelas_kuliah": 128525,
+        "id_dosen": 1682
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3241,
+      "id_user": null,
+      "id_prodi": 71,
+      "nama": "Putri Fatimah Nurdin, S.E., M.Agr., Ph.D",
+      "nidn": null,
+      "nip": "8921422",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128525,
+        "id_dosen": 3241
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3348,
+      "id_user": 45157,
+      "id_prodi": 134,
+      "nama": "Evi Aprianti S, S.T., Ph.D",
+      "nidn": "0924048904",
+      "nip": "198904242020054001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "6084077e-5391-4157-b64e-dfdc58f93818",
+      "pivot": {
+        "id_kelas_kuliah": 128525,
+        "id_dosen": 3348
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1223,
+      "id_user": 30983,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Jamaluddin Jompa, M.Sc.",
+      "nidn": "0008036705",
+      "nip": "196703081990031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d745ab40-59a0-4cae-933c-6360cabfd9bf",
+      "pivot": {
+        "id_kelas_kuliah": 128525,
+        "id_dosen": 1223
+      }
+    }
+  ]
+}

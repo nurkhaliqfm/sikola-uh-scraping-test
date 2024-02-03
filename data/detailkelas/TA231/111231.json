@@ -1,0 +1,61 @@
+{
+  "id_prodi": 135,
+  "nama_prodi": "TEKNIK GEOLOGI - S2",
+  "id_prodi_semester": 2477,
+  "idnumber_sikola": "31681.111231.135",
+  "shortname_sikola": "TA231-111231",
+  "kode_matkul": "18D06212302",
+  "nama_matkul": "MITIGASI DAN BENCANA GEOLOGI",
+  "nama_kelas": "Mitigasi dan Bencana Geologi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 773,
+      "id_user": 13028,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. rer.nat. Ir. A.M. Imran",
+      "nidn": "0005066302",
+      "nip": "196306051989031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a02d49ae-815b-42f2-9a45-b360071f22be",
+      "pivot": {
+        "id_kelas_kuliah": 111231,
+        "id_dosen": 773
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 885,
+      "id_user": 17198,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Busthan, MT.",
+      "nidn": "0008105902",
+      "nip": "195910081987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4512e15d-7dd2-4ec0-847a-de59b68b9d98",
+      "pivot": {
+        "id_kelas_kuliah": 111231,
+        "id_dosen": 885
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1604,
+      "id_user": 20450,
+      "id_prodi": 21,
+      "nama": "Dr. Ilham Alimuddin, ST., M.GIS.",
+      "nidn": "0025086902",
+      "nip": "196908251999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ed606e97-03a4-496c-adf6-6b8b5b84632d",
+      "pivot": {
+        "id_kelas_kuliah": 111231,
+        "id_dosen": 1604
+      }
+    }
+  ]
+}

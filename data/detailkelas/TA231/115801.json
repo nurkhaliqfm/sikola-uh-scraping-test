@@ -1,0 +1,52 @@
+{
+  "id_prodi": 26,
+  "nama_prodi": "ILMU HUB. INTERNASIONAL - S1",
+  "id_prodi_semester": 2390,
+  "idnumber_sikola": "45639.115801.26",
+  "shortname_sikola": "TA231-115801",
+  "kode_matkul": "23E07110102",
+  "nama_matkul": "Pengantar Antropologi Sosial",
+  "nama_kelas": "Pengantar Antropologi Sosial I",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 417070,
+      "id_user": 78670,
+      "id_prodi": 26,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MELVERN EDGAR NUGRAHA",
+      "nim": "E061231059",
+      "jalan": "JL.CLOVE AVENUE NO.8, CLOVE RESIDENCE",
+      "rt": 4,
+      "rw": 4,
+      "dusun": "-",
+      "kode_pos": "90225",
+      "nisn": "0054685559",
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "2005-10-26",
+      "telepon": "0",
+      "handphone": "082290528288",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tanjung merdeka",
+      "id_wilayah": "196003",
+      "nik": "7372022610050011",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "melvernpro@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e761bfde-c11b-4b8c-8bb7-14a71f7f2b9e",
+      "id_registrasi_mahasiswa_pddikti": "4b77ba66-e33b-4586-8449-ad088199ecf0",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115801,
+        "id_mahasiswa": 417070,
+        "created_at": "2023-08-19 23:45:46"
+      }
+    }
+  ],
+  "dosens": []
+}

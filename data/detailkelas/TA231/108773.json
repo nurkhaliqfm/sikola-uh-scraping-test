@@ -1,0 +1,93 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2412,
+  "idnumber_sikola": "44925.108773.57",
+  "shortname_sikola": "TA231-108773",
+  "kode_matkul": "23K01110402",
+  "nama_matkul": "Biomedik",
+  "nama_kelas": "BIOMEDIK KELAS F",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1681,
+      "id_user": 28675,
+      "id_prodi": 57,
+      "nama": "Dr. Hasnawati Amqam, S.KM., M.Sc.",
+      "nidn": "0018047602",
+      "nip": "197604182005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bb1830e0-be34-4c45-b465-a3a8102e5171",
+      "pivot": {
+        "id_kelas_kuliah": 108773,
+        "id_dosen": 1681
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1055,
+      "id_user": 11503,
+      "id_prodi": 49,
+      "nama": "Dr.. Rugaiyah, M.Si.",
+      "nidn": "0012126102",
+      "nip": "196112311987022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "79915ff5-dddd-4fd0-9015-d8a6bdfcde62",
+      "pivot": {
+        "id_kelas_kuliah": 108773,
+        "id_dosen": 1055
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1400,
+      "id_user": 34177,
+      "id_prodi": 50,
+      "nama": "Dr. Eddyman, S.Si., M.Si.",
+      "nidn": "0010017002",
+      "nip": "197001101997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15f3c27a-7c51-4ab9-b1d2-5e22bcc9d365",
+      "pivot": {
+        "id_kelas_kuliah": 108773,
+        "id_dosen": 1400
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1902,
+      "id_user": 37033,
+      "id_prodi": 65,
+      "nama": "Ulfah Najamuddin, S.Si.,M.Kes.",
+      "nidn": "0025108402",
+      "nip": "198410252009122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "27aef9e7-631c-4e59-b194-4b656ea51011",
+      "pivot": {
+        "id_kelas_kuliah": 108773,
+        "id_dosen": 1902
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2307,
+      "id_user": 31000,
+      "id_prodi": 57,
+      "nama": "Dr. Syamsuar, SKM., M.Kes., M.Sc.PH",
+      "nidn": "0011097902",
+      "nip": "197909112005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "006a7bd0-c27c-4c65-8ebd-e6aba8f1a079",
+      "pivot": {
+        "id_kelas_kuliah": 108773,
+        "id_dosen": 2307
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2386,
+  "idnumber_sikola": "47968.112637.21",
+  "shortname_sikola": "TA231-112637",
+  "kode_matkul": "23D06131802",
+  "nama_matkul": "Batuan Karbonat",
+  "nama_kelas": "Batuan Karbonat",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 773,
+      "id_user": 13028,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. rer.nat. Ir. A.M. Imran",
+      "nidn": "0005066302",
+      "nip": "196306051989031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a02d49ae-815b-42f2-9a45-b360071f22be",
+      "pivot": {
+        "id_kelas_kuliah": 112637,
+        "id_dosen": 773
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1563,
+      "id_user": 17172,
+      "id_prodi": 21,
+      "nama": "Dr. Eng. Meutia Farida, ST., MT.",
+      "nidn": "0010037303",
+      "nip": "197310032000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fb98e5f0-338a-4ab6-81e6-e3758927e30a",
+      "pivot": {
+        "id_kelas_kuliah": 112637,
+        "id_dosen": 1563
+      }
+    }
+  ]
+}

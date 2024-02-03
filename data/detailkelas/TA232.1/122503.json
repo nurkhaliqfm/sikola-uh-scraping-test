@@ -1,0 +1,29 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "48283.122503.19",
+  "shortname_sikola": "TA232-122503",
+  "kode_matkul": "23D05141702",
+  "nama_matkul": "Rencana Penelitian Tugas Akhir Riset (LBE Sains dan Teknologi Bangunan)",
+  "nama_kelas": "Final Project Research Proposal (LBE of Biulding Science)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 122503,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

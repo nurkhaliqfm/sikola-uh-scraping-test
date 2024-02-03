@@ -1,0 +1,61 @@
+{
+  "id_prodi": 166,
+  "nama_prodi": "TEKNOLOGI KEBUMIAN DAN LINGKUNGAN - S3",
+  "id_prodi_semester": 2734,
+  "idnumber_sikola": "34768.120146.166",
+  "shortname_sikola": "TA232-120146",
+  "kode_matkul": "18D03310603",
+  "nama_matkul": "PENUNJANG DISERTASI 2",
+  "nama_kelas": "Penunjang Disertasi 2 Kelas C (Muh Fahrullah)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1270,
+      "id_user": 28264,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Adi Tonggiroh, ST., MT.",
+      "nidn": "0028096501",
+      "nip": "196509282000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5c28690a-0f4c-4053-8bc8-da669a992ac0",
+      "pivot": {
+        "id_kelas_kuliah": 120146,
+        "id_dosen": 1270
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 120146,
+        "id_dosen": 1268
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1622,
+      "id_user": 31396,
+      "id_prodi": 22,
+      "nama": "Dr. Phil. Nat. Sri Widodo, ST.,MT.",
+      "nidn": "0001017127",
+      "nip": "197101012010121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1c65c851-0ff2-4f3a-abc0-c54fdf1adecf",
+      "pivot": {
+        "id_kelas_kuliah": 120146,
+        "id_dosen": 1622
+      }
+    }
+  ]
+}

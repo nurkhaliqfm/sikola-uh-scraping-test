@@ -1,0 +1,101 @@
+{
+  "id_prodi": 83,
+  "nama_prodi": "PENGELOLAAN LINGKUNGAN HIDUP - S2",
+  "id_prodi_semester": 2660,
+  "idnumber_sikola": "26525.128929.83",
+  "shortname_sikola": "TA232-128929",
+  "kode_matkul": "18P03211002",
+  "nama_matkul": "Toksikologi dan Pencemaran Lingkungan\r\n",
+  "nama_kelas": "Toksikologi dan Pencemaran Lingkungan (PLH_Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427960,
+      "id_user": 86487,
+      "id_prodi": 83,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MISDAR",
+      "nim": "P032232003",
+      "jalan": "JALAN POROS LAROLANU",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Lowinambo",
+      "kode_pos": "93785",
+      "nisn": "0",
+      "tempat_lahir": "BALIARA",
+      "tanggal_lahir": "1995-04-27",
+      "telepon": "0",
+      "handphone": "085340278396",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA LAROLANU",
+      "id_wilayah": "200715",
+      "nik": "7406152704950001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86487,
+      "kode_status": "A",
+      "email": "misdaralbasir95@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128929,
+        "id_mahasiswa": 427960,
+        "created_at": "2024-01-11 20:46:13"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 823,
+      "id_user": 18079,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Sri Suryani, DEA.",
+      "nidn": "0008055803",
+      "nip": "195805081983122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2235230d-c8f2-4434-a700-8323c844a6a5",
+      "pivot": {
+        "id_kelas_kuliah": 128929,
+        "id_dosen": 823
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1202,
+      "id_user": 29454,
+      "id_prodi": 50,
+      "nama": "Prof. Dr. Fahruddin, M.Si.",
+      "nidn": "0015096501",
+      "nip": "196509151991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73261e22-a194-4536-9a88-7c012eec58ba",
+      "pivot": {
+        "id_kelas_kuliah": 128929,
+        "id_dosen": 1202
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1522,
+      "id_user": 30923,
+      "id_prodi": 49,
+      "nama": "Prof. Dra. Paulina Taba,  M.Phil., Ph.D",
+      "nidn": "0015115701",
+      "nip": "195711151988102001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c9e6947-6bda-46fa-ae33-349e20ac755e",
+      "pivot": {
+        "id_kelas_kuliah": 128929,
+        "id_dosen": 1522
+      }
+    }
+  ]
+}

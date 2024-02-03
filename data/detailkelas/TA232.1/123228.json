@@ -1,0 +1,125 @@
+{
+  "id_prodi": 266,
+  "nama_prodi": "PARAMEDIK VETERINER - D4",
+  "id_prodi_semester": 2825,
+  "idnumber_sikola": "48561.123228.266",
+  "shortname_sikola": "TA232-123228",
+  "kode_matkul": "23V10611102",
+  "nama_matkul": "Ilmu Tilik Dan Tingkah Laku Hewan",
+  "nama_kelas": "Ilmu Tilik Dan Tingkah Laku Hewan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2549,
+      "id_user": 34096,
+      "id_prodi": 146,
+      "nama": "drh. Zainal Abidin Kholilullah, S.KH., M.Kes.",
+      "nidn": "0017106907",
+      "nip": "196910172008041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00df6c34-56a0-4cd0-9aa3-c674483dc099",
+      "pivot": {
+        "id_kelas_kuliah": 123228,
+        "id_dosen": 2549
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4166,
+      "id_user": null,
+      "id_prodi": 266,
+      "nama": "drh. Adytma Muhammad Nur, M.Si.",
+      "nidn": null,
+      "nip": "7322111606880262",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123228,
+        "id_dosen": 4166
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4165,
+      "id_user": null,
+      "id_prodi": 266,
+      "nama": "drh. Raymond Anthony Joseph Tumanduk, M.biomed.",
+      "nidn": null,
+      "nip": "7371042106930001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123228,
+        "id_dosen": 4165
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4164,
+      "id_user": null,
+      "id_prodi": 266,
+      "nama": "Nur Aqifah Ahmad Toputri, S.Pt., M.Si.",
+      "nidn": null,
+      "nip": "7307044112960003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123228,
+        "id_dosen": 4164
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3220,
+      "id_user": 34031,
+      "id_prodi": 146,
+      "nama": "Muhammad Ardiansyah Nurdin, SKH., M.Si.",
+      "nidn": "8819323419",
+      "nip": "199310172019015001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "776a8501-5606-4cc1-afda-2550429d67f4",
+      "pivot": {
+        "id_kelas_kuliah": 123228,
+        "id_dosen": 3220
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3377,
+      "id_user": 57272,
+      "id_prodi": 218,
+      "nama": "drh. Sri Helda Wulandari",
+      "nidn": null,
+      "nip": "7314074501910003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123228,
+        "id_dosen": 3377
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4086,
+      "id_user": 85285,
+      "id_prodi": 146,
+      "nama": "drh. Irwan Ismail, M.Si.",
+      "nidn": null,
+      "nip": "7304021012930003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123228,
+        "id_dosen": 4086
+      }
+    }
+  ]
+}

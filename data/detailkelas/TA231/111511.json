@@ -1,0 +1,101 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "45631.111511.19",
+  "shortname_sikola": "TA231-111511",
+  "kode_matkul": "23D05131103",
+  "nama_matkul": "Teori dan Desain Bangunan Tahan Gempa",
+  "nama_kelas": "Theory and Design of Earthquake Resistant Building",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 143734,
+      "id_user": 44504,
+      "id_prodi": 19,
+      "angkatan": 2020,
+      "nama_mahasiswa": "HIROTAKA HARANO",
+      "nim": "D051201109",
+      "jalan": "BULEVARD HIJAU REGENCY B7 NO.15",
+      "rt": 9,
+      "rw": 3,
+      "dusun": "Pejuang",
+      "kode_pos": "17131",
+      "nisn": "0005128444",
+      "tempat_lahir": "INDONESIA",
+      "tanggal_lahir": "2000-01-23",
+      "telepon": "0",
+      "handphone": "6282210265662",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PEJUANG",
+      "id_wilayah": "026509",
+      "nik": "3275062301000013",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "haranohirotaka23@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "481a405a-26fa-4a0e-82a7-f02b2c89faf1",
+      "id_registrasi_mahasiswa_pddikti": "cae94e0e-c103-4a9e-98b2-00cb4eb78089",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111511,
+        "id_mahasiswa": 143734,
+        "created_at": "2023-08-17 14:36:44"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 111511,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1670,
+      "id_user": 18194,
+      "id_prodi": 19,
+      "nama": "Dr. Imriyanti, ST., MT.",
+      "nidn": "0008027304",
+      "nip": "197302082006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f618ce8-941f-4871-b850-de9b4ffd1281",
+      "pivot": {
+        "id_kelas_kuliah": 111511,
+        "id_dosen": 1670
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2004,
+      "id_user": 19488,
+      "id_prodi": 19,
+      "nama": "Pratiwi Mushar, S.T., M.T.",
+      "nidn": "0019018601",
+      "nip": "198601192014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c9ebe46c-8b94-4b09-8357-b5bd04cf4e85",
+      "pivot": {
+        "id_kelas_kuliah": 111511,
+        "id_dosen": 2004
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 24,
+  "nama_prodi": "ILMU POLITIK - S1",
+  "id_prodi_semester": 2388,
+  "idnumber_sikola": "9936.111584.24",
+  "shortname_sikola": "TA231-111584",
+  "kode_matkul": "202E333",
+  "nama_matkul": "Politik Internasional",
+  "nama_kelas": "Politik Internasional",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1668,
+      "id_user": 10130,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Phil. Sukri, S.IP., M.Si.",
+      "nidn": "0018087507",
+      "nip": "197508182008011008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "72714fe6-561d-40d4-bfda-a92776daff64",
+      "pivot": {
+        "id_kelas_kuliah": 111584,
+        "id_dosen": 1668
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2524,
+      "id_user": 10714,
+      "id_prodi": null,
+      "nama": "Ummi Suci Fathia Bailusy, S.IP., M.IP.",
+      "nidn": "0002059209",
+      "nip": "199205022019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7099c8d2-308e-48c2-9edf-ea778c0efe3b",
+      "pivot": {
+        "id_kelas_kuliah": 111584,
+        "id_dosen": 2524
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2822,
+      "id_user": 34306,
+      "id_prodi": 24,
+      "nama": "Dian Ekawaty, S.IP., M.A.",
+      "nidn": "8822823420",
+      "nip": "198805032020016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ed5f462-e53d-4276-8d16-07dc4e61a571",
+      "pivot": {
+        "id_kelas_kuliah": 111584,
+        "id_dosen": 2822
+      }
+    }
+  ]
+}

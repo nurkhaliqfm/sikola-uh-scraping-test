@@ -1,0 +1,45 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44074.108636.47",
+  "shortname_sikola": "TA231-108636",
+  "kode_matkul": "23H02131203",
+  "nama_matkul": "PENGANTAR FISIKA PARTIKEL",
+  "nama_kelas": "Pengantar Fisika Partikel (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1364,
+      "id_user": 21587,
+      "id_prodi": 47,
+      "nama": "Drs. Bansawang BJ., M.Si.",
+      "nidn": "0006126303",
+      "nip": "196312061994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "869eacbc-a5b7-44a3-bb18-15e4b44b56d3",
+      "pivot": {
+        "id_kelas_kuliah": 108636,
+        "id_dosen": 1364
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2463,
+      "id_user": 46138,
+      "id_prodi": 47,
+      "nama": "Azwar Sutiono, S.Si., M.Si",
+      "nidn": "0003129104",
+      "nip": "199112032019031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "42c87192-376e-4e1d-b99d-beb058612dd7",
+      "pivot": {
+        "id_kelas_kuliah": 108636,
+        "id_dosen": 2463
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 18,
+  "nama_prodi": "TEKNIK INFORMATIKA - S1",
+  "id_prodi_semester": 2383,
+  "idnumber_sikola": "47827.114364.18",
+  "shortname_sikola": "TA231-114364",
+  "kode_matkul": "23D12120602",
+  "nama_matkul": "Teori Bahasa dan Otomata",
+  "nama_kelas": "Teori Bahasa dan Otomata Kls. MB PMM",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 356359,
+      "id_user": 70898,
+      "id_prodi": 18,
+      "angkatan": 2022,
+      "nama_mahasiswa": "RISWAN RAMADHAN",
+      "nim": "D121221061",
+      "jalan": "HOS COKROAMINOTO",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "92733",
+      "nisn": "0039964923",
+      "tempat_lahir": "NUNUKAN",
+      "tanggal_lahir": "2003-11-13",
+      "telepon": "0",
+      "handphone": "0895334909799",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MACANANG",
+      "id_wilayah": "190724",
+      "nik": "7308221311030003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "riswanramadhan69@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e2abec6f-dc17-4961-827f-59cf6a854463",
+      "id_registrasi_mahasiswa_pddikti": "d7a4191b-d111-4733-b52d-40835b531571",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114364,
+        "id_mahasiswa": 356359,
+        "created_at": "2023-08-01 22:09:17"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2381,
+      "id_user": 60413,
+      "id_prodi": 18,
+      "nama": "Mukarramah Yusuf, B.Sc., M.Sc., Ph.D",
+      "nidn": "0008108303",
+      "nip": "198310082012122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "61ed7b7b-dc3b-4771-8e36-9ba0769fef09",
+      "pivot": {
+        "id_kelas_kuliah": 114364,
+        "id_dosen": 2381
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2356,
+      "id_user": 12502,
+      "id_prodi": 18,
+      "nama": "Dr. Eng. Ady Wahyudi Paundu, ST., MT.",
+      "nidn": "0013037507",
+      "nip": "197503132009121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "412804cd-512a-4f6d-8273-4b6d01ea9f64",
+      "pivot": {
+        "id_kelas_kuliah": 114364,
+        "id_dosen": 2356
+      }
+    }
+  ]
+}

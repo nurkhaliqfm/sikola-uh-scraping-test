@@ -1,0 +1,45 @@
+{
+  "id_prodi": 83,
+  "nama_prodi": "PENGELOLAAN LINGKUNGAN HIDUP - S2",
+  "id_prodi_semester": 2429,
+  "idnumber_sikola": "26510.109925.83",
+  "shortname_sikola": "TA231-109925",
+  "kode_matkul": "18P03211702",
+  "nama_matkul": "Pengelolaan Daerah Aliran Sungai (DAS)\r\n",
+  "nama_kelas": "Pengelolaan Daerah Aliran Sungai (DAS) (PLH_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 954,
+      "id_user": 23585,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Hazairin Zubair, MS.",
+      "nidn": "0028085403",
+      "nip": "195408281983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "140a85fa-2f44-4b98-80e2-f14c740ad2ce",
+      "pivot": {
+        "id_kelas_kuliah": 109925,
+        "id_dosen": 954
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1839,
+      "id_user": 19307,
+      "id_prodi": 71,
+      "nama": "Andang Suryana Soma, S.Hut., M.P., Ph.D",
+      "nidn": "0025037804",
+      "nip": "197803252008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22354763-2237-4362-96b5-e37473b7088e",
+      "pivot": {
+        "id_kelas_kuliah": 109925,
+        "id_dosen": 1839
+      }
+    }
+  ]
+}

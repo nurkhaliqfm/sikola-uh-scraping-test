@@ -1,0 +1,85 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2474,
+  "idnumber_sikola": "31491.106671.132",
+  "shortname_sikola": "TA231-106671",
+  "kode_matkul": "18D03214502",
+  "nama_matkul": "TEKNOLOGI MATERIAL ELEKTRONIK",
+  "nama_kelas": "Teknik Kendali",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415464,
+      "id_user": 76696,
+      "id_prodi": 132,
+      "angkatan": 2023,
+      "nama_mahasiswa": "BADILLAH ODE JUL",
+      "nim": "D032231006",
+      "jalan": "Jl. Urip Sumohardjo",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Pampang 2",
+      "kode_pos": "90231",
+      "nisn": null,
+      "tempat_lahir": "AMBON",
+      "tanggal_lahir": "1998-06-10",
+      "telepon": "0",
+      "handphone": "085322014467",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Pampang",
+      "id_wilayah": "196010",
+      "nik": "9109015006980001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "badillah.odejul@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8b554ede-5ce3-43a2-aecd-1a56f87a91df",
+      "id_registrasi_mahasiswa_pddikti": "d6573df8-853a-44eb-a003-f4dedc3139ff",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106671,
+        "id_mahasiswa": 415464,
+        "created_at": "2023-07-26 22:41:16"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 880,
+      "id_user": 34226,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir. H. Salama Manjang, MT., IPM.",
+      "nidn": "0011116211",
+      "nip": "196212311990031024",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5a512f7-1d68-4546-b716-54465bfc1293",
+      "pivot": {
+        "id_kelas_kuliah": 106671,
+        "id_dosen": 880
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1283,
+      "id_user": 20573,
+      "id_prodi": 17,
+      "nama": "Dr. Yusran, ST.,MT.",
+      "nidn": "0004047509",
+      "nip": "197504042000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a8ae9f3-a4eb-430a-ac81-6ff3513236a1",
+      "pivot": {
+        "id_kelas_kuliah": 106671,
+        "id_dosen": 1283
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id_prodi": 164,
+  "nama_prodi": "PROFESI DOKTER HEWAN",
+  "id_prodi_semester": 2501,
+  "idnumber_sikola": "34662.115072.164",
+  "shortname_sikola": "TA231-115072",
+  "kode_matkul": "110O2132",
+  "nama_matkul": "Magang Sapi Perah",
+  "nama_kelas": "Magang sapi perah angk. 11",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3217,
+      "id_user": 34032,
+      "id_prodi": 146,
+      "nama": "Nur Alif Bahmid, SKH., M.Si.",
+      "nidn": "8852823420",
+      "nip": "199205102020015001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "efd7db84-495c-4b77-8a8d-f5e746bb8d29",
+      "pivot": {
+        "id_kelas_kuliah": 115072,
+        "id_dosen": 3217
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2366,
+      "id_user": 46656,
+      "id_prodi": 146,
+      "nama": "drh. Fika Yuliza Purba, S.K.H.",
+      "nidn": "0020078601",
+      "nip": "198607202010122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a7086a52-83ce-47ca-9854-e21a9cf30a9d",
+      "pivot": {
+        "id_kelas_kuliah": 115072,
+        "id_dosen": 2366
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3223,
+      "id_user": 33986,
+      "id_prodi": 146,
+      "nama": "Drh. Muhammad Muflih",
+      "nidn": null,
+      "nip": "7371130604900002",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115072,
+        "id_dosen": 3223
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3214,
+      "id_user": 31566,
+      "id_prodi": 146,
+      "nama": "drh. Adryani Ris, M.Si.",
+      "nidn": "8817590019",
+      "nip": "198912302019016001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "9ef7e173-3849-4c62-8a60-97441e5d4274",
+      "pivot": {
+        "id_kelas_kuliah": 115072,
+        "id_dosen": 3214
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3474,
+      "id_user": 71656,
+      "id_prodi": 146,
+      "nama": "Drh. Muhammad Zulfadhillah Sinusi, S.KH",
+      "nidn": "8945840022",
+      "nip": "199310232022055001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "081ef724-0df6-41d8-a2ed-fb871632ae1c",
+      "pivot": {
+        "id_kelas_kuliah": 115072,
+        "id_dosen": 3474
+      }
+    }
+  ]
+}

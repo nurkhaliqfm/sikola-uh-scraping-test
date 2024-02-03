@@ -1,0 +1,29 @@
+{
+  "id_prodi": 228,
+  "nama_prodi": "PPDS ILMU BEDAH (Sp2)",
+  "id_prodi_semester": 2792,
+  "idnumber_sikola": "42765.130064.228",
+  "shortname_sikola": "TA232-130064",
+  "kode_matkul": "21C02822203",
+  "nama_matkul": "Tindakan Kemoterapi Keganasan Kolorektal dan Anus",
+  "nama_kelas": "Tindakan Kemoterapi Keganasan Kolorektal dan Anus",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 849,
+      "id_user": 37420,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Warsinggih, SpB-KBD., M.Kes",
+      "nidn": "0021026209",
+      "nip": "196202211990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4da5b49e-4a06-4103-b9d2-a722236d9ebe",
+      "pivot": {
+        "id_kelas_kuliah": 130064,
+        "id_dosen": 849
+      }
+    }
+  ]
+}

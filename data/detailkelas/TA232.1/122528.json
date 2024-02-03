@@ -1,0 +1,29 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "48321.122528.19",
+  "shortname_sikola": "TA232-122528",
+  "kode_matkul": "23D05142406",
+  "nama_matkul": "Skripsi Tugas Akhir Riset (LBE Teori dan Sejarah Arsitektur)",
+  "nama_kelas": "Final Project Research (LBE of Theory and Architecture Behavior)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 122528,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

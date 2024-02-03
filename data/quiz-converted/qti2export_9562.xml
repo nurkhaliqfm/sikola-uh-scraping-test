@@ -1,0 +1,1219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Teknik interpolasi geostatistik yang mempertimbangkan jarak dan tingkat variasi antara titik data yang diketahui saat memperkirakan nilai di area yang tidak diketahui disebut:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114353</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Moran's I</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Kriging</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Spatial autocorrelation</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Berikut ini adalah pengertian dari jenis data pola titik, kecuali:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114373</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Pola yang terjadi dari peubah yang dianalisis pada lokasi kejadian</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Domain (lokasi) dari pola titik adalah  acak</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Sampel tak beraturan (jarak yang berbeda)</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Disajikan dalam posisi geografis atau peta</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Metode apakah yang biasa digunakan sebagai langkah pertama untuk mengevaluasi ketergantungan spasial dalam serangkaian peristiwa geografis? </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114397</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Kriging</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Moran's I</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Plot data spasial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Berikut ini yang bukan merupakan jenis data spasial adalah:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114339</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Data area</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Data geostatistik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Data kategorik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Pola titik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Pengaruh spasial yang dimaksud dalam regresi logistik spasial adalah dengan membentuk suatu peubah baru yang disebut: </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114331</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>peubah bebas</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>peubah spasial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>peubah kategorik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>peubah tak bebas</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Apabila Moran's I mendekati 1 dan polanya berkelompok, maka bentuk autokorelasi spasialnya adalah ... </p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114410</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Autokorelasi spasial positif</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>a)Autokorelasi spasial negatif</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Tidak berkorelasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Metode geostatistik untuk mengestimasi/memprediksi nilai dari sebuah titik yang tidak tersampel/tidak teramati berdasarkan titik-titik data tersampel/teramati di sekitarnya disebut metode ...</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114348</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Moran's I</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Autokorelasi spasial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Kriging</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Metode yang dapat digunakan untuk mendeteksi autokorelasi spasial adalah ...</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114394</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Kriging</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Moran's I</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Correlogram</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Berikut ini yang bukan merupakan pengertian tentang data area adalah ...</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114383</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Berkaitan dengan wilayah spasial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Merupakan kumpulan data atribut diskrit</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Sampel tak beraturan (jarak yang berbeda)</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Menggunakan data agregat dari sub wilayah</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Jenis data spasial yang dapat digunakan untuk memprediksi curah hujan dari lokasi yang tidak tersampel berdasarkan pengamatan curah hujan dari stasiun-stasiun tersampel adalah ...</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114362</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>data geostatistik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data area</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data pola titik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data kategorik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Data jenis apakah yang dapat digunakan untuk memprediksi resiko penyakit pada lokasi yang tidak terobservasi berdasarkan survey dari beberapa lokasi  di daerah ABC?</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114366</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data area</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data pola titik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>data geostatistik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data kategorik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Data yang mengarah pada data sampel berupa titik, baik beraturan maupun tak beraturan dari suatu distribusi spatial kontinu disebut:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114342</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Data kategorik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Data geostatistik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Data geospasial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Data area</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Berikut ini yang bukan merupakan contoh penerapan data geostatistik adalah ...</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114357</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Ilmu tanah</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Lingkungan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Pertanian dan perikanan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Keuangan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Berikut ini adalah pengertian data spasial, kecuali:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114337</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Data yang berkaitan dengan lokasi</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Disajikan dalam posisi geografis atau peta</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Dapat berupa data diskrit maupun kontinu</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Penyajian datanya tidak bisa dengan menggunakan titik, garis atau luasan</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Jenis data apakah yang dapat digunakan untuk memperoleh informasi terkait koordinat geografis individu dengan penyakit tertentu yang tinggal di suatu kota?</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114375</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data area</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>data pola titik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data geostatistik</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>data panel</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Salah satu metode yang dapat digunakan untuk data Geostatistik adalah ...</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114346</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Kriging</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Indeks Moran's I</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Autokorelasi spasial</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Berikut ini merupakan indeks global dalam pendeteksian autokorelasi spasial, kecuali:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114399</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Join Count Statistics</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>Gamma index of spatial correlation</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Geary’s C</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Getis and Ord’s G</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>KUIS</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Berikut ini yang bukan merupakan jenis matriks pembobot spasial adalah:</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text/>
+        </generalfeedback>
+        <defaultgrade>1</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <idnumber>QST_114405</idnumber>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+        <showstandardinstruction>0</showstandardinstruction>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is correct.</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is partially correct.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Your answer is incorrect.</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Rook contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Bishop contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="10.0" format="html">
+            <text>
+                <![CDATA[<p>King contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+        <answer fraction="0.0" format="html">
+            <text>
+                <![CDATA[<p>Queen contiguity</p>]]>
+            </text>
+            <feedback>
+                <text/>
+            </feedback>
+        </answer>
+    </question>
+</quiz>

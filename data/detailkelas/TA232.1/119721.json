@@ -1,0 +1,61 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2663,
+  "idnumber_sikola": "26802.119721.86",
+  "shortname_sikola": "TA232-119721",
+  "kode_matkul": "18B01310203",
+  "nama_matkul": "KONSTRUKSI TEORI \r\n",
+  "nama_kelas": "KELAS C BADIKLAT KEJAKSAAN RI",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 772,
+      "id_user": 34080,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Aminuddin, SH., M.Hum.",
+      "nidn": "0010096403",
+      "nip": "196409101989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f3236030-cba7-4027-a869-bdc681c57fbb",
+      "pivot": {
+        "id_kelas_kuliah": 119721,
+        "id_dosen": 772
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 835,
+      "id_user": 31504,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Muhadar, SH., MS.",
+      "nidn": "0017035901",
+      "nip": "195903171987031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50773771-d094-4a57-ad13-fcf6ecc3c553",
+      "pivot": {
+        "id_kelas_kuliah": 119721,
+        "id_dosen": 835
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 762,
+      "id_user": 31393,
+      "id_prodi": 159,
+      "nama": "Prof. Dr. Achmad Ruslan, SH., MH.",
+      "nidn": "0001015702",
+      "nip": "195701011986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9f408d21-30d0-49d8-ab4a-fd304afde92c",
+      "pivot": {
+        "id_kelas_kuliah": 119721,
+        "id_dosen": 762
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id_prodi": 55,
+  "nama_prodi": "PENDIDIKAN DOKTER GIGI - S1",
+  "id_prodi_semester": 2410,
+  "idnumber_sikola": "36737.128153.55",
+  "shortname_sikola": "TA231-128153",
+  "kode_matkul": "19J01110804",
+  "nama_matkul": "ILMU KEDOKTERAN GIGI KLINIK",
+  "nama_kelas": "Ilmu Kedokteran Gigi Klinik_Angkatan 2022",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 351495,
+      "id_user": 65964,
+      "id_prodi": 55,
+      "angkatan": 2022,
+      "nama_mahasiswa": "AFRA ALIYAH AMATULLAH",
+      "nim": "J011221065",
+      "jalan": "JALAN POROS SENGKANG PARE PARE SEBELAH BARAT MESJID NURUL AMIN LAKADAUNG",
+      "rt": 2,
+      "rw": 1,
+      "dusun": "LAKADAUNG",
+      "kode_pos": "90952",
+      "nisn": "0039067635",
+      "tempat_lahir": "SIMPELLU",
+      "tanggal_lahir": "2003-12-22",
+      "telepon": "082291476011",
+      "handphone": "085337381640",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DUALIMPOE",
+      "id_wilayah": "190810",
+      "nik": "7313096212030001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "afraaliyah02@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5d647c7a-3766-4af2-bd46-7c119b99ecbe",
+      "id_registrasi_mahasiswa_pddikti": "c35dd4b2-9dc3-401d-b878-48a33883d59a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128153,
+        "id_mahasiswa": 351495,
+        "created_at": "2024-01-03 14:49:09"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2065,
+      "id_user": 36761,
+      "id_prodi": 55,
+      "nama": "drg.  Rafikah Hasyim",
+      "nidn": "0012028703",
+      "nip": "198702122015042003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7bb2a915-80a0-4504-b074-638b40750597",
+      "pivot": {
+        "id_kelas_kuliah": 128153,
+        "id_dosen": 2065
+      }
+    }
+  ]
+}

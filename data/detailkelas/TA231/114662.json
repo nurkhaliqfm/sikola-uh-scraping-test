@@ -1,0 +1,52 @@
+{
+  "id_prodi": 37,
+  "nama_prodi": "ILMU SEJARAH - S1",
+  "id_prodi_semester": 2401,
+  "idnumber_sikola": "46545.114662.37",
+  "shortname_sikola": "TA231-114662",
+  "kode_matkul": "23U02132509",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 55076,
+      "id_user": 28448,
+      "id_prodi": 37,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MUHAMMAD ARFANI RAMADHAN",
+      "nim": "F061181328",
+      "jalan": "Jl. Emmy Saelan III, No.30",
+      "rt": 3,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "9997152129",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "1999-01-06",
+      "telepon": "0",
+      "handphone": "085399983619",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Karunrung",
+      "id_wilayah": "196013",
+      "nik": "7371130601990005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muharfani006@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "96e8a154-bed8-40ac-a8a2-10f231b5c0b0",
+      "id_registrasi_mahasiswa_pddikti": "a1b50518-f01e-4583-882e-7ba202db3345",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114662,
+        "id_mahasiswa": 55076,
+        "created_at": "2023-08-04 17:13:54"
+      }
+    }
+  ],
+  "dosens": []
+}

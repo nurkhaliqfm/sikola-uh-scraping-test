@@ -1,0 +1,172 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2735,
+  "idnumber_sikola": "34830.118792.167",
+  "shortname_sikola": "TA232-118792",
+  "kode_matkul": "18D05310503",
+  "nama_matkul": "SISTEM TENAGA LISTRIK LANJUT",
+  "nama_kelas": "PILIHAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415709,
+      "id_user": 83219,
+      "id_prodi": 167,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MOETHIA FARIDHA",
+      "nim": "D053231002",
+      "jalan": "JL. MUTIARA",
+      "rt": 14,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "72112",
+      "nisn": null,
+      "tempat_lahir": "BANJARMASIN",
+      "tanggal_lahir": "1979-12-17",
+      "telepon": "0",
+      "handphone": "083159874151",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Dirgahayu",
+      "id_wilayah": "150906",
+      "nik": "6302065712790004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "bariethia@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "65e9ec8b-513a-4e4b-a1e0-53b3d7b678f9",
+      "id_registrasi_mahasiswa_pddikti": "45813caa-519b-4298-8497-370aa3346d31",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118792,
+        "id_mahasiswa": 415709,
+        "created_at": "2024-01-26 04:53:17"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 415708,
+      "id_user": 83216,
+      "id_prodi": 167,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SAIFUL KARIM",
+      "nim": "D053231001",
+      "jalan": "PERUMAHAN ALAMADA",
+      "rt": 6,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "70582",
+      "nisn": null,
+      "tempat_lahir": "KEDIRI",
+      "tanggal_lahir": "1969-04-14",
+      "telepon": "0",
+      "handphone": "081359352117",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Semangat Dalam",
+      "id_wilayah": "150306",
+      "nik": "6302061404690005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ifulsuperindo@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d350c568-93ec-4804-97fb-9d82c00839ea",
+      "id_registrasi_mahasiswa_pddikti": "34e69d7b-86e3-4973-a205-7cb279960b72",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118792,
+        "id_mahasiswa": 415708,
+        "created_at": "2024-01-27 06:56:27"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 729,
+      "id_user": 29213,
+      "id_prodi": 57,
+      "nama": "Prof. Dr.  Indar, SH., MPH.",
+      "nidn": "9990132855",
+      "nip": "195311101986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d40870bf-f8c1-491c-b23f-e0bf72b918e0",
+      "pivot": {
+        "id_kelas_kuliah": 118792,
+        "id_dosen": 729
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1680,
+      "id_user": 28598,
+      "id_prodi": 17,
+      "nama": "Yusri Syam Akil, S.T., M.T., Ph.D.",
+      "nidn": "0022037702",
+      "nip": "197703222005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5920be2f-5210-4d27-ba8a-480e387d4cf5",
+      "pivot": {
+        "id_kelas_kuliah": 118792,
+        "id_dosen": 1680
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1673,
+      "id_user": 27863,
+      "id_prodi": 17,
+      "nama": "Prof. Ardiaty Arief, S.T., MTM., Ph.D",
+      "nidn": "0024047802",
+      "nip": "197804242001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0254541c-a111-43e8-a119-eec05d67ae45",
+      "pivot": {
+        "id_kelas_kuliah": 118792,
+        "id_dosen": 1673
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1335,
+      "id_user": 34360,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Yustinus Upa Sombolayuk, M.T.",
+      "nidn": "0007085902",
+      "nip": "195907081988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73279d59-93fa-49b4-9333-12a8d9b85a4e",
+      "pivot": {
+        "id_kelas_kuliah": 118792,
+        "id_dosen": 1335
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2186,
+      "id_user": 11656,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Zaenab, MT.",
+      "nidn": "0001026601",
+      "nip": "196602011992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55aa9594-9254-4d35-b309-9b4345ea745e",
+      "pivot": {
+        "id_kelas_kuliah": 118792,
+        "id_dosen": 2186
+      }
+    }
+  ]
+}

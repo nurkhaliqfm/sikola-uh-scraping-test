@@ -1,0 +1,140 @@
+{
+  "id_prodi": 77,
+  "nama_prodi": "KEHUTANAN - S2",
+  "id_prodi_semester": 2655,
+  "idnumber_sikola": "44151.127544.77",
+  "shortname_sikola": "TA232-127544",
+  "kode_matkul": "21M01211903",
+  "nama_matkul": "MANAJEMEN DAN KONSERVASI SATWA LIAR",
+  "nama_kelas": "MANAJEMEN DAN KONSERVASI SATWA LIAR",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427586,
+      "id_user": 86112,
+      "id_prodi": 77,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MOH IKBAL",
+      "nim": "M012232011",
+      "jalan": "Jln. Uwe Goda, Tondo. Kec. Palu Timur, Kota Palu, Sulawesi Tengah",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "Jln Uwe Goda",
+      "kode_pos": "94119",
+      "nisn": "M012232011",
+      "tempat_lahir": "TINABOGAN",
+      "tanggal_lahir": "1998-10-23",
+      "telepon": "0",
+      "handphone": "082210369544",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tondo",
+      "id_wilayah": "186003",
+      "nik": "7204032810980002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86112,
+      "kode_status": "A",
+      "email": "mohikbalabdrahman@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127544,
+        "id_mahasiswa": 427586,
+        "created_at": "2024-01-11 16:20:12"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 421293,
+      "id_user": 77650,
+      "id_prodi": 77,
+      "angkatan": 2023,
+      "nama_mahasiswa": "IDIAHSTUTY LESTARI",
+      "nim": "M012231001",
+      "jalan": "CAMP SECURITY G.27",
+      "rt": 1,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "92985",
+      "nisn": null,
+      "tempat_lahir": "SOROAKO",
+      "tanggal_lahir": "1998-04-08",
+      "telepon": "0",
+      "handphone": "082292331515",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Sorowako",
+      "id_wilayah": "192605",
+      "nik": "7324020804980001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "idiahstutyln@gmai.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "94dd31dd-535c-49ac-9cbc-78f7fbee4b90",
+      "id_registrasi_mahasiswa_pddikti": "41057c8c-ab2d-45bd-be56-6937e5a0479a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127544,
+        "id_mahasiswa": 421293,
+        "created_at": "2024-01-30 12:28:24"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1664,
+      "id_user": 28672,
+      "id_prodi": 71,
+      "nama": "Dr. Risma Illa Maulany, S.Hut., M.NatRest.",
+      "nidn": "0017037702",
+      "nip": "197703172005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4d9f64a4-b965-4953-bae9-cc3966a5f8f1",
+      "pivot": {
+        "id_kelas_kuliah": 127544,
+        "id_dosen": 1664
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 702,
+      "id_user": 34309,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Amran Achmad, M.Sc.",
+      "nidn": "0020075702",
+      "nip": "195706201985031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "057a4bd6-6f2f-4efc-91af-3dc84452032e",
+      "pivot": {
+        "id_kelas_kuliah": 127544,
+        "id_dosen": 702
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1243,
+      "id_user": 27670,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Ngakan Putu Oka, M.Sc.",
+      "nidn": "0030036003",
+      "nip": "196003301988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a2ecbf11-210b-4d61-9f59-7c4bccce2bff",
+      "pivot": {
+        "id_kelas_kuliah": 127544,
+        "id_dosen": 1243
+      }
+    }
+  ]
+}

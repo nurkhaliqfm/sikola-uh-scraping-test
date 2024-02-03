@@ -1,0 +1,45 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28121.129363.102",
+  "shortname_sikola": "TA232-129363",
+  "kode_matkul": "18P06210401",
+  "nama_matkul": "Farmakologi Eksperimen\r\n",
+  "nama_kelas": "Farmakologi Eksperimen (Farmako-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 752,
+      "id_user": 34045,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  Elly Wahyudin, DEA, Apt",
+      "nidn": "0014015601",
+      "nip": "195601141986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "30831778-9812-4c73-9ae2-94d75397e4db",
+      "pivot": {
+        "id_kelas_kuliah": 129363,
+        "id_dosen": 752
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 700,
+      "id_user": 31933,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  M. Natsir Djide, M.Si, Apt.",
+      "nidn": "8987110021",
+      "nip": "195008171979031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b80d439-82c7-45ce-9607-be647e6e028b",
+      "pivot": {
+        "id_kelas_kuliah": 129363,
+        "id_dosen": 700
+      }
+    }
+  ]
+}

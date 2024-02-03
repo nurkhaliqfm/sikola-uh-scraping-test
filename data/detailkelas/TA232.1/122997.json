@@ -1,0 +1,45 @@
+{
+  "id_prodi": 139,
+  "nama_prodi": "MAGISTER AKUNTANSI - S2",
+  "id_prodi_semester": 2712,
+  "idnumber_sikola": "44560.122997.139",
+  "shortname_sikola": "TA232-122997",
+  "kode_matkul": "23A06210103",
+  "nama_matkul": "Akuntansi dan Pelaporan Keuangan Pemerintah",
+  "nama_kelas": "MAKSI-PUPR AKUNTANSI DAN PELAPORAN KEUANGAN PEMERINTAH",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1350,
+      "id_user": 20201,
+      "id_prodi": 3,
+      "nama": "Dr. Andi Kusumawati, SE.,M.Si.,Ak.,CA",
+      "nidn": "0005046602",
+      "nip": "196604051992032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7052320-ac52-459a-aa66-fd2838a3072f",
+      "pivot": {
+        "id_kelas_kuliah": 122997,
+        "id_dosen": 1350
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3763,
+      "id_user": null,
+      "id_prodi": 4,
+      "nama": "Drs. H. Andi Kangkung Lologau, S.E., MM.Ak, CA",
+      "nidn": null,
+      "nip": "7371121812560001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 122997,
+        "id_dosen": 3763
+      }
+    }
+  ]
+}

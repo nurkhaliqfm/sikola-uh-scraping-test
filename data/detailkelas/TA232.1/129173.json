@@ -1,0 +1,69 @@
+{
+  "id_prodi": 164,
+  "nama_prodi": "PROFESI DOKTER HEWAN",
+  "id_prodi_semester": 2732,
+  "idnumber_sikola": "46237.129173.164",
+  "shortname_sikola": "TA232-129173",
+  "kode_matkul": "23C02411401",
+  "nama_matkul": "Tugas Akhir",
+  "nama_kelas": "UADH 13",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 394620,
+      "id_user": 82753,
+      "id_prodi": 164,
+      "angkatan": 2022,
+      "nama_mahasiswa": "DELVIA MELANI PUTRI",
+      "nim": "C024222008",
+      "jalan": "JL. BORONG SAPIRI",
+      "rt": 1,
+      "rw": 3,
+      "dusun": "Sokkolia",
+      "kode_pos": "92171",
+      "nisn": null,
+      "tempat_lahir": "MAJENE",
+      "tanggal_lahir": "2000-05-27",
+      "telepon": "0",
+      "handphone": "085748244953",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Sokkolia",
+      "id_wilayah": "190305",
+      "nik": "7371016705000003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 82753,
+      "kode_status": "A",
+      "email": "delfiahmelaniputri20@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b95bc921-19f7-4541-844b-df45d765916b",
+      "id_registrasi_mahasiswa_pddikti": "48eb38bd-5018-4b11-8143-955a7d667270",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129173,
+        "id_mahasiswa": 394620,
+        "created_at": "2024-01-29 14:37:09"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1998,
+      "id_user": 21,
+      "id_prodi": 146,
+      "nama": "Abdul Wahid Jamaluddin, S.Farm.Apt.,M.Si",
+      "nidn": "0028088801",
+      "nip": "198808282014041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "217bd7de-0d90-495d-ac5f-73052917ba62",
+      "pivot": {
+        "id_kelas_kuliah": 129173,
+        "id_dosen": 1998
+      }
+    }
+  ]
+}

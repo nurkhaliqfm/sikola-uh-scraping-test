@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "25800.110049.76",
+  "shortname_sikola": "TA231-110049",
+  "kode_matkul": "18P01312303",
+  "nama_matkul": "Analisa Resiko Organisme Pengganggu Tanaman\r\n",
+  "nama_kelas": "Analisa Resiko Organisme Pengganggu Tanaman (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 701,
+      "id_user": 29155,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Sylvia Sjam, MS.",
+      "nidn": "0008095701",
+      "nip": "195709081983032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "28955330-5742-4cb8-bcfe-d6ed57ba074b",
+      "pivot": {
+        "id_kelas_kuliah": 110049,
+        "id_dosen": 701
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 910,
+      "id_user": 25699,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Ade Rosmana, M.Sc.",
+      "nidn": "0007075703",
+      "nip": "195707061981031009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f165e99d-8163-418f-9aac-79e3bf6e1014",
+      "pivot": {
+        "id_kelas_kuliah": 110049,
+        "id_dosen": 910
+      }
+    }
+  ]
+}

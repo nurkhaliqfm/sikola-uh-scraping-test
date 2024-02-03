@@ -1,0 +1,29 @@
+{
+  "id_prodi": 100,
+  "nama_prodi": "MANAJEMEN PERKOTAAN - S2",
+  "id_prodi_semester": 2676,
+  "idnumber_sikola": "27863.127843.100",
+  "shortname_sikola": "TA232-127843",
+  "kode_matkul": "18P05211102",
+  "nama_matkul": "Manajemen Tata Ruang Kota (P)",
+  "nama_kelas": "Manajemen dan Tata Ruang Kota (P) (MAP_Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1246,
+      "id_user": 34440,
+      "id_prodi": 20,
+      "nama": "Dr. Ir. Arifuddin, MT.",
+      "nidn": "0004056303",
+      "nip": "196305041995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "620376ed-1c10-4ebd-b2de-fcfb49cfd6cc",
+      "pivot": {
+        "id_kelas_kuliah": 127843,
+        "id_dosen": 1246
+      }
+    }
+  ]
+}

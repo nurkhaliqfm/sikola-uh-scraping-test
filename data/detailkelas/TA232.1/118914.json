@@ -1,0 +1,140 @@
+{
+  "id_prodi": 221,
+  "nama_prodi": "FISIKA - S3",
+  "id_prodi_semester": 2786,
+  "idnumber_sikola": "39791.118914.221",
+  "shortname_sikola": "TA232-118914",
+  "kode_matkul": "19H03310703",
+  "nama_matkul": "Fisika Material",
+  "nama_kelas": "Fisika Material",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428146,
+      "id_user": 86673,
+      "id_prodi": 221,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RAHMANIAH",
+      "nim": "H033232002",
+      "jalan": "JL. YUSUF BAUTY NO. 21. PERUMAHAN GRIYA PERSADA MANGGARUPI",
+      "rt": 1,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "92113",
+      "nisn": "0",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1980-02-13",
+      "telepon": "0",
+      "handphone": "085756760350",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PACCINONGAN",
+      "id_wilayah": "190304",
+      "nik": "7371085302800001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86673,
+      "kode_status": "A",
+      "email": "rahmaniah.fisika@uin-alauddin.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118914,
+        "id_mahasiswa": 428146,
+        "created_at": "2024-01-31 13:54:57"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427791,
+      "id_user": 86318,
+      "id_prodi": 221,
+      "angkatan": 2023,
+      "nama_mahasiswa": "JASDAR AGUS",
+      "nim": "H033232005",
+      "jalan": "MUH. YAMIN BARU, LR.19 NO.28 MAKASSAR",
+      "rt": 2,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90143",
+      "nisn": "H033232005",
+      "tempat_lahir": "BANCA",
+      "tanggal_lahir": "1989-03-23",
+      "telepon": "081241402264",
+      "handphone": "081241402264",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BARA-BARAYA TIMUR",
+      "id_wilayah": "016404",
+      "nik": "7316032303890001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86318,
+      "kode_status": "A",
+      "email": "jasdarphysics@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118914,
+        "id_mahasiswa": 427791,
+        "created_at": "2024-01-31 21:26:39"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1290,
+      "id_user": 10165,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Dahlang T., S.Si.,M.Si.",
+      "nidn": "0007097502",
+      "nip": "197509072000031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1236f72e-cfc7-4c79-883a-7e6f50b36d3c",
+      "pivot": {
+        "id_kelas_kuliah": 118914,
+        "id_dosen": 1290
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1122,
+      "id_user": 20039,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Nurlaela Rauf, M.Sc.",
+      "nidn": "0024066001",
+      "nip": "196006241986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "709146ea-ab69-487b-a25b-5d6f0ad150ad",
+      "pivot": {
+        "id_kelas_kuliah": 118914,
+        "id_dosen": 1122
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1310,
+      "id_user": 31947,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Paulus Lobo Gareso, M.Sc.",
+      "nidn": "0005036503",
+      "nip": "196503051991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4f10bcf-e135-4a32-986d-ef2748f7a1a5",
+      "pivot": {
+        "id_kelas_kuliah": 118914,
+        "id_dosen": 1310
+      }
+    }
+  ]
+}

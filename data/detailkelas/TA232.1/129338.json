@@ -1,0 +1,77 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28134.129338.102",
+  "shortname_sikola": "TA232-129338",
+  "kode_matkul": "18P06210102",
+  "nama_matkul": "Filsafat Ilmu dan Metodologi Penelitian",
+  "nama_kelas": "Filsafat Ilmu dan Metodologi Penelitian (Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 696,
+      "id_user": 33840,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Suryani As'ad, M.Sc., Sp.GK(K)",
+      "nidn": "0004056002",
+      "nip": "196005041986012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5fc0f27-cc61-45a0-b25c-7b8f535a650e",
+      "pivot": {
+        "id_kelas_kuliah": 129338,
+        "id_dosen": 696
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 793,
+      "id_user": 34546,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Irawan Yusuf, Ph.D.",
+      "nidn": "0011025703",
+      "nip": "195702111986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "93281bbb-089a-4ff1-87d4-5f61a7e4f22e",
+      "pivot": {
+        "id_kelas_kuliah": 129338,
+        "id_dosen": 793
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 889,
+      "id_user": 34368,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Muh. Nasrum Massi, M.Sc., Ph.D., Sp.MK",
+      "nidn": "0010096703",
+      "nip": "196709101996031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f425e8b-c8d4-4329-9187-182e4989367e",
+      "pivot": {
+        "id_kelas_kuliah": 129338,
+        "id_dosen": 889
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1457,
+      "id_user": 33828,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Rahmawati Minhajat, Ph.D., Sp.PD, K-HOM",
+      "nidn": "0018026805",
+      "nip": "196802181999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7e79898-9ba2-4005-a635-ca7db63a4aba",
+      "pivot": {
+        "id_kelas_kuliah": 129338,
+        "id_dosen": 1457
+      }
+    }
+  ]
+}

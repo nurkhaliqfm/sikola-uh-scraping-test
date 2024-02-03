@@ -1,0 +1,61 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2736,
+  "idnumber_sikola": "34895.129729.168",
+  "shortname_sikola": "TA232-129729",
+  "kode_matkul": "18D04320204",
+  "nama_matkul": "PENELITIAN DAN SEMINAR DISERTASI II",
+  "nama_kelas": "Penelitian dan Seminar Disertasi II (Mohammad Basri Katjo)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1427,
+      "id_user": 31767,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng Jalaluddin, ST., MT.",
+      "nidn": "0025087201",
+      "nip": "197208252000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "67974365-53ce-4226-b25a-972ab0cf7489",
+      "pivot": {
+        "id_kelas_kuliah": 129729,
+        "id_dosen": 1427
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1638,
+      "id_user": 23270,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Rustan Tarakka, ST., MT.",
+      "nidn": "0027087504",
+      "nip": "197508272005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9a917a55-9ea0-45ea-bd79-1fa2669f2a92",
+      "pivot": {
+        "id_kelas_kuliah": 129729,
+        "id_dosen": 1638
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1953,
+      "id_user": 34342,
+      "id_prodi": 12,
+      "nama": "Dr. Eng.  Andi Amijoyo Mochtar, ST.,M.Sc.",
+      "nidn": "0016027607",
+      "nip": "197602162010121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d534b83-49c7-46e4-b8e3-c8064ac249cd",
+      "pivot": {
+        "id_kelas_kuliah": 129729,
+        "id_dosen": 1953
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2368,
+  "idnumber_sikola": "47880.112941.1",
+  "shortname_sikola": "TA231-112941",
+  "kode_matkul": "23A01110202",
+  "nama_matkul": "Pengantar Ekonomi Mikro",
+  "nama_kelas": "PENGANTAR EKONOMI MIKRO KELAS K",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1419,
+      "id_user": 12499,
+      "id_prodi": 1,
+      "nama": "Dr. Sri Undai Nurbayani, SE., MA.",
+      "nidn": "0011086601",
+      "nip": "196608111991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "30221f94-b115-45f3-9a71-97f32e1cfc39",
+      "pivot": {
+        "id_kelas_kuliah": 112941,
+        "id_dosen": 1419
+      }
+    }
+  ]
+}

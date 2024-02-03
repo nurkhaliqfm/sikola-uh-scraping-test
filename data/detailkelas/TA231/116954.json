@@ -1,0 +1,29 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "48759.116954.102",
+  "shortname_sikola": "TA231-116954",
+  "kode_matkul": "23P06218502",
+  "nama_matkul": "Anatomi Kinesiology",
+  "nama_kelas": "Anatomi Kinesiology (P) (Anatomi-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2577,
+      "id_user": 73255,
+      "id_prodi": 222,
+      "nama": "dr. Nuralam Sam, Sp.KFR",
+      "nidn": "0011088106",
+      "nip": "198108112008042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c472077-c60a-40c0-83a8-118750034c0c",
+      "pivot": {
+        "id_kelas_kuliah": 116954,
+        "id_dosen": 2577
+      }
+    }
+  ]
+}

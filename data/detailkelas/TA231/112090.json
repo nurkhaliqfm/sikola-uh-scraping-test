@@ -1,0 +1,61 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2480,
+  "idnumber_sikola": "31915.112090.138",
+  "shortname_sikola": "TA231-112090",
+  "kode_matkul": "19L06212703",
+  "nama_matkul": "Teknologi dan Instrumen Penangkapan Ikan",
+  "nama_kelas": "Teknologi dan Instrumen Penangkapan Ikan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1393,
+      "id_user": 21748,
+      "id_prodi": 69,
+      "nama": "Dr. Ir. Alfa Filep Petrus Nelwan, M.Si.",
+      "nidn": "0015016602",
+      "nip": "196601151995031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "acd6c77f-29eb-4579-a033-4f5e7f37ea14",
+      "pivot": {
+        "id_kelas_kuliah": 112090,
+        "id_dosen": 1393
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1275,
+      "id_user": 17340,
+      "id_prodi": 69,
+      "nama": "Dr. Ir.  St. Aisjah Farhum, M.Si.",
+      "nidn": "0005066902",
+      "nip": "196906051993032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "89a28e3b-8a94-4630-8011-1dd967da2358",
+      "pivot": {
+        "id_kelas_kuliah": 112090,
+        "id_dosen": 1275
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1430,
+      "id_user": 19754,
+      "id_prodi": 69,
+      "nama": "Muhammad Kurnia, S.Pi.,  M.Sc., Ph.D",
+      "nidn": "0017067203",
+      "nip": "197206171999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "203eb2e1-a525-42b0-b5d4-22835f84f3da",
+      "pivot": {
+        "id_kelas_kuliah": 112090,
+        "id_dosen": 1430
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 253,
+  "nama_prodi": "ILMU LINGKUNGAN - S3",
+  "id_prodi_semester": 2814,
+  "idnumber_sikola": "43023.128487.253",
+  "shortname_sikola": "TA232-128487",
+  "kode_matkul": "22P03310503",
+  "nama_matkul": "Pendekatan Holistik dan Transdisiplin Bidang Lingkungan",
+  "nama_kelas": "Pendekatan Holistik dan Transdisiplin Bidang Lingkungan (B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 956,
+      "id_user": 18300,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Eymal Bahsar Demmallino, M.Si.",
+      "nidn": "0015086403",
+      "nip": "196408151990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eaf0c21b-5afd-4214-9ee7-f11927f3f179",
+      "pivot": {
+        "id_kelas_kuliah": 128487,
+        "id_dosen": 956
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 954,
+      "id_user": 23585,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Hazairin Zubair, MS.",
+      "nidn": "0028085403",
+      "nip": "195408281983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "140a85fa-2f44-4b98-80e2-f14c740ad2ce",
+      "pivot": {
+        "id_kelas_kuliah": 128487,
+        "id_dosen": 954
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 940,
+      "id_user": 20135,
+      "id_prodi": 51,
+      "nama": "Dr. Ir.  Nancy Lahay, MP.",
+      "nidn": "0007125901",
+      "nip": "195912071987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1bf404e1-439c-4b2a-ab5a-e349b1d085f3",
+      "pivot": {
+        "id_kelas_kuliah": 128487,
+        "id_dosen": 940
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1250,
+      "id_user": 25956,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Nurbaya Busthanul, M.Si.",
+      "nidn": "0010096301",
+      "nip": "196309101989042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1dff4a00-bf64-4109-b573-f2a04b2a536a",
+      "pivot": {
+        "id_kelas_kuliah": 128487,
+        "id_dosen": 1250
+      }
+    }
+  ]
+}

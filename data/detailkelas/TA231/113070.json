@@ -1,0 +1,45 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2369,
+  "idnumber_sikola": "48358.113070.2",
+  "shortname_sikola": "TA231-113070",
+  "kode_matkul": "23A02110103",
+  "nama_matkul": "Pengantar Manajemen",
+  "nama_kelas": "PENGANTAR MANAJEMEN KELAS T",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1174,
+      "id_user": 31829,
+      "id_prodi": 2,
+      "nama": "Prof. Dr. Muhammad Yunus, S.E., M.T.",
+      "nidn": "0030046206",
+      "nip": "196204301988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d40fb2a0-031c-44ab-b086-b5d04b8ffa4d",
+      "pivot": {
+        "id_kelas_kuliah": 113070,
+        "id_dosen": 1174
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1936,
+      "id_user": 59122,
+      "id_prodi": 2,
+      "nama": "Asty Almaida, S.E., M.Si",
+      "nidn": "0007107804",
+      "nip": "197810072001122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1486ff18-1615-4666-864c-a743d2bedd86",
+      "pivot": {
+        "id_kelas_kuliah": 113070,
+        "id_dosen": 1936
+      }
+    }
+  ]
+}

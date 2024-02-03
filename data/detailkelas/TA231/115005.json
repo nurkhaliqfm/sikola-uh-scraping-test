@@ -1,0 +1,188 @@
+{
+  "id_prodi": 121,
+  "nama_prodi": "PPDS ILMU PENYAKIT KULIT DAN KELAMIN",
+  "id_prodi_semester": 2463,
+  "idnumber_sikola": "39856.115005.121",
+  "shortname_sikola": "TA231-115005",
+  "kode_matkul": "20C11540600",
+  "nama_matkul": "Ujian Nasional",
+  "nama_kelas": "Ujian Nasional",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 102609,
+      "id_user": 10875,
+      "id_prodi": 121,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Rizki Amelia Noviyanthi",
+      "nim": "C115191005",
+      "jalan": "Jl.Perintis Kemerdekaan III Km.9 BTN Antara Blok B6 No.6",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "1989-11-08",
+      "telepon": "082190011116",
+      "handphone": "082190011116",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "7371144811890001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "rizkiamelian@gmail.co",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3f9bc32c-f1bd-46b8-84e0-fd75ebc44ee2",
+      "id_registrasi_mahasiswa_pddikti": "9a249707-bec7-48fb-87b7-d398105390ec",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_mahasiswa": 102609,
+        "created_at": "2023-08-04 09:16:01"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 102606,
+      "id_user": 19046,
+      "id_prodi": 121,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Sheila Hustadi Budiawan",
+      "nim": "C115191002",
+      "jalan": "Jl. Sungai Saddang Baru, Green City Blok A6",
+      "rt": 4,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "10710",
+      "nisn": null,
+      "tempat_lahir": "pontianak",
+      "tanggal_lahir": "1993-02-06",
+      "telepon": "0",
+      "handphone": "082192575693",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "sawah besar",
+      "id_wilayah": "016007",
+      "nik": "3173014602930008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "sheila_hustadi@hotmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f841dd9c-3356-4d62-99e6-1b97dc29e5a3",
+      "id_registrasi_mahasiswa_pddikti": "717eefa5-6039-49ad-bd17-d4b29a7869e2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_mahasiswa": 102606,
+        "created_at": "2023-08-04 09:24:14"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1708,
+      "id_user": 37633,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Siswanto Wahab, Sp.KK(K)",
+      "nidn": "0027056502",
+      "nip": "196505271999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d07178b-7d57-4897-8b21-48949770e5fa",
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_dosen": 1708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1885,
+      "id_user": 34355,
+      "id_prodi": 6,
+      "nama": "dr.  Widya Widita , Sp.KK., M.Kes",
+      "nidn": "0012088301",
+      "nip": "198308122009122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "982b771d-acf2-49ab-b63e-0c57af49f227",
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_dosen": 1885
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1023,
+      "id_user": 34418,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr.  Anis Irawan Anwar, Sp.KK. (K)",
+      "nidn": "0027066201",
+      "nip": "196206271989031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a697ddcf-5f45-40b3-a1b6-ead3f5cf79f1",
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_dosen": 1023
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 915,
+      "id_user": 37632,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr.  Farida Tabri, Sp.KK(K)",
+      "nidn": "0028015402",
+      "nip": "195401281983032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4324d6e0-8413-4279-82e4-736c84f73a4d",
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_dosen": 915
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1923,
+      "id_user": 34687,
+      "id_prodi": 6,
+      "nama": "dr.  Airin Riskianty Nurdin, Sp.KK., M.Kes",
+      "nidn": "0012067910",
+      "nip": "197906122010122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf2e4b4f-7e61-4d26-a993-392b496592af",
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_dosen": 1923
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1857,
+      "id_user": 45154,
+      "id_prodi": 6,
+      "nama": "dr.  Idrianti Idrus Paturusi,  Sp.KK., M. Kes",
+      "nidn": "0024028107",
+      "nip": "198102242008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a3399842-2905-41e6-ba74-8444002a9752",
+      "pivot": {
+        "id_kelas_kuliah": 115005,
+        "id_dosen": 1857
+      }
+    }
+  ]
+}

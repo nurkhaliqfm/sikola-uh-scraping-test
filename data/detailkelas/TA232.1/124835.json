@@ -1,0 +1,77 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2702,
+  "idnumber_sikola": "38977.124835.129",
+  "shortname_sikola": "TA232-124835",
+  "kode_matkul": "20C14550102",
+  "nama_matkul": "ROTASI NASIONAL",
+  "nama_kelas": "ROTASI NASIONAL_2023_2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1815,
+      "id_user": 34628,
+      "id_prodi": 6,
+      "nama": "dr. Muhammad Andry Usman, Sp.OT",
+      "nidn": "0004047510",
+      "nip": "197504042008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "719deaaa-3dc4-4489-a1e8-c97d0f816e78",
+      "pivot": {
+        "id_kelas_kuliah": 124835,
+        "id_dosen": 1815
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1799,
+      "id_user": 37495,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Muhammad Sakti, Sp.OT(K)",
+      "nidn": "0001107611",
+      "nip": "197610012008011013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9df5f394-39f5-4904-bfcc-e9bff7507f50",
+      "pivot": {
+        "id_kelas_kuliah": 124835,
+        "id_dosen": 1799
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1888,
+      "id_user": 37553,
+      "id_prodi": 6,
+      "nama": "dr.  Jainal Arifin, Sp.OT., M.Kes",
+      "nidn": "0011117508",
+      "nip": "197511112009121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76ae72a6-575e-4eb7-b725-02cad30d7c2c",
+      "pivot": {
+        "id_kelas_kuliah": 124835,
+        "id_dosen": 1888
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2386,
+      "id_user": 37428,
+      "id_prodi": 6,
+      "nama": "dr. Muhammad Phetrus Johan, Sp.OT, M.Kes",
+      "nidn": "0028108207",
+      "nip": "198210282014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4efc5092-b663-4583-917b-8be398069d7b",
+      "pivot": {
+        "id_kelas_kuliah": 124835,
+        "id_dosen": 2386
+      }
+    }
+  ]
+}

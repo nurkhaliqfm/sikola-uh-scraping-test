@@ -1,0 +1,29 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48153.119637.12",
+  "shortname_sikola": "TA232-119637",
+  "kode_matkul": "23D02140104",
+  "nama_matkul": "Skripsi",
+  "nama_kelas": "SKRIPSI A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1427,
+      "id_user": 31767,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng Jalaluddin, ST., MT.",
+      "nidn": "0025087201",
+      "nip": "197208252000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "67974365-53ce-4226-b25a-972ab0cf7489",
+      "pivot": {
+        "id_kelas_kuliah": 119637,
+        "id_dosen": 1427
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 26,
+  "nama_prodi": "ILMU HUB. INTERNASIONAL - S1",
+  "id_prodi_semester": 2621,
+  "idnumber_sikola": "46495.128503.26",
+  "shortname_sikola": "TA232-128503",
+  "kode_matkul": "23E06122103",
+  "nama_matkul": "Dinamika Kawasan Oseania",
+  "nama_kelas": "Dinamika Kawasan Oseania (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2036,
+      "id_user": 10580,
+      "id_prodi": 26,
+      "nama": "Ishaq Rahman, S.I.P., M.Si",
+      "nidn": "0028107205",
+      "nip": "197210282005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09980022-de92-4a29-87e3-09fd66678160",
+      "pivot": {
+        "id_kelas_kuliah": 128503,
+        "id_dosen": 2036
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2225,
+      "id_user": 60799,
+      "id_prodi": 26,
+      "nama": "Drs. Muhammad Imran Hanafi, MA.,M.Ec.",
+      "nidn": "0004076309",
+      "nip": "196307041988031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "83841176-1881-4bb8-97d8-18fa0c10e88d",
+      "pivot": {
+        "id_kelas_kuliah": 128503,
+        "id_dosen": 2225
+      }
+    }
+  ]
+}

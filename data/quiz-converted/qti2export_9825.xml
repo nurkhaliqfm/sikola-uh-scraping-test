@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Soal Essay Final Test</text></name><questiontext format="html"><text><![CDATA[<p>Sistem Persaman Linier  Type B</p><p>TYPE B. Soal ini untuk mahasiswa yang no urutnya di absensi adalah bilangan 11-15, 21-25, 41-45.</p>
+
+<p>Tentukanlah solusi SPL berikut dengan metode Gauss-Jordan:</p>
+
+<p><span class="math-tex">`2x+3y-5z=1 `</span></p>
+
+<p><span class="math-tex">`x+y-z=2 `</span></p>
+
+<p><span class="math-tex">`2y+z=8`</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>300.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_117771</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>Soal Essay Final Test</text></name><questiontext format="html"><text><![CDATA[<p>Sistem Persaman Linier Type A</p><p>TYPE A. Soal ini untuk mahasiswa yang no urutnya di absensi adalah bilangan 1-5, 16-20, 31-35</p>
+
+<p>Tentukanlah solusi SPL berikut dengan metode Gauss-Jordan:</p>
+
+<p><span class="math-tex">`x+y-z=9 `</span></p>
+
+<p><span class="math-tex">`y+3z=3 `</span></p>
+
+<p><span class="math-tex">`-x-2z=2`</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>300.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_117768</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>Soal Essay Final Test</text></name><questiontext format="html"><text><![CDATA[<p>Sistem Persaman Linier Type C</p><p>TYPE C. Soal ini untuk mahasiswa yang no urutnya di absensi adalah bilangan 6 -10, 26-30, 36-40, 46-50</p>
+
+<p>Tentukanlah solusi SPL berikut dengan metode Gauss-Jordan:</p>
+
+<p><span class="math-tex">`-x+4y+3z=2 `</span></p>
+
+<p><span class="math-tex">`2y+2z=1 `</span></p>
+
+<p><span class="math-tex">`x-3y+5z=0`</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>300.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_117772</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

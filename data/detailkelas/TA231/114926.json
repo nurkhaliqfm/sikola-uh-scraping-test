@@ -1,0 +1,85 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2382,
+  "idnumber_sikola": "46902.114926.17",
+  "shortname_sikola": "TA231-114926",
+  "kode_matkul": "23D04120801",
+  "nama_matkul": "Praktikum Dasar Elektronika",
+  "nama_kelas": "Praktikum Dasar Elektronika / Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 33602,
+      "id_user": 25714,
+      "id_prodi": 17,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Andi Abdul Hakam Syukur",
+      "nim": "D041191057",
+      "jalan": "Pondok Pangkep, Jalan Batua Raya",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": "D041191057",
+      "tempat_lahir": "Watampone",
+      "tanggal_lahir": "2001-05-26",
+      "telepon": "082296594141",
+      "handphone": "082296594141",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Paropo",
+      "id_wilayah": "196010",
+      "nik": "7308232605010002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "matisenar123@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "1fe82023-ecc1-46dd-8742-21de38d0fb7a",
+      "id_registrasi_mahasiswa_pddikti": "8648a30c-9fbb-4698-9e17-bb5007918b64",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114926,
+        "id_mahasiswa": 33602,
+        "created_at": "2023-08-09 11:17:23"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1609,
+      "id_user": 32004,
+      "id_prodi": 17,
+      "nama": "Prof. Dr.-Ing. Ir. Faizal Arya Samman, ST, MT, IPU, AseanEng, ACPE",
+      "nidn": "0005067507",
+      "nip": "197506052002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "06214b1e-7d41-4708-982d-94adb48684de",
+      "pivot": {
+        "id_kelas_kuliah": 114926,
+        "id_dosen": 1609
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 827,
+      "id_user": 17599,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Andani, MT.",
+      "nidn": "0531126002",
+      "nip": "196012311987031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41633592-f13b-4062-99dc-2c91d5a10984",
+      "pivot": {
+        "id_kelas_kuliah": 114926,
+        "id_dosen": 827
+      }
+    }
+  ]
+}

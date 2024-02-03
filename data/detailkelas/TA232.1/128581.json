@@ -1,0 +1,77 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2762,
+  "idnumber_sikola": "35982.128581.195",
+  "shortname_sikola": "TA232-128581",
+  "kode_matkul": "19M03311903",
+  "nama_matkul": "PENGELOLAAN DAERAH ALIRAN SUNGAI TERPADU",
+  "nama_kelas": "PENGELOLAAN DAERAH ALIRAN SUNGAI TERPADU",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1839,
+      "id_user": 19307,
+      "id_prodi": 71,
+      "nama": "Andang Suryana Soma, S.Hut., M.P., Ph.D",
+      "nidn": "0025037804",
+      "nip": "197803252008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22354763-2237-4362-96b5-e37473b7088e",
+      "pivot": {
+        "id_kelas_kuliah": 128581,
+        "id_dosen": 1839
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1072,
+      "id_user": 69468,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Usman Arsyad, M.Si.., IPU.",
+      "nidn": "8820523419",
+      "nip": "195401072019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "826be80d-7057-484e-b2b8-77ae75a366ee",
+      "pivot": {
+        "id_kelas_kuliah": 128581,
+        "id_dosen": 1072
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2203,
+      "id_user": null,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Anwar Umar, MS.",
+      "nidn": "8807650017",
+      "nip": "195007241980031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9333d8a2-e420-4817-b7ef-8347f93648bb",
+      "pivot": {
+        "id_kelas_kuliah": 128581,
+        "id_dosen": 2203
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3230,
+      "id_user": null,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Baharuddin Mappangaja., M.Sc.",
+      "nidn": null,
+      "nip": "130350814",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128581,
+        "id_dosen": 3230
+      }
+    }
+  ]
+}

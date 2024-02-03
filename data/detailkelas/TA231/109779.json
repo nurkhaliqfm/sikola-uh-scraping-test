@@ -1,0 +1,61 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2506,
+  "idnumber_sikola": "41913.109779.169",
+  "shortname_sikola": "TA231-109779",
+  "kode_matkul": "21P11210202",
+  "nama_matkul": "Filsafat Ilmu dan Metodologi Penelitian",
+  "nama_kelas": "Filsafat Ilmu dan Metodologi Penelitian (PSPT_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 734,
+      "id_user": 10271,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Najamuddin, M.Sc.",
+      "nidn": "0001076003",
+      "nip": "196007011986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ee5e972a-e0dc-48d7-bca8-1fffa8d6e73b",
+      "pivot": {
+        "id_kelas_kuliah": 109779,
+        "id_dosen": 734
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1181,
+      "id_user": 10979,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Rohani AR, M.Si.",
+      "nidn": "0013096901",
+      "nip": "196909131993032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "25f45a97-69c0-4ddb-94f0-ec88c59e7691",
+      "pivot": {
+        "id_kelas_kuliah": 109779,
+        "id_dosen": 1181
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1144,
+      "id_user": 18815,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Joeharnani Tresnati, DEA.",
+      "nidn": "0007096301",
+      "nip": "196509071989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eee3075-615b-468b-a9f2-1876ed8e646b",
+      "pivot": {
+        "id_kelas_kuliah": 109779,
+        "id_dosen": 1144
+      }
+    }
+  ]
+}

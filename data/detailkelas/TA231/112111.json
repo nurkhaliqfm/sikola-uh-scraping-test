@@ -1,0 +1,61 @@
+{
+  "id_prodi": 69,
+  "nama_prodi": "PEMANF. S. DAYA PERIKANAN - S1",
+  "id_prodi_semester": 2417,
+  "idnumber_sikola": "47047.112111.69",
+  "shortname_sikola": "TA231-112111",
+  "kode_matkul": "23L05131803",
+  "nama_matkul": "Navigasi Astronomi",
+  "nama_kelas": "Navigasi Astronomi (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2171,
+      "id_user": 24398,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Mahfud Palo, M.Si",
+      "nidn": "0012036001",
+      "nip": "196003121986011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "61699963-7f9b-4771-9639-602a9a533023",
+      "pivot": {
+        "id_kelas_kuliah": 112111,
+        "id_dosen": 2171
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1719,
+      "id_user": 24235,
+      "id_prodi": 69,
+      "nama": "Dr. Ir. Andi Assir, M.Sc.",
+      "nidn": "0011076203",
+      "nip": "196207111988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8091f874-3d8a-49d4-959d-358bcf9b5b1a",
+      "pivot": {
+        "id_kelas_kuliah": 112111,
+        "id_dosen": 1719
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 734,
+      "id_user": 10271,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Najamuddin, M.Sc.",
+      "nidn": "0001076003",
+      "nip": "196007011986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ee5e972a-e0dc-48d7-bca8-1fffa8d6e73b",
+      "pivot": {
+        "id_kelas_kuliah": 112111,
+        "id_dosen": 734
+      }
+    }
+  ]
+}

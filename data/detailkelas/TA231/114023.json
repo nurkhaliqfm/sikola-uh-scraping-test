@@ -1,0 +1,101 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2375,
+  "idnumber_sikola": "47511.114023.10",
+  "shortname_sikola": "TA231-114023",
+  "kode_matkul": "23D01131402",
+  "nama_matkul": "Teknik Pantai",
+  "nama_kelas": "Teknik Pantai Pilihan INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 24463,
+      "id_user": 23568,
+      "id_prodi": 10,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Richard Christianto Lebang",
+      "nim": "D011191108",
+      "jalan": "jalan daeng ramang lorong 9",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90242",
+      "nisn": "0011996857",
+      "tempat_lahir": "makassar 22juni2001",
+      "tanggal_lahir": "2001-06-22",
+      "telepon": "085397404233",
+      "handphone": "085397404233",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "sudiang raya",
+      "id_wilayah": "196011",
+      "nik": "7371112206010002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "richardlebang1@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "917a80a5-de8f-4e25-812a-468f8a67fb47",
+      "id_registrasi_mahasiswa_pddikti": "41c777bb-fa33-4dde-aa8e-5ee213134ecb",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114023,
+        "id_mahasiswa": 24463,
+        "created_at": "2023-08-18 12:23:20"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1443,
+      "id_user": 33432,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Mukhsan Putra H., ST., MT.",
+      "nidn": "0012057302",
+      "nip": "197305121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57460746-bae2-4d55-abb7-4e1205acf0f7",
+      "pivot": {
+        "id_kelas_kuliah": 114023,
+        "id_dosen": 1443
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2552,
+      "id_user": 45006,
+      "id_prodi": 10,
+      "nama": "Dr. Andi Ildha Dwipuspita, S.T., M.T.",
+      "nidn": "0014078906",
+      "nip": "198907142020054001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b62eed8b-e5a1-436a-b69a-712889650683",
+      "pivot": {
+        "id_kelas_kuliah": 114023,
+        "id_dosen": 2552
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1015,
+      "id_user": 33455,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ir. Muhammad Arsyad Thaha, MT.",
+      "nidn": "0012126007",
+      "nip": "196012311986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3b528154-ff7c-4894-8601-599c057c16ab",
+      "pivot": {
+        "id_kelas_kuliah": 114023,
+        "id_dosen": 1015
+      }
+    }
+  ]
+}

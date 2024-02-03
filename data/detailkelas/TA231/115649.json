@@ -1,0 +1,45 @@
+{
+  "id_prodi": 263,
+  "nama_prodi": "TEKNOLOGI AKUAKULTUR DAN PASCA PANEN PERIKANAN - D4",
+  "id_prodi_semester": 2593,
+  "idnumber_sikola": "44636.115649.263",
+  "shortname_sikola": "TA231-115649",
+  "kode_matkul": "23U01110402",
+  "nama_matkul": "Pendidikan Agama Hindu",
+  "nama_kelas": "Pendidikan Agama Hindu",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1075,
+      "id_user": 11271,
+      "id_prodi": 34,
+      "nama": "Dra. Rahmah Alwi, M.Ag.",
+      "nidn": "9990398252",
+      "nip": "195606071986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ca642c1c-4b3d-41cf-826c-9b92c9424cb5",
+      "pivot": {
+        "id_kelas_kuliah": 115649,
+        "id_dosen": 1075
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2468,
+      "id_user": 24062,
+      "id_prodi": 34,
+      "nama": "Fadlan Ahmad, S.S., M.Si",
+      "nidn": "8888270018",
+      "nip": "198802142018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09700d69-939b-4c7c-801d-679de645c774",
+      "pivot": {
+        "id_kelas_kuliah": 115649,
+        "id_dosen": 2468
+      }
+    }
+  ]
+}

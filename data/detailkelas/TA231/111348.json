@@ -1,0 +1,61 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2376,
+  "idnumber_sikola": "46468.111348.11",
+  "shortname_sikola": "TA231-111348",
+  "kode_matkul": "23D13121803",
+  "nama_matkul": "Drainase dan Sewerage",
+  "nama_kelas": "Drainase dan Sewerage A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1511,
+      "id_user": 32819,
+      "id_prodi": 11,
+      "nama": "Dr. Ir.  Achmad Zubair, M.Sc",
+      "nidn": "0016015902",
+      "nip": "195901161987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ae16612-2e2f-4a86-b63b-280226406f61",
+      "pivot": {
+        "id_kelas_kuliah": 111348,
+        "id_dosen": 1511
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1618,
+      "id_user": 27956,
+      "id_prodi": 10,
+      "nama": "Dr. Ir. Riswal Karamma, S.T., M.T.",
+      "nidn": "0005057105",
+      "nip": "197105052006041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "787f3e11-94a1-4930-9d71-885a90cc88a4",
+      "pivot": {
+        "id_kelas_kuliah": 111348,
+        "id_dosen": 1618
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2586,
+      "id_user": 37680,
+      "id_prodi": 11,
+      "nama": "Nurjannah Oktorina Abdullah, S.T., M.T.",
+      "nidn": "8883201019",
+      "nip": "199210242019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "133910d7-1f13-49d9-a222-2cabcde0ba70",
+      "pivot": {
+        "id_kelas_kuliah": 111348,
+        "id_dosen": 2586
+      }
+    }
+  ]
+}

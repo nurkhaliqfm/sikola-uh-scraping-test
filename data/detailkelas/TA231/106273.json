@@ -1,0 +1,85 @@
+{
+  "id_prodi": 36,
+  "nama_prodi": "ARKEOLOGI - S1",
+  "id_prodi_semester": 2400,
+  "idnumber_sikola": "42176.106273.36",
+  "shortname_sikola": "TA231-106273",
+  "kode_matkul": "21F07140502",
+  "nama_matkul": "Media Sosial dan Arkeologi",
+  "nama_kelas": "Media Sosial dan Arkeologi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 54559,
+      "id_user": 18767,
+      "id_prodi": 36,
+      "angkatan": 2019,
+      "nama_mahasiswa": "ILHAM MAKASSAR KAHU",
+      "nim": "F071191002",
+      "jalan": "Bangkala Btp lr.4 no.10",
+      "rt": 1,
+      "rw": 3,
+      "dusun": "Bangkala",
+      "kode_pos": "90245",
+      "nisn": "0008187802",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2000-05-04",
+      "telepon": "0895802820298",
+      "handphone": "62895802820298",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Buntusu",
+      "id_wilayah": "190000",
+      "nik": "7371140405000008",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Makassarkahu00245@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e1ea4cfc-6d20-4a05-89c6-01f40bdc7e6c",
+      "id_registrasi_mahasiswa_pddikti": "5b94cf84-381d-49f9-8d58-81d422ed4cd5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106273,
+        "id_mahasiswa": 54559,
+        "created_at": "2023-08-06 10:03:18"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1980,
+      "id_user": 13068,
+      "id_prodi": 36,
+      "nama": "Dr. Yadi Mulyadi, S.S., MA.",
+      "nidn": "0019038004",
+      "nip": "198003192006041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e259bb66-0562-4d0a-9d4c-7e8ee21e6493",
+      "pivot": {
+        "id_kelas_kuliah": 106273,
+        "id_dosen": 1980
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3493,
+      "id_user": 47705,
+      "id_prodi": 36,
+      "nama": "Erwin Mansyur Ugu Saraka, S.S., MSc.",
+      "nidn": "0027029004",
+      "nip": "199002272020121012",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "687af275-9065-451d-9636-0e0f2a918dc1",
+      "pivot": {
+        "id_kelas_kuliah": 106273,
+        "id_dosen": 3493
+      }
+    }
+  ]
+}

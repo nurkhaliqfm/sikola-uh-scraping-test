@@ -1,0 +1,140 @@
+{
+  "id_prodi": 20,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH KOTA - S1",
+  "id_prodi_semester": 2616,
+  "idnumber_sikola": "47491.121376.20",
+  "shortname_sikola": "TA232-121376",
+  "kode_matkul": "23D10140105",
+  "nama_matkul": "Studio LBE Perencanaan/ Riset",
+  "nama_kelas": "Studio LBE Perencanaan/Riset (Kelas. Waterfront)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 138818,
+      "id_user": 41867,
+      "id_prodi": 20,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD FACHRY AKBAR",
+      "nim": "D101201005",
+      "jalan": "PERUM. NUSA TAMALANREA INDAH JL. MANGGIS 4 BLOK JB. 2",
+      "rt": 3,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0027176070",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-05-28",
+      "telepon": "085824388850",
+      "handphone": "6285824388850",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kapasa",
+      "id_wilayah": "196012",
+      "nik": "7371142805020005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fachryakbaer@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f94801a4-eb4b-4275-b2bc-0cff8423b752",
+      "id_registrasi_mahasiswa_pddikti": "030fa23f-2f76-43c8-b7f0-8d1b827b46d6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121376,
+        "id_mahasiswa": 138818,
+        "created_at": "2024-01-31 17:25:08"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 143011,
+      "id_user": 38792,
+      "id_prodi": 20,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD FAIRUZ FAAD S",
+      "nim": "D101201079",
+      "jalan": "jl.borong raya delta mas 1 blok A/4",
+      "rt": 7,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90234",
+      "nisn": "0004854004",
+      "tempat_lahir": "makassar",
+      "tanggal_lahir": "2000-09-16",
+      "telepon": "085156533904",
+      "handphone": "085156533904",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "bitowa",
+      "id_wilayah": "120505",
+      "nik": "7371121609000005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fairuzfaad00@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "79cacc9e-1f1f-4157-ba53-50c7fb899c7c",
+      "id_registrasi_mahasiswa_pddikti": "e34f3f79-4017-4475-9d50-32caa1649158",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121376,
+        "id_mahasiswa": 143011,
+        "created_at": "2024-01-31 17:33:56"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1752,
+      "id_user": 32969,
+      "id_prodi": 20,
+      "nama": "Mukti Ali, S.T., M.T., Ph.D",
+      "nidn": "0011127405",
+      "nip": "197412112005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5b986d1-c434-4a1d-b26c-1522dcf34f9e",
+      "pivot": {
+        "id_kelas_kuliah": 121376,
+        "id_dosen": 1752
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1972,
+      "id_user": 45180,
+      "id_prodi": 20,
+      "nama": "Sri Aliah Ekawati, ST., MT",
+      "nidn": "0024088502",
+      "nip": "198508242012122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "564b69f8-2e4e-4c3a-a6c9-7d86c2afddcb",
+      "pivot": {
+        "id_kelas_kuliah": 121376,
+        "id_dosen": 1972
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3628,
+      "id_user": 58112,
+      "id_prodi": 20,
+      "nama": "Ir. Dewa Sagita Alfadin Nur, S.T., M.T",
+      "nidn": "8908770023",
+      "nip": "199212062023095001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "7f2bef5f-d618-4d04-9377-d7d28e9df03a",
+      "pivot": {
+        "id_kelas_kuliah": 121376,
+        "id_dosen": 3628
+      }
+    }
+  ]
+}

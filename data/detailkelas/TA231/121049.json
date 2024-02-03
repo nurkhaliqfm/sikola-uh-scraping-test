@@ -1,0 +1,69 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2471.121049.5",
+  "shortname_sikola": "TA231-121049",
+  "kode_matkul": "18B01133203",
+  "nama_matkul": "PERANCANGAN PERUNDANG-UNDANGAN\r\n",
+  "nama_kelas": "PERANCANGAN PERUNDANG-UNDANGAN (BIMBINGAN KHUSUS)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 7737,
+      "id_user": 18669,
+      "id_prodi": 5,
+      "angkatan": 2018,
+      "nama_mahasiswa": "LARROKY MAGIANTA BIDA PASOLANG",
+      "nim": "B011181548",
+      "jalan": "JL. PERINTIS KEMERDEKAAN PERUMAHAN. GRIYA ALAM PERMAI BLOK A. 12",
+      "rt": 2,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90241",
+      "nisn": "0011996855",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2001-06-15",
+      "telepon": "081355909201",
+      "handphone": "082349422068",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KAPASA",
+      "id_wilayah": "196012",
+      "nik": "7371141506010002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "larrokybida@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f45d126a-3a49-4c04-9d6e-9461059dff62",
+      "id_registrasi_mahasiswa_pddikti": "4cd1222f-299f-4c81-8bed-3d249071020f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121049,
+        "id_mahasiswa": 7737,
+        "created_at": "2023-12-22 14:57:57"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1001,
+      "id_user": 13616,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Marwati Riza, SH., M.Si.",
+      "nidn": "0024086402",
+      "nip": "196408241991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78a0d126-0b50-46f9-8267-a71959d58def",
+      "pivot": {
+        "id_kelas_kuliah": 121049,
+        "id_dosen": 1001
+      }
+    }
+  ]
+}

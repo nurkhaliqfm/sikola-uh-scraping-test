@@ -1,0 +1,45 @@
+{
+  "id_prodi": 25,
+  "nama_prodi": "ILMU PEMERINTAHAN - S1",
+  "id_prodi_semester": 2389,
+  "idnumber_sikola": "42474.109838.25",
+  "shortname_sikola": "TA231-109838",
+  "kode_matkul": "21E05110203",
+  "nama_matkul": "Organisasi dan Manajemen",
+  "nama_kelas": "Organisasi dan Manajemen Pemerintahan  B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1336,
+      "id_user": 34403,
+      "id_prodi": 25,
+      "nama": "Dr. Indar, M.Si.",
+      "nidn": "0007046806",
+      "nip": "196304071989032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ef5330e9-c3c9-44a0-adab-b20ed9438960",
+      "pivot": {
+        "id_kelas_kuliah": 109838,
+        "id_dosen": 1336
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3378,
+      "id_user": 73211,
+      "id_prodi": 142,
+      "nama": "Afni A , S.Ip., M.Si",
+      "nidn": "8996550022",
+      "nip": "199407292022076001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "e66c30e8-fcf1-469e-a46e-e1c313eb80fc",
+      "pivot": {
+        "id_kelas_kuliah": 109838,
+        "id_dosen": 3378
+      }
+    }
+  ]
+}

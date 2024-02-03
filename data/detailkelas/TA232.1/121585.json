@@ -1,0 +1,85 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "45592.121585.19",
+  "shortname_sikola": "TA232-121585",
+  "kode_matkul": "23D05122503",
+  "nama_matkul": "Desain & Simulasi Pencahayaan",
+  "nama_kelas": "Design and Simulation of Lighting",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 153226,
+      "id_user": 49445,
+      "id_prodi": 19,
+      "angkatan": 2021,
+      "nama_mahasiswa": "AISYAH TIO SABILA",
+      "nim": "D051211051",
+      "jalan": "JL. A. MAPPATOLA NO.6",
+      "rt": 2,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "91113",
+      "nisn": "0041211587",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-01-23",
+      "telepon": "0",
+      "handphone": "082114682706",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "UJUNG BULU",
+      "id_wilayah": "191102",
+      "nik": "7306086301040008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aisyahtiosabila@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "14505c27-b8f3-4642-8777-f13ce94303b4",
+      "id_registrasi_mahasiswa_pddikti": "8c2c04c4-4345-4463-8a24-9904679b6804",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121585,
+        "id_mahasiswa": 153226,
+        "created_at": "2024-01-19 23:58:44"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1230,
+      "id_user": 16366,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Nurul Jamala B, MT.",
+      "nidn": "0004096407",
+      "nip": "196409041994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8e2445f0-50bf-481f-902f-009d11107045",
+      "pivot": {
+        "id_kelas_kuliah": 121585,
+        "id_dosen": 1230
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 121585,
+        "id_dosen": 1157
+      }
+    }
+  ]
+}

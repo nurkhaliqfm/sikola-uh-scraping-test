@@ -1,0 +1,141 @@
+{
+  "id_prodi": 48,
+  "nama_prodi": "GEOFISIKA - S1",
+  "id_prodi_semester": 2406,
+  "idnumber_sikola": "45691.109163.48",
+  "shortname_sikola": "TA231-109163",
+  "kode_matkul": "23H06130502",
+  "nama_matkul": "Kuliah Lapang",
+  "nama_kelas": "KULIAH LAPANG",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1480,
+      "id_user": 15273,
+      "id_prodi": 48,
+      "nama": "Drs. Erfan, M.Si.",
+      "nidn": "0003096711",
+      "nip": "196709032001121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "40395a80-d431-464e-80f4-d75fc3d4de5c",
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 1480
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 829,
+      "id_user": 13547,
+      "id_prodi": 48,
+      "nama": "Prof. Dr. Ir. Muh. Altin Massinai, MT., Surv.",
+      "nidn": "0016066414",
+      "nip": "196406161989031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "512c3a9b-cfac-41bd-b430-ee85fb8d3628",
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 829
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1686,
+      "id_user": 15952,
+      "id_prodi": 48,
+      "nama": "Syamsuddin, S.Si.,MT.",
+      "nidn": "0015017405",
+      "nip": "197401152002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0ab9c7a-703b-4c63-aeac-cdbb98bacd46",
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 1686
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2033,
+      "id_user": 25381,
+      "id_prodi": 48,
+      "nama": "Sabrianto Aswad, S.Si., MT",
+      "nidn": "0024057803",
+      "nip": "197805242005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "97755b3c-2a90-4157-8f80-29239c96400a",
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 2033
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2602,
+      "id_user": 15279,
+      "id_prodi": 48,
+      "nama": "Muhammad Fawzy Ismullah Massinai, S.Si, M.T",
+      "nidn": "0009119102",
+      "nip": "199111092019031010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4df4773e-ffb6-4b8b-bc0c-ca52c7524e66",
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 2602
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1149,
+      "id_user": 30045,
+      "id_prodi": 48,
+      "nama": "Ir. Bambang Hari Mei Soeprapto, M.Si.",
+      "nidn": "0007026401",
+      "nip": "196105011990031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e75e0350-2e8a-4b1b-8caf-92dad3cc24af",
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 1149
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4080,
+      "id_user": 74192,
+      "id_prodi": 48,
+      "nama": "Andika, S.Si., M.Si.",
+      "nidn": null,
+      "nip": "7306062804970003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 4080
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3538,
+      "id_user": 59423,
+      "id_prodi": 48,
+      "nama": "Aswar Syafnur, S.Si., M.Eng",
+      "nidn": "8919820021",
+      "nip": "199312152021115001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "c1590f63-4d5b-43da-9bbd-fd9677453b9f",
+      "pivot": {
+        "id_kelas_kuliah": 109163,
+        "id_dosen": 3538
+      }
+    }
+  ]
+}

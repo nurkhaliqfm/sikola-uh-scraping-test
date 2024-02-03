@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2736,
+  "idnumber_sikola": "34897.128142.168",
+  "shortname_sikola": "TA232-128142",
+  "kode_matkul": "18D04320305",
+  "nama_matkul": "JURNAL INTERNASIONAL TERINDEKS SCOPUS ATAU BEREPUTASI",
+  "nama_kelas": "Jurnal Internasional Terindeks Scopus atau bereputasi (Benyamin Tangaran )",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 159249,
+      "id_user": 55857,
+      "id_prodi": 168,
+      "angkatan": 2021,
+      "nama_mahasiswa": "BENYAMIN TANGARAN",
+      "nim": "D043211005",
+      "jalan": "JL. H. KALLA NO. 7",
+      "rt": 8,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90231",
+      "nisn": null,
+      "tempat_lahir": "TALION",
+      "tanggal_lahir": "1975-09-15",
+      "telepon": "0",
+      "handphone": "085256828899",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "PANAIKANG",
+      "id_wilayah": "196010",
+      "nik": "7371091509750011",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "benytan@ukipaulus.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "1a5190d2-0788-47ce-a633-68dcaad86006",
+      "id_registrasi_mahasiswa_pddikti": "528b87fc-9178-4c5c-9924-117625506642",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128142,
+        "id_mahasiswa": 159249,
+        "created_at": "2024-02-01 10:31:20"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1052,
+      "id_user": 31904,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Ilyas Renreng, MT.",
+      "nidn": "0014095703",
+      "nip": "195709141987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "13e3ec92-3db0-46f0-836a-0fd100729d52",
+      "pivot": {
+        "id_kelas_kuliah": 128142,
+        "id_dosen": 1052
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 824,
+      "id_user": 34176,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir  Luther Sule, MT.",
+      "nidn": "0027085601",
+      "nip": "195608271985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "853d14fc-aa4f-44a7-b659-c502cdc6ff15",
+      "pivot": {
+        "id_kelas_kuliah": 128142,
+        "id_dosen": 824
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 877,
+      "id_user": 29849,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Zulkifli Djafar, MT.",
+      "nidn": "0030066502",
+      "nip": "196506301991031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7ba17152-8498-4e20-b976-6762c9dffe1b",
+      "pivot": {
+        "id_kelas_kuliah": 128142,
+        "id_dosen": 877
+      }
+    }
+  ]
+}

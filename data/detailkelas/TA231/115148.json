@@ -1,0 +1,156 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2382,
+  "idnumber_sikola": "47123.115148.17",
+  "shortname_sikola": "TA231-115148",
+  "kode_matkul": "23D04132302",
+  "nama_matkul": "Perancangan Sistem Elektroteknik",
+  "nama_kelas": "Perancangan  Sistem  Elektroteknik /  Kelas L -  Perangkat Lunak Komputer dan Teknologi Radio",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 138688,
+      "id_user": 41929,
+      "id_prodi": 17,
+      "angkatan": 2020,
+      "nama_mahasiswa": "AKSA FADHIL",
+      "nim": "D041201118",
+      "jalan": "JL.MACCINI RAYA NO.86",
+      "rt": 3,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "90144",
+      "nisn": "0023931588",
+      "tempat_lahir": "JAYAPURA",
+      "tanggal_lahir": "2002-03-12",
+      "telepon": "0",
+      "handphone": "62895801047662",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Maccini Parang",
+      "id_wilayah": "196000",
+      "nik": "9106121203020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aksafadhil10@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "80a15c24-a1fe-443c-8061-c0a5a87bae3d",
+      "id_registrasi_mahasiswa_pddikti": "bfad6c9d-0260-4c2d-9720-4957fb9f9752",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115148,
+        "id_mahasiswa": 138688,
+        "created_at": "2023-08-16 11:22:01"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 138679,
+      "id_user": 40773,
+      "id_prodi": 17,
+      "angkatan": 2020,
+      "nama_mahasiswa": "M. GHOZI FARHAN RIVAI",
+      "nim": "D041201097",
+      "jalan": "JL.A.R HAKIM I NO.10A",
+      "rt": 2,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90217",
+      "nisn": "D041201097",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-03-09",
+      "telepon": "0",
+      "handphone": "6285397771617",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Ujung pandang",
+      "id_wilayah": "196009",
+      "nik": "7371110903020003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ochi.ghozi@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "320ecd13-a477-4c33-bf48-eb00ce7bae24",
+      "id_registrasi_mahasiswa_pddikti": "fd90a421-7ad0-4f0c-8d0f-e8b411305e40",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115148,
+        "id_mahasiswa": 138679,
+        "created_at": "2023-08-17 09:43:58"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 115148,
+        "id_dosen": 813
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1054,
+      "id_user": 34386,
+      "id_prodi": 17,
+      "nama": "Elyas, S.T., M.Eng., Ph.D",
+      "nidn": "0001026406",
+      "nip": "196902011994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3347a460-6adc-4ed4-afdc-c0d70cbbbd20",
+      "pivot": {
+        "id_kelas_kuliah": 115148,
+        "id_dosen": 1054
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1981,
+      "id_user": 31207,
+      "id_prodi": 17,
+      "nama": "Merna Baharuddin, ST.,M.Tel.Eng.,Ph.D.",
+      "nidn": "0005127503",
+      "nip": "197512052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "935fd211-7d06-44ef-b04b-99b3dd9200be",
+      "pivot": {
+        "id_kelas_kuliah": 115148,
+        "id_dosen": 1981
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3205,
+      "id_user": 14254,
+      "id_prodi": 17,
+      "nama": "Azran Budi Arief, S.T., M T.",
+      "nidn": "0001028902",
+      "nip": "198902012019031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6fa07146-5df4-4d90-83ef-c75281852d58",
+      "pivot": {
+        "id_kelas_kuliah": 115148,
+        "id_dosen": 3205
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2602,
+  "idnumber_sikola": "2475.118756.5",
+  "shortname_sikola": "TA232-118756",
+  "kode_matkul": "18B01133602",
+  "nama_matkul": "HUKUM KEKELUARGAAN & KEWARISAN ISLAM\r\n",
+  "nama_kelas": "HUKUM KEKELUARGAAN & KEWARISAN ISLAM",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 156284,
+      "id_user": 52725,
+      "id_prodi": 5,
+      "angkatan": 2021,
+      "nama_mahasiswa": "SYAHNAZ AINANI TAJRIYANI NASRUDDIN",
+      "nim": "B011211050",
+      "jalan": "JL. POROS PARE-RAPPANG CARAWALI NO. 06 KAB. SIDENRENG RAPPANG PROV. SULAWESI SELATAN 91661",
+      "rt": 2,
+      "rw": 2,
+      "dusun": "CARAWALI",
+      "kode_pos": "91661",
+      "nisn": "0039610725",
+      "tempat_lahir": "KOLONODALE",
+      "tanggal_lahir": "2003-11-01",
+      "telepon": "0",
+      "handphone": "081343651802",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA CARAWALI",
+      "id_wilayah": "191503",
+      "nik": "7314034111030001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "syahnazainanitn@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "921f5546-2dde-4a12-b8fb-8f9d1fd31ad4",
+      "id_registrasi_mahasiswa_pddikti": "367ba958-d071-45a3-a15e-fe8f8633e7f6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118756,
+        "id_mahasiswa": 156284,
+        "created_at": "2024-01-19 19:10:46"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 158434,
+      "id_user": 55007,
+      "id_prodi": 5,
+      "angkatan": 2021,
+      "nama_mahasiswa": "AFRISA SAHARA",
+      "nim": "B011211271",
+      "jalan": "JL. PONGKIA NO. 38",
+      "rt": 8,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "92984",
+      "nisn": "0030773136",
+      "tempat_lahir": "SOROWAKO",
+      "tanggal_lahir": "2003-05-30",
+      "telepon": "0",
+      "handphone": "082187956594",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "NIKKEL",
+      "id_wilayah": "192605",
+      "nik": "7324027005030001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "afrisasahara30@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7000e77a-67db-4642-ae2b-69ed96787709",
+      "id_registrasi_mahasiswa_pddikti": "a50be53f-cb25-482d-89b3-973532bd3b6d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118756,
+        "id_mahasiswa": 158434,
+        "created_at": "2024-01-22 21:57:10"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1132,
+      "id_user": 34128,
+      "id_prodi": 5,
+      "nama": "Achmad, SH., MH.",
+      "nidn": "0004016801",
+      "nip": "196801041993031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0928e67-8f78-41c9-af6c-c9d46ab81c67",
+      "pivot": {
+        "id_kelas_kuliah": 118756,
+        "id_dosen": 1132
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 795,
+      "id_user": 34093,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Ahmadi Miru, SH., MH.",
+      "nidn": "0007066101",
+      "nip": "196106071986011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4301dc1a-6b81-4044-a701-dcce1e0a7aa2",
+      "pivot": {
+        "id_kelas_kuliah": 118756,
+        "id_dosen": 795
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1856,
+      "id_user": 34092,
+      "id_prodi": 5,
+      "nama": "Fauzia P. Bakti, SH.,MH.",
+      "nidn": "0010027506",
+      "nip": "197502102008122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 118756,
+        "id_dosen": 1856
+      }
+    }
+  ]
+}

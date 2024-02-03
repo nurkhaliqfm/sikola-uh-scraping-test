@@ -1,0 +1,77 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2412,
+  "idnumber_sikola": "44910.108708.57",
+  "shortname_sikola": "TA231-108708",
+  "kode_matkul": "23K01110202",
+  "nama_matkul": "Etika dan Hukum Kesehatan",
+  "nama_kelas": "ETIKA DAN HUKUM KESEHATAN KELAS F",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 729,
+      "id_user": 29213,
+      "id_prodi": 57,
+      "nama": "Prof. Dr.  Indar, SH., MPH.",
+      "nidn": "9990132855",
+      "nip": "195311101986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d40870bf-f8c1-491c-b23f-e0bf72b918e0",
+      "pivot": {
+        "id_kelas_kuliah": 108708,
+        "id_dosen": 729
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2007,
+      "id_user": 17524,
+      "id_prodi": 57,
+      "nama": "Dian Saputra Marzuki, SKM.,M.Kes.",
+      "nidn": "0013068801",
+      "nip": "198806132014041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4bd4c788-84e8-4a70-a34b-9066c048c115",
+      "pivot": {
+        "id_kelas_kuliah": 108708,
+        "id_dosen": 2007
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2539,
+      "id_user": 29319,
+      "id_prodi": 57,
+      "nama": "Suci Rahmadani, S.K.M., M.Kes",
+      "nidn": "0901049001",
+      "nip": "199004012019032018",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3e4a6bd8-2779-41f5-980f-0069b6300999",
+      "pivot": {
+        "id_kelas_kuliah": 108708,
+        "id_dosen": 2539
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3754,
+      "id_user": null,
+      "id_prodi": 57,
+      "nama": "Nur Inayah Ismaniar, S.KM., M.Kes.",
+      "nidn": null,
+      "nip": "7371144707910002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 108708,
+        "id_dosen": 3754
+      }
+    }
+  ]
+}

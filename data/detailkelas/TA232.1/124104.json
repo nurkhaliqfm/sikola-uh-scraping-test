@@ -1,0 +1,45 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2599,
+  "idnumber_sikola": "919.124104.2",
+  "shortname_sikola": "TA232-124104",
+  "kode_matkul": "401A2233",
+  "nama_matkul": "SEMINAR MANAJEMEN KEUANGAN",
+  "nama_kelas": "SEMINAR MANAJEMEN KEUANGAN KELAS A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 955,
+      "id_user": 18525,
+      "id_prodi": 2,
+      "nama": "Prof. Dr.  Muhammad Ali, S.E., MS.",
+      "nidn": "0024036102",
+      "nip": "196103241987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4fbb8757-cd0e-4aa0-a8bc-5e2a1aa2820e",
+      "pivot": {
+        "id_kelas_kuliah": 124104,
+        "id_dosen": 955
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1135,
+      "id_user": 26521,
+      "id_prodi": 2,
+      "nama": "Prof. Dr. H. Abdul Rakhman Laba, S.E., MBA.",
+      "nidn": "0025016308",
+      "nip": "196301251989101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b8c9f53b-b5a6-4153-a244-221ef565c028",
+      "pivot": {
+        "id_kelas_kuliah": 124104,
+        "id_dosen": 1135
+      }
+    }
+  ]
+}

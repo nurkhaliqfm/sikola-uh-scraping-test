@@ -1,0 +1,29 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2377,
+  "idnumber_sikola": "48150.113990.12",
+  "shortname_sikola": "TA231-113990",
+  "kode_matkul": "23D02131302",
+  "nama_matkul": "Seminar Proposal",
+  "nama_kelas": "Seminar Proposal G",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1141,
+      "id_user": 34320,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ing. Wahyu Haryadi Piarah, MSME.",
+      "nidn": "0002036004",
+      "nip": "196003021986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "602228c6-6068-469f-8ea1-2aaab24b24cb",
+      "pivot": {
+        "id_kelas_kuliah": 113990,
+        "id_dosen": 1141
+      }
+    }
+  ]
+}

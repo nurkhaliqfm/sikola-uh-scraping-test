@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "28207.116722.102",
+  "shortname_sikola": "TA231-116722",
+  "kode_matkul": "18P06214802",
+  "nama_matkul": "Behaviour, Lifestyle and Aging",
+  "nama_kelas": "Behaviour, Lifestyle, and Aging (ARM Sem I & II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 741,
+      "id_user": 33165,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Nurpudji Astuti Daud, MPH.Sp.GK (K)",
+      "nidn": "0020105610",
+      "nip": "195610201985032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4da94289-a36f-421e-ad30-eeb962e25903",
+      "pivot": {
+        "id_kelas_kuliah": 116722,
+        "id_dosen": 741
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2891,
+      "id_user": 48332,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. dr. A. Razak Thaha, M.Sc",
+      "nidn": null,
+      "nip": "8823311019",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 116722,
+        "id_dosen": 2891
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1735,
+      "id_user": 10499,
+      "id_prodi": 6,
+      "nama": "dr.  Aminuddin,  M.Nut & Diet., Ph.D., Sp.GK",
+      "nidn": "0004077605",
+      "nip": "197607042002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8d43a898-ab36-4bd8-a194-6ef4702c1beb",
+      "pivot": {
+        "id_kelas_kuliah": 116722,
+        "id_dosen": 1735
+      }
+    }
+  ]
+}

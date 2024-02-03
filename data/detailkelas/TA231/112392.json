@@ -1,0 +1,140 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2426,
+  "idnumber_sikola": "26108.112392.79",
+  "shortname_sikola": "TA231-112392",
+  "kode_matkul": "19L08310603",
+  "nama_matkul": "Biologi Populasi Ikan",
+  "nama_kelas": "Biologi Populasi Ikan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423829,
+      "id_user": 82358,
+      "id_prodi": 79,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MOH. TAUHID UMAR",
+      "nim": "L013231007",
+      "jalan": "JLN. SUKAMAJU 3 NO. 40",
+      "rt": 10,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90231",
+      "nisn": null,
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "1972-12-18",
+      "telepon": "0",
+      "handphone": "+62411586025",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tamamaung",
+      "id_wilayah": "196010",
+      "nik": "7371091812720001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "attauhid@unhas.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f087ae10-52d1-44e1-80e1-4585061c205c",
+      "id_registrasi_mahasiswa_pddikti": "cb630ee5-45f9-4709-96c9-a069178b2950",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112392,
+        "id_mahasiswa": 423829,
+        "created_at": "2023-08-04 15:21:52"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 386446,
+      "id_user": 73841,
+      "id_prodi": 79,
+      "angkatan": 2022,
+      "nama_mahasiswa": "ANDI ADLI",
+      "nim": "L013222001",
+      "jalan": "JLN. VETERAN LR. V",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "94514",
+      "nisn": null,
+      "tempat_lahir": "BONE",
+      "tanggal_lahir": "1981-12-21",
+      "telepon": "0",
+      "handphone": "085240371159",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Kelurahan Baru",
+      "id_wilayah": "180604",
+      "nik": "7204072112810001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "adheli.madako@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c0aa910e-4a13-43ca-a49a-fb3a89937c3d",
+      "id_registrasi_mahasiswa_pddikti": "5339a892-4eea-49cc-ba5f-3bc28f5c039a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112392,
+        "id_mahasiswa": 386446,
+        "created_at": "2023-08-11 18:51:19"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 112392,
+        "id_dosen": 779
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1182,
+      "id_user": 25448,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Dody Dharmawan Trijuno, M.App.,Sc",
+      "nidn": "0003056402",
+      "nip": "196405031989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17778d41-cc89-4d54-a01a-c6aaadddd179",
+      "pivot": {
+        "id_kelas_kuliah": 112392,
+        "id_dosen": 1182
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1191,
+      "id_user": 14397,
+      "id_prodi": 69,
+      "nama": "Dr. Ir. Faisal Amir, M.Si.",
+      "nidn": "0030086309",
+      "nip": "196308301989031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be222c1e-d414-4a5f-9fc8-9faef21dc919",
+      "pivot": {
+        "id_kelas_kuliah": 112392,
+        "id_dosen": 1191
+      }
+    }
+  ]
+}

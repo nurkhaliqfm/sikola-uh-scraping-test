@@ -1,0 +1,61 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43213.119128.78",
+  "shortname_sikola": "TA232-119128",
+  "kode_matkul": "22I02211003",
+  "nama_matkul": "Teknologi Produksi Ternak Potong",
+  "nama_kelas": "Teknologi Produksi Ternak Potong",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 748,
+      "id_user": 25832,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Sudirman Baco, M.Sc.",
+      "nidn": "0031126449",
+      "nip": "196412311989031025",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "29db2047-00e6-40a8-9b8c-9c30ae45ade8",
+      "pivot": {
+        "id_kelas_kuliah": 119128,
+        "id_dosen": 748
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2034,
+      "id_user": 19038,
+      "id_prodi": 51,
+      "nama": "Dr. Muhammad Hatta, S.Pt.,M.Si.",
+      "nidn": "0031126926",
+      "nip": "196912312005011013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "47705cb4-2f17-4bc9-9f91-597c90a7c68c",
+      "pivot": {
+        "id_kelas_kuliah": 119128,
+        "id_dosen": 2034
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2403,
+      "id_user": 15834,
+      "id_prodi": 51,
+      "nama": "Dr. Zulkharnaim, S.Pt., M.Si",
+      "nidn": "0922048502",
+      "nip": "198504222015041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ca1657ce-4455-4062-9cff-21aed3a105b0",
+      "pivot": {
+        "id_kelas_kuliah": 119128,
+        "id_dosen": 2403
+      }
+    }
+  ]
+}

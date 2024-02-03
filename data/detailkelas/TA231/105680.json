@@ -1,0 +1,45 @@
+{
+  "id_prodi": 218,
+  "nama_prodi": "TEKNOLOGI PRODUKSI TERNAK - D4",
+  "id_prodi_semester": 2552,
+  "idnumber_sikola": "44640.105680.218",
+  "shortname_sikola": "TA231-105680",
+  "kode_matkul": "23U01110802",
+  "nama_matkul": "Pendidikan Kewarganegaraan",
+  "nama_kelas": "Kewarganegaraan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1649,
+      "id_user": 34056,
+      "id_prodi": 25,
+      "nama": "Rahmatullah, SIP., M.Si.",
+      "nidn": "0013057706",
+      "nip": "197705132003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57b1ba60-23f6-4cc1-8b62-6ea81407c3c4",
+      "pivot": {
+        "id_kelas_kuliah": 105680,
+        "id_dosen": 1649
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4103,
+      "id_user": null,
+      "id_prodi": 219,
+      "nama": "Drs. Nasruddin Waris, M.Si.",
+      "nidn": null,
+      "nip": "7314031210680001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105680,
+        "id_dosen": 4103
+      }
+    }
+  ]
+}

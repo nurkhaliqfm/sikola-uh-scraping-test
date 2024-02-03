@@ -1,0 +1,101 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2602,
+  "idnumber_sikola": "2477.118759.5",
+  "shortname_sikola": "TA232-118759",
+  "kode_matkul": "18B01133802",
+  "nama_matkul": "HUKUM PERUMAHAN, PERMUKIMAN, & APARTEMEN\r\n",
+  "nama_kelas": "HUKUM PERUMAHAN, PEMUKIMAN & APARTEMEN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 153714,
+      "id_user": 50001,
+      "id_prodi": 5,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUHAMMAD NA'AFIL KAMAL PUTRA",
+      "nim": "B011211013",
+      "jalan": "BTN PENGAWU BLOK C NO. 32 KOTA PALU PROV. SULAWESI TENGAH 94129",
+      "rt": 1,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "94129",
+      "nisn": "0023977306",
+      "tempat_lahir": "PALU",
+      "tanggal_lahir": "2002-07-24",
+      "telepon": "0",
+      "handphone": "082293465275",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PENGAWU",
+      "id_wilayah": "186006",
+      "nik": "7271032407020010",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nafilamu@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "27474501-f4d4-4a59-9564-fe9eac4542e4",
+      "id_registrasi_mahasiswa_pddikti": "07b3fda6-90fa-476f-b59d-aa2675c3d61f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118759,
+        "id_mahasiswa": 153714,
+        "created_at": "2024-01-29 14:56:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 896,
+      "id_user": 34097,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Farida Patittingi, S.H., M.Hum.",
+      "nidn": "0031126724",
+      "nip": "196712311991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ccf669e-87e0-4958-b39d-90be5c469ac2",
+      "pivot": {
+        "id_kelas_kuliah": 118759,
+        "id_dosen": 896
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1368,
+      "id_user": 32715,
+      "id_prodi": 5,
+      "nama": "Dr. Sri Susyanti Nur, SH., MH.",
+      "nidn": "0023116401",
+      "nip": "196411231990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0eeb229e-07c3-4b1b-a1a6-b95981ed0b51",
+      "pivot": {
+        "id_kelas_kuliah": 118759,
+        "id_dosen": 1368
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1377,
+      "id_user": 27672,
+      "id_prodi": 5,
+      "nama": "Dr. Kahar Lahae, S.H., M.Hum.",
+      "nidn": "0031126603",
+      "nip": "196612311990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9ea7702-44d7-46cc-a613-3df741381bb0",
+      "pivot": {
+        "id_kelas_kuliah": 118759,
+        "id_dosen": 1377
+      }
+    }
+  ]
+}

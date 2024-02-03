@@ -1,0 +1,140 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2530.108203.5",
+  "shortname_sikola": "TA231-108203",
+  "kode_matkul": "18B01149202",
+  "nama_matkul": "HUKUM TATA RUANG\r\n",
+  "nama_kelas": "HUKUM TATA RUANG",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 138281,
+      "id_user": 41456,
+      "id_prodi": 5,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MOH. RIFKIKAL",
+      "nim": "B011201197",
+      "jalan": "Jl. Trans Sulawesi Desa. Bahomoleo Kec. Bungku tengah Kab. Morowali Prov.  Sulawesi tengah",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "000",
+      "kode_pos": "94673",
+      "nisn": "0011906198",
+      "tempat_lahir": "PALU",
+      "tanggal_lahir": "2001-01-06",
+      "telepon": "082210215276",
+      "handphone": "082194474846",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BAHOMOLEO",
+      "id_wilayah": "180000",
+      "nik": "7206050601010003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "mohrifkikal@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "fd934822-c241-4992-8cc5-4fe7d0922dc0",
+      "id_registrasi_mahasiswa_pddikti": "704c417d-01af-4e09-8900-c4df75b09a23",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108203,
+        "id_mahasiswa": 138281,
+        "created_at": "2023-08-03 12:45:27"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 7832,
+      "id_user": 21023,
+      "id_prodi": 5,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Sahid Mulfikri",
+      "nim": "B011191048",
+      "jalan": "Jalan Muhammadia Ujung Baru Polman, Sulawesi Barar",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "91352",
+      "nisn": "B011191047",
+      "tempat_lahir": "Sidodadi",
+      "tanggal_lahir": "2000-06-24",
+      "telepon": "0",
+      "handphone": "081340672869",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Sidodadi",
+      "id_wilayah": "330304",
+      "nik": "7604032406000008",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "smulfikri@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b262b124-5315-4291-9de3-54a899f06171",
+      "id_registrasi_mahasiswa_pddikti": "982ec013-773c-4280-8b6f-80466b31444b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108203,
+        "id_mahasiswa": 7832,
+        "created_at": "2023-08-20 21:12:04"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 755,
+      "id_user": 34196,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Muh. Yunus, SH., M.Si.",
+      "nidn": "0001085703",
+      "nip": "195708011985031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "756ecbf6-f7db-4d18-8cd8-61cb772904bf",
+      "pivot": {
+        "id_kelas_kuliah": 108203,
+        "id_dosen": 755
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 685,
+      "id_user": 34166,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Syamsul Bachri, SH., MS.",
+      "nidn": "0020045403",
+      "nip": "195404201981031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "afc96815-43df-438a-9c56-7fa82246943f",
+      "pivot": {
+        "id_kelas_kuliah": 108203,
+        "id_dosen": 685
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1590,
+      "id_user": 34082,
+      "id_prodi": 5,
+      "nama": "Dr. Zulkifli Aspan, SH., MH.",
+      "nidn": "0011076808",
+      "nip": "196807112003121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "757f7c6c-17fd-4fde-bf77-5fef19c98ce3",
+      "pivot": {
+        "id_kelas_kuliah": 108203,
+        "id_dosen": 1590
+      }
+    }
+  ]
+}

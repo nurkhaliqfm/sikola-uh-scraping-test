@@ -1,0 +1,77 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43241.119186.78",
+  "shortname_sikola": "TA232-119186",
+  "kode_matkul": "22I02213803",
+  "nama_matkul": "Perencanaan Produksi dan Persediaan dalam Agribisnis",
+  "nama_kelas": "Perencanaan Produksi dan Persediaan dalam Agribisnis",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1248,
+      "id_user": 15161,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Muh. Ridwan, S.Pt., M.Si., IPU",
+      "nidn": "0016077601",
+      "nip": "197606162000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f3b0f20e-890c-420d-8079-e67a9723a54f",
+      "pivot": {
+        "id_kelas_kuliah": 119186,
+        "id_dosen": 1248
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1136,
+      "id_user": 34557,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Syahriadi Kadir, M.Si.",
+      "nidn": "0008046705",
+      "nip": "196704081990031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "88bd8468-5455-41ed-ac66-78f7900ade52",
+      "pivot": {
+        "id_kelas_kuliah": 119186,
+        "id_dosen": 1136
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1458,
+      "id_user": 22874,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Aslina Asnawi, S.Pt., M.Si., IPM, ASEAN Eng.",
+      "nidn": "0018077601",
+      "nip": "197508062001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "26287a6e-586b-4187-ac68-9ad368aa41f1",
+      "pivot": {
+        "id_kelas_kuliah": 119186,
+        "id_dosen": 1458
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1749,
+      "id_user": 9375,
+      "id_prodi": 51,
+      "nama": "Vidyahwati Tenrisanna, S.Pt., M.Ec., PhD",
+      "nidn": "0031087501",
+      "nip": "197508311999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "69986416-35e5-4e0f-a894-fe308a53c5c3",
+      "pivot": {
+        "id_kelas_kuliah": 119186,
+        "id_dosen": 1749
+      }
+    }
+  ]
+}

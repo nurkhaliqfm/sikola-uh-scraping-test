@@ -1,0 +1,61 @@
+{
+  "id_prodi": 66,
+  "nama_prodi": "ILMU KELAUTAN - S1",
+  "id_prodi_semester": 2414,
+  "idnumber_sikola": "44923.112280.66",
+  "shortname_sikola": "TA231-112280",
+  "kode_matkul": "23L01131103",
+  "nama_matkul": "Manajemen Marikultur (P)",
+  "nama_kelas": "Manajemen Marikultur (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1082,
+      "id_user": 18375,
+      "id_prodi": 66,
+      "nama": "Dr. Ir. Syafiuddin, M.Si.",
+      "nidn": "0020016601",
+      "nip": "196601201991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "23fa6611-4310-4596-b984-027599d0796e",
+      "pivot": {
+        "id_kelas_kuliah": 112280,
+        "id_dosen": 1082
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1028,
+      "id_user": 9931,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir. Zainuddin, M.Si.",
+      "nidn": "0021076402",
+      "nip": "196407211991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c8f111f5-48d0-4088-8e9f-acebe1697034",
+      "pivot": {
+        "id_kelas_kuliah": 112280,
+        "id_dosen": 1028
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2132,
+      "id_user": 33367,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Andi Niartiningsih, MP.",
+      "nidn": "0001126104",
+      "nip": "196112011987032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "59f00861-c8b6-447e-9f64-b4c507bd8d23",
+      "pivot": {
+        "id_kelas_kuliah": 112280,
+        "id_dosen": 2132
+      }
+    }
+  ]
+}

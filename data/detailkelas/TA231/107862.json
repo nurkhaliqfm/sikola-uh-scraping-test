@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34895.107862.168",
+  "shortname_sikola": "TA231-107862",
+  "kode_matkul": "18D04320204",
+  "nama_matkul": "PENELITIAN DAN SEMINAR DISERTASI II",
+  "nama_kelas": "Penelitian dan Seminar Disertasi II (Muhammad Zuchry M.)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117079,
+      "id_user": 24309,
+      "id_prodi": 168,
+      "angkatan": 2019,
+      "nama_mahasiswa": "MUHAMMAD ZUCHRY M",
+      "nim": "D043191003",
+      "jalan": "BTN Minasa Upa blok N10 No.2",
+      "rt": 4,
+      "rw": 13,
+      "dusun": "Gunung sari",
+      "kode_pos": "90221",
+      "nisn": "D043191003",
+      "tempat_lahir": "Majene",
+      "tanggal_lahir": "1970-08-03",
+      "telepon": "0",
+      "handphone": "081355111732",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Gunung sari",
+      "id_wilayah": "196013",
+      "nik": "7371130308700009",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 24309,
+      "kode_status": "A",
+      "email": "zuchry70@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9fa288a6-44e8-45fd-8c2a-5842d8956bd3",
+      "id_registrasi_mahasiswa_pddikti": "7b3ea8a1-3fbe-40dc-b760-fa9fa3caf48f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107862,
+        "id_mahasiswa": 117079,
+        "created_at": "2023-08-04 09:10:44"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1052,
+      "id_user": 31904,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Ilyas Renreng, MT.",
+      "nidn": "0014095703",
+      "nip": "195709141987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "13e3ec92-3db0-46f0-836a-0fd100729d52",
+      "pivot": {
+        "id_kelas_kuliah": 107862,
+        "id_dosen": 1052
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2308,
+      "id_user": 19116,
+      "id_prodi": 12,
+      "nama": "Dr. Hairul Arsyad, ST.,MT.",
+      "nidn": "0022037505",
+      "nip": "197503222002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c2d4c46-88cb-4f41-925c-123ed7364600",
+      "pivot": {
+        "id_kelas_kuliah": 107862,
+        "id_dosen": 2308
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1605,
+      "id_user": 26206,
+      "id_prodi": 12,
+      "nama": "Dr. Eng Lukmanul Hakim Arma, ST, MT",
+      "nidn": "0015047401",
+      "nip": "197404151999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b7a1de71-f97d-4379-94ab-2fe4655e92be",
+      "pivot": {
+        "id_kelas_kuliah": 107862,
+        "id_dosen": 1605
+      }
+    }
+  ]
+}

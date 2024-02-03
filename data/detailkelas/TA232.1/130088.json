@@ -1,0 +1,52 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2650,
+  "idnumber_sikola": "41850.130088.71",
+  "shortname_sikola": "TA232-130088",
+  "kode_matkul": "21M03120603",
+  "nama_matkul": "Ekologi Hutan",
+  "nama_kelas": "Ekologi Hutan ( B )",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 356545,
+      "id_user": 71085,
+      "id_prodi": 71,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUH. WARDANI SYAH PUTRA",
+      "nim": "M011221184",
+      "jalan": "PASONGKEN  KAB. ENREKANG  PROV. SULAWESI SELATAN 90111",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "Pasongken",
+      "kode_pos": "90111",
+      "nisn": "0026898783",
+      "tempat_lahir": "PASONGKEN",
+      "tanggal_lahir": "2003-01-21",
+      "telepon": "0",
+      "handphone": "082225615498",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BUNTU MONDONG",
+      "id_wilayah": "191610",
+      "nik": "7316102101030003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "putrawansyah54@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "475e96e8-5d46-4187-8779-772811f2d6e1",
+      "id_registrasi_mahasiswa_pddikti": "af744af2-88de-4e07-a8ff-f02895662e13",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 130088,
+        "id_mahasiswa": 356545,
+        "created_at": "2024-02-02 13:52:39"
+      }
+    }
+  ],
+  "dosens": []
+}

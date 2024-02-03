@@ -1,0 +1,61 @@
+{
+  "id_prodi": 69,
+  "nama_prodi": "PEMANF. S. DAYA PERIKANAN - S1",
+  "id_prodi_semester": 2417,
+  "idnumber_sikola": "47048.112122.69",
+  "shortname_sikola": "TA231-112122",
+  "kode_matkul": "23L05131903",
+  "nama_matkul": "Penangkapan Ikan Berbasis Budidaya",
+  "nama_kelas": "Penangkapan Ikan Berbasis Budidaya (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1719,
+      "id_user": 24235,
+      "id_prodi": 69,
+      "nama": "Dr. Ir. Andi Assir, M.Sc.",
+      "nidn": "0011076203",
+      "nip": "196207111988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8091f874-3d8a-49d4-959d-358bcf9b5b1a",
+      "pivot": {
+        "id_kelas_kuliah": 112122,
+        "id_dosen": 1719
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 734,
+      "id_user": 10271,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Najamuddin, M.Sc.",
+      "nidn": "0001076003",
+      "nip": "196007011986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ee5e972a-e0dc-48d7-bca8-1fffa8d6e73b",
+      "pivot": {
+        "id_kelas_kuliah": 112122,
+        "id_dosen": 734
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2358,
+      "id_user": 19502,
+      "id_prodi": 68,
+      "nama": "Dr. Marlina Achmad, S.Pi. M.Si",
+      "nidn": "0006048301",
+      "nip": "198304062005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b14836e-02ef-4a32-94a8-d4c5abe1c7fe",
+      "pivot": {
+        "id_kelas_kuliah": 112122,
+        "id_dosen": 2358
+      }
+    }
+  ]
+}

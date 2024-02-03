@@ -1,0 +1,61 @@
+{
+  "id_prodi": 190,
+  "nama_prodi": "SOSIOLOGI - S3",
+  "id_prodi_semester": 2757,
+  "idnumber_sikola": "35847.122913.190",
+  "shortname_sikola": "TA232-122913",
+  "kode_matkul": "20E04310303",
+  "nama_matkul": "SEMINAR ISU-ISU SOSIAL DAN PEMBANGUNAN",
+  "nama_kelas": "Reguler I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 781,
+      "id_user": 34330,
+      "id_prodi": 28,
+      "nama": "Prof. Dr.  Andi Alimuddin, M.Si.",
+      "nidn": "0018016208",
+      "nip": "196201181987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0dd13887-a5b2-49bd-92d7-d13c3d64a508",
+      "pivot": {
+        "id_kelas_kuliah": 122913,
+        "id_dosen": 781
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1154,
+      "id_user": 34099,
+      "id_prodi": 29,
+      "nama": "Dr. Muh. Iqbal Latief, M.Si",
+      "nidn": "0016106505",
+      "nip": "196510161990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7059a033-138f-4d05-8198-4f834adf3af7",
+      "pivot": {
+        "id_kelas_kuliah": 122913,
+        "id_dosen": 1154
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1771,
+      "id_user": 18445,
+      "id_prodi": 29,
+      "nama": "Dr. Sakaria, S.Sos., M.Si.",
+      "nidn": "0030016905",
+      "nip": "196901302006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1cc41b0-04d2-4a8b-a2d2-ce65ed41f2bd",
+      "pivot": {
+        "id_kelas_kuliah": 122913,
+        "id_dosen": 1771
+      }
+    }
+  ]
+}

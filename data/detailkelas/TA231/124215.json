@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46520.124215.50",
+  "shortname_sikola": "TA231-124215",
+  "kode_matkul": "23U02130102",
+  "nama_matkul": "Komunikasi dan kerjasama",
+  "nama_kelas": "Komunikasi dan Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1029,
+      "id_user": 16506,
+      "id_prodi": 50,
+      "nama": "Dr.  Eva Yohannes, M.Si.",
+      "nidn": "0017026101",
+      "nip": "196102171986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "078b001d-4f7d-4fdf-8f41-06d67b295224",
+      "pivot": {
+        "id_kelas_kuliah": 124215,
+        "id_dosen": 1029
+      }
+    }
+  ]
+}

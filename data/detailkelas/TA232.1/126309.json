@@ -1,0 +1,29 @@
+{
+  "id_prodi": 13,
+  "nama_prodi": "TEKNIK INDUSTRI - S1",
+  "id_prodi_semester": 2609,
+  "idnumber_sikola": "46500.126309.13",
+  "shortname_sikola": "TA232-126309",
+  "kode_matkul": "23U02133120",
+  "nama_matkul": "Pengembangan Kreativitas dan Inovasi",
+  "nama_kelas": "Pengembangan Krativitas dan Inovasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1707,
+      "id_user": 26764,
+      "id_prodi": 13,
+      "nama": "Dr. Eng. Ir. Irwan Setiawan, ST. MT",
+      "nidn": "0002067605",
+      "nip": "197606022005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8957f6ec-09b3-47b5-b522-d07e7490eee4",
+      "pivot": {
+        "id_kelas_kuliah": 126309,
+        "id_dosen": 1707
+      }
+    }
+  ]
+}

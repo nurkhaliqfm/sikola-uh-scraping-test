@@ -1,0 +1,45 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "45466.111291.19",
+  "shortname_sikola": "TA231-111291",
+  "kode_matkul": "23D05110102",
+  "nama_matkul": "Pengantar Arsitektur",
+  "nama_kelas": "Introduction to Architecture",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 111291,
+        "id_dosen": 1476
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2547,
+      "id_user": 28606,
+      "id_prodi": 19,
+      "nama": "Andi Karina Deapati, S.Ars., M.T.",
+      "nidn": "0019078707",
+      "nip": "198707192019032012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b4c9806-77aa-4f21-b60e-ca6e7a9df4c0",
+      "pivot": {
+        "id_kelas_kuliah": 111291,
+        "id_dosen": 2547
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2512,
+  "idnumber_sikola": "37035.106807.175",
+  "shortname_sikola": "TA231-106807",
+  "kode_matkul": "19G01212902",
+  "nama_matkul": "Mikrobiologi Tanah",
+  "nama_kelas": "Mikrobiologi Tanah (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1251,
+      "id_user": 23371,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Muh. Jayadi, MP.",
+      "nidn": "0026095901",
+      "nip": "195909261986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6bc3b874-c874-4c1d-912e-fbebbc6ff878",
+      "pivot": {
+        "id_kelas_kuliah": 106807,
+        "id_dosen": 1251
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1486,
+      "id_user": 20248,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Burhanuddin Rasyid, M.Sc",
+      "nidn": "0021076401",
+      "nip": "196407211990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ed79384-f4ab-4d47-94ba-844afd02025c",
+      "pivot": {
+        "id_kelas_kuliah": 106807,
+        "id_dosen": 1486
+      }
+    }
+  ]
+}

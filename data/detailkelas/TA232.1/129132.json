@@ -1,0 +1,29 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28194.129132.102",
+  "shortname_sikola": "TA232-129132",
+  "kode_matkul": "18P06220601",
+  "nama_matkul": "Stem Cell Biology\r\n",
+  "nama_kelas": "Stem Cell Biology (P) (BBM-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1629,
+      "id_user": 34353,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Marhaen Hardjo, M.Biomed.",
+      "nidn": "0018126703",
+      "nip": "196712121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b51e505e-e114-4f69-ac4c-dce854dbb848",
+      "pivot": {
+        "id_kelas_kuliah": 129132,
+        "id_dosen": 1629
+      }
+    }
+  ]
+}

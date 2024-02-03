@@ -1,0 +1,45 @@
+{
+  "id_prodi": 227,
+  "nama_prodi": "PPDS ANESTESIOLOGI  DAN TERAPI (Sp2)",
+  "id_prodi_semester": 2791,
+  "idnumber_sikola": "39959.123835.227",
+  "shortname_sikola": "TA232-123835",
+  "kode_matkul": "20C01820702",
+  "nama_matkul": "Manajemen Sistem Kesehatan Dan Pasien Safety",
+  "nama_kelas": "Manajemen Sistem Kesehatan dan Pasien Safety-KIC 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1503,
+      "id_user": 34598,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Syafri Kamsul Arif, Sp.An., KIC-KAKV",
+      "nidn": "0024056707",
+      "nip": "196705241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fc2ac18b-1aeb-49cb-b992-f7f6ba7651e5",
+      "pivot": {
+        "id_kelas_kuliah": 123835,
+        "id_dosen": 1503
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2642,
+      "id_user": 34605,
+      "id_prodi": 128,
+      "nama": "dr. Faisal Muchtar, Sp.An-KIC",
+      "nidn": null,
+      "nip": "197708132008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123835,
+        "id_dosen": 2642
+      }
+    }
+  ]
+}

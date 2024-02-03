@@ -1,0 +1,85 @@
+{
+  "id_prodi": 216,
+  "nama_prodi": "TEKNIK PERTAMBANGAN -S2",
+  "id_prodi_semester": 2550,
+  "idnumber_sikola": "38009.105624.216",
+  "shortname_sikola": "TA231-105624",
+  "kode_matkul": "20D11211102",
+  "nama_matkul": "Mekanika Fluida dalam Batuan",
+  "nama_kelas": "Mekanika Fluida dalam Batuan Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423791,
+      "id_user": 82090,
+      "id_prodi": 216,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FUAD M. ZULQARNAIN",
+      "nim": "D112231016",
+      "jalan": "JL. DAHLIA 3 NO. 3",
+      "rt": 2,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "91921",
+      "nisn": "9983316560",
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "1997-11-24",
+      "telepon": "0471325552",
+      "handphone": "082187567800",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Kelurahan Tompotikka",
+      "id_wilayah": "196201",
+      "nik": "7373012411970001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fuadzulqarnain04@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8ab83d0d-7561-4f96-97f0-338711540709",
+      "id_registrasi_mahasiswa_pddikti": "cad7d15a-4646-4726-ab1c-6961ab5a5824",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105624,
+        "id_mahasiswa": 423791,
+        "created_at": "2023-08-03 21:15:10"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1220,
+      "id_user": 22762,
+      "id_prodi": 22,
+      "nama": "Dr. Ir.  Muhammad Ramli, MT.",
+      "nidn": "0018076802",
+      "nip": "196807181993091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "822fba77-28b5-4e31-94a5-8170fdaa0d14",
+      "pivot": {
+        "id_kelas_kuliah": 105624,
+        "id_dosen": 1220
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1943,
+      "id_user": 19605,
+      "id_prodi": 22,
+      "nama": "Dr. Eng. Ir. Purwanto, ST., MT.",
+      "nidn": "0028117102",
+      "nip": "197111282005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a57ecd09-e99e-43f8-a928-5b2708438168",
+      "pivot": {
+        "id_kelas_kuliah": 105624,
+        "id_dosen": 1943
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34734.112818.165",
+  "shortname_sikola": "TA231-112818",
+  "kode_matkul": "18D02330302",
+  "nama_matkul": "UJIAN PROMOSI",
+  "nama_kelas": "UJIAN PROMOSI (MUH. AWALUDDIN HAMDY)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 116989,
+      "id_user": 27010,
+      "id_prodi": 165,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MUHAMMAD AWALUDDIN HAMDY",
+      "nim": "D023181001",
+      "jalan": "Poros BTP Perum Nusa Harapan Permai (NHP) Cluster 3 Mini Blok A10 Nomor 12",
+      "rt": 2,
+      "rw": 2,
+      "dusun": "Katimbang",
+      "kode_pos": "90234",
+      "nisn": null,
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "1970-08-07",
+      "telepon": "085824410901",
+      "handphone": "081355701708",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Katimbang",
+      "id_wilayah": "196011",
+      "nik": "7371070708700004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "awal45_hamdy@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a7904220-1891-41d3-9696-a576ad02256c",
+      "id_registrasi_mahasiswa_pddikti": "47ca4475-b878-4a67-8017-b732e7d50f31",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112818,
+        "id_mahasiswa": 116989,
+        "created_at": "2024-01-11 17:28:44"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 112818,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 112818,
+        "id_dosen": 1476
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1227,
+      "id_user": 17220,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Rosady Mulyadi, ST., MT.",
+      "nidn": "0010087001",
+      "nip": "197008101998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c5ca569-9daf-42b2-863d-dbaa2c1e7189",
+      "pivot": {
+        "id_kelas_kuliah": 112818,
+        "id_dosen": 1227
+      }
+    }
+  ]
+}

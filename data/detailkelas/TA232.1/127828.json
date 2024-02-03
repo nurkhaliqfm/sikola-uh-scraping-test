@@ -1,0 +1,45 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26275.127828.80",
+  "shortname_sikola": "TA232-127828",
+  "kode_matkul": "18P02213102",
+  "nama_matkul": "Ekonomi Politik\r\n",
+  "nama_kelas": "Ekonomi Politik (P) (PPW/MP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1322,
+      "id_user": 33569,
+      "id_prodi": 1,
+      "nama": "Drs. Muhammad Yusri Zamhuri, MA., Ph.D",
+      "nidn": "0006086113",
+      "nip": "196108061989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c191fe7a-125f-414c-8cf7-7a5ec2c86fb8",
+      "pivot": {
+        "id_kelas_kuliah": 127828,
+        "id_dosen": 1322
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1198,
+      "id_user": 34416,
+      "id_prodi": 1,
+      "nama": "Dr. Anas Iswanto Anwar, SE., MA.",
+      "nidn": "0016056301",
+      "nip": "196305161990031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "685b5210-5286-4007-a7a7-a0a5e2063740",
+      "pivot": {
+        "id_kelas_kuliah": 127828,
+        "id_dosen": 1198
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2646,
+  "idnumber_sikola": "45453.128367.67",
+  "shortname_sikola": "TA232-128367",
+  "kode_matkul": "23L02121602",
+  "nama_matkul": "Hukum dan Perundangan-undangan",
+  "nama_kelas": "Hukum dan Perundangan-undangan (Kelas B)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 353264,
+      "id_user": 67750,
+      "id_prodi": 67,
+      "angkatan": 2022,
+      "nama_mahasiswa": "INSYIRAH NAJWA",
+      "nim": "L021221047",
+      "jalan": "KOMP. BTN. ANA GOWA BLOK B1 NO. 15  KAB. GOWA  PROV. SULAWESI SELATAN 92161",
+      "rt": 1,
+      "rw": 4,
+      "dusun": "Ana gowa",
+      "kode_pos": "92161",
+      "nisn": "0043437232",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-04-20",
+      "telepon": "0",
+      "handphone": "0895385558095",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BONTOALA",
+      "id_wilayah": "190303",
+      "nik": "7306076004040004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "insyirahnjwa20@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "443ebdc3-cdbe-4144-a6eb-76d46358d114",
+      "id_registrasi_mahasiswa_pddikti": "dd4a3721-cd80-471e-95e2-759c31fb75d0",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128367,
+        "id_mahasiswa": 353264,
+        "created_at": "2024-01-25 10:45:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1745,
+      "id_user": 12683,
+      "id_prodi": 66,
+      "nama": "Dr. Ir. M. Rijal Idrus, M.Sc.",
+      "nidn": "0019126504",
+      "nip": "196512191990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1124dd3-6d4c-40ba-8a6e-db59abf3d64c",
+      "pivot": {
+        "id_kelas_kuliah": 128367,
+        "id_dosen": 1745
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2132,
+      "id_user": 33367,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Andi Niartiningsih, MP.",
+      "nidn": "0001126104",
+      "nip": "196112011987032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "59f00861-c8b6-447e-9f64-b4c507bd8d23",
+      "pivot": {
+        "id_kelas_kuliah": 128367,
+        "id_dosen": 2132
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 128367,
+        "id_dosen": 779
+      }
+    }
+  ]
+}

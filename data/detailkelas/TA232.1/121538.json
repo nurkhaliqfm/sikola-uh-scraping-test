@@ -1,0 +1,45 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "45555.121538.19",
+  "shortname_sikola": "TA232-121538",
+  "kode_matkul": "23D05120303",
+  "nama_matkul": "BIM (Building Information Modeling)",
+  "nama_kelas": "BIM (Building Information Modeling) Kls Inter",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 121538,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2547,
+      "id_user": 28606,
+      "id_prodi": 19,
+      "nama": "Andi Karina Deapati, S.Ars., M.T.",
+      "nidn": "0019078707",
+      "nip": "198707192019032012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b4c9806-77aa-4f21-b60e-ca6e7a9df4c0",
+      "pivot": {
+        "id_kelas_kuliah": 121538,
+        "id_dosen": 2547
+      }
+    }
+  ]
+}

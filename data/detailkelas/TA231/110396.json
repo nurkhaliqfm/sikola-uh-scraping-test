@@ -1,0 +1,45 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2453,
+  "idnumber_sikola": "29095.110396.109",
+  "shortname_sikola": "TA231-110396",
+  "kode_matkul": "18P07210402",
+  "nama_matkul": "Gender dan Lingkungan",
+  "nama_kelas": "Gender dan Lingkungan (W) (Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1301,
+      "id_user": 22865,
+      "id_prodi": 152,
+      "nama": "Dr. Ir.  Novaty Eny Dungga, MP.",
+      "nidn": "0005115904",
+      "nip": "195911051987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "14934fe0-fbfd-4254-ac9a-56d4ea4c37dd",
+      "pivot": {
+        "id_kelas_kuliah": 110396,
+        "id_dosen": 1301
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 954,
+      "id_user": 23585,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Hazairin Zubair, MS.",
+      "nidn": "0028085403",
+      "nip": "195408281983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "140a85fa-2f44-4b98-80e2-f14c740ad2ce",
+      "pivot": {
+        "id_kelas_kuliah": 110396,
+        "id_dosen": 954
+      }
+    }
+  ]
+}

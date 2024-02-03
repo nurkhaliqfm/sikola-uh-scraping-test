@@ -1,0 +1,61 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2426,
+  "idnumber_sikola": "26109.115428.79",
+  "shortname_sikola": "TA231-115428",
+  "kode_matkul": "19L08310703",
+  "nama_matkul": "Pengelolaan Sumberdaya Perairan",
+  "nama_kelas": "Pengelolaan Sumberdaya Perairan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 689,
+      "id_user": 14145,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Sharifuddin Bin Andy Omar, M.Sc",
+      "nidn": "0023025902",
+      "nip": "195902231988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e572e6bf-f8ad-4c26-a255-43264256907c",
+      "pivot": {
+        "id_kelas_kuliah": 115428,
+        "id_dosen": 689
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 768,
+      "id_user": 25703,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Chair Rani, M.Si.",
+      "nidn": "0002046801",
+      "nip": "196804021992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22708aa6-9cb0-4d32-91b3-7f4d28f214a5",
+      "pivot": {
+        "id_kelas_kuliah": 115428,
+        "id_dosen": 768
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1371,
+      "id_user": 27421,
+      "id_prodi": 67,
+      "nama": "Dr. Ir.  Nadiarti, M.Sc.",
+      "nidn": "0006016801",
+      "nip": "196801061991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "367e51ef-39d7-494a-b1a6-095375dcaba4",
+      "pivot": {
+        "id_kelas_kuliah": 115428,
+        "id_dosen": 1371
+      }
+    }
+  ]
+}

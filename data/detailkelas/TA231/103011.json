@@ -1,0 +1,69 @@
+{
+  "id_prodi": 170,
+  "nama_prodi": "ILMU KEPERAWATAN - S2",
+  "id_prodi_semester": 2507,
+  "idnumber_sikola": "34980.103011.170",
+  "shortname_sikola": "TA231-103011",
+  "kode_matkul": "19R06220502",
+  "nama_matkul": "SEMINAR PROPOSAL TESIS",
+  "nama_kelas": "PROPOSAL Ak.2020",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 137845,
+      "id_user": 35346,
+      "id_prodi": 170,
+      "angkatan": 2020,
+      "nama_mahasiswa": "VERONIKA",
+      "nim": "R012201001",
+      "jalan": "FRANS PASANDE",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "91811",
+      "nisn": null,
+      "tempat_lahir": "LAPANDAN",
+      "tanggal_lahir": "1985-08-12",
+      "telepon": "0",
+      "handphone": "082354133818",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "lapandan",
+      "id_wilayah": "191804",
+      "nik": "7318055208850003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "vpaembonan@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b4a49f8c-5187-4d66-a38e-ecd7ffdd31db",
+      "id_registrasi_mahasiswa_pddikti": "ec82ab8b-0e0c-4f96-a71e-c048c948708c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103011,
+        "id_mahasiswa": 137845,
+        "created_at": "2023-08-14 14:45:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2373,
+      "id_user": 34561,
+      "id_prodi": 8,
+      "nama": "Dr. Erfina, S.Kep.,NS.,M.Kep.",
+      "nidn": "0015048301",
+      "nip": "198304152010122006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0c2ce8d5-1fe1-455a-8d3f-94fed9fb0712",
+      "pivot": {
+        "id_kelas_kuliah": 103011,
+        "id_dosen": 2373
+      }
+    }
+  ]
+}

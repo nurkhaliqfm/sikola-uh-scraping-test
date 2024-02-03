@@ -1,0 +1,117 @@
+{
+  "id_prodi": 20,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH KOTA - S1",
+  "id_prodi_semester": 2385,
+  "idnumber_sikola": "47449.112487.20",
+  "shortname_sikola": "TA231-112487",
+  "kode_matkul": "23D10131602",
+  "nama_matkul": "Perencanaan dan Perancangan Kawasan Wisata",
+  "nama_kelas": "Perencanaan dan Perancangan Kawasan Wisata",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 156876,
+      "id_user": 53348,
+      "id_prodi": 20,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MEYSHILIONY CLARA LITHA DIZERLIUS",
+      "nim": "D101211051",
+      "jalan": "JALAN DR. SUTOMO NO.39",
+      "rt": 5,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "98817",
+      "nisn": "0038434896",
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "2003-05-17",
+      "telepon": "0",
+      "handphone": "081240298428",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "NABARUA",
+      "id_wilayah": "250908",
+      "nik": "9104015705030005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "meyyshilitha17@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2cfa984b-d08b-45c9-a68e-ec4f6e761cd8",
+      "id_registrasi_mahasiswa_pddikti": "e39a4ae5-50c2-4bba-8865-a0eefcac4cbc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112487,
+        "id_mahasiswa": 156876,
+        "created_at": "2023-08-04 20:45:16"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1836,
+      "id_user": 9333,
+      "id_prodi": 20,
+      "nama": "Dr. Eng. Abdul Rachman Rasyid, ST., M.Si.",
+      "nidn": "0006107409",
+      "nip": "197410062008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24941d81-8e40-4121-8cd6-448f8b0762b8",
+      "pivot": {
+        "id_kelas_kuliah": 112487,
+        "id_dosen": 1836
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2317,
+      "id_user": 45075,
+      "id_prodi": 20,
+      "nama": "Marly Valenti Patandianan, ST., MT., Ph.D",
+      "nidn": "0028037304",
+      "nip": "197303282006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e6a01767-e484-4725-92b0-f5252d5dedde",
+      "pivot": {
+        "id_kelas_kuliah": 112487,
+        "id_dosen": 2317
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1711,
+      "id_user": 31970,
+      "id_prodi": 20,
+      "nama": "Dr. Wiwik Wahidah Osman, ST., MT.",
+      "nidn": "0022106801",
+      "nip": "196810222000032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d9afff7-eb1c-4a72-91b8-2e92f97dde10",
+      "pivot": {
+        "id_kelas_kuliah": 112487,
+        "id_dosen": 1711
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1972,
+      "id_user": 45180,
+      "id_prodi": 20,
+      "nama": "Sri Aliah Ekawati, ST., MT",
+      "nidn": "0024088502",
+      "nip": "198508242012122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "564b69f8-2e4e-4c3a-a6c9-7d86c2afddcb",
+      "pivot": {
+        "id_kelas_kuliah": 112487,
+        "id_dosen": 1972
+      }
+    }
+  ]
+}

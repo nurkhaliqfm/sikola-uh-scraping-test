@@ -1,0 +1,45 @@
+{
+  "id_prodi": 136,
+  "nama_prodi": "TEKNIK PERKAPALAN - S2",
+  "id_prodi_semester": 2709,
+  "idnumber_sikola": "31719.124602.136",
+  "shortname_sikola": "TA232-124602",
+  "kode_matkul": "18D05210902",
+  "nama_matkul": "Perencanaan Pelabuhan",
+  "nama_kelas": "Perencanaan Pelabuhan A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 978,
+      "id_user": 19431,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. M i s l i a h, M.Str.",
+      "nidn": "0023046201",
+      "nip": "196204231988022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76dccc2f-ba31-4d05-8028-4535c5a03f6f",
+      "pivot": {
+        "id_kelas_kuliah": 124602,
+        "id_dosen": 978
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1677,
+      "id_user": 26035,
+      "id_prodi": 15,
+      "nama": "Sabaruddin Rahman, ST., MT., Ph.D.",
+      "nidn": "0019077605",
+      "nip": "197607192001121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b6649ae6-1bee-422c-895c-4c9f84e1f73a",
+      "pivot": {
+        "id_kelas_kuliah": 124602,
+        "id_dosen": 1677
+      }
+    }
+  ]
+}

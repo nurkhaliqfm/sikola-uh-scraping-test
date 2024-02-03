@@ -1,0 +1,85 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26247.125531.80",
+  "shortname_sikola": "TA232-125531",
+  "kode_matkul": "18P02210402",
+  "nama_matkul": "Morfologi Wilayah\r\n",
+  "nama_kelas": "Morfologi Wilayah (W) (PPW Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427755,
+      "id_user": 86282,
+      "id_prodi": 80,
+      "angkatan": 2023,
+      "nama_mahasiswa": "A. TENRI ANGKUMALA",
+      "nim": "P022232003",
+      "jalan": "DG. TATA RAYA NO. 2",
+      "rt": 2,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90024",
+      "nisn": "9997574352",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1999-01-16",
+      "telepon": "0",
+      "handphone": "082213517507",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BALANG BARU",
+      "id_wilayah": "196003",
+      "nik": "7602015605990003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86282,
+      "kode_status": "A",
+      "email": "tenri.angkumala@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125531,
+        "id_mahasiswa": 427755,
+        "created_at": "2024-01-28 11:28:33"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 125531,
+        "id_dosen": 1476
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3347,
+      "id_user": 85713,
+      "id_prodi": 100,
+      "nama": "Dr. Ir. A. Bachtiar Arief, M.T.",
+      "nidn": "8965110021",
+      "nip": "195903252021015001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "74691d5b-7e1c-4375-85bd-e536ba46a196",
+      "pivot": {
+        "id_kelas_kuliah": 125531,
+        "id_dosen": 3347
+      }
+    }
+  ]
+}

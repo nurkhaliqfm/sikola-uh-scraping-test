@@ -172,6 +172,43 @@ for dataIndex in range(logScraping.loc[0, "Current"], len(dataMatakulihaSikola))
             # 686
             # 687
             # 692
+            # 704
+            # 716
+            # 722
+            # 723
+            # 725
+            # 726
+            # 727
+            # 729
+            # 742
+            # 743
+            # 762
+            # 764
+            # 765
+            # 768
+            # 771
+            # 774
+            # 775
+            # 777
+            # 780
+            # 782
+            # 785
+            # 787
+            # 811
+            # 823
+            # 825
+            # 826
+            # 827
+            # 828
+            # 829
+            # 831
+            # 837
+            # 838
+            # 843
+            # 845
+            # 847
+            # 853
+            # 855,856,879,889,895,897,900
             courseExportBtn = driver.find_element(By.XPATH, f"//a[@href='{quizDownloadButton.get("href")}']")
             courseExportBtn.click()
 

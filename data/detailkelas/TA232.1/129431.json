@@ -1,0 +1,45 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "43198.129431.102",
+  "shortname_sikola": "TA232-129431",
+  "kode_matkul": "18P06217602",
+  "nama_matkul": "Farmakoterapi Berbasis Molekuler",
+  "nama_kelas": "Farmakoterapi Berbasis Molekuler (Farmako-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2374,
+      "id_user": 71683,
+      "id_prodi": 6,
+      "nama": "dr. Lia Hafiyani, M.Pharm.,Sc",
+      "nidn": "0003048703",
+      "nip": "198704032012122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1570e384-977b-4ad6-9582-49733d0ae762",
+      "pivot": {
+        "id_kelas_kuliah": 129431,
+        "id_dosen": 2374
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1809,
+      "id_user": 34316,
+      "id_prodi": 6,
+      "nama": "dr.  Yenni Yusuf, MInfectDis.",
+      "nidn": "0009028204",
+      "nip": "198202092008012011",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7098cac7-af5b-4477-bfc0-ee24c6824a12",
+      "pivot": {
+        "id_kelas_kuliah": 129431,
+        "id_dosen": 1809
+      }
+    }
+  ]
+}

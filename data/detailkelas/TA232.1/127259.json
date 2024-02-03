@@ -1,0 +1,117 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26104.127259.79",
+  "shortname_sikola": "TA232-127259",
+  "kode_matkul": "19L08310302",
+  "nama_matkul": "Filsafat Ilmu",
+  "nama_kelas": "Filsafat Ilmu",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427815,
+      "id_user": 86342,
+      "id_prodi": 79,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUSLIMIN  S.",
+      "nim": "L013232001",
+      "jalan": "JLN. KEBUN SAYUR NO.7 KOTA PAREPARE",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "91131",
+      "nisn": null,
+      "tempat_lahir": "PAREPARE",
+      "tanggal_lahir": "1969-09-04",
+      "telepon": "0",
+      "handphone": "081242100775",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "BUKIT INDAH",
+      "id_wilayah": "020819",
+      "nik": "7372040409690001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86342,
+      "kode_status": "A",
+      "email": "musliminsyarif2@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127259,
+        "id_mahasiswa": 427815,
+        "created_at": "2024-01-29 17:10:34"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 797,
+      "id_user": 12101,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Musbir, M.Sc.",
+      "nidn": "0008106510",
+      "nip": "196508101989111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b6e35324-0f63-4c95-8166-15bcdc6aae88",
+      "pivot": {
+        "id_kelas_kuliah": 127259,
+        "id_dosen": 797
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 874,
+      "id_user": 31440,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Yushinta Fujaya, M.Si.",
+      "nidn": "0023016501",
+      "nip": "196501231989032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c7a8968b-f998-46f4-83b5-12fe15484974",
+      "pivot": {
+        "id_kelas_kuliah": 127259,
+        "id_dosen": 874
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1144,
+      "id_user": 18815,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Joeharnani Tresnati, DEA.",
+      "nidn": "0007096301",
+      "nip": "196509071989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eee3075-615b-468b-a9f2-1876ed8e646b",
+      "pivot": {
+        "id_kelas_kuliah": 127259,
+        "id_dosen": 1144
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1145,
+      "id_user": 18939,
+      "id_prodi": 68,
+      "nama": "Ir. Muhammad Iqbal Djawad, M.Sc., Ph.D",
+      "nidn": "0018036701",
+      "nip": "196703181989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9b18a37-bb8f-42a9-9e67-3d969a094357",
+      "pivot": {
+        "id_kelas_kuliah": 127259,
+        "id_dosen": 1145
+      }
+    }
+  ]
+}

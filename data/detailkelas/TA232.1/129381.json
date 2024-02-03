@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28448.129381.102",
+  "shortname_sikola": "TA232-129381",
+  "kode_matkul": "18P06216501",
+  "nama_matkul": "Sitogenetik",
+  "nama_kelas": "Sitogenetik (Histo-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1457,
+      "id_user": 33828,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Rahmawati Minhajat, Ph.D., Sp.PD, K-HOM",
+      "nidn": "0018026805",
+      "nip": "196802181999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7e79898-9ba2-4005-a635-ca7db63a4aba",
+      "pivot": {
+        "id_kelas_kuliah": 129381,
+        "id_dosen": 1457
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1185,
+      "id_user": 37385,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Rina Masadah, Sp.PA.,M.Phil.DFM.",
+      "nidn": "0027046604",
+      "nip": "196704291992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e78375e-a10f-4e11-854e-2f7001e6ba12",
+      "pivot": {
+        "id_kelas_kuliah": 129381,
+        "id_dosen": 1185
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1595,
+      "id_user": 34487,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Upik A. Miskad, Ph.D., Sp.P.A(K)",
+      "nidn": "0030037403",
+      "nip": "197403302005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d75b2995-5612-4951-ba3c-8f851c187413",
+      "pivot": {
+        "id_kelas_kuliah": 129381,
+        "id_dosen": 1595
+      }
+    }
+  ]
+}

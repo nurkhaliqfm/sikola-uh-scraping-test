@@ -1,0 +1,45 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2705,
+  "idnumber_sikola": "31479.126485.132",
+  "shortname_sikola": "TA232-126485",
+  "kode_matkul": "18D03213302",
+  "nama_matkul": "PEMODELAN DAN PABRIKASI ANTENA",
+  "nama_kelas": "Teknik Telekomunikasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1054,
+      "id_user": 34386,
+      "id_prodi": 17,
+      "nama": "Elyas, S.T., M.Eng., Ph.D",
+      "nidn": "0001026406",
+      "nip": "196902011994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3347a460-6adc-4ed4-afdc-c0d70cbbbd20",
+      "pivot": {
+        "id_kelas_kuliah": 126485,
+        "id_dosen": 1054
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1981,
+      "id_user": 31207,
+      "id_prodi": 17,
+      "nama": "Merna Baharuddin, ST.,M.Tel.Eng.,Ph.D.",
+      "nidn": "0005127503",
+      "nip": "197512052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "935fd211-7d06-44ef-b04b-99b3dd9200be",
+      "pivot": {
+        "id_kelas_kuliah": 126485,
+        "id_dosen": 1981
+      }
+    }
+  ]
+}

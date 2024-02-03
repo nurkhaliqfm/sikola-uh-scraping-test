@@ -1,0 +1,45 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2663,
+  "idnumber_sikola": "26815.119842.86",
+  "shortname_sikola": "TA232-119842",
+  "kode_matkul": "18B01311002",
+  "nama_matkul": "HUKUM MASYARAKAT DAN PEMBANGUNAN\r\n",
+  "nama_kelas": "KLS B AFIRMASI KEJAKSAAN SEM II HUMAS",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1489,
+      "id_user": 34076,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Hamzah Halim, S.H., M.H., M.AP.",
+      "nidn": "0031127305",
+      "nip": "197312311999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "862e9d98-7138-4ea9-a4dc-fc6113f9d9f7",
+      "pivot": {
+        "id_kelas_kuliah": 119842,
+        "id_dosen": 1489
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1627,
+      "id_user": 34631,
+      "id_prodi": 5,
+      "nama": "Dr.  Ratnawati, SH., MH.",
+      "nidn": "0004046901",
+      "nip": "196904041998022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "026ded96-3f41-4de5-911d-13db4892922c",
+      "pivot": {
+        "id_kelas_kuliah": 119842,
+        "id_dosen": 1627
+      }
+    }
+  ]
+}

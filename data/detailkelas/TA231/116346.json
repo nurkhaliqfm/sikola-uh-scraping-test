@@ -1,0 +1,52 @@
+{
+  "id_prodi": 26,
+  "nama_prodi": "ILMU HUB. INTERNASIONAL - S1",
+  "id_prodi_semester": 2390,
+  "idnumber_sikola": "45632.116346.26",
+  "shortname_sikola": "TA231-116346",
+  "kode_matkul": "23E04110102",
+  "nama_matkul": "Pengantar Ilmu Politik",
+  "nama_kelas": "Pengantar Ilmu Politik - K",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 417087,
+      "id_user": 75283,
+      "id_prodi": 26,
+      "angkatan": 2023,
+      "nama_mahasiswa": "IAN ARDIANSYAH",
+      "nim": "E061231080",
+      "jalan": "ABDULLAH DAENG SIRUA NO.213",
+      "rt": 4,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90231",
+      "nisn": "0045250182",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-08-19",
+      "telepon": "0",
+      "handphone": "082262387869",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Karampuang",
+      "id_wilayah": "196010",
+      "nik": "7371091908040001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ianardiansyah.014@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "76fe4b2c-fd27-4e84-a67d-4cfb72659a83",
+      "id_registrasi_mahasiswa_pddikti": "3a76db4f-eee7-42a4-876e-c3e753db615e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 116346,
+        "id_mahasiswa": 417087,
+        "created_at": "2023-08-19 23:20:51"
+      }
+    }
+  ],
+  "dosens": []
+}

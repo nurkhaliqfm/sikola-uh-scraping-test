@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34728.109885.165",
+  "shortname_sikola": "TA231-109885",
+  "kode_matkul": "18D02310702",
+  "nama_matkul": "SEMINAR PROPOSAL PENELITIAN DISERTASI",
+  "nama_kelas": "SEMINAR PROPOSAL PENELTIAN DISERTASI MUH. NUH ARIFIANDI",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 146551,
+      "id_user": 45774,
+      "id_prodi": 165,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD NUH ARIFIANDI HADIPUTRA",
+      "nim": "D023202002",
+      "jalan": "JL. MELATI NO.4",
+      "rt": 1,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "93118",
+      "nisn": null,
+      "tempat_lahir": "PATALASSANG, TAKALAR",
+      "tanggal_lahir": "1980-05-19",
+      "telepon": "000",
+      "handphone": "082239608280",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Anaiwoi",
+      "id_wilayah": "206008",
+      "nik": "7471081905800002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Muh01nuh@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c658eb76-166c-41ed-b53e-da586b081f03",
+      "id_registrasi_mahasiswa_pddikti": "89240761-4e6e-423c-b386-43d70656089c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109885,
+        "id_mahasiswa": 146551,
+        "created_at": "2023-08-22 09:55:16"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1173,
+      "id_user": 32083,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Idawarni, MT.",
+      "nidn": "0001076502",
+      "nip": "196507011994032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fe5c9f9c-97d7-461c-bea3-0213c6bd1261",
+      "pivot": {
+        "id_kelas_kuliah": 109885,
+        "id_dosen": 1173
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1230,
+      "id_user": 16366,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Nurul Jamala B, MT.",
+      "nidn": "0004096407",
+      "nip": "196409041994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8e2445f0-50bf-481f-902f-009d11107045",
+      "pivot": {
+        "id_kelas_kuliah": 109885,
+        "id_dosen": 1230
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 109885,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id_prodi": 73,
+  "nama_prodi": "FARMASI - S1",
+  "id_prodi_semester": 2651,
+  "idnumber_sikola": "37763.128592.73",
+  "shortname_sikola": "TA232-128592",
+  "kode_matkul": "20N01111702",
+  "nama_matkul": "Patofisiologi",
+  "nama_kelas": "Patofisiologi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 353528,
+      "id_user": 68024,
+      "id_prodi": 73,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MARWAH NUR FAHMI M",
+      "nim": "N011221078",
+      "jalan": "SULTAN ALAUDDIN 2 LR.6 NO.160 G  KOTA MAKASSAR  PROV. SULAWESI SELATAN 90221",
+      "rt": 3,
+      "rw": 8,
+      "dusun": "-",
+      "kode_pos": "90221",
+      "nisn": "0048631086",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-03-11",
+      "telepon": "081244129004",
+      "handphone": "081244129004",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MANGASA",
+      "id_wilayah": "196003",
+      "nik": "7371105103040006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "marwahnurfahmi@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "32533a60-e333-436c-94a4-353af94d42d2",
+      "id_registrasi_mahasiswa_pddikti": "91f6c8ab-c8d6-4c59-8411-b6c980740ace",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128592,
+        "id_mahasiswa": 353528,
+        "created_at": "2024-01-13 18:28:09"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 88082,
+      "id_user": 24818,
+      "id_prodi": 73,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MARINA LEONY",
+      "nim": "N011181528",
+      "jalan": "JALAN TOA DAENG 3 NO.22, LORONG NUSA INDAH",
+      "rt": 5,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": "0002585483",
+      "tempat_lahir": "Paladan",
+      "tanggal_lahir": "2000-08-08",
+      "telepon": "0",
+      "handphone": "6281523647381",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Batua",
+      "id_wilayah": "120505",
+      "nik": "9109014808000007",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "marinaleony.00@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b7dbf5f8-bac5-409c-9599-280609fd2e47",
+      "id_registrasi_mahasiswa_pddikti": "56da5d74-7986-4429-be2b-e098a16b0d25",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128592,
+        "id_mahasiswa": 88082,
+        "created_at": "2024-01-26 11:05:15"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1203,
+      "id_user": 18138,
+      "id_prodi": 73,
+      "nama": "Usmar, S.Si.,M.Si.,Apt.",
+      "nidn": "0009017101",
+      "nip": "197101091997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d0ee2244-f086-4ef7-a018-cbc423566382",
+      "pivot": {
+        "id_kelas_kuliah": 128592,
+        "id_dosen": 1203
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2348,
+      "id_user": 58126,
+      "id_prodi": 73,
+      "nama": "Habibie, S.Si., M. Pharm. Sc., Apt",
+      "nidn": "0020098303",
+      "nip": "198309202008011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3fd27a63-1e52-4b87-821a-8a45fd49dc8b",
+      "pivot": {
+        "id_kelas_kuliah": 128592,
+        "id_dosen": 2348
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1903,
+      "id_user": 34558,
+      "id_prodi": 73,
+      "nama": "Nur Inda Yanti, S.Si., M.Si.",
+      "nidn": "0008127902",
+      "nip": "197912182006042003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d268aebb-9a4c-4544-a0fe-79f6aaac1edf",
+      "pivot": {
+        "id_kelas_kuliah": 128592,
+        "id_dosen": 1903
+      }
+    }
+  ]
+}

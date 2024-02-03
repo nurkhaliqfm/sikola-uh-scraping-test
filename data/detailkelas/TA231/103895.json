@@ -1,0 +1,61 @@
+{
+  "id_prodi": 193,
+  "nama_prodi": "PETERNAKAN - S3",
+  "id_prodi_semester": 2529,
+  "idnumber_sikola": "37443.103895.193",
+  "shortname_sikola": "TA231-103895",
+  "kode_matkul": "20I01311103",
+  "nama_matkul": "PENANGANAN LIMBAH INDUSTRI PETERNAKAN",
+  "nama_kelas": "Penanganan Limbah Industri Peternakan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1688,
+      "id_user": 14953,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Muhammad Irfan Said, S.Pt., MP., IPM, ASEAN Eng.",
+      "nidn": "0005127404",
+      "nip": "197412052006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f947a3a8-2725-4be1-86b8-a0a0d88195fb",
+      "pivot": {
+        "id_kelas_kuliah": 103895,
+        "id_dosen": 1688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1946,
+      "id_user": 25638,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Fatma, S.Pt., MP.",
+      "nidn": "0013087501",
+      "nip": "197508132002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "39d05eb4-ced8-404c-9d93-b68b7c032cf9",
+      "pivot": {
+        "id_kelas_kuliah": 103895,
+        "id_dosen": 1946
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1600,
+      "id_user": 20519,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Jamila, S.Pt., M.Si., IPM.",
+      "nidn": "0011057506",
+      "nip": "197505112003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8d5b9cf5-8cbe-41dd-8e25-ab35c865a8e4",
+      "pivot": {
+        "id_kelas_kuliah": 103895,
+        "id_dosen": 1600
+      }
+    }
+  ]
+}

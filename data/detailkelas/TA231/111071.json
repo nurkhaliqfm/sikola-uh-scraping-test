@@ -1,0 +1,172 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2419,
+  "idnumber_sikola": "39602.111071.71",
+  "shortname_sikola": "TA231-111071",
+  "kode_matkul": "20M01120403",
+  "nama_matkul": "Silvika",
+  "nama_kelas": "SILVIKA (D) Prodi Rekayasa",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 353109,
+      "id_user": 67591,
+      "id_prodi": 213,
+      "angkatan": 2022,
+      "nama_mahasiswa": "FANUEL AMBA LEMBANG",
+      "nim": "M021221073",
+      "jalan": "KANURUAN",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Kanuruan",
+      "kode_pos": "91852",
+      "nisn": "0043585756",
+      "tempat_lahir": "SAMARINDA",
+      "tanggal_lahir": "2004-03-16",
+      "telepon": "082190245487",
+      "handphone": "082190245487",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "NONONGAN SELATAN",
+      "id_wilayah": "192716",
+      "nik": "6474021603040002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fanuelambalembang16@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c9bd3883-12b5-4a63-8765-f033529abea2",
+      "id_registrasi_mahasiswa_pddikti": "4326e3c2-58df-408a-a8bd-a53844395f0e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111071,
+        "id_mahasiswa": 353109,
+        "created_at": "2023-08-04 22:44:35"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 347260,
+      "id_user": 61728,
+      "id_prodi": 213,
+      "angkatan": 2022,
+      "nama_mahasiswa": "FAKHRI ATHALLAH RAMADHAN",
+      "nim": "M021221012",
+      "jalan": "JL. INCOIRO NO.10",
+      "rt": 5,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "92983",
+      "nisn": "0038137780",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-11-11",
+      "telepon": "081282463487",
+      "handphone": "081282463487",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA NIKKEL",
+      "id_wilayah": "192605",
+      "nik": "7324021111980003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fakhriathallahramadhan2@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4934f5dd-34d0-4421-94f6-03fad33192ca",
+      "id_registrasi_mahasiswa_pddikti": "145f3ecb-de63-4d95-a048-dfe570da5cee",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111071,
+        "id_mahasiswa": 347260,
+        "created_at": "2023-08-04 23:23:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 725,
+      "id_user": 10596,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Samuel Arung Paembonan, IPU",
+      "nidn": "0015015502",
+      "nip": "195501151981021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "56eee1ad-83d5-4ff2-a1a7-3769abbb26fb",
+      "pivot": {
+        "id_kelas_kuliah": 111071,
+        "id_dosen": 725
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1090,
+      "id_user": 23723,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Syamsuddin Millang, MS..IPU",
+      "nidn": "0031126016",
+      "nip": "196006171986011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57ba18cd-049f-4136-8ba2-32b414e99e46",
+      "pivot": {
+        "id_kelas_kuliah": 111071,
+        "id_dosen": 1090
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2346,
+      "id_user": 12970,
+      "id_prodi": 71,
+      "nama": "Ir. Mukrimin, S.Hut., MP., Ph.D",
+      "nidn": "0009027802",
+      "nip": "197802092008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f41561c6-e7e3-4209-aaad-c624cf12869d",
+      "pivot": {
+        "id_kelas_kuliah": 111071,
+        "id_dosen": 2346
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3785,
+      "id_user": 60787,
+      "id_prodi": 71,
+      "nama": "Ahmad Rifqi Makkasau, S.Hut., M.Hut",
+      "nidn": "0011069502",
+      "nip": "199506112022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "7808028d-d0ab-4e06-b4aa-ea437f08e23b",
+      "pivot": {
+        "id_kelas_kuliah": 111071,
+        "id_dosen": 3785
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3429,
+      "id_user": 56691,
+      "id_prodi": 71,
+      "nama": "Budi Arty, S.Hut., M.Si.",
+      "nidn": "8978020021",
+      "nip": "199005212021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "8cc7488d-0974-441e-89c1-3244973ad21a",
+      "pivot": {
+        "id_kelas_kuliah": 111071,
+        "id_dosen": 3429
+      }
+    }
+  ]
+}

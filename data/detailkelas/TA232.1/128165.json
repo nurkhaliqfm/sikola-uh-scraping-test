@@ -1,0 +1,45 @@
+{
+  "id_prodi": 28,
+  "nama_prodi": "ILMU KOMUNIKASI - S1",
+  "id_prodi_semester": 2623,
+  "idnumber_sikola": "44841.128165.28",
+  "shortname_sikola": "TA232-128165",
+  "kode_matkul": "23E02122103",
+  "nama_matkul": "News Presenting",
+  "nama_kelas": "News Presenting (Kelas Internasional)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2546,
+      "id_user": 28921,
+      "id_prodi": 28,
+      "nama": "Sartika Sari Wardanhi DH Pasha, S.Sos., M.I.Kom",
+      "nidn": "0023118706",
+      "nip": "198711232019032010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "91862034-8261-4e2a-8a33-773e717297a4",
+      "pivot": {
+        "id_kelas_kuliah": 128165,
+        "id_dosen": 2546
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3552,
+      "id_user": 73571,
+      "id_prodi": 28,
+      "nama": "Jannisa Pascawati, S.Sos., M.I.Kom",
+      "nidn": "8979250022",
+      "nip": "199101212022076001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4a19da6d-87a3-4a87-9a2d-a1bbee5d9eb9",
+      "pivot": {
+        "id_kelas_kuliah": 128165,
+        "id_dosen": 3552
+      }
+    }
+  ]
+}

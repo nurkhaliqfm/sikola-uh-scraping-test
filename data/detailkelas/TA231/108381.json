@@ -1,0 +1,29 @@
+{
+  "id_prodi": 3,
+  "nama_prodi": "AKUNTANSI - S1",
+  "id_prodi_semester": 2370,
+  "idnumber_sikola": "48359.108381.3",
+  "shortname_sikola": "TA231-108381",
+  "kode_matkul": "23A03110103",
+  "nama_matkul": "PENGANTAR AKUNTANSI",
+  "nama_kelas": "PENGANTAR  AKUNTANSI  KELAS Z",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2052,
+      "id_user": 57094,
+      "id_prodi": 3,
+      "nama": "Afdal, S.E., M.Sc., DEc., Ak.",
+      "nidn": "0909018801",
+      "nip": "198801092015041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2bf3d8c7-751d-4f1b-adf1-410c93bfe201",
+      "pivot": {
+        "id_kelas_kuliah": 108381,
+        "id_dosen": 2052
+      }
+    }
+  ]
+}

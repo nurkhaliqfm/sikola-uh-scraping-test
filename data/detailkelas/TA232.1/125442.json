@@ -1,0 +1,45 @@
+{
+  "id_prodi": 45,
+  "nama_prodi": "MATEMATIKA - S1",
+  "id_prodi_semester": 2634,
+  "idnumber_sikola": "44949.125442.45",
+  "shortname_sikola": "TA232-125442",
+  "kode_matkul": "23H01121803",
+  "nama_matkul": "Kalkulus Variasi",
+  "nama_kelas": "Kalkulus Variasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 890,
+      "id_user": 17756,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Syamsuddin Toaha, M.Sc.",
+      "nidn": "0014016802",
+      "nip": "196801141994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cecddc81-353d-4986-9f02-ceb5e2a924dd",
+      "pivot": {
+        "id_kelas_kuliah": 125442,
+        "id_dosen": 890
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1631,
+      "id_user": 31577,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Eng. Mawardi, S.Si., M.Si.",
+      "nidn": "0031127002",
+      "nip": "197012311998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8968a8f4-2e73-426b-bb79-a78f6b48fd41",
+      "pivot": {
+        "id_kelas_kuliah": 125442,
+        "id_dosen": 1631
+      }
+    }
+  ]
+}

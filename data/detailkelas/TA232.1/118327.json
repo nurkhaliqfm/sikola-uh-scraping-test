@@ -1,0 +1,61 @@
+{
+  "id_prodi": 48,
+  "nama_prodi": "GEOFISIKA - S1",
+  "id_prodi_semester": 2637,
+  "idnumber_sikola": "45615.118327.48",
+  "shortname_sikola": "TA232-118327",
+  "kode_matkul": "23H06121702",
+  "nama_matkul": "Geodinamika (P1)",
+  "nama_kelas": "GEODINAMIKA (P1)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 829,
+      "id_user": 13547,
+      "id_prodi": 48,
+      "nama": "Prof. Dr. Ir. Muh. Altin Massinai, MT., Surv.",
+      "nidn": "0016066414",
+      "nip": "196406161989031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "512c3a9b-cfac-41bd-b430-ee85fb8d3628",
+      "pivot": {
+        "id_kelas_kuliah": 118327,
+        "id_dosen": 829
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1546,
+      "id_user": 30829,
+      "id_prodi": 48,
+      "nama": "Makhrani, S.Si. M.Si",
+      "nidn": "0027027201",
+      "nip": "197202271998022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60178f4a-776e-4fc2-b70d-966c988ad0a3",
+      "pivot": {
+        "id_kelas_kuliah": 118327,
+        "id_dosen": 1546
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3776,
+      "id_user": 60855,
+      "id_prodi": 48,
+      "nama": "Andi Muhammad Pramatadie, S.T., M.Eng., Ph.D",
+      "nidn": "8972840022",
+      "nip": "198803242022055001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "2ca01998-9525-4c76-bb57-0b25d61ff597",
+      "pivot": {
+        "id_kelas_kuliah": 118327,
+        "id_dosen": 3776
+      }
+    }
+  ]
+}

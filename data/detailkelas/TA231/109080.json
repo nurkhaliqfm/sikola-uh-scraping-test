@@ -1,0 +1,277 @@
+{
+  "id_prodi": 120,
+  "nama_prodi": "PPDS ILMU PENYAKIT THT",
+  "id_prodi_semester": 2462,
+  "idnumber_sikola": "30252.109080.120",
+  "shortname_sikola": "TA231-109080",
+  "kode_matkul": "0614C20601",
+  "nama_matkul": "SARI PUSTAKA / REFERAT II",
+  "nama_kelas": "Sari Pustaka / Referat II, Kelas B 20231 (Semester 6)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 102505,
+      "id_user": 26430,
+      "id_prodi": 120,
+      "angkatan": 2018,
+      "nama_mahasiswa": "RAJA PAHLEVI",
+      "nim": "C035182009",
+      "jalan": "BTP BLOK C NO 118",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "Padangsidimpuan",
+      "tanggal_lahir": "1991-03-07",
+      "telepon": "082194569423",
+      "handphone": "082194569423",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "1277020703910002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "pahlevirajaparinduri@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4c6ed21a-83d3-4f3e-8bab-ee36a8c2c01f",
+      "id_registrasi_mahasiswa_pddikti": "17a2da21-e828-4cc0-81d3-fc147931b13c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_mahasiswa": 102505,
+        "created_at": "2023-08-02 08:54:27"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1504,
+      "id_user": 37440,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Muhammad Amsyar Akil, Sp. THT (K)",
+      "nidn": "0018076805",
+      "nip": "196807181999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b60ce84f-b3a9-4064-a1cc-43bf4f79a93c",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 1504
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2597,
+      "id_user": null,
+      "id_prodi": 120,
+      "nama": "Dr. dr. Nova A. Pieter, Sp.THT-KL., FIC.",
+      "nidn": "8895601019",
+      "nip": "196611242019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "053de9f9-8710-40ea-a61c-1d717a23560d",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2597
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2408,
+      "id_user": 37491,
+      "id_prodi": null,
+      "nama": "Dr. dr. Masyita Gaffar, Sp. THT-KL",
+      "nidn": "0027096709",
+      "nip": "196709271999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7dce80e9-b76c-45d8-83d5-c46cc1bedefc",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2408
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1679,
+      "id_user": 37442,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Muh. Fadjar Perkasa, Sp.THT.",
+      "nidn": "0003037109",
+      "nip": "197103032005021005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "adf8f795-aba2-488f-a24b-d8020d546d99",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 1679
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2627,
+      "id_user": 45174,
+      "id_prodi": 120,
+      "nama": "Dr. dr. Nani I. Djufri,Sp.T.H.T.K.L(K),FICS",
+      "nidn": null,
+      "nip": "196201061989102002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2627
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 923,
+      "id_user": 34590,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr.  Abd. Qadar Punagi, Sp.THT-KL(K)FICS",
+      "nidn": "0016026302",
+      "nip": "196302161989101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "dcb4465b-b354-4a45-a1aa-a4b3c8e2d988",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 923
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 930,
+      "id_user": 37493,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr.  Eka Savitri, Sp.THT.",
+      "nidn": "0021026208",
+      "nip": "196202211988032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6aa1a4d4-8594-4393-8bc6-14ad422c0961",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 930
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 929,
+      "id_user": 37492,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Riskiana Djamin, Sp.,THT.",
+      "nidn": "0025026006",
+      "nip": "196002251988012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b1043dbd-b5f1-4c19-acda-2b8bba8e6c3d",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 929
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2633,
+      "id_user": null,
+      "id_prodi": 120,
+      "nama": "dr. Yarni Alimah,Sp.T.H.T.K.L",
+      "nidn": null,
+      "nip": "197401312000122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2633
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2273,
+      "id_user": 18986,
+      "id_prodi": 6,
+      "nama": "dr. Syahrijuita, S.Ked., M.Kes.",
+      "nidn": "0030126801",
+      "nip": "196812301998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf161240-054f-451c-948c-e8ca85a32893",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2273
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2629,
+      "id_user": 34938,
+      "id_prodi": 120,
+      "nama": "dr. Azmi Mir'ah Zakiah,M.Kes,Sp.T.H.T.K.L(K)",
+      "nidn": null,
+      "nip": "197812072018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2629
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2632,
+      "id_user": null,
+      "id_prodi": 120,
+      "nama": "dr. Sri Wartati,Sp.T.H.T.K.L",
+      "nidn": "8824910016",
+      "nip": "196709251998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eba4e50-066b-4c9f-af2e-eb995c1d0526",
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2632
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2626,
+      "id_user": null,
+      "id_prodi": 120,
+      "nama": "dr. Rafidawaty Alwi,Sp.T.H.T.K.L(K)",
+      "nidn": null,
+      "nip": "196611102009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2626
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2625,
+      "id_user": 45165,
+      "id_prodi": 120,
+      "nama": "dr. Aminuddin Azis, Sp.T.H.T.K.L(K),M.Kes",
+      "nidn": null,
+      "nip": "196002111987031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109080,
+        "id_dosen": 2625
+      }
+    }
+  ]
+}

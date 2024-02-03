@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal no 1.</p><p style="text-align:justify"><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">Eksperimen berikut merupakan pengambilan sebuah bola dari sebuah kotak. Kotak berisi dua bola hitam yang diberi nomor 1 dan 2, dan dua bola putih yang diberi nomor 3 dan 4. Nomor dan warna bola dicatat sebagai hasil eksperimen.</span></span></span><br />
+<span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif"><span style="color:black"><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">Definisikan event </span></span><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">A </span></span><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">sebagai event terpilihnya bola hitam, event</span></span><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">B </span></span><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">adalah event bola bernomor genap dan event </span></span><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">C </span></span><span style="line-height:107%"><span style="font-family:&quot;Georgia&quot;,serif">adalah nomor bola lebih besar dari 2. Ruang sampelnya adalah :</span></span></span></span></span></span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84110</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p><!--[if gte msEquation 12]><m:oMathPara><m:oMath><i
+  style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;line-height:
+  107%;font-family:"Cambria Math",serif;mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+  mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-ID;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA'><m:r>=</m:r></span></i><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>1,</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>h</m:r></span></m:e></m:d><span
+  style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+  mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+  mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r></span><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>2,</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>h</m:r></span></m:e></m:d><span
+  style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+  mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+  mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r></span><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>1</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r><m:r><m:rPr><m:scr m:val="roman"/><m:sty
+       m:val="p"/></m:rPr>h</m:r></span></m:e></m:d><span style='font-size:
+  12.0pt;line-height:107%;font-family:"Cambria Math",serif;mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+  mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-ID;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA;mso-bidi-font-style:italic'><m:r><m:rPr><m:scr
+     m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r></span><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>2</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r><m:r><m:rPr><m:scr m:val="roman"/><m:sty
+       m:val="p"/></m:rPr>h</m:r></span></m:e></m:d></m:oMath></m:oMathPara><![endif]--><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:137.5pt;
+ height:15pt'>
+ <v:imagedata src="file:///C:/Users/TITI/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
+  o:title="" chromakey="white"/>
+</v:shape><![endif]--><span class="math-tex">\(	S=[\left(1,h\right),\left(2,h\right),\left(1,h\right),\left(2,h\right)]\)</span></p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<p><span class="math-tex">\(S=[\left(1,h\right),\left(1,p\right),\left(2,h\right),\left(2,p\right)]\)</span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p><!--[if gte msEquation 12]><m:oMathPara><m:oMath><i
+  style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;line-height:
+  107%;font-family:"Cambria Math",serif;mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+  mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-ID;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA'><m:r>S</m:r><m:r>=</m:r></span></i><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>1,</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>h</m:r></span></m:e></m:d><span
+  style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+  mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+  mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r></span><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>2,</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>h</m:r></span></m:e></m:d><span
+  style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+  mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+  mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r></span><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>3,</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>p</m:r></span></m:e></m:d><span
+  style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+  mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+  mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>,</m:r></span><m:d><m:dPr><span
+    style='font-size:12.0pt;mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;
+    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
+    mso-hansi-font-family:"Cambria Math";mso-bidi-font-style:italic'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><span
+    style='font-size:12.0pt;line-height:107%;font-family:"Cambria Math",serif;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-ID;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;
+    mso-bidi-font-style:italic'><m:r><m:rPr><m:scr m:val="roman"/><m:sty m:val="p"/></m:rPr>4,</m:r><m:r><m:rPr><m:scr
+       m:val="roman"/><m:sty m:val="p"/></m:rPr>p</m:r></span></m:e></m:d></m:oMath></m:oMathPara><![endif]--><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:147.5pt;
+ height:15pt'>
+ <v:imagedata src="file:///C:/Users/TITI/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
+  o:title="" chromakey="white"/>
+</v:shape><![endif]--><span class="math-tex">\(S=[\left(1,h\right),\left(2,h\right),\left(3,p\right),\left(4,p\right)]\)</span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p><span class="math-tex">\(	S=[\left(1,h\right),\left(1,h\right),\left(2,h\right),\left(2,h\right)]\)</span></p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal no 8</p><p>Eksperimen berikut merupakan pengambilan sebuah bola dari sebuah kotak. Kotak berisi dua bola hitam yang diberi nomor 1 dan 2, dan dua bola putih yang diberi nomor 3 dan 4. Nomor dan warna bola dicatat sebagai hasil eksperimen.<br />
+Definisikan event A sebagai event terpilihnya bola hitam, eventB adalah event bola bernomor genap dan event C adalah nomor bola lebih besar dari 2. Tentukan&nbsp;<span class="math-tex">`P(AnnC)`</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84129</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<p>0</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>1/2</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>1/3</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>1/4</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Sial n0 3.</p><p>Eksperimen berikut merupakan pengambilan sebuah bola dari sebuah kotak. Kotak berisi dua bola hitam yang diberi nomor 1 dan 2, dan dua bola putih yang diberi nomor 3 dan 4. Nomor dan warna bola dicatat sebagai hasil eksperimen.<br />
+Definisikan event A sebagai event terpilihnya bola hitam, eventB adalah event bola bernomor genap dan event C adalah nomor bola lebih besar dari 2/ maka&nbsp;<span class="math-tex">`P(A|C)=................`</span><span class="math-tex">`P(A\C)=..............................`</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84112</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>P(A\C}= 0.5</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>P(A\C}= 0.25</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>P(A\C}= 0.6</p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<p>P(A\C}= 0</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soa; no 4.</p><p>Eksperimen berikut merupakan pengambilan sebuah bola dari sebuah kotak. Kotak berisi dua bola hitam yang diberi nomor 1 dan 2, dan dua bola putih yang diberi nomor 3 dan 4. Nomor dan warna bola dicatat sebagai hasil eksperimen.<br />
+Definisikan event A sebagai event terpilihnya bola hitam, eventB adalah event bola bernomor genap dan event C adalah nomor bola lebih besar dari 2, tentukan&nbsp;<span class="math-tex">`P(Ann B)=..................................`</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84113</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<p><span class="math-tex">`0.25`</span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>0.5</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>0,6</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>0</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal no 2.</p><p>Eksperimen berikut merupakan pengambilan sebuah bola dari sebuah kotak. Kotak berisi dua bola hitam yang diberi nomor 1 dan 2, dan dua bola putih yang diberi nomor 3 dan 4. Nomor dan warna bola dicatat sebagai hasil eksperimen.<br />
+Definisikan event A sebagai event terpilihnya bola hitam, eventB adalah event bola bernomor genap dan event C adalah nomor bola lebih besar dari 2, Maka&nbsp;<span class="math-tex">`P(A|B)=..................`</span></p>
+
+<ol>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84111</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<p>P(A|B)= 0.5</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>P(A|B)=0.25</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>P(A|B)=0.2</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>P(A|B)=0.6</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal no 7</p><ol>
+	<li style="text-align:justify"><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">Pada percobaan pelemparan sebuah dadu, variabel acak <i>Y </i>didefinisikan</span></span></span></span><br />
+	<span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">sebagai jumlah mata dadu yang muncul pada permukaan atas. Hitung <i>P</i>(Y&gt;2) !</span></span></span></span></li>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84128</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>1/3</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>3/4</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>2/4</p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<p>4/6</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal no 5.</p><p style="text-align:justify"><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">Pada percobaan pelemparan sebuah dadu, variabel acak <i>Y </i>didefinisikan</span></span></span></span><br />
+<span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">sebagai jumlah mata dadu yang muncul pada permukaan atas. Tentukan Probability Mass Function (PMF) nya)!</span></span></span></span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84126</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<p><span class="math-tex">`P_Y(y)={(1/6  if 1<=y<=6),(0 if elsewhere):}`</span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p><span class="math-tex">`P_Y(y)={(1/6  if 1<=y< 6),(0 if elsewhere):}`</span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p><span class="math-tex">`P_Y(y)={(1/6  if 1<y<6),(0 if elsewhere):}`</span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p><span class="math-tex">`P_Y(y)={(1/6  if 1<=y),(0 if elsewhere):}`</span></p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal no 6.</p><p style="text-align:justify"><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">Pada percobaan pelemparan sebuah dadu, variabel acak <i>Y </i>didefinisikan</span></span></span></span><br />
+<span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">sebagai jumlah mata dadu yang muncul pada permukaan atas. Hitung <i>P</i>(2 </span></span></span></span><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Arial&quot;,sans-serif"><span style="color:black">&le; </span></span></span></span><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">Y</span></span></span></span></i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">&lt; 5) !</span></span></span></span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84127</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>1/6</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>2/6</p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<p>3/6</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>4/6</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal  o 10</p><p>Probabilitas event A bersyarat event B sama dengan...............<br />
+&nbsp;</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84135</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Probabilitas joint<br />
+dari A  atau B dibagi dengan probabilitas event B.<br />
+ </p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<p>Probabilitas joint dari A dan B dibagi dengan probabilitas event B.<br />
+ </p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Probabilitas joint<br />
+dari AB dibagi dengan probabilitas event B.<br />
+ </p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Probabilitas joint<br />
+dari A dan B dibagi dengan probabilitas event A.<br />
+ </p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis 1</text></name><questiontext format="html"><text><![CDATA[<p>Soal no 9</p><p>Variabel acak adalah...............</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_84132</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p style="text-align:justify"><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:"Georgia",serif">Suatu fungsi pada setiap ruang sampel yang memenuhi unsur bilangan riil.</span></span></span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p style="text-align:justify"><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:"Georgia",serif">Suatu fungsi yang terdefinisi pada ruang riil</span></span></span></p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<p style="text-align:justify"><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:"Georgia",serif">Suatu fungsi yang memetakan setiap unsur di ruang sampel ke ruang riil.</span></span></span></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Suatu variabel yang terdiri dari variable acak diskrit dan kontinyu</p>]]></text><feedback><text/></feedback></answer></question></quiz>

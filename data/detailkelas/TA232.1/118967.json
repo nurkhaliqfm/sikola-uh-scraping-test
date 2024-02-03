@@ -1,0 +1,140 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2735,
+  "idnumber_sikola": "34833.118967.167",
+  "shortname_sikola": "TA232-118967",
+  "kode_matkul": "18D05310803",
+  "nama_matkul": "TEKNIK TEGANGAN TINGGI DAN ISOLASI LISTRIK LANJUT",
+  "nama_kelas": "PILIHAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415709,
+      "id_user": 83219,
+      "id_prodi": 167,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MOETHIA FARIDHA",
+      "nim": "D053231002",
+      "jalan": "JL. MUTIARA",
+      "rt": 14,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "72112",
+      "nisn": null,
+      "tempat_lahir": "BANJARMASIN",
+      "tanggal_lahir": "1979-12-17",
+      "telepon": "0",
+      "handphone": "083159874151",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Dirgahayu",
+      "id_wilayah": "150906",
+      "nik": "6302065712790004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "bariethia@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "65e9ec8b-513a-4e4b-a1e0-53b3d7b678f9",
+      "id_registrasi_mahasiswa_pddikti": "45813caa-519b-4298-8497-370aa3346d31",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118967,
+        "id_mahasiswa": 415709,
+        "created_at": "2024-01-26 04:53:17"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 415708,
+      "id_user": 83216,
+      "id_prodi": 167,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SAIFUL KARIM",
+      "nim": "D053231001",
+      "jalan": "PERUMAHAN ALAMADA",
+      "rt": 6,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "70582",
+      "nisn": null,
+      "tempat_lahir": "KEDIRI",
+      "tanggal_lahir": "1969-04-14",
+      "telepon": "0",
+      "handphone": "081359352117",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Semangat Dalam",
+      "id_wilayah": "150306",
+      "nik": "6302061404690005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ifulsuperindo@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d350c568-93ec-4804-97fb-9d82c00839ea",
+      "id_registrasi_mahasiswa_pddikti": "34e69d7b-86e3-4973-a205-7cb279960b72",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118967,
+        "id_mahasiswa": 415708,
+        "created_at": "2024-01-27 06:56:27"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 880,
+      "id_user": 34226,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir. H. Salama Manjang, MT., IPM.",
+      "nidn": "0011116211",
+      "nip": "196212311990031024",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5a512f7-1d68-4546-b716-54465bfc1293",
+      "pivot": {
+        "id_kelas_kuliah": 118967,
+        "id_dosen": 880
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1700,
+      "id_user": 16977,
+      "id_prodi": 17,
+      "nama": "Dr. Ikhlas Kitta, ST., MT.",
+      "nidn": "0014097603",
+      "nip": "197609142008011006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1718683-c9ac-4825-9fff-6baa5409f663",
+      "pivot": {
+        "id_kelas_kuliah": 118967,
+        "id_dosen": 1700
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1283,
+      "id_user": 20573,
+      "id_prodi": 17,
+      "nama": "Dr. Yusran, ST.,MT.",
+      "nidn": "0004047509",
+      "nip": "197504042000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a8ae9f3-a4eb-430a-ac81-6ff3513236a1",
+      "pivot": {
+        "id_kelas_kuliah": 118967,
+        "id_dosen": 1283
+      }
+    }
+  ]
+}

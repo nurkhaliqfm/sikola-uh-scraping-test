@@ -1,0 +1,61 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2415,
+  "idnumber_sikola": "45470.112329.67",
+  "shortname_sikola": "TA231-112329",
+  "kode_matkul": "23L02130703",
+  "nama_matkul": "Biologi Molluska Kawasan Wallacea",
+  "nama_kelas": "Biologi Molluska Kawasan Wallacea (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 689,
+      "id_user": 14145,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Sharifuddin Bin Andy Omar, M.Sc",
+      "nidn": "0023025902",
+      "nip": "195902231988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e572e6bf-f8ad-4c26-a255-43264256907c",
+      "pivot": {
+        "id_kelas_kuliah": 112329,
+        "id_dosen": 689
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1144,
+      "id_user": 18815,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Joeharnani Tresnati, DEA.",
+      "nidn": "0007096301",
+      "nip": "196509071989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eee3075-615b-468b-a9f2-1876ed8e646b",
+      "pivot": {
+        "id_kelas_kuliah": 112329,
+        "id_dosen": 1144
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1939,
+      "id_user": 12878,
+      "id_prodi": 67,
+      "nama": "Dr. Sri Wahyuni Rahim, ST., M.Si",
+      "nidn": "0017097503",
+      "nip": "197509152003122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5977b818-a0da-49df-afc0-b0c4a7c3a36a",
+      "pivot": {
+        "id_kelas_kuliah": 112329,
+        "id_dosen": 1939
+      }
+    }
+  ]
+}

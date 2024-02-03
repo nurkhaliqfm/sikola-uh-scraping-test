@@ -1,0 +1,29 @@
+{
+  "id_prodi": 186,
+  "nama_prodi": "ILMU KOMUNIKASI -S3",
+  "id_prodi_semester": 2523,
+  "idnumber_sikola": "44018.115291.186",
+  "shortname_sikola": "TA231-115291",
+  "kode_matkul": "22E03320805",
+  "nama_matkul": "Publikasi Internasional Scopus 1",
+  "nama_kelas": "Publikasi Internasional Scopus 1 (by Riset)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 691,
+      "id_user": 34367,
+      "id_prodi": 28,
+      "nama": "Prof. Dr. H. Hafied Cangara, M.Sc.",
+      "nidn": "9990445932",
+      "nip": "195204121976031017",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "75e336b2-5c51-4820-9cb8-55e09a9a63f7",
+      "pivot": {
+        "id_kelas_kuliah": 115291,
+        "id_dosen": 691
+      }
+    }
+  ]
+}

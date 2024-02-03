@@ -1,0 +1,45 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2523.108172.5",
+  "shortname_sikola": "TA231-108172",
+  "kode_matkul": "18B01148502",
+  "nama_matkul": "HUKUM EKONOMI & PERDAGANGAN INTERNASIONAL\r\n",
+  "nama_kelas": "HUKUM EKONOMI & PERDAGANGAN INTERNASIONAL KELAS (B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 837,
+      "id_user": 34234,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Abdul Maasba Magassing, SH., MH.",
+      "nidn": "0003085503",
+      "nip": "195508031984031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d47965d4-ac8d-4826-a58f-2b9bb2e34503",
+      "pivot": {
+        "id_kelas_kuliah": 108172,
+        "id_dosen": 837
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 969,
+      "id_user": 34084,
+      "id_prodi": 159,
+      "nama": "Prof. Dr. Marthen Aries, SH., MH.",
+      "nidn": "0030045701",
+      "nip": "195704301985031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45b3a954-c382-4a53-a44c-774cb74e910c",
+      "pivot": {
+        "id_kelas_kuliah": 108172,
+        "id_dosen": 969
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id_prodi": 199,
+  "nama_prodi": "MAGISTER ADMINISTRASI RUMAH SAKIT",
+  "id_prodi_semester": 2766,
+  "idnumber_sikola": "42981.125948.199",
+  "shortname_sikola": "TA232-125948",
+  "kode_matkul": "21K02210202",
+  "nama_matkul": "Organisasi Manajemen & Perilaku Organisasi",
+  "nama_kelas": "OM PO B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1367,
+      "id_user": 34439,
+      "id_prodi": 57,
+      "nama": "Dr.  Syahrir A.P., MS.",
+      "nidn": "0010026502",
+      "nip": "196502101991031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e071f78b-68a5-45ac-9b85-6b85db2a9085",
+      "pivot": {
+        "id_kelas_kuliah": 125948,
+        "id_dosen": 1367
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1482,
+      "id_user": 29498,
+      "id_prodi": 57,
+      "nama": "Dr. dr. Andi Indahwaty AS., MHSM.",
+      "nidn": "0001047309",
+      "nip": "197301042000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "753adffe-38d4-464d-aead-b00fe5ec789a",
+      "pivot": {
+        "id_kelas_kuliah": 125948,
+        "id_dosen": 1482
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2596,
+      "id_user": 37445,
+      "id_prodi": null,
+      "nama": "Dr. dr. h. Noer Bahry Noor, M.Sc",
+      "nidn": "8806601019",
+      "nip": "195212122019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "247b815a-267f-47ab-8c8c-d8f814352e43",
+      "pivot": {
+        "id_kelas_kuliah": 125948,
+        "id_dosen": 2596
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1064,
+      "id_user": 34474,
+      "id_prodi": 27,
+      "nama": "Prof. Dr. Sangkala, M.Si.",
+      "nidn": "0011116312",
+      "nip": "196311111991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "81ead462-0d66-4094-a87e-ef8a50c2ed13",
+      "pivot": {
+        "id_kelas_kuliah": 125948,
+        "id_dosen": 1064
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3402,
+      "id_user": 48404,
+      "id_prodi": 57,
+      "nama": "Dr. Nurmala Sari, S.KM., M.Kes., MA",
+      "nidn": "8970910021",
+      "nip": "199103182021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "602dc072-f259-479d-8d4b-04c745a960f6",
+      "pivot": {
+        "id_kelas_kuliah": 125948,
+        "id_dosen": 3402
+      }
+    }
+  ]
+}

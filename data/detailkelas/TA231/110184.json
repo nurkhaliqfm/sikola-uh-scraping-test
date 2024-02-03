@@ -1,0 +1,61 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2523.110184.5",
+  "shortname_sikola": "TA231-110184",
+  "kode_matkul": "18B01148502",
+  "nama_matkul": "HUKUM EKONOMI & PERDAGANGAN INTERNASIONAL\r\n",
+  "nama_kelas": "HUKUM EKONOMI & PERDAGANGAN  INTERNASIONAL KLS. INTERNASIONAL",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 981,
+      "id_user": 34061,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Juajir Sumardi, SH., MH.",
+      "nidn": "0028106302",
+      "nip": "196310281990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "96d4d90a-204d-4260-841c-c651ff3344aa",
+      "pivot": {
+        "id_kelas_kuliah": 110184,
+        "id_dosen": 981
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 837,
+      "id_user": 34234,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Abdul Maasba Magassing, SH., MH.",
+      "nidn": "0003085503",
+      "nip": "195508031984031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d47965d4-ac8d-4826-a58f-2b9bb2e34503",
+      "pivot": {
+        "id_kelas_kuliah": 110184,
+        "id_dosen": 837
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3614,
+      "id_user": 58083,
+      "id_prodi": 5,
+      "nama": "Normiati, S.H., LLM.",
+      "nidn": null,
+      "nip": "9109016707950003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110184,
+        "id_dosen": 3614
+      }
+    }
+  ]
+}

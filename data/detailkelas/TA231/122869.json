@@ -1,0 +1,29 @@
+{
+  "id_prodi": 101,
+  "nama_prodi": "ILMU KOMUNIKASI - S2",
+  "id_prodi_semester": 2446,
+  "idnumber_sikola": "37300.122869.101",
+  "shortname_sikola": "TA231-122869",
+  "kode_matkul": "19E02220204",
+  "nama_matkul": "SEMINAR HASIL",
+  "nama_kelas": "Seminar Hasil",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 938,
+      "id_user": 34254,
+      "id_prodi": 28,
+      "nama": "Prof. Dr.  Muh. Akbar, M.Si.",
+      "nidn": "0027066508",
+      "nip": "196506271991031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "baa4687b-5ecf-4904-a2c4-733b162736d6",
+      "pivot": {
+        "id_kelas_kuliah": 122869,
+        "id_dosen": 938
+      }
+    }
+  ]
+}

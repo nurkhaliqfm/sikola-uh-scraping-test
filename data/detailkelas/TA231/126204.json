@@ -1,0 +1,109 @@
+{
+  "id_prodi": 125,
+  "nama_prodi": "PPDS ILMU KEDOKTERAN JIWA - PSIKIATRI",
+  "id_prodi_semester": 2467,
+  "idnumber_sikola": "38886.126204.125",
+  "shortname_sikola": "TA231-126204",
+  "kode_matkul": "20C06540504",
+  "nama_matkul": "PSIKIATRI BIOLOGI TERAPAN",
+  "nama_kelas": "KELAS G - PSIKIATRI IOLOGI TERAPAN 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1213,
+      "id_user": 37525,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  A. Jayalangkara T., Sp.KJ.,Ph.D.",
+      "nidn": "0021015602",
+      "nip": "195502211987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60c0ff1a-b5ca-43db-b96a-774024a8471a",
+      "pivot": {
+        "id_kelas_kuliah": 126204,
+        "id_dosen": 1213
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1650,
+      "id_user": 34313,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Sonny Teddy Lisal, Sp.KJ.",
+      "nidn": "0016066701",
+      "nip": "196706161995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "996fbea6-b48e-4216-8103-7fa3ebe92891",
+      "pivot": {
+        "id_kelas_kuliah": 126204,
+        "id_dosen": 1650
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1433,
+      "id_user": 34512,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Saidah Syamsuddin,  Sp.Kj",
+      "nidn": "0014017005",
+      "nip": "197001142001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb261ce6-3307-44a0-88c9-eb19eededbb5",
+      "pivot": {
+        "id_kelas_kuliah": 126204,
+        "id_dosen": 1433
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1895,
+      "id_user": 34513,
+      "id_prodi": 6,
+      "nama": "dr.  Erlyn Limoa, S. Ked, SpKJ.,Ph.D",
+      "nidn": "0017117705",
+      "nip": "197711172009122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3227b945-629f-474b-992b-d1206c6ef56f",
+      "pivot": {
+        "id_kelas_kuliah": 126204,
+        "id_dosen": 1895
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1755,
+      "id_user": 33798,
+      "id_prodi": 6,
+      "nama": "dr.  A. Suheyra Syauki, M.Kes.,Sp.Kj.",
+      "nidn": "0023127705",
+      "nip": "197712232003122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ecc9d95-3956-4ce1-b2b2-4589e265d4b3",
+      "pivot": {
+        "id_kelas_kuliah": 126204,
+        "id_dosen": 1755
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2996,
+      "id_user": 37009,
+      "id_prodi": 125,
+      "nama": "dr. Kristian Liaury, Ph.D, Sp.KJ",
+      "nidn": "8958020021",
+      "nip": "7371051606800007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b438933-f5ca-4856-90dd-ec28fddd0402",
+      "pivot": {
+        "id_kelas_kuliah": 126204,
+        "id_dosen": 2996
+      }
+    }
+  ]
+}

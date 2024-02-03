@@ -1,0 +1,85 @@
+{
+  "id_prodi": 35,
+  "nama_prodi": "SASTRA BUGIS-MAKASSAR - S1",
+  "id_prodi_semester": 2630,
+  "idnumber_sikola": "43791.128543.35",
+  "shortname_sikola": "TA232-128543",
+  "kode_matkul": "21F02149020",
+  "nama_matkul": "Komunikasi dan interaksi sosial",
+  "nama_kelas": "KOMUNIKASI DAN INTERAKSI SOSIAL",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139214,
+      "id_user": 39093,
+      "id_prodi": 35,
+      "angkatan": 2020,
+      "nama_mahasiswa": "IKBAL. P",
+      "nim": "F021201020",
+      "jalan": "PASSUI 1",
+      "rt": 1,
+      "rw": 6,
+      "dusun": "-",
+      "kode_pos": "92411",
+      "nisn": "0020812071",
+      "tempat_lahir": "BANTAENG",
+      "tanggal_lahir": "2002-01-20",
+      "telepon": "081563229695",
+      "handphone": "081563229695",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Onto",
+      "id_wilayah": "191002",
+      "nik": "7303022001020003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 39093,
+      "kode_status": "A",
+      "email": "ikbalp200102@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7a3bae4d-f39c-4d53-b6f9-eb1e442a692e",
+      "id_registrasi_mahasiswa_pddikti": "18b64676-8bc6-49f5-8b5b-90d95596629b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128543,
+        "id_mahasiswa": 139214,
+        "created_at": "2024-02-01 01:39:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 976,
+      "id_user": 22628,
+      "id_prodi": 35,
+      "nama": "Prof. Dr. Gusnawaty, M.Hum.",
+      "nidn": "0031126533",
+      "nip": "196512311989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7196a5f-714d-499c-a9a2-e6ff87cb9983",
+      "pivot": {
+        "id_kelas_kuliah": 128543,
+        "id_dosen": 976
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1984,
+      "id_user": 18356,
+      "id_prodi": 35,
+      "nama": "Pammuda, S.S., M.Si.",
+      "nidn": "0017037604",
+      "nip": "197603172003121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff190140-dd85-4f03-98bb-48d0131076f4",
+      "pivot": {
+        "id_kelas_kuliah": 128543,
+        "id_dosen": 1984
+      }
+    }
+  ]
+}

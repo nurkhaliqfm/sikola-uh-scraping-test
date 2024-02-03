@@ -1,0 +1,69 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2598,
+  "idnumber_sikola": "398.128762.1",
+  "shortname_sikola": "TA232-128762",
+  "kode_matkul": "303A1113",
+  "nama_matkul": "EKONOMI PERENCANAAN PEMBANGUNAN II",
+  "nama_kelas": "EKONOMI PERENCANAAN PEMBANGUNAN II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 143288,
+      "id_user": 43943,
+      "id_prodi": 1,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MOH. RAFFKY ABD. RAZAK",
+      "nim": "A011201045",
+      "jalan": "JL. PINANG UTAMA BLOK B2 NO 3",
+      "rt": 2,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "96127",
+      "nisn": "0028599212",
+      "tempat_lahir": "GORONTALO",
+      "tanggal_lahir": "2002-05-29",
+      "telepon": "0",
+      "handphone": "085283939500",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PULUBALA",
+      "id_wilayah": "306006",
+      "nik": "7571062905020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rafkyrazak.29@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e9d1dd09-5aee-4981-83d9-d5f5375eae9a",
+      "id_registrasi_mahasiswa_pddikti": "0a77b7b8-26a2-4a53-bd2d-d201e649986c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128762,
+        "id_mahasiswa": 143288,
+        "created_at": "2024-01-30 15:54:18"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1472,
+      "id_user": 10141,
+      "id_prodi": 1,
+      "nama": " Dr. Sabir, SE., M.Si.",
+      "nidn": "0015077403",
+      "nip": "197407152002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be345bb3-91c7-4b44-b525-e09b67e27fb8",
+      "pivot": {
+        "id_kelas_kuliah": 128762,
+        "id_dosen": 1472
+      }
+    }
+  ]
+}

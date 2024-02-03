@@ -1,0 +1,29 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28455.129421.102",
+  "shortname_sikola": "TA232-129421",
+  "kode_matkul": "18P06221601",
+  "nama_matkul": "Target Riset Sistem Hematopoeietik",
+  "nama_kelas": "Target Riset Sistem Hematopoeietik (Histo-Afirmsi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1457,
+      "id_user": 33828,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Rahmawati Minhajat, Ph.D., Sp.PD, K-HOM",
+      "nidn": "0018026805",
+      "nip": "196802181999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7e79898-9ba2-4005-a635-ca7db63a4aba",
+      "pivot": {
+        "id_kelas_kuliah": 129421,
+        "id_dosen": 1457
+      }
+    }
+  ]
+}

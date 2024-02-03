@@ -1,0 +1,172 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28185.129356.102",
+  "shortname_sikola": "TA232-129356",
+  "kode_matkul": "18P06213602",
+  "nama_matkul": "Imunologi Dasar",
+  "nama_kelas": "Imunologi Dasar (BBM-Afirmasi)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421853,
+      "id_user": 75401,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RATNA AMALIA FAIRUZ",
+      "nim": "P062231043",
+      "jalan": "DALEM",
+      "rt": 42,
+      "rw": 10,
+      "dusun": "DALEM",
+      "kode_pos": "55173",
+      "nisn": null,
+      "tempat_lahir": "BEKASI",
+      "tanggal_lahir": "1994-11-13",
+      "telepon": "0",
+      "handphone": "085643817685",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "PURBAYAN",
+      "id_wilayah": "046005",
+      "nik": "3371035311940001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ratnamaliaf@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "01baded8-fc7d-4db0-8ce0-79ca9e554812",
+      "id_registrasi_mahasiswa_pddikti": "b67ee834-fe5c-448c-9a7e-8224cdc37dd5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129356,
+        "id_mahasiswa": 421853,
+        "created_at": "2024-01-29 06:33:03"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 412824,
+      "id_user": 74305,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ERIK SAM",
+      "nim": "P062231035",
+      "jalan": "SEPAKAT",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "93573",
+      "nisn": "0",
+      "tempat_lahir": "TOSORA",
+      "tanggal_lahir": "1998-03-04",
+      "telepon": "0",
+      "handphone": "082213127434",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA WUNGGOLOKO",
+      "id_wilayah": "200404",
+      "nik": "7401090403980001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "3121ks003@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "51255ecd-e49c-4c3f-b642-b31d020d24f4",
+      "id_registrasi_mahasiswa_pddikti": "95607153-5d38-4c61-af2a-fd7b696091d2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129356,
+        "id_mahasiswa": 412824,
+        "created_at": "2024-02-01 15:08:34"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1475,
+      "id_user": 34089,
+      "id_prodi": 6,
+      "nama": "Dr.dr.  Ika Yustisia, S.Ked.,M.Sc.",
+      "nidn": "0021017705",
+      "nip": "197701212003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a7d178bb-2b7d-4d80-830a-ea037d32e2f4",
+      "pivot": {
+        "id_kelas_kuliah": 129356,
+        "id_dosen": 1475
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 776,
+      "id_user": 34358,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Rosdiana Natsir, Ph.D., Sp.Biok.",
+      "nidn": "0026035702",
+      "nip": "195703261988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6a320981-0647-4823-b655-f59c6064e081",
+      "pivot": {
+        "id_kelas_kuliah": 129356,
+        "id_dosen": 776
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1629,
+      "id_user": 34353,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Marhaen Hardjo, M.Biomed.",
+      "nidn": "0018126703",
+      "nip": "196712121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b51e505e-e114-4f69-ac4c-dce854dbb848",
+      "pivot": {
+        "id_kelas_kuliah": 129356,
+        "id_dosen": 1629
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2273,
+      "id_user": 18986,
+      "id_prodi": 6,
+      "nama": "dr. Syahrijuita, S.Ked., M.Kes.",
+      "nidn": "0030126801",
+      "nip": "196812301998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf161240-054f-451c-948c-e8ca85a32893",
+      "pivot": {
+        "id_kelas_kuliah": 129356,
+        "id_dosen": 2273
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1809,
+      "id_user": 34316,
+      "id_prodi": 6,
+      "nama": "dr.  Yenni Yusuf, MInfectDis.",
+      "nidn": "0009028204",
+      "nip": "198202092008012011",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7098cac7-af5b-4477-bfc0-ee24c6824a12",
+      "pivot": {
+        "id_kelas_kuliah": 129356,
+        "id_dosen": 1809
+      }
+    }
+  ]
+}

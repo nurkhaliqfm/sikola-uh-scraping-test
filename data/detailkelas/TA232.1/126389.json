@@ -1,0 +1,61 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2733,
+  "idnumber_sikola": "34744.126389.165",
+  "shortname_sikola": "TA232-126389",
+  "kode_matkul": "18D02330602",
+  "nama_matkul": "UJIAN PROMOSI",
+  "nama_kelas": "UJIAN PROMOSI (PRATIWI JUNIAR AHMAD GANI)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1173,
+      "id_user": 32083,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Idawarni, MT.",
+      "nidn": "0001076502",
+      "nip": "196507011994032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fe5c9f9c-97d7-461c-bea3-0213c6bd1261",
+      "pivot": {
+        "id_kelas_kuliah": 126389,
+        "id_dosen": 1173
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2027,
+      "id_user": 23304,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Nurul Nadjmi,  S.T., M.T",
+      "nidn": "0004097603",
+      "nip": "197609042002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bbf44b38-516c-4c40-96cf-288c3817fb8e",
+      "pivot": {
+        "id_kelas_kuliah": 126389,
+        "id_dosen": 2027
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1370,
+      "id_user": 29496,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Samsuddin, M.T",
+      "nidn": "0031126606",
+      "nip": "196612311994031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a04c83f5-bf5c-44ed-ae7c-7dfa8215390a",
+      "pivot": {
+        "id_kelas_kuliah": 126389,
+        "id_dosen": 1370
+      }
+    }
+  ]
+}

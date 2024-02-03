@@ -1,0 +1,93 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "48756.116951.102",
+  "shortname_sikola": "TA231-116951",
+  "kode_matkul": "23P06218202",
+  "nama_matkul": "Sistem Urogenetalia dan Endokrin",
+  "nama_kelas": "Sistem Urogenetalia dan Endokrin (W) (Anatomi- Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2548,
+      "id_user": 33409,
+      "id_prodi": 6,
+      "nama": "dr Nirwana Fitriani Walenna, S.Ked",
+      "nidn": "0020058808",
+      "nip": "198805202019032014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "93e5ea71-94f1-4200-bc87-f94aa0a624a3",
+      "pivot": {
+        "id_kelas_kuliah": 116951,
+        "id_dosen": 2548
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1830,
+      "id_user": 33716,
+      "id_prodi": 6,
+      "nama": "dr.  Asty Amalia, M.Med.Ed",
+      "nidn": "0029117908",
+      "nip": "197911292008122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ea76aaea-3209-45a6-94db-62b90bea8dbc",
+      "pivot": {
+        "id_kelas_kuliah": 116951,
+        "id_dosen": 1830
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2375,
+      "id_user": 60197,
+      "id_prodi": 6,
+      "nama": "dr. Faqi Nurdiansyah Hendra",
+      "nidn": "0012018901",
+      "nip": "198901122012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1e748cdb-24ef-4248-8d9b-828f8f3395b2",
+      "pivot": {
+        "id_kelas_kuliah": 116951,
+        "id_dosen": 2375
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1738,
+      "id_user": 33943,
+      "id_prodi": 6,
+      "nama": "dr. Muh. Iqbal Basri, M.Kes., Sp.S(K).",
+      "nidn": "0010077006",
+      "nip": "197007102002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "52ab442e-0a27-4990-9697-197077afe227",
+      "pivot": {
+        "id_kelas_kuliah": 116951,
+        "id_dosen": 1738
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1287,
+      "id_user": 33639,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Sitti Rafiah, S.Ked.,M.Si.",
+      "nidn": "0030056803",
+      "nip": "196805301997032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "572723b9-3e4c-428e-aed2-c44603d2ad9c",
+      "pivot": {
+        "id_kelas_kuliah": 116951,
+        "id_dosen": 1287
+      }
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id_prodi": 166,
+  "nama_prodi": "TEKNOLOGI KEBUMIAN DAN LINGKUNGAN - S3",
+  "id_prodi_semester": 2734,
+  "idnumber_sikola": "34780.120178.166",
+  "shortname_sikola": "TA232-120178",
+  "kode_matkul": "18D03330212",
+  "nama_matkul": "DISERTASI DAN UJIAN DISERTASI",
+  "nama_kelas": "Disertasi dan Ujian Disertasi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 155235,
+      "id_user": 51619,
+      "id_prodi": 166,
+      "angkatan": 2021,
+      "nama_mahasiswa": "SURYAWAN ASFAR",
+      "nim": "D033211002",
+      "jalan": "Jalan Terong, Lorong Sabangka",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Padaleu",
+      "kode_pos": "93231",
+      "nisn": null,
+      "tempat_lahir": "KENDARI",
+      "tanggal_lahir": "1984-01-06",
+      "telepon": "0",
+      "handphone": "081245806864",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "KAMBU",
+      "id_wilayah": "206010",
+      "nik": "7471080601840001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "suryawanasfar01@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "bec06c1d-f7ca-4e16-ad1f-f373cfe42466",
+      "id_registrasi_mahasiswa_pddikti": "256bbaeb-d80a-4d66-a031-b9f0952223ed",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_mahasiswa": 155235,
+        "created_at": "2024-01-17 10:34:10"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 1268
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1270,
+      "id_user": 28264,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Adi Tonggiroh, ST., MT.",
+      "nidn": "0028096501",
+      "nip": "196509282000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5c28690a-0f4c-4053-8bc8-da669a992ac0",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 1270
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 893,
+      "id_user": 16955,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Ir. Rohaya Langkoke, MT.",
+      "nidn": "0010125802",
+      "nip": "195812101986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "71be0ff1-2c3c-40d6-afce-5819f87bbf77",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 893
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1031,
+      "id_user": 28257,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Ratna Husain, M.T",
+      "nidn": "0002025904",
+      "nip": "195902021986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "904767b7-6a7a-4b5c-be2c-81cad0708dd9",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 1031
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 871,
+      "id_user": 12114,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  M. Fauzi Arifin, M.Si",
+      "nidn": "0003125802",
+      "nip": "195812031986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1bf564a1-889a-4675-90ab-6cb07ad46f03",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 871
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2174,
+      "id_user": 58033,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Safri Burhanuddin, DEA.",
+      "nidn": "0024076103",
+      "nip": "196107241988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "018223b6-477f-4128-bc88-c26ead46606e",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 2174
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1329,
+      "id_user": 27414,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Musri, M.T.",
+      "nidn": "0031126344",
+      "nip": "196112311989031019",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff3ac60f-8349-40e0-a1bd-2f9d6484dfaa",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 1329
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 885,
+      "id_user": 17198,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Busthan, MT.",
+      "nidn": "0008105902",
+      "nip": "195910081987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4512e15d-7dd2-4ec0-847a-de59b68b9d98",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 885
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 876,
+      "id_user": 10614,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Hamid Umar, MS.",
+      "nidn": "0002116002",
+      "nip": "196012021988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "11bdd910-f86f-4005-9156-36953221304f",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 876
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1469,
+      "id_user": 13038,
+      "id_prodi": 21,
+      "nama": "Dr. Ir. Haerani Sirajuddin, M.T.",
+      "nidn": "0019116701",
+      "nip": "196711191998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fa52c8b-c8fc-432b-95e6-c7707dc470ed",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 1469
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1257,
+      "id_user": 22098,
+      "id_prodi": 21,
+      "nama": "Dr. Sultan, ST., MT.",
+      "nidn": "0007057009",
+      "nip": "197007051997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22f1b4fc-a227-462b-9549-139d969cfb19",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 1257
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1604,
+      "id_user": 20450,
+      "id_prodi": 21,
+      "nama": "Dr. Ilham Alimuddin, ST., M.GIS.",
+      "nidn": "0025086902",
+      "nip": "196908251999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ed606e97-03a4-496c-adf6-6b8b5b84632d",
+      "pivot": {
+        "id_kelas_kuliah": 120178,
+        "id_dosen": 1604
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id_prodi": 48,
+  "nama_prodi": "GEOFISIKA - S1",
+  "id_prodi_semester": 2406,
+  "idnumber_sikola": "46504.114936.48",
+  "shortname_sikola": "TA231-114936",
+  "kode_matkul": "23U02131502",
+  "nama_matkul": "Berfikir kritis dan kreatif",
+  "nama_kelas": "BERFIKIR KRITIS DAN KREATIF",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139940,
+      "id_user": 43538,
+      "id_prodi": 48,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ASMAWAN",
+      "nim": "H061201051",
+      "jalan": "Jalan Anoa No. 44 Wawondula",
+      "rt": 8,
+      "rw": 1,
+      "dusun": "Wawondula",
+      "kode_pos": "92983",
+      "nisn": "0005801895",
+      "tempat_lahir": "Singki",
+      "tanggal_lahir": "2000-08-14",
+      "telepon": "082393036996",
+      "handphone": "082393036996",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Langkea Raya",
+      "id_wilayah": "192607",
+      "nik": "7316041408000003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "asmawan20h@student.unhas.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0892ce45-0ea5-413d-98bc-4753aa500854",
+      "id_registrasi_mahasiswa_pddikti": "eed46540-02a1-43d1-9112-3ac3beb27167",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114936,
+        "id_mahasiswa": 139940,
+        "created_at": "2023-08-17 20:18:43"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1550,
+      "id_user": 32506,
+      "id_prodi": 48,
+      "nama": "Dr.  Muhammad Alimuddin, Eng.",
+      "nidn": "0029096705",
+      "nip": "196709291993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6ab8f88c-84ab-4393-a290-bca8191ce5f5",
+      "pivot": {
+        "id_kelas_kuliah": 114936,
+        "id_dosen": 1550
+      }
+    }
+  ]
+}

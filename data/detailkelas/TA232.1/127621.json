@@ -1,0 +1,140 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47529.127621.10",
+  "shortname_sikola": "TA232-127621",
+  "kode_matkul": "23D01133102",
+  "nama_matkul": "Sistem Manajemen K3",
+  "nama_kelas": "Sistem Manajemen K3 Pilihan INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 154298,
+      "id_user": 50617,
+      "id_prodi": 10,
+      "angkatan": 2021,
+      "nama_mahasiswa": "FUAD AHMAD SASMITO",
+      "nim": "D011211046",
+      "jalan": "DESA PAO KAB. JENEPONTO PROV. SULAWESI SELATAN 92361",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Kampung bendi",
+      "kode_pos": "92311",
+      "nisn": "D011211046",
+      "tempat_lahir": "Kabupaten Jeneponto",
+      "tanggal_lahir": "2003-09-10",
+      "telepon": "0",
+      "handphone": "082151828543",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PAO",
+      "id_wilayah": "190511",
+      "nik": "7304111009030002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fuadahmad290@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0ab49055-a902-43ad-b815-92c266bb3038",
+      "id_registrasi_mahasiswa_pddikti": "3de17611-e5ad-4a61-9490-37f6eb4bc8a8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127621,
+        "id_mahasiswa": 154298,
+        "created_at": "2024-01-25 23:19:54"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 157005,
+      "id_user": 53484,
+      "id_prodi": 10,
+      "angkatan": 2021,
+      "nama_mahasiswa": "FADILA AKMALIA KAMSURYA",
+      "nim": "D011211018",
+      "jalan": "BANDARI",
+      "rt": 3,
+      "rw": 7,
+      "dusun": "Bandari",
+      "kode_pos": "97234",
+      "nisn": "0033011660",
+      "tempat_lahir": "AMBON",
+      "tanggal_lahir": "2003-08-11",
+      "telepon": "081343471229",
+      "handphone": "082123683950",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "RUMAH TIGA",
+      "id_wilayah": "216002",
+      "nik": "8171045108030001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "akmaliafadhilah11@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d4451c53-e81d-436a-8dca-0816c586a9d0",
+      "id_registrasi_mahasiswa_pddikti": "bcf3c8c5-0b82-4e8e-a706-d0c83954487a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127621,
+        "id_mahasiswa": 157005,
+        "created_at": "2024-01-28 09:38:42"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1467,
+      "id_user": 33631,
+      "id_prodi": 10,
+      "nama": "Ir. Suharman Hamzah, ST., MT., Ph.D., HSE",
+      "nidn": "0005037608",
+      "nip": "197605032002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7852bd4b-fe3a-42ef-977b-a50620806bbb",
+      "pivot": {
+        "id_kelas_kuliah": 127621,
+        "id_dosen": 1467
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2020,
+      "id_user": 18720,
+      "id_prodi": 10,
+      "nama": "Dr.  Muhammad Asad Abdurrahman, ST., M.Eng",
+      "nidn": "0006037303",
+      "nip": "197303061998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9513e8b4-1bb9-41fb-85cf-1ee03da66b09",
+      "pivot": {
+        "id_kelas_kuliah": 127621,
+        "id_dosen": 2020
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1789,
+      "id_user": 33444,
+      "id_prodi": 10,
+      "nama": "Dr. Rosmariani Arifuddin, ST., MT",
+      "nidn": "0030057301",
+      "nip": "197305301998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b734c3ab-212c-4d15-aca6-8db9ffe6bd9e",
+      "pivot": {
+        "id_kelas_kuliah": 127621,
+        "id_dosen": 1789
+      }
+    }
+  ]
+}

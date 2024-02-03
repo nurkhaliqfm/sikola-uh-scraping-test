@@ -1,0 +1,172 @@
+{
+  "id_prodi": 164,
+  "nama_prodi": "PROFESI DOKTER HEWAN",
+  "id_prodi_semester": 2501,
+  "idnumber_sikola": "34653.114991.164",
+  "shortname_sikola": "TA231-114991",
+  "kode_matkul": "101O2132",
+  "nama_matkul": "Reseptir",
+  "nama_kelas": "RESEPTIR ANGKT 12",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 394482,
+      "id_user": 74129,
+      "id_prodi": 164,
+      "angkatan": 2022,
+      "nama_mahasiswa": "ANDI MUSA QOFA AL-KAZHIM",
+      "nim": "C024222002",
+      "jalan": "PERUMAHAN PURI KENCANA SARI BLOCK F NO. 3",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0007867694",
+      "tempat_lahir": "MANADO",
+      "tanggal_lahir": "2000-01-24",
+      "telepon": "0",
+      "handphone": "085242775765",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196012",
+      "nik": "7322032401000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andimusa24@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0de88193-8773-42bc-b95d-9915ab51d293",
+      "id_registrasi_mahasiswa_pddikti": "8f53a07e-9369-42d0-8fa1-0774c94b0fc8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114991,
+        "id_mahasiswa": 394482,
+        "created_at": "2023-08-07 10:28:04"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 394627,
+      "id_user": 82657,
+      "id_prodi": 164,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SEPTIAN LAZUARDI",
+      "nim": "C024222009",
+      "jalan": "PERUMTEK UNHAS",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Lawa",
+      "kode_pos": "93763",
+      "nisn": "9958977518",
+      "tempat_lahir": "LAKUDO",
+      "tanggal_lahir": "1996-09-18",
+      "telepon": "0",
+      "handphone": "6282180217453",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Lakudo",
+      "id_wilayah": "200313",
+      "nik": "7404071809950001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 82657,
+      "kode_status": "A",
+      "email": "seplazuardi@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "dcfbddd5-c33b-49bb-b250-f966c5ea7b36",
+      "id_registrasi_mahasiswa_pddikti": "ca6677b5-9203-478d-be68-d814c36a2992",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114991,
+        "id_mahasiswa": 394627,
+        "created_at": "2023-08-07 10:32:51"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1998,
+      "id_user": 21,
+      "id_prodi": 146,
+      "nama": "Abdul Wahid Jamaluddin, S.Farm.Apt.,M.Si",
+      "nidn": "0028088801",
+      "nip": "198808282014041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "217bd7de-0d90-495d-ac5f-73052917ba62",
+      "pivot": {
+        "id_kelas_kuliah": 114991,
+        "id_dosen": 1998
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1927,
+      "id_user": 32901,
+      "id_prodi": 146,
+      "nama": "Dr. drh. A. Magfira Satya Apada, M.Sc",
+      "nidn": "0007088502",
+      "nip": "198508072010122008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c7923b08-28d5-4b3a-a7ff-630dcc341495",
+      "pivot": {
+        "id_kelas_kuliah": 114991,
+        "id_dosen": 1927
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2506,
+      "id_user": 33994,
+      "id_prodi": 146,
+      "nama": "Wa Ode Santa Monica",
+      "nidn": "0025068905",
+      "nip": "198906252019032015",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ec217e39-adf6-4d8c-ae5d-493dd6d69c98",
+      "pivot": {
+        "id_kelas_kuliah": 114991,
+        "id_dosen": 2506
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2522,
+      "id_user": 20502,
+      "id_prodi": 146,
+      "nama": "drh. Baso Yusuf, S.K.H., M.Sc.",
+      "nidn": "0015058806",
+      "nip": "198805152019043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f2250a4-43fd-4482-b11d-0ce7fdaa40ae",
+      "pivot": {
+        "id_kelas_kuliah": 114991,
+        "id_dosen": 2522
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3478,
+      "id_user": 45621,
+      "id_prodi": 146,
+      "nama": "Dr. Sitti Mugniati, S.KH",
+      "nidn": null,
+      "nip": "7371146704920002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 114991,
+        "id_dosen": 3478
+      }
+    }
+  ]
+}

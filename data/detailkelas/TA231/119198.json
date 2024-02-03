@@ -1,0 +1,29 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2425,
+  "idnumber_sikola": "26056.119198.78",
+  "shortname_sikola": "TA231-119198",
+  "kode_matkul": "18I02220204",
+  "nama_matkul": "Seminar Hasil Penelitian Tesis",
+  "nama_kelas": "Seminar Hasil Penelitian Tesis",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 751,
+      "id_user": 15916,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Ambo Ako, M.Sc.",
+      "nidn": "0031126412",
+      "nip": "196412311989031026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "62b322b8-d810-4af3-80b4-ea8d23e5d864",
+      "pivot": {
+        "id_kelas_kuliah": 119198,
+        "id_dosen": 751
+      }
+    }
+  ]
+}

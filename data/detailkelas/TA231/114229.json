@@ -1,0 +1,45 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2380,
+  "idnumber_sikola": "47407.114229.15",
+  "shortname_sikola": "TA231-114229",
+  "kode_matkul": "23D08133102",
+  "nama_matkul": "Analisa Keandalan",
+  "nama_kelas": "Analisa Keandalan A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1665,
+      "id_user": 18657,
+      "id_prodi": 15,
+      "nama": "Prof. Muhammad Zubair Muis Alie, ST., MT., Ph.D.",
+      "nidn": "0008067609",
+      "nip": "197506082005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b91a194-1d0c-4d80-916f-c3b967292204",
+      "pivot": {
+        "id_kelas_kuliah": 114229,
+        "id_dosen": 1665
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1062,
+      "id_user": 31711,
+      "id_prodi": 15,
+      "nama": "Ir. Juswan, MT.",
+      "nidn": "0031126207",
+      "nip": "196212311989031031",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41d9f6bc-42a6-47a6-90fc-51b76ee184ca",
+      "pivot": {
+        "id_kelas_kuliah": 114229,
+        "id_dosen": 1062
+      }
+    }
+  ]
+}

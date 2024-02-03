@@ -1,0 +1,45 @@
+{
+  "id_prodi": 267,
+  "nama_prodi": "TEKNOLOGI METALURGI EKSTRAKSI - D4",
+  "id_prodi_semester": 2595,
+  "idnumber_sikola": "44634.116059.267",
+  "shortname_sikola": "TA231-116059",
+  "kode_matkul": "23U01110202",
+  "nama_matkul": "Pendidikan Agama Khatolik",
+  "nama_kelas": "Pendidikan Agama Khatolik",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1127,
+      "id_user": 21719,
+      "id_prodi": 49,
+      "nama": "Drs. Fredryk Welliam Mandey, M.Sc.",
+      "nidn": "0018016502",
+      "nip": "196501181990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4e0b3b52-7b14-4bc2-914e-edad3a296a34",
+      "pivot": {
+        "id_kelas_kuliah": 116059,
+        "id_dosen": 1127
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1861,
+      "id_user": 15269,
+      "id_prodi": 47,
+      "nama": "Eko Juarlin, S.Si.,M.Si.",
+      "nidn": "0006118104",
+      "nip": "198111062008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ddd96c79-dcb1-468a-b2d7-ed432bc4728e",
+      "pivot": {
+        "id_kelas_kuliah": 116059,
+        "id_dosen": 1861
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34718.112371.165",
+  "shortname_sikola": "TA231-112371",
+  "kode_matkul": "18D02310103",
+  "nama_matkul": "KARAKTERISTIK ARSITEKTUR BANGUNAN DAN LINGKUNGAN BINAAN DI WILAYAH BMI",
+  "nama_kelas": "KARAKTERISTIK ARSITEKTUR BANGUNAN DAN LINGKUNGAN BINAAN DI WILAYAH BMI",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 112371,
+        "id_dosen": 1476
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1173,
+      "id_user": 32083,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Idawarni, MT.",
+      "nidn": "0001076502",
+      "nip": "196507011994032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fe5c9f9c-97d7-461c-bea3-0213c6bd1261",
+      "pivot": {
+        "id_kelas_kuliah": 112371,
+        "id_dosen": 1173
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 112371,
+        "id_dosen": 1454
+      }
+    }
+  ]
+}

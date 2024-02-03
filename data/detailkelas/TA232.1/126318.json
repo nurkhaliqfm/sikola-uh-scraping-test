@@ -1,0 +1,45 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2769,
+  "idnumber_sikola": "45401.126318.202",
+  "shortname_sikola": "TA232-126318",
+  "kode_matkul": "23H08120503",
+  "nama_matkul": "Matematika Keuangan",
+  "nama_kelas": "Matematika Keuangan Der A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1565,
+      "id_user": 34269,
+      "id_prodi": 202,
+      "nama": "Dr. Amran, S.Si.,M.Si.",
+      "nidn": "0001117003",
+      "nip": "197011011998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c732ad65-4320-4a8b-a5db-9225d6d3d2aa",
+      "pivot": {
+        "id_kelas_kuliah": 126318,
+        "id_dosen": 1565
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3941,
+      "id_user": 71569,
+      "id_prodi": 202,
+      "nama": "Mauliddin, S.Si., M.Si",
+      "nidn": "0905088304",
+      "nip": "198308052015031005",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "ae6e0b5f-3c5f-4ed2-b852-3cd5c96743f5",
+      "pivot": {
+        "id_kelas_kuliah": 126318,
+        "id_dosen": 3941
+      }
+    }
+  ]
+}

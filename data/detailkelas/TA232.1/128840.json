@@ -1,0 +1,29 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2617,
+  "idnumber_sikola": "46507.128840.21",
+  "shortname_sikola": "TA232-128840",
+  "kode_matkul": "23U02133020",
+  "nama_matkul": "Riset Mandiri",
+  "nama_kelas": "Riset Mandiri",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1950,
+      "id_user": 28829,
+      "id_prodi": 21,
+      "nama": "Dr. Eng. Hendra Pachri, S.T., M.Eng",
+      "nidn": "0014127705",
+      "nip": "197712142005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38f01ca0-2989-4839-9af6-40a23858cb01",
+      "pivot": {
+        "id_kelas_kuliah": 128840,
+        "id_dosen": 1950
+      }
+    }
+  ]
+}

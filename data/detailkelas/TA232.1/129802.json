@@ -1,0 +1,85 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2769,
+  "idnumber_sikola": "45456.129802.202",
+  "shortname_sikola": "TA232-129802",
+  "kode_matkul": "23H08121603",
+  "nama_matkul": "Proses Stokastik",
+  "nama_kelas": "Proses Stokastik A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 155462,
+      "id_user": 51857,
+      "id_prodi": 202,
+      "angkatan": 2021,
+      "nama_mahasiswa": "FEBRIAN PUTRA PRATAMA LILIHATA",
+      "nim": "H081211007",
+      "jalan": "JL. PERINTIS KEMERDEKAAN PERUM. BUDI DAYA PERMAI BLOK F 17",
+      "rt": 6,
+      "rw": 2,
+      "dusun": "-",
+      "kode_pos": "90245",
+      "nisn": "0040018938",
+      "tempat_lahir": "WAMENA",
+      "tanggal_lahir": "2004-02-17",
+      "telepon": "0",
+      "handphone": "085298998086",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TAMALANREA",
+      "id_wilayah": "196012",
+      "nik": "9102011702040001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "febrianlilihata@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0f632270-2f74-4149-bf69-510cbd3784fd",
+      "id_registrasi_mahasiswa_pddikti": "e404c929-42ae-405b-b26c-85f69069842d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129802,
+        "id_mahasiswa": 155462,
+        "created_at": "2024-02-02 12:25:03"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3941,
+      "id_user": 71569,
+      "id_prodi": 202,
+      "nama": "Mauliddin, S.Si., M.Si",
+      "nidn": "0905088304",
+      "nip": "198308052015031005",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "ae6e0b5f-3c5f-4ed2-b852-3cd5c96743f5",
+      "pivot": {
+        "id_kelas_kuliah": 129802,
+        "id_dosen": 3941
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1565,
+      "id_user": 34269,
+      "id_prodi": 202,
+      "nama": "Dr. Amran, S.Si.,M.Si.",
+      "nidn": "0001117003",
+      "nip": "197011011998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c732ad65-4320-4a8b-a5db-9225d6d3d2aa",
+      "pivot": {
+        "id_kelas_kuliah": 129802,
+        "id_dosen": 1565
+      }
+    }
+  ]
+}

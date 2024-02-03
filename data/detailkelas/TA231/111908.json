@@ -1,0 +1,61 @@
+{
+  "id_prodi": 68,
+  "nama_prodi": "BUDIDAYA PERAIRAN - S1",
+  "id_prodi_semester": 2416,
+  "idnumber_sikola": "45659.111908.68",
+  "shortname_sikola": "TA231-111908",
+  "kode_matkul": "23L03130303",
+  "nama_matkul": "Fisiologi Reproduksi Organisme Akuakultur",
+  "nama_kelas": "Fisiologi Reproduksi Organisme Akuakultur (Kelas B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 874,
+      "id_user": 31440,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Yushinta Fujaya, M.Si.",
+      "nidn": "0023016501",
+      "nip": "196501231989032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c7a8968b-f998-46f4-83b5-12fe15484974",
+      "pivot": {
+        "id_kelas_kuliah": 111908,
+        "id_dosen": 874
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1145,
+      "id_user": 18939,
+      "id_prodi": 68,
+      "nama": "Ir. Muhammad Iqbal Djawad, M.Sc., Ph.D",
+      "nidn": "0018036701",
+      "nip": "196703181989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9b18a37-bb8f-42a9-9e67-3d969a094357",
+      "pivot": {
+        "id_kelas_kuliah": 111908,
+        "id_dosen": 1145
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2358,
+      "id_user": 19502,
+      "id_prodi": 68,
+      "nama": "Dr. Marlina Achmad, S.Pi. M.Si",
+      "nidn": "0006048301",
+      "nip": "198304062005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b14836e-02ef-4a32-94a8-d4c5abe1c7fe",
+      "pivot": {
+        "id_kelas_kuliah": 111908,
+        "id_dosen": 2358
+      }
+    }
+  ]
+}

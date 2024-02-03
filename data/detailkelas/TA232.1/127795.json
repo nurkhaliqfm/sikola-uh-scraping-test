@@ -1,0 +1,156 @@
+{
+  "id_prodi": 269,
+  "nama_prodi": "PPDS UROLOGI",
+  "id_prodi_semester": 2828,
+  "idnumber_sikola": "48780.127795.269",
+  "shortname_sikola": "TA232-127795",
+  "kode_matkul": "23C23510102",
+  "nama_matkul": "Bedah Emergency",
+  "nama_kelas": "Bedah Emergency-20232",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428904,
+      "id_user": 87420,
+      "id_prodi": 269,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD ZULHARYAHYA DANDY ASMARA PUTRA",
+      "nim": "C235232001",
+      "jalan": "BTP BLOK L NO.68",
+      "rt": 3,
+      "rw": 9,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1994-02-14",
+      "telepon": "082187884126",
+      "handphone": "082187884126",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "7371141402940001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 87420,
+      "kode_status": "A",
+      "email": "m.zulharyahya@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": "082187884126",
+      "pivot": {
+        "id_kelas_kuliah": 127795,
+        "id_mahasiswa": 428904,
+        "created_at": "2024-02-01 12:15:47"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428905,
+      "id_user": 87530,
+      "id_prodi": 269,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ADE TIRTAYADI",
+      "nim": "C235232002",
+      "jalan": "JALAN ANDI MAPPAODANG",
+      "rt": null,
+      "rw": null,
+      "dusun": null,
+      "kode_pos": null,
+      "nisn": null,
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": null,
+      "telepon": null,
+      "handphone": "082259114827",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": null,
+      "id_wilayah": null,
+      "nik": "7371142108890002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": null,
+      "kode_status": "A",
+      "email": null,
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": "082259114827",
+      "pivot": {
+        "id_kelas_kuliah": 127795,
+        "id_mahasiswa": 428905,
+        "created_at": "2024-02-01 12:24:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1855,
+      "id_user": 18644,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Prihantono, S.Ked., Sp.B(K)Onk., M.Kes.",
+      "nidn": "0029067408",
+      "nip": "197406292008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f8c3a284-7a90-4c0d-968e-c62e7995fd9f",
+      "pivot": {
+        "id_kelas_kuliah": 127795,
+        "id_dosen": 1855
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1869,
+      "id_user": 37403,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Syarif, Sp.U(K)",
+      "nidn": "0010088104",
+      "nip": "198108102009121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9552df4f-65d0-40f3-a896-f631a9be86c3",
+      "pivot": {
+        "id_kelas_kuliah": 127795,
+        "id_dosen": 1869
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2405,
+      "id_user": 33832,
+      "id_prodi": 6,
+      "nama": "dr. M. Asykar A. Palinrungi, Sp.U(K)",
+      "nidn": "0014127405",
+      "nip": "197412142002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ed926ed-00a0-4600-8e9a-bd9234654b60",
+      "pivot": {
+        "id_kelas_kuliah": 127795,
+        "id_dosen": 2405
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1780,
+      "id_user": 34990,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Sachraswaty R. Laidding, Sp.B., Sp.BP-RE(K)",
+      "nidn": "0012017603",
+      "nip": "197601122006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50a29ae0-5093-473a-a832-af279cdbe768",
+      "pivot": {
+        "id_kelas_kuliah": 127795,
+        "id_dosen": 1780
+      }
+    }
+  ]
+}

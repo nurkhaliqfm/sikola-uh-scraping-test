@@ -1,0 +1,45 @@
+{
+  "id_prodi": 103,
+  "nama_prodi": "SOSIOLOGI - S2",
+  "id_prodi_semester": 2448,
+  "idnumber_sikola": "44158.107514.103",
+  "shortname_sikola": "TA231-107514",
+  "kode_matkul": "22E03210102",
+  "nama_matkul": "FILSAFAT ILMU",
+  "nama_kelas": "Kerjasama BPS I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 782,
+      "id_user": 31673,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Ahmad Munir, M.Eng.",
+      "nidn": "0027076201",
+      "nip": "196207271989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9fe5c2d9-d111-444c-8d46-21ac6ce09521",
+      "pivot": {
+        "id_kelas_kuliah": 107514,
+        "id_dosen": 782
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 708,
+      "id_user": 25455,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir.  Darmawan, M.Sc.",
+      "nidn": "0006066301",
+      "nip": "196306061988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4986613c-e075-4352-b8fb-b986f2715bb0",
+      "pivot": {
+        "id_kelas_kuliah": 107514,
+        "id_dosen": 708
+      }
+    }
+  ]
+}

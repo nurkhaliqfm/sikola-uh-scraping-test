@@ -1,0 +1,85 @@
+{
+  "id_prodi": 162,
+  "nama_prodi": "GEOFISIKA - S2",
+  "id_prodi_semester": 2730,
+  "idnumber_sikola": "39776.119292.162",
+  "shortname_sikola": "TA232-119292",
+  "kode_matkul": "18H04211902",
+  "nama_matkul": "Pengolahan Data Sinyal Geofisika",
+  "nama_kelas": "PENGOLAHAN DATA SINYAL GEOFISIKA",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427620,
+      "id_user": 86146,
+      "id_prodi": 162,
+      "angkatan": 2023,
+      "nama_mahasiswa": "DEWI AINUN JARIAH",
+      "nim": "H042232002",
+      "jalan": "PERUMAHAN BUMI PALLANGGA MAS 1",
+      "rt": 2,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "92161",
+      "nisn": "0",
+      "tempat_lahir": "KENDARI",
+      "tanggal_lahir": "1998-04-09",
+      "telepon": "0",
+      "handphone": "082188302858",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BONTOALA",
+      "id_wilayah": "190303",
+      "nik": "7306074904980001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86146,
+      "kode_status": "A",
+      "email": "dewiainunyaumi01@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119292,
+        "id_mahasiswa": 427620,
+        "created_at": "2024-02-02 12:35:20"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1413,
+      "id_user": 31483,
+      "id_prodi": 48,
+      "nama": "Dr.  Muhammad Hamzah S., S.Si.,MT.",
+      "nidn": "0031126904",
+      "nip": "196912311997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "169f3be0-82ed-4436-a8bc-dff6e73feb92",
+      "pivot": {
+        "id_kelas_kuliah": 119292,
+        "id_dosen": 1413
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3539,
+      "id_user": 73279,
+      "id_prodi": 48,
+      "nama": "Dr. Muhammad Taufiq Rafi",
+      "nidn": "8919160022",
+      "nip": "199502072022115001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d7fab3c-49ad-4a1f-956b-a3f56ef70040",
+      "pivot": {
+        "id_kelas_kuliah": 119292,
+        "id_dosen": 3539
+      }
+    }
+  ]
+}

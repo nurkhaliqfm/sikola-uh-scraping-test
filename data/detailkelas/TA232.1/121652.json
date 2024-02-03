@@ -1,0 +1,117 @@
+{
+  "id_prodi": 36,
+  "nama_prodi": "ARKEOLOGI - S1",
+  "id_prodi_semester": 2631,
+  "idnumber_sikola": "42147.121652.36",
+  "shortname_sikola": "TA232-121652",
+  "kode_matkul": "21F07121303",
+  "nama_matkul": "Arkeologi Publik",
+  "nama_kelas": "Arkeologi Publik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 156309,
+      "id_user": 52753,
+      "id_prodi": 36,
+      "angkatan": 2021,
+      "nama_mahasiswa": "FERDINAN J.W. LUMBANTOBING",
+      "nim": "F071211025",
+      "jalan": "BANJARNAHOT,SAITNIHUTA,JL.SUTANSUMURUNG,HUTATORUAN 1",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "22414",
+      "nisn": "0022674006",
+      "tempat_lahir": "LAGUBOTI",
+      "tanggal_lahir": "2002-10-01",
+      "telepon": "0",
+      "handphone": "081374347615",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "HUTATORUAN I",
+      "id_wilayah": "070806",
+      "nik": "1212020110020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 52753,
+      "kode_status": "A",
+      "email": "ferdinanjwlumbantobing011002@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b378a05e-e950-48c4-a407-773ba984bae0",
+      "id_registrasi_mahasiswa_pddikti": "5972eb98-9f0e-44a4-bc5c-98bc6cfa1b37",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121652,
+        "id_mahasiswa": 156309,
+        "created_at": "2024-01-30 03:14:48"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1494,
+      "id_user": 34239,
+      "id_prodi": 36,
+      "nama": "Dr. Muhammad Nur, S.S., MA.",
+      "nidn": "0011097006",
+      "nip": "197009112005021004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5cef8efe-5595-471c-8ed5-6694cccabd14",
+      "pivot": {
+        "id_kelas_kuliah": 121652,
+        "id_dosen": 1494
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3493,
+      "id_user": 47705,
+      "id_prodi": 36,
+      "nama": "Erwin Mansyur Ugu Saraka, S.S., MSc.",
+      "nidn": "0027029004",
+      "nip": "199002272020121012",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "687af275-9065-451d-9636-0e0f2a918dc1",
+      "pivot": {
+        "id_kelas_kuliah": 121652,
+        "id_dosen": 3493
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3408,
+      "id_user": 60813,
+      "id_prodi": 36,
+      "nama": "A. Muh. Saiful, S.S., M.A",
+      "nidn": null,
+      "nip": "7371140801850010",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 121652,
+        "id_dosen": 3408
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3790,
+      "id_user": 73469,
+      "id_prodi": 36,
+      "nama": "Suryatman, S.S., M.Hum",
+      "nidn": "8982650022",
+      "nip": "198610212022085001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "07526b6b-b45c-44bf-b0ba-62a44ca56060",
+      "pivot": {
+        "id_kelas_kuliah": 121652,
+        "id_dosen": 3790
+      }
+    }
+  ]
+}

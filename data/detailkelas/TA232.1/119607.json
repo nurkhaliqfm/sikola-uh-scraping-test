@@ -1,0 +1,29 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "46544.119607.12",
+  "shortname_sikola": "TA232-119607",
+  "kode_matkul": "23U02132406",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "KERJA PRAKTEK F",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1801,
+      "id_user": 23225,
+      "id_prodi": 12,
+      "nama": "Fauzan, ST., M.T., Ph.D",
+      "nidn": "0003017706",
+      "nip": "197701032008011009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "440bbce0-30f0-4e60-a7ce-dc018e971b10",
+      "pivot": {
+        "id_kelas_kuliah": 119607,
+        "id_dosen": 1801
+      }
+    }
+  ]
+}

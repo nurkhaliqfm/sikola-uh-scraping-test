@@ -1,0 +1,140 @@
+{
+  "id_prodi": 36,
+  "nama_prodi": "ARKEOLOGI - S1",
+  "id_prodi_semester": 2631,
+  "idnumber_sikola": "42118.120832.36",
+  "shortname_sikola": "TA232-120832",
+  "kode_matkul": "21F07111004",
+  "nama_matkul": "Survei dan Perekaman Data Arkeologi",
+  "nama_kelas": "Survei dan Perekaman Data Arkeologi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 158531,
+      "id_user": 55107,
+      "id_prodi": 36,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUHAMMAD ARYA RIZKY DANENDRA",
+      "nim": "F071211048",
+      "jalan": "JL.PERINTIS KEMERDEKAAN NO 36 KOTA MAKASSAR PROV. SULAWESI SELATAN 90245",
+      "rt": 3,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0033001145",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2003-03-31",
+      "telepon": "0",
+      "handphone": "0895387774848",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TAMALANREA JAYA",
+      "id_wilayah": "196012",
+      "nik": "7371143103030004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "arya.venom3103@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "093142f4-1993-42f5-a356-29ec31fe1fd9",
+      "id_registrasi_mahasiswa_pddikti": "9264ddc6-0be8-4851-a208-1ddc7486489b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120832,
+        "id_mahasiswa": 158531,
+        "created_at": "2024-01-25 11:28:23"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 423911,
+      "id_user": 82658,
+      "id_prodi": 36,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NUR FADLY RAMADHAN",
+      "nim": "F071231071",
+      "jalan": "RAWASARI   KAB. SUBANG  PROV. JAWA BARAT 41256",
+      "rt": 16,
+      "rw": 8,
+      "dusun": "Rawasari",
+      "kode_pos": "41256",
+      "nisn": "0027032660",
+      "tempat_lahir": "SUBANG",
+      "tanggal_lahir": "2003-10-26",
+      "telepon": "081229908873",
+      "handphone": "085157979013",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SUKAMANDIJAYA",
+      "id_wilayah": "021918",
+      "nik": "3213092610030002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nurfadly26103@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "84043186-7fd3-4e28-946a-2c0564198564",
+      "id_registrasi_mahasiswa_pddikti": "342f05e8-0a0f-4c40-bd3b-38d106ab07af",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120832,
+        "id_mahasiswa": 423911,
+        "created_at": "2024-01-27 16:34:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2277,
+      "id_user": 28977,
+      "id_prodi": 36,
+      "nama": "Drs. Iwan Sumantri, MS.",
+      "nidn": "0021125904",
+      "nip": "195912211987031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1433b1ac-1eaa-4bad-af02-9924702cfdb8",
+      "pivot": {
+        "id_kelas_kuliah": 120832,
+        "id_dosen": 2277
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3493,
+      "id_user": 47705,
+      "id_prodi": 36,
+      "nama": "Erwin Mansyur Ugu Saraka, S.S., MSc.",
+      "nidn": "0027029004",
+      "nip": "199002272020121012",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "687af275-9065-451d-9636-0e0f2a918dc1",
+      "pivot": {
+        "id_kelas_kuliah": 120832,
+        "id_dosen": 3493
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3790,
+      "id_user": 73469,
+      "id_prodi": 36,
+      "nama": "Suryatman, S.S., M.Hum",
+      "nidn": "8982650022",
+      "nip": "198610212022085001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "07526b6b-b45c-44bf-b0ba-62a44ca56060",
+      "pivot": {
+        "id_kelas_kuliah": 120832,
+        "id_dosen": 3790
+      }
+    }
+  ]
+}

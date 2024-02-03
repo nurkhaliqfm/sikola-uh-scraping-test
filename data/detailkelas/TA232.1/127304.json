@@ -1,0 +1,140 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "25793.127304.76",
+  "shortname_sikola": "TA232-127304",
+  "kode_matkul": "18P01311603",
+  "nama_matkul": "Rekayasa Pangan",
+  "nama_kelas": "Rekayasa Pangan (S3 Ptn-Sem II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423830,
+      "id_user": 82359,
+      "id_prodi": 76,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SITI FATIMA",
+      "nim": "P013231013",
+      "jalan": "JL. HI MALLU NO 40",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "94515",
+      "nisn": null,
+      "tempat_lahir": "TOLITOLI",
+      "tanggal_lahir": "1989-09-14",
+      "telepon": "0",
+      "handphone": "085342421796",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tuweley",
+      "id_wilayah": "180604",
+      "nik": "7204075409890003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "sitifatima1414tima89@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ba8b4f43-bcfc-4575-9c7c-1fed17530bb7",
+      "id_registrasi_mahasiswa_pddikti": "208a3190-dd74-4971-abaf-d1b43ead79ea",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127304,
+        "id_mahasiswa": 423830,
+        "created_at": "2024-01-23 10:52:10"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 423464,
+      "id_user": 81180,
+      "id_prodi": 76,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANUGERAH FITRI AMALIA",
+      "nim": "P013231007",
+      "jalan": "JL. TERATAI NO. 6",
+      "rt": 3,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90121",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1992-06-13",
+      "telepon": "0",
+      "handphone": "085396256048",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Mattoangin",
+      "id_wilayah": "196001",
+      "nik": "7371015306920001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anugerahamalia808@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "243e6d29-66d4-4b4f-ba83-014622a2c2ca",
+      "id_registrasi_mahasiswa_pddikti": "06a465fe-6b5c-423d-9be5-4c0fb2f06383",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127304,
+        "id_mahasiswa": 423464,
+        "created_at": "2024-01-23 15:30:09"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 687,
+      "id_user": 23573,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Mursalim, IPU., ASEAN.Eng.",
+      "nidn": "0010056102",
+      "nip": "196105101987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6f6c902-415f-4de4-ae93-c8ca138f80ad",
+      "pivot": {
+        "id_kelas_kuliah": 127304,
+        "id_dosen": 687
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 127304,
+        "id_dosen": 1038
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1210,
+      "id_user": 23509,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Junaedi Muhidong, M.Sc.",
+      "nidn": "0025115712",
+      "nip": "196001011985031014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6e82961d-915e-49c9-b1cb-a7691035ca48",
+      "pivot": {
+        "id_kelas_kuliah": 127304,
+        "id_dosen": 1210
+      }
+    }
+  ]
+}

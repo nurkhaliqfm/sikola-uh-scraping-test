@@ -1,0 +1,61 @@
+{
+  "id_prodi": 235,
+  "nama_prodi": "TEKNOLOGI HASIL PERIKANAN - S1",
+  "id_prodi_semester": 2567,
+  "idnumber_sikola": "47303.112291.235",
+  "shortname_sikola": "TA231-112291",
+  "kode_matkul": "23L06131303",
+  "nama_matkul": "Perencanaan Industri Hasil Perikanan",
+  "nama_kelas": "Perencanaan Industri Hasil Perikanan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2460,
+      "id_user": 60802,
+      "id_prodi": 235,
+      "nama": "Dr. Ir.  Ophirtus Sumule, DEA.",
+      "nidn": "0025105911",
+      "nip": "195910251987111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34069e98-4c09-487f-8ffc-aca87ffcf8f1",
+      "pivot": {
+        "id_kelas_kuliah": 112291,
+        "id_dosen": 2460
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1766,
+      "id_user": 10399,
+      "id_prodi": 235,
+      "nama": "Dr. Fahrul, S.Pi., M.Si.",
+      "nidn": "0019047406",
+      "nip": "197404192006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45df60ce-91a0-4379-819f-46b8984c0a6c",
+      "pivot": {
+        "id_kelas_kuliah": 112291,
+        "id_dosen": 1766
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 794,
+      "id_user": 28188,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Aris, M.Si.",
+      "nidn": "0025046202",
+      "nip": "196204251990031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55b2ea46-51e8-4719-b42e-1f79aa4ecc4a",
+      "pivot": {
+        "id_kelas_kuliah": 112291,
+        "id_dosen": 794
+      }
+    }
+  ]
+}

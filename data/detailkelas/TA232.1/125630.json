@@ -1,0 +1,29 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2702,
+  "idnumber_sikola": "38906.125630.129",
+  "shortname_sikola": "TA232-125630",
+  "kode_matkul": "20C14530402",
+  "nama_matkul": "ONCOLOGY 1",
+  "nama_kelas": "Oncology 1_2023_2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2386,
+      "id_user": 37428,
+      "id_prodi": 6,
+      "nama": "dr. Muhammad Phetrus Johan, Sp.OT, M.Kes",
+      "nidn": "0028108207",
+      "nip": "198210282014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4efc5092-b663-4583-917b-8be398069d7b",
+      "pivot": {
+        "id_kelas_kuliah": 125630,
+        "id_dosen": 2386
+      }
+    }
+  ]
+}

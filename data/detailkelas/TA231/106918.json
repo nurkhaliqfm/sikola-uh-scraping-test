@@ -1,0 +1,61 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36877.106918.176",
+  "shortname_sikola": "TA231-106918",
+  "kode_matkul": "19G05212902",
+  "nama_matkul": "Sistem Kecerdasan Buatan",
+  "nama_kelas": "Sistem Kecerdasan Buatan (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 782,
+      "id_user": 31673,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Ahmad Munir, M.Eng.",
+      "nidn": "0027076201",
+      "nip": "196207271989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9fe5c2d9-d111-444c-8d46-21ac6ce09521",
+      "pivot": {
+        "id_kelas_kuliah": 106918,
+        "id_dosen": 782
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1446,
+      "id_user": 31475,
+      "id_prodi": 155,
+      "nama": "Dr. Ir. Abdul Waris, MT.",
+      "nidn": "0011016003",
+      "nip": "196011011989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3133247b-732f-4da3-86f2-3e6adc83a572",
+      "pivot": {
+        "id_kelas_kuliah": 106918,
+        "id_dosen": 1446
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3208,
+      "id_user": 60086,
+      "id_prodi": 155,
+      "nama": "Dr. Suhardi, STP., MP.",
+      "nidn": "0010087107",
+      "nip": "197108102005021003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "d7724f05-0f65-4580-8bbd-297a53e32b9a",
+      "pivot": {
+        "id_kelas_kuliah": 106918,
+        "id_dosen": 3208
+      }
+    }
+  ]
+}

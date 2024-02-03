@@ -1,0 +1,45 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2453,
+  "idnumber_sikola": "29101.110431.109",
+  "shortname_sikola": "TA231-110431",
+  "kode_matkul": "18P07211002",
+  "nama_matkul": "Gender dan Ketenagakerjaan",
+  "nama_kelas": "Gender dan Ketenagakerjaan (Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 743,
+      "id_user": 27096,
+      "id_prodi": 2,
+      "nama": "Prof. Dr. Siti Haerani, S.E., M.Si.",
+      "nidn": "0016066204",
+      "nip": "196206161987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2bfb0fa2-2daf-4715-aaa2-948069395252",
+      "pivot": {
+        "id_kelas_kuliah": 110431,
+        "id_dosen": 743
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 873,
+      "id_user": 11654,
+      "id_prodi": 1,
+      "nama": "Dr.  Fatmawati, S.E., M.Si.",
+      "nidn": "0006016402",
+      "nip": "196401061988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73ab129a-1788-44cd-8bfd-756ac3584f91",
+      "pivot": {
+        "id_kelas_kuliah": 110431,
+        "id_dosen": 873
+      }
+    }
+  ]
+}

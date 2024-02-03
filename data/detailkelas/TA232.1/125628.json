@@ -1,0 +1,29 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2702,
+  "idnumber_sikola": "38901.125628.129",
+  "shortname_sikola": "TA232-125628",
+  "kode_matkul": "20C14530302",
+  "nama_matkul": "SPORT INJURY 1",
+  "nama_kelas": "Sport Injury 1_2023_2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1799,
+      "id_user": 37495,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Muhammad Sakti, Sp.OT(K)",
+      "nidn": "0001107611",
+      "nip": "197610012008011013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9df5f394-39f5-4904-bfcc-e9bff7507f50",
+      "pivot": {
+        "id_kelas_kuliah": 125628,
+        "id_dosen": 1799
+      }
+    }
+  ]
+}

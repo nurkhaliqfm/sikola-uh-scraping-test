@@ -1,0 +1,29 @@
+{
+  "id_prodi": 34,
+  "nama_prodi": "SASTRA ASIA BARAT - S1",
+  "id_prodi_semester": 2398,
+  "idnumber_sikola": "46520.113412.34",
+  "shortname_sikola": "TA231-113412",
+  "kode_matkul": "23U02130102",
+  "nama_matkul": "Komunikasi dan kerjasama",
+  "nama_kelas": "Komunikasi dan Kerjasama (MKPK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1661,
+      "id_user": 12008,
+      "id_prodi": 34,
+      "nama": "Haeruddin, SS., MA.",
+      "nidn": "0005107807",
+      "nip": "197810052005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1f7d2bf-2f92-4936-b30a-39da71213d57",
+      "pivot": {
+        "id_kelas_kuliah": 113412,
+        "id_dosen": 1661
+      }
+    }
+  ]
+}

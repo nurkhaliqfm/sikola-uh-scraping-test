@@ -1,0 +1,61 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2702,
+  "idnumber_sikola": "38912.125633.129",
+  "shortname_sikola": "TA232-125633",
+  "kode_matkul": "20C14530602",
+  "nama_matkul": "PEDIATRIC 1",
+  "nama_kelas": "Pediatric 1_2023_1",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2516,
+      "id_user": 60189,
+      "id_prodi": 6,
+      "nama": "dr.  Fadlyansyah Farid, S.Ked., M.Kes., Sp.OT",
+      "nidn": "",
+      "nip": "198703072020121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125633,
+        "id_dosen": 2516
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2690,
+      "id_user": 44971,
+      "id_prodi": 129,
+      "nama": "dr. Henry Yurianto, M.Phil, Ph.D., Sp.OT (K)",
+      "nidn": null,
+      "nip": "196806242018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125633,
+        "id_dosen": 2690
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2695,
+      "id_user": null,
+      "id_prodi": 129,
+      "nama": "dr. Muhammad Ihsan Kitta, M.Kes., Sp.OT (K)",
+      "nidn": null,
+      "nip": "7371140905800001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125633,
+        "id_dosen": 2695
+      }
+    }
+  ]
+}

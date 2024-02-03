@@ -1,0 +1,45 @@
+{
+  "id_prodi": 14,
+  "nama_prodi": "TEKNIK PERKAPALAN - S1",
+  "id_prodi_semester": 2379,
+  "idnumber_sikola": "47766.114217.14",
+  "shortname_sikola": "TA231-114217",
+  "kode_matkul": "23D03122802",
+  "nama_matkul": "Desain Interior",
+  "nama_kelas": "DEsain Interior Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1567,
+      "id_user": 19690,
+      "id_prodi": 14,
+      "nama": "Wahyuddin, ST., MT.",
+      "nidn": "0002027203",
+      "nip": "197202051999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be834c70-5163-4ddf-87a9-dbeeb9720459",
+      "pivot": {
+        "id_kelas_kuliah": 114217,
+        "id_dosen": 1567
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1971,
+      "id_user": 19962,
+      "id_prodi": 14,
+      "nama": "Dr. Eng. A. Ardianti, ST., MT",
+      "nidn": "0026058502",
+      "nip": "198505262012122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6d5e9338-c58d-41aa-82bf-689c018a47de",
+      "pivot": {
+        "id_kelas_kuliah": 114217,
+        "id_dosen": 1971
+      }
+    }
+  ]
+}

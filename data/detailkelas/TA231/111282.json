@@ -1,0 +1,77 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2512.111282.5",
+  "shortname_sikola": "TA231-111282",
+  "kode_matkul": "18B01147302",
+  "nama_matkul": "HUKUM PIDANA ADAT\r\n",
+  "nama_kelas": "HK. PIDANA ADAT (B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 835,
+      "id_user": 31504,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Muhadar, SH., MS.",
+      "nidn": "0017035901",
+      "nip": "195903171987031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50773771-d094-4a57-ad13-fcf6ecc3c553",
+      "pivot": {
+        "id_kelas_kuliah": 111282,
+        "id_dosen": 835
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 896,
+      "id_user": 34097,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Farida Patittingi, S.H., M.Hum.",
+      "nidn": "0031126724",
+      "nip": "196712311991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ccf669e-87e0-4958-b39d-90be5c469ac2",
+      "pivot": {
+        "id_kelas_kuliah": 111282,
+        "id_dosen": 896
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1361,
+      "id_user": 34035,
+      "id_prodi": 5,
+      "nama": "Dr. Nur Azisa, SH., MH.",
+      "nidn": "0010106703",
+      "nip": "196710101992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9f47b1b5-c513-4372-878d-40d0c6f573f2",
+      "pivot": {
+        "id_kelas_kuliah": 111282,
+        "id_dosen": 1361
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3764,
+      "id_user": 60676,
+      "id_prodi": 5,
+      "nama": "M. Aris Munandar, S.H., M.H.",
+      "nidn": "0011099701",
+      "nip": "199709112022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "a8b037ef-bfc1-4ab4-a4f8-15ebc676aa4e",
+      "pivot": {
+        "id_kelas_kuliah": 111282,
+        "id_dosen": 3764
+      }
+    }
+  ]
+}

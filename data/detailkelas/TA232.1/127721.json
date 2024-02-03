@@ -1,0 +1,29 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "44948.127721.10",
+  "shortname_sikola": "TA232-127721",
+  "kode_matkul": "23H02111003",
+  "nama_matkul": "Fisika Dasar II",
+  "nama_kelas": "Fisika Dasar II INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1310,
+      "id_user": 31947,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Paulus Lobo Gareso, M.Sc.",
+      "nidn": "0005036503",
+      "nip": "196503051991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4f10bcf-e135-4a32-986d-ef2748f7a1a5",
+      "pivot": {
+        "id_kelas_kuliah": 127721,
+        "id_dosen": 1310
+      }
+    }
+  ]
+}

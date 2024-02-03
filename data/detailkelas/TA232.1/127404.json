@@ -1,0 +1,61 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26123.127404.79",
+  "shortname_sikola": "TA232-127404",
+  "kode_matkul": "19L08312403",
+  "nama_matkul": "Kebijakan dan Perencanaan Pembangunan Perikanan Berkelanjutan",
+  "nama_kelas": "Kebijakan dan Perencanaan Pembangunan Perikanan Berkelanjutan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1068,
+      "id_user": 24136,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Mardiana E. Fachri, MS.",
+      "nidn": "0031126015",
+      "nip": "195907071985032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f719683b-a9ce-41ab-a7be-de268dba7ff1",
+      "pivot": {
+        "id_kelas_kuliah": 127404,
+        "id_dosen": 1068
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1795,
+      "id_user": 13515,
+      "id_prodi": 70,
+      "nama": "Dr.  Andi Amri, S.Pi.,M.Sc.",
+      "nidn": "0007037001",
+      "nip": "197003071997031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c4801641-d3ad-4a53-ab12-ceb1fb7ada8e",
+      "pivot": {
+        "id_kelas_kuliah": 127404,
+        "id_dosen": 1795
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1662,
+      "id_user": 60881,
+      "id_prodi": 70,
+      "nama": "Dr. Andi Adri Arief, S.Pi.,M.Si.",
+      "nidn": "0022047103",
+      "nip": "197104222005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2daf482c-c69e-4121-8f59-6e48ecab0bf9",
+      "pivot": {
+        "id_kelas_kuliah": 127404,
+        "id_dosen": 1662
+      }
+    }
+  ]
+}

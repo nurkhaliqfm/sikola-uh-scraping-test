@@ -1,0 +1,69 @@
+{
+  "id_prodi": 160,
+  "nama_prodi": "SISTEM INFORMASI - S1",
+  "id_prodi_semester": 2497,
+  "idnumber_sikola": "46549.114512.160",
+  "shortname_sikola": "TA231-114512",
+  "kode_matkul": "23U02132304",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139987,
+      "id_user": 43482,
+      "id_prodi": 160,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD THORIQ ALI SAID",
+      "nim": "H071201077",
+      "jalan": "Jalan Perintis",
+      "rt": 4,
+      "rw": 3,
+      "dusun": "-",
+      "kode_pos": "93714",
+      "nisn": "0020419979",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2002-09-18",
+      "telepon": "0",
+      "handphone": "082393317404",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Katobengke",
+      "id_wilayah": "206101",
+      "nik": "7472011809020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muhthoriqas1719@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a5b5e424-4a7e-4a64-8fd1-426f79a28568",
+      "id_registrasi_mahasiswa_pddikti": "5dc37973-b94d-4dbd-8720-a99ef78283b1",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114512,
+        "id_mahasiswa": 139987,
+        "created_at": "2023-08-18 01:02:45"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1693,
+      "id_user": 73,
+      "id_prodi": 160,
+      "nama": "Dr. Hendra, S.Si., M.Kom.",
+      "nidn": "0002017604",
+      "nip": "197601022002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3bec323b-0749-477e-bee5-9b999d8e0e99",
+      "pivot": {
+        "id_kelas_kuliah": 114512,
+        "id_dosen": 1693
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2711,
+  "idnumber_sikola": "31921.128344.138",
+  "shortname_sikola": "TA232-128344",
+  "kode_matkul": "19L06213303",
+  "nama_matkul": "Sistem Informasi Manajemen Perikanan",
+  "nama_kelas": "Sistem Informasi Manajemen Perikanan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428579,
+      "id_user": 87110,
+      "id_prodi": 138,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SRI RAHAYU",
+      "nim": "L012232030",
+      "jalan": "Dusun Labekku, Kel.Majang, Kec. Tanete Riattang Barat, Kab.Bone",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Labekku",
+      "kode_pos": "92734",
+      "nisn": "9971991165",
+      "tempat_lahir": "MAJANG",
+      "tanggal_lahir": "1997-08-06",
+      "telepon": "0",
+      "handphone": "082292602869",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KEL. MAJANG",
+      "id_wilayah": "190724",
+      "nik": "7308224608970001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 87110,
+      "kode_status": "A",
+      "email": "srirahayu115020@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128344,
+        "id_mahasiswa": 428579,
+        "created_at": "2024-01-23 22:51:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1444,
+      "id_user": 22692,
+      "id_prodi": 69,
+      "nama": "Prof. Mukti Zainuddin, S.Pi., M.Sc., Ph.D",
+      "nidn": "0003077101",
+      "nip": "197107031997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4cdd22ad-491a-4927-9d95-9dae4788fdf0",
+      "pivot": {
+        "id_kelas_kuliah": 128344,
+        "id_dosen": 1444
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1274,
+      "id_user": 15286,
+      "id_prodi": 69,
+      "nama": "Prof. Safruddin, S.Pi., MP., Ph.D",
+      "nidn": "0011067402",
+      "nip": "197506112003121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9abd62e5-13a4-4a70-9b4d-18d060683813",
+      "pivot": {
+        "id_kelas_kuliah": 128344,
+        "id_dosen": 1274
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1160,
+      "id_user": 16420,
+      "id_prodi": 66,
+      "nama": "Dr. Muhammad Anshar Amran, M.Si.",
+      "nidn": "0018026402",
+      "nip": "196402181992031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "36666b2e-6f43-4e91-aece-1b46f99b7ea4",
+      "pivot": {
+        "id_kelas_kuliah": 128344,
+        "id_dosen": 1160
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1399,
+      "id_user": 12924,
+      "id_prodi": 66,
+      "nama": "Dr.  Muhammad Banda Selamat, ST., M.Si.",
+      "nidn": "0001097107",
+      "nip": "197103262000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3032aa49-abd7-4e9a-8bf1-f3d6289c2a1f",
+      "pivot": {
+        "id_kelas_kuliah": 128344,
+        "id_dosen": 1399
+      }
+    }
+  ]
+}

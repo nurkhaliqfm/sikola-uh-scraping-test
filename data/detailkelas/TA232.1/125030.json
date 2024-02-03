@@ -1,0 +1,77 @@
+{
+  "id_prodi": 154,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PANGAN - S1",
+  "id_prodi_semester": 2722,
+  "idnumber_sikola": "36590.125030.154",
+  "shortname_sikola": "TA232-125030",
+  "kode_matkul": "19G02110703",
+  "nama_matkul": "BERFIKIR KREATIF",
+  "nama_kelas": "Berfikir Kreatif Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1987,
+      "id_user": 19720,
+      "id_prodi": 153,
+      "nama": "Ir. Rusli M. Rukka, SP., M.Si.",
+      "nidn": "0026097007",
+      "nip": "197009262005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf52d0c7-9bc3-4f92-974d-89e9451012db",
+      "pivot": {
+        "id_kelas_kuliah": 125030,
+        "id_dosen": 1987
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1250,
+      "id_user": 25956,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Nurbaya Busthanul, M.Si.",
+      "nidn": "0010096301",
+      "nip": "196309101989042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1dff4a00-bf64-4109-b573-f2a04b2a536a",
+      "pivot": {
+        "id_kelas_kuliah": 125030,
+        "id_dosen": 1250
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1318,
+      "id_user": 25481,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Idris Summase, M.Si.",
+      "nidn": "0002106202",
+      "nip": "196210021989031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c53a358-3c25-497c-a577-ad31b26093a2",
+      "pivot": {
+        "id_kelas_kuliah": 125030,
+        "id_dosen": 1318
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2088,
+      "id_user": 23146,
+      "id_prodi": 153,
+      "nama": "Ni Made Viantika Sulianderi, S.P., M.Agb.",
+      "nidn": "0008128203",
+      "nip": "198212082015042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2e02611a-fd11-4fd8-917c-0e7dc1aba4be",
+      "pivot": {
+        "id_kelas_kuliah": 125030,
+        "id_dosen": 2088
+      }
+    }
+  ]
+}

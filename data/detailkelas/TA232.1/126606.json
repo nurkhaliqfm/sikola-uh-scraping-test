@@ -1,0 +1,61 @@
+{
+  "id_prodi": 196,
+  "nama_prodi": "PROFESI INSINYUR",
+  "id_prodi_semester": 2763,
+  "idnumber_sikola": "36031.126606.196",
+  "shortname_sikola": "TA232-126606",
+  "kode_matkul": "18D01410102",
+  "nama_matkul": "Etika Profesi Insinyur",
+  "nama_kelas": "Etika Profesi Insinyur Kelas B - RPL",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1940,
+      "id_user": 11895,
+      "id_prodi": 10,
+      "nama": "Andi Subhan Mustari, ST.,MT",
+      "nidn": "0031057601",
+      "nip": "197605312005011004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "59f6c312-bda6-41ff-a9df-d922b4e90c2f",
+      "pivot": {
+        "id_kelas_kuliah": 126606,
+        "id_dosen": 1940
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1655,
+      "id_user": 30013,
+      "id_prodi": 13,
+      "nama": "Dr.Eng. Ir. Muhammad Rusman, ST.,MT.",
+      "nidn": "0024107404",
+      "nip": "197410242003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bfe386a9-d692-4399-ac0f-dd515542867c",
+      "pivot": {
+        "id_kelas_kuliah": 126606,
+        "id_dosen": 1655
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3724,
+      "id_user": 74277,
+      "id_prodi": 13,
+      "nama": "Ir. Megasari Kurnia, S.T., M.T",
+      "nidn": "8912830022",
+      "nip": "199507292022016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "1bddb30b-05ce-484d-a337-667fadc09058",
+      "pivot": {
+        "id_kelas_kuliah": 126606,
+        "id_dosen": 3724
+      }
+    }
+  ]
+}

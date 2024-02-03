@@ -1,0 +1,101 @@
+{
+  "id_prodi": 70,
+  "nama_prodi": "AGROBISNIS PERIKANAN - S1",
+  "id_prodi_semester": 2418,
+  "idnumber_sikola": "46735.112263.70",
+  "shortname_sikola": "TA231-112263",
+  "kode_matkul": "23L04131803",
+  "nama_matkul": "Manajemen Industri Perikanan",
+  "nama_kelas": "Manajemen Industri Perikanan (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142177,
+      "id_user": 43844,
+      "id_prodi": 70,
+      "angkatan": 2020,
+      "nama_mahasiswa": "AM FACHMI FACHREZA IBRAHIM",
+      "nim": "L041201038",
+      "jalan": "BONTOBILA 3",
+      "rt": 1,
+      "rw": 9,
+      "dusun": "-",
+      "kode_pos": "90233",
+      "nisn": "0012083422",
+      "tempat_lahir": "MAKASSAR-23-06-2001",
+      "tanggal_lahir": "2020-09-09",
+      "telepon": "0",
+      "handphone": "62895422793100",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Batua",
+      "id_wilayah": "196014",
+      "nik": "7371122306010001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fahmifahreza890@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "37283943-fa0e-4d4b-89b8-ce9301611c82",
+      "id_registrasi_mahasiswa_pddikti": "ad8d27ed-7303-4c2b-9fa4-dd90612a9bce",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112263,
+        "id_mahasiswa": 142177,
+        "created_at": "2023-08-17 23:32:29"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1142,
+      "id_user": 23910,
+      "id_prodi": 70,
+      "nama": "Dr. Sri Suro Adhawati, SE., M.Si.",
+      "nidn": "0017046413",
+      "nip": "196404171991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb85900e-3317-4fe4-8bc3-659e0a1e6aa6",
+      "pivot": {
+        "id_kelas_kuliah": 112263,
+        "id_dosen": 1142
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3527,
+      "id_user": 48413,
+      "id_prodi": 70,
+      "nama": "Kasri, S.Pi., M.Si.",
+      "nidn": "0011069205",
+      "nip": "199206112020121004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "2057b70a-6bd1-469a-8c5f-e09c68db916d",
+      "pivot": {
+        "id_kelas_kuliah": 112263,
+        "id_dosen": 3527
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1837,
+      "id_user": 22046,
+      "id_prodi": 66,
+      "nama": "Benny A.J. Gosari, S.Kel., M.Si.",
+      "nidn": "0019087804",
+      "nip": "197808192008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "adebefb8-4957-4dfd-a127-c82d2f71bb7a",
+      "pivot": {
+        "id_kelas_kuliah": 112263,
+        "id_dosen": 1837
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 141,
+  "nama_prodi": "MKU  Eksakta",
+  "id_prodi_semester": 2483,
+  "idnumber_sikola": "44617.107112.141",
+  "shortname_sikola": "TA231-107112",
+  "kode_matkul": "23H01110802",
+  "nama_matkul": "Matematika Dasar",
+  "nama_kelas": "Matematika Dasar 00016",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2231,
+      "id_user": 10593,
+      "id_prodi": 45,
+      "nama": "Dr. Muhammad Zakir, M.Si.",
+      "nidn": "0007026402",
+      "nip": "196402071991031013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bcd57e93-6e84-4c96-81a7-13221fbbc138",
+      "pivot": {
+        "id_kelas_kuliah": 107112,
+        "id_dosen": 2231
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1565,
+      "id_user": 34269,
+      "id_prodi": 202,
+      "nama": "Dr. Amran, S.Si.,M.Si.",
+      "nidn": "0001117003",
+      "nip": "197011011998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c732ad65-4320-4a8b-a5db-9225d6d3d2aa",
+      "pivot": {
+        "id_kelas_kuliah": 107112,
+        "id_dosen": 1565
+      }
+    }
+  ]
+}

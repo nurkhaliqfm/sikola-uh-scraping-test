@@ -1,0 +1,77 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "19709.112400.51",
+  "shortname_sikola": "TA231-112400",
+  "kode_matkul": "341I1103",
+  "nama_matkul": "PAKAN DAN GIZI",
+  "nama_kelas": "Pakan dan Gizi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1239,
+      "id_user": 15540,
+      "id_prodi": 51,
+      "nama": "Dr. Rinduwati, S.Pt.,MP.",
+      "nidn": "0016057102",
+      "nip": "197105161995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ffa03f7-0ed9-4afd-849c-96d879d149bb",
+      "pivot": {
+        "id_kelas_kuliah": 112400,
+        "id_dosen": 1239
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 747,
+      "id_user": 27695,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Ismartoyo, M.Agr.S.",
+      "nidn": "0016025502",
+      "nip": "195512161981031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "85056ddd-4bf6-4dbf-8617-95a73be24134",
+      "pivot": {
+        "id_kelas_kuliah": 112400,
+        "id_dosen": 747
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 897,
+      "id_user": 15735,
+      "id_prodi": 51,
+      "nama": "Dr. Ir Rohmiyatul Islamiyati, MP.",
+      "nidn": "0019086505",
+      "nip": "196508191990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6a679f5-623c-4587-bb34-e30f98fbaa24",
+      "pivot": {
+        "id_kelas_kuliah": 112400,
+        "id_dosen": 897
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 940,
+      "id_user": 20135,
+      "id_prodi": 51,
+      "nama": "Dr. Ir.  Nancy Lahay, MP.",
+      "nidn": "0007125901",
+      "nip": "195912071987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1bf404e1-439c-4b2a-ab5a-e349b1d085f3",
+      "pivot": {
+        "id_kelas_kuliah": 112400,
+        "id_dosen": 940
+      }
+    }
+  ]
+}

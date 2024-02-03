@@ -1,0 +1,61 @@
+{
+  "id_prodi": 226,
+  "nama_prodi": "STUDI PEMBANGUNAN - S3",
+  "id_prodi_semester": 2790,
+  "idnumber_sikola": "39849.129186.226",
+  "shortname_sikola": "TA232-129186",
+  "kode_matkul": "20P02312103",
+  "nama_matkul": "Kebijakan Publik dalam Pembangunan Daerah",
+  "nama_kelas": "Kebijakan Publik dalam Pembangunan Daerah (P) (S3 SP-Sem_I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1108,
+      "id_user": 34224,
+      "id_prodi": 27,
+      "nama": "Prof. Dr.  Alwi, M.Si.",
+      "nidn": "0015016306",
+      "nip": "196310151989031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "591513fa-24d8-4415-81fe-86f6c2e703fd",
+      "pivot": {
+        "id_kelas_kuliah": 129186,
+        "id_dosen": 1108
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3594,
+      "id_user": 58095,
+      "id_prodi": 226,
+      "nama": "Dr. Ir. Muhammad Yamin, M.Si",
+      "nidn": "1109036001",
+      "nip": "196003091990031007",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d48dd14-6560-4bc6-a759-fb115eee177b",
+      "pivot": {
+        "id_kelas_kuliah": 129186,
+        "id_dosen": 3594
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1460,
+      "id_user": 10068,
+      "id_prodi": 1,
+      "nama": "Dr.  Sultan, SE., M.Si.",
+      "nidn": "0015126902",
+      "nip": "196912151999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4d960a87-99b2-4f08-966a-1e99e3a3adca",
+      "pivot": {
+        "id_kelas_kuliah": 129186,
+        "id_dosen": 1460
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2711,
+  "idnumber_sikola": "31923.128355.138",
+  "shortname_sikola": "TA232-128355",
+  "kode_matkul": "19L06213503",
+  "nama_matkul": "Bioteknologi Hasil Perairan",
+  "nama_kelas": "Bioteknologi Hasil Perairan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428088,
+      "id_user": 86615,
+      "id_prodi": 138,
+      "angkatan": 2023,
+      "nama_mahasiswa": "WA ODE ASNAWIAH",
+      "nim": "L012232005",
+      "jalan": "BTN CAKRA HIDAYAT 2 BLOK B3/15",
+      "rt": 4,
+      "rw": 13,
+      "dusun": "jingaraka",
+      "kode_pos": "92161",
+      "nisn": "-",
+      "tempat_lahir": "WAHA",
+      "tanggal_lahir": "1998-02-09",
+      "telepon": "0",
+      "handphone": "081354716520",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA TAENG",
+      "id_wilayah": "190303",
+      "nik": "7407014902980002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86615,
+      "kode_status": "A",
+      "email": "asnachwiah45@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128355,
+        "id_mahasiswa": 428088,
+        "created_at": "2024-02-02 00:32:30"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 900,
+      "id_user": 24123,
+      "id_prodi": 235,
+      "nama": "Prof. Dr. Ir. Metusalach, M.Sc.",
+      "nidn": "0025056002",
+      "nip": "196005251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5efa67f5-93cd-419d-ad65-4fc29782cf3e",
+      "pivot": {
+        "id_kelas_kuliah": 128355,
+        "id_dosen": 900
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2305,
+      "id_user": 27413,
+      "id_prodi": 69,
+      "nama": "Kasmiati, STP., MP., Ph.D.",
+      "nidn": "0016087405",
+      "nip": "197408162003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e97b8dc3-6500-4ffb-be8c-7ef1f15090ba",
+      "pivot": {
+        "id_kelas_kuliah": 128355,
+        "id_dosen": 2305
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2460,
+      "id_user": 60802,
+      "id_prodi": 235,
+      "nama": "Dr. Ir.  Ophirtus Sumule, DEA.",
+      "nidn": "0025105911",
+      "nip": "195910251987111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34069e98-4c09-487f-8ffc-aca87ffcf8f1",
+      "pivot": {
+        "id_kelas_kuliah": 128355,
+        "id_dosen": 2460
+      }
+    }
+  ]
+}

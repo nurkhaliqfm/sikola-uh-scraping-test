@@ -1,0 +1,61 @@
+{
+  "id_prodi": 248,
+  "nama_prodi": "MANAJEMEN BENCANA - S2",
+  "id_prodi_semester": 2579,
+  "idnumber_sikola": "42859.108240.248",
+  "shortname_sikola": "TA231-108240",
+  "kode_matkul": "21P12210902",
+  "nama_matkul": "Statistik dan Pemodelan Bencana",
+  "nama_kelas": "Statistik dan Pemodelan Bencana (MB_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1415,
+      "id_user": 21917,
+      "id_prodi": 57,
+      "nama": "Ansariadi, SKM.,M.Sc.PH.Ph.D",
+      "nidn": "0009017201",
+      "nip": "197201091997031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "83d33e31-2223-4c82-a9c3-b0bb56173a94",
+      "pivot": {
+        "id_kelas_kuliah": 108240,
+        "id_dosen": 1415
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1443,
+      "id_user": 33432,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Mukhsan Putra H., ST., MT.",
+      "nidn": "0012057302",
+      "nip": "197305121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57460746-bae2-4d55-abb7-4e1205acf0f7",
+      "pivot": {
+        "id_kelas_kuliah": 108240,
+        "id_dosen": 1443
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3348,
+      "id_user": 45157,
+      "id_prodi": 134,
+      "nama": "Evi Aprianti S, S.T., Ph.D",
+      "nidn": "0924048904",
+      "nip": "198904242020054001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "6084077e-5391-4157-b64e-dfdc58f93818",
+      "pivot": {
+        "id_kelas_kuliah": 108240,
+        "id_dosen": 3348
+      }
+    }
+  ]
+}

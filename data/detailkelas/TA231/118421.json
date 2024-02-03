@@ -1,0 +1,29 @@
+{
+  "id_prodi": 200,
+  "nama_prodi": "ILMU AKUNTANSI - S3",
+  "id_prodi_semester": 2536,
+  "idnumber_sikola": "36171.118421.200",
+  "shortname_sikola": "TA231-118421",
+  "kode_matkul": "19A02320105",
+  "nama_matkul": "PUBLIKASI INTERNASIONAL TERINDEKS SCOPUS ATAU BEREPUTASI SETARA",
+  "nama_kelas": "SEMESTER II_PUBLIKASI INTERNASIONAL TERINDEKS SCOPUS ATAU BEREPUTASI SETARA",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1302,
+      "id_user": 22831,
+      "id_prodi": 3,
+      "nama": "Dr. Ratna Ayu Damayanti, S.E., M.Soc., Sc., Ak., CA",
+      "nidn": "0019036708",
+      "nip": "196703191992032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd6139a0-9c9c-46e8-8771-38c89a4a1d27",
+      "pivot": {
+        "id_kelas_kuliah": 118421,
+        "id_dosen": 1302
+      }
+    }
+  ]
+}

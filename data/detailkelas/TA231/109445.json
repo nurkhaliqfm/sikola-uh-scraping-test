@@ -1,0 +1,149 @@
+{
+  "id_prodi": 120,
+  "nama_prodi": "PPDS ILMU PENYAKIT THT",
+  "id_prodi_semester": 2462,
+  "idnumber_sikola": "30262.109445.120",
+  "shortname_sikola": "TA231-109445",
+  "kode_matkul": "0713C20602",
+  "nama_matkul": "STASE DIVISI ENDOSKOPI DEP. PULMO DAN DIVISI GASTROHEPATOENTEROLOGI DEP. ILMU PENYAKIT DALAM",
+  "nama_kelas": "Stase Divisi Endoskopi Dep.Pulmo dan Divisi Gastrohepatoenterologi Dep. Ilmu Peny.Dalam, Kelas B 20231 (Semester 7)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 131309,
+      "id_user": 27263,
+      "id_prodi": 120,
+      "angkatan": 2019,
+      "nama_mahasiswa": "SELVIE SIRA",
+      "nim": "C035192004",
+      "jalan": "WIJAYA KUSUMA II NO.33",
+      "rt": 6,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "75124",
+      "nisn": null,
+      "tempat_lahir": "SAMARINDA",
+      "tanggal_lahir": "1986-09-12",
+      "telepon": "0",
+      "handphone": "082255014118",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Air putih",
+      "id_wilayah": "166005",
+      "nik": "6472035209860009",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Selvie.sira120986@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2eb0091d-0d24-4a62-9508-61f4d6612ff7",
+      "id_registrasi_mahasiswa_pddikti": "e8eeff3c-ae40-472a-b89c-5180ffeea393",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109445,
+        "id_mahasiswa": 131309,
+        "created_at": "2023-07-28 13:03:52"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1785,
+      "id_user": 37517,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Fardhah Akil, SpPD, K-GEH",
+      "nidn": "0021127404",
+      "nip": "197412212006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1c36a0d-197b-4546-9653-128b0f84c0ca",
+      "pivot": {
+        "id_kelas_kuliah": 109445,
+        "id_dosen": 1785
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1140,
+      "id_user": 37555,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Andi Makbul Aman, Sp.PD(K).",
+      "nidn": "0023066401",
+      "nip": "196406231991031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7f2c164c-241d-4589-ba11-9878aaf588af",
+      "pivot": {
+        "id_kelas_kuliah": 109445,
+        "id_dosen": 1140
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2668,
+      "id_user": 44997,
+      "id_prodi": 180,
+      "nama": "Dr. dr. Irawaty Djaharuddin, Sp.P(K)",
+      "nidn": "8838040017",
+      "nip": "197206172018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15c6e3eb-4c92-4f2a-b219-ac666cfeb781",
+      "pivot": {
+        "id_kelas_kuliah": 109445,
+        "id_dosen": 2668
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1783,
+      "id_user": 18560,
+      "id_prodi": 6,
+      "nama": "dr.  Arif Santoso, Sp.P(K)., Ph.D., FAPSR.",
+      "nidn": "0015077712",
+      "nip": "197707152006041012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f485eac-45f4-4c64-8d2e-d68e62b6acbe",
+      "pivot": {
+        "id_kelas_kuliah": 109445,
+        "id_dosen": 1783
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1824,
+      "id_user": 34706,
+      "id_prodi": 180,
+      "nama": "Dr. dr. M. Harun Iskandar, SpP(K), SpPD, K-P",
+      "nidn": "0013067505",
+      "nip": "197506132008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c3fa97fb-eeaf-48bd-acf2-7d2914170d79",
+      "pivot": {
+        "id_kelas_kuliah": 109445,
+        "id_dosen": 1824
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1504,
+      "id_user": 37440,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Muhammad Amsyar Akil, Sp. THT (K)",
+      "nidn": "0018076805",
+      "nip": "196807181999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b60ce84f-b3a9-4064-a1cc-43bf4f79a93c",
+      "pivot": {
+        "id_kelas_kuliah": 109445,
+        "id_dosen": 1504
+      }
+    }
+  ]
+}

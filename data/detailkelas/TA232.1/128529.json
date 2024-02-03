@@ -1,0 +1,117 @@
+{
+  "id_prodi": 248,
+  "nama_prodi": "MANAJEMEN BENCANA - S2",
+  "id_prodi_semester": 2810,
+  "idnumber_sikola": "42861.128529.248",
+  "shortname_sikola": "TA232-128529",
+  "kode_matkul": "21P12211102",
+  "nama_matkul": "Manajemen Kesehatan Masyarakat dan Lingkungan",
+  "nama_kelas": "Manajemen Kesehatan Masyarakat dan Lingkungan (PW) (MB_Sem II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421889,
+      "id_user": 77681,
+      "id_prodi": 248,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SURIYANTO LOPANG",
+      "nim": "P122231001",
+      "jalan": "LUNDAN",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "LUNDAN",
+      "kode_pos": "91870",
+      "nisn": null,
+      "tempat_lahir": "SILLANAN",
+      "tanggal_lahir": "1989-01-25",
+      "telepon": "082349701007",
+      "handphone": "082349701007",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "KELURAHAN RANTE KALUA'",
+      "id_wilayah": "191802",
+      "nik": "7318122501890001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rintolopang@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "49aa0717-e226-44b1-9058-96d5cea21647",
+      "id_registrasi_mahasiswa_pddikti": "c1a81004-d0d8-426b-8e24-b1ca1cab1fdf",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128529,
+        "id_mahasiswa": 421889,
+        "created_at": "2024-01-31 16:35:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 934,
+      "id_user": 30673,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Anwar Daud, S.KM., M.Kes.",
+      "nidn": "0012106610",
+      "nip": "196610121993031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "017f0e4a-88d9-48b5-acff-2e0d80dc6a5a",
+      "pivot": {
+        "id_kelas_kuliah": 128529,
+        "id_dosen": 934
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 979,
+      "id_user": 33532,
+      "id_prodi": 11,
+      "nama": "Prof. Dr. Ir. Sumarni Hamid, MT.",
+      "nidn": "0028125802",
+      "nip": "195812281986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3de517d9-c7d4-4d2a-bda6-ac3c8eb2ce98",
+      "pivot": {
+        "id_kelas_kuliah": 128529,
+        "id_dosen": 979
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1269,
+      "id_user": 31838,
+      "id_prodi": 57,
+      "nama": "Dr. Ida Leida Maria, SKM., MKM.,M.Sc.PH",
+      "nidn": "0026026804",
+      "nip": "196802261993032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "40eaa6c2-769b-428e-8dff-a77de3aaeeae",
+      "pivot": {
+        "id_kelas_kuliah": 128529,
+        "id_dosen": 1269
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3348,
+      "id_user": 45157,
+      "id_prodi": 134,
+      "nama": "Evi Aprianti S, S.T., Ph.D",
+      "nidn": "0924048904",
+      "nip": "198904242020054001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "6084077e-5391-4157-b64e-dfdc58f93818",
+      "pivot": {
+        "id_kelas_kuliah": 128529,
+        "id_dosen": 3348
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 135,
+  "nama_prodi": "TEKNIK GEOLOGI - S2",
+  "id_prodi_semester": 2477,
+  "idnumber_sikola": "31686.111234.135",
+  "shortname_sikola": "TA231-111234",
+  "kode_matkul": "18D06212802",
+  "nama_matkul": "GEOKIMIA LINGKUNGAN",
+  "nama_kelas": "Geokimia Lingkungan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 871,
+      "id_user": 12114,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  M. Fauzi Arifin, M.Si",
+      "nidn": "0003125802",
+      "nip": "195812031986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1bf564a1-889a-4675-90ab-6cb07ad46f03",
+      "pivot": {
+        "id_kelas_kuliah": 111234,
+        "id_dosen": 871
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 111234,
+        "id_dosen": 1268
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 156,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PANGAN - S2",
+  "id_prodi_semester": 2493,
+  "idnumber_sikola": "36782.107323.156",
+  "shortname_sikola": "TA231-107323",
+  "kode_matkul": "19G03210603",
+  "nama_matkul": "Rekayasa Pengolahan Pangan",
+  "nama_kelas": "Rekayasa Pengolahan Pangan (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 107323,
+        "id_dosen": 1038
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 683,
+      "id_user": 12391,
+      "id_prodi": 154,
+      "nama": "Prof. Dr. Ir. Mulyati Muhammad Tahir, MS.",
+      "nidn": "0023095702",
+      "nip": "195709231983122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2d588ca9-18d3-44d6-a209-aa34ffc2469e",
+      "pivot": {
+        "id_kelas_kuliah": 107323,
+        "id_dosen": 683
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2623,
+      "id_user": 37115,
+      "id_prodi": 154,
+      "nama": "Dr.Ir Andi Hasizah, M.Si",
+      "nidn": "0922056801",
+      "nip": "196805222015082001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d744ac81-e684-49d2-b98c-8c0aa516d689",
+      "pivot": {
+        "id_kelas_kuliah": 107323,
+        "id_dosen": 2623
+      }
+    }
+  ]
+}

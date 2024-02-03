@@ -1,0 +1,77 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2711,
+  "idnumber_sikola": "31918.128342.138",
+  "shortname_sikola": "TA232-128342",
+  "kode_matkul": "19L06213003",
+  "nama_matkul": "Teknologi Penangkapan Ikan Bertanggungjawab",
+  "nama_kelas": "Teknologi Penangkapan Ikan Bertanggungjawab",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 734,
+      "id_user": 10271,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Najamuddin, M.Sc.",
+      "nidn": "0001076003",
+      "nip": "196007011986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ee5e972a-e0dc-48d7-bca8-1fffa8d6e73b",
+      "pivot": {
+        "id_kelas_kuliah": 128342,
+        "id_dosen": 734
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1275,
+      "id_user": 17340,
+      "id_prodi": 69,
+      "nama": "Dr. Ir.  St. Aisjah Farhum, M.Si.",
+      "nidn": "0005066902",
+      "nip": "196906051993032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "89a28e3b-8a94-4630-8011-1dd967da2358",
+      "pivot": {
+        "id_kelas_kuliah": 128342,
+        "id_dosen": 1275
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1430,
+      "id_user": 19754,
+      "id_prodi": 69,
+      "nama": "Muhammad Kurnia, S.Pi.,  M.Sc., Ph.D",
+      "nidn": "0017067203",
+      "nip": "197206171999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "203eb2e1-a525-42b0-b5d4-22835f84f3da",
+      "pivot": {
+        "id_kelas_kuliah": 128342,
+        "id_dosen": 1430
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1737,
+      "id_user": 12102,
+      "id_prodi": 69,
+      "nama": "M. Abduh Ibnu Hajar, S.Pi., M.Si. Ph.D",
+      "nidn": "0005027301",
+      "nip": "197305022002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9d2c605d-5bb7-48d5-a9d9-7f6deacd6dce",
+      "pivot": {
+        "id_kelas_kuliah": 128342,
+        "id_dosen": 1737
+      }
+    }
+  ]
+}

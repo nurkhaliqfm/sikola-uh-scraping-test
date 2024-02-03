@@ -1,0 +1,69 @@
+{
+  "id_prodi": 94,
+  "nama_prodi": "TEKNIK SIPIL - S3",
+  "id_prodi_semester": 2439,
+  "idnumber_sikola": "27467.112987.94",
+  "shortname_sikola": "TA231-112987",
+  "kode_matkul": "18D01312403",
+  "nama_matkul": "SEMINAR PROPOSAL",
+  "nama_kelas": "Seminar Proposal (Riset)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415251,
+      "id_user": 79842,
+      "id_prodi": 94,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ARININGSIH SUPRAPTI",
+      "nim": "D013231004",
+      "jalan": "JL.TUPAI LR.19 NO 2",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90135",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1973-07-12",
+      "telepon": "0411874076",
+      "handphone": "08111955168",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Mandala",
+      "id_wilayah": "196002",
+      "nik": "7371025207730001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ariningsihs@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "50442563-a1b4-485d-8238-6a1334b708d2",
+      "id_registrasi_mahasiswa_pddikti": "9333b1b8-053e-4d38-856f-555b27ff1863",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112987,
+        "id_mahasiswa": 415251,
+        "created_at": "2023-07-26 17:49:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1416,
+      "id_user": 19372,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Eng. Rita Irmawaty, ST., MT.",
+      "nidn": "0019067202",
+      "nip": "197206192000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fe2926a-19d8-4b94-9673-9a34bab5e607",
+      "pivot": {
+        "id_kelas_kuliah": 112987,
+        "id_dosen": 1416
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28155.129435.102",
+  "shortname_sikola": "TA232-129435",
+  "kode_matkul": "18P06212002",
+  "nama_matkul": "Mikrobiologi Molekuler",
+  "nama_kelas": "Mikrobiologi Molekuler (Mikro-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 697,
+      "id_user": 19833,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Mochammad Hatta, Ph.D., Sp.MK(K)",
+      "nidn": "0014045703",
+      "nip": "195704161985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34a19bf1-32eb-4cbc-9ef2-b89416188fd0",
+      "pivot": {
+        "id_kelas_kuliah": 129435,
+        "id_dosen": 697
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 776,
+      "id_user": 34358,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Rosdiana Natsir, Ph.D., Sp.Biok.",
+      "nidn": "0026035702",
+      "nip": "195703261988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6a320981-0647-4823-b655-f59c6064e081",
+      "pivot": {
+        "id_kelas_kuliah": 129435,
+        "id_dosen": 776
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4051,
+      "id_user": 85495,
+      "id_prodi": 181,
+      "nama": "Dr. dr. Fadhillah, M.Kes., Sp.MK(K)",
+      "nidn": null,
+      "nip": "198401222018012001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 129435,
+        "id_dosen": 4051
+      }
+    }
+  ]
+}

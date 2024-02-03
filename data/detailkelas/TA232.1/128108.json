@@ -1,0 +1,61 @@
+{
+  "id_prodi": 29,
+  "nama_prodi": "SOSIOLOGI - S1",
+  "id_prodi_semester": 2624,
+  "idnumber_sikola": "11352.128108.29",
+  "shortname_sikola": "TA232-128108",
+  "kode_matkul": "337E4103",
+  "nama_matkul": "Metode Penelitian Kualitatif",
+  "nama_kelas": "Metode Penelitian Kualitatif (Kelas Kerja Sama Kependudukan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 894,
+      "id_user": 22532,
+      "id_prodi": 29,
+      "nama": "Prof. Hasbi Marissangan, M.Si., Ph.D",
+      "nidn": "0027086310",
+      "nip": "196308271991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a48975e9-b875-4ec3-bafa-7df1a688ae05",
+      "pivot": {
+        "id_kelas_kuliah": 128108,
+        "id_dosen": 894
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2483,
+      "id_user": 55677,
+      "id_prodi": 29,
+      "nama": "Hariashari Rahim, S.Sos., M.Si.",
+      "nidn": "0007058402",
+      "nip": "198405072021073001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5fcd1aeb-9396-40e9-a7b6-2c5496b19135",
+      "pivot": {
+        "id_kelas_kuliah": 128108,
+        "id_dosen": 2483
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3974,
+      "id_user": null,
+      "id_prodi": 142,
+      "nama": "Hidayat Doe, S.IP., M.SI",
+      "nidn": null,
+      "nip": "7371140511840010",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128108,
+        "id_dosen": 3974
+      }
+    }
+  ]
+}

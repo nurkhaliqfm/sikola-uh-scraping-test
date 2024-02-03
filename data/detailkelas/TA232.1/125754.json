@@ -1,0 +1,378 @@
+{
+  "id_prodi": 123,
+  "nama_prodi": "PPDS PATOLOGI ANATOMI",
+  "id_prodi_semester": 2696,
+  "idnumber_sikola": "38835.125754.123",
+  "shortname_sikola": "TA232-125754",
+  "kode_matkul": "20C07531202",
+  "nama_matkul": "Penelitian 2 (Hasil)",
+  "nama_kelas": "Kelas Sem.6 Penelitian2Hasil -2023-2",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 158859,
+      "id_user": 55441,
+      "id_prodi": 123,
+      "angkatan": 2021,
+      "nama_mahasiswa": "NUR RAHMAH RASYID",
+      "nim": "C075211004",
+      "jalan": "JALAN DANGKO, PERUM GRIYA HARAPAN ABDUL KADIR E2",
+      "rt": 7,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90224",
+      "nisn": "C075211004",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1990-04-30",
+      "telepon": "0",
+      "handphone": "081144302727",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BALANG BARU",
+      "id_wilayah": "196003",
+      "nik": "7371117004900003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rahmarasyidnur@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f1039505-f2df-4993-b40e-62f9a7d3fd74",
+      "id_registrasi_mahasiswa_pddikti": "03885f3c-ab51-4da2-a66a-b5d63b003222",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_mahasiswa": 158859,
+        "created_at": "2024-01-11 17:36:22"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 159063,
+      "id_user": 55657,
+      "id_prodi": 123,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ANDI MARCHA RIANTI",
+      "nim": "C075211002",
+      "jalan": "PERUMAHAN GRAHA CENDEKIA BLOK B  NO 37",
+      "rt": 5,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90241",
+      "nisn": "C075211002",
+      "tempat_lahir": "WATAMPONE",
+      "tanggal_lahir": "1984-03-13",
+      "telepon": "0",
+      "handphone": "081342093461",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DAYA",
+      "id_wilayah": "196011",
+      "nik": "7308215303840004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "marcharianti84@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4420db26-68d7-4e96-a828-82bdb612e4c8",
+      "id_registrasi_mahasiswa_pddikti": "0a15ef2d-94ad-4b88-9434-8b9d935e8636",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_mahasiswa": 159063,
+        "created_at": "2024-01-31 11:43:52"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 154661,
+      "id_user": 51003,
+      "id_prodi": 123,
+      "angkatan": 2021,
+      "nama_mahasiswa": "SURYA RAHMAWANI",
+      "nim": "C075211001",
+      "jalan": "JL. ANDI MURI DG LULU.",
+      "rt": 3,
+      "rw": 2,
+      "dusun": "-",
+      "kode_pos": "90611",
+      "nisn": "C075211001",
+      "tempat_lahir": "Kabupaten Pangkajene Kep.",
+      "tanggal_lahir": "1983-01-17",
+      "telepon": "085398054268",
+      "handphone": "085398054268",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "JAGONG",
+      "id_wilayah": "190204",
+      "nik": "7310045701830001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "surya.rahmawani@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c0dcf368-2ff7-4b6b-9fd9-3be8f5a4a2bd",
+      "id_registrasi_mahasiswa_pddikti": "428d588c-3edb-4104-a625-6eed40dbb95b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_mahasiswa": 154661,
+        "created_at": "2024-01-31 11:45:40"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 158843,
+      "id_user": 55426,
+      "id_prodi": 123,
+      "angkatan": 2021,
+      "nama_mahasiswa": "JONATHAN HAM",
+      "nim": "C075211003",
+      "jalan": "Jl. Rappocini Raya 181b",
+      "rt": 4,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90223",
+      "nisn": "C075211003",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "1993-09-30",
+      "telepon": "082193858220",
+      "handphone": "082193858220",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Buakana",
+      "id_wilayah": "196013",
+      "nik": "7371133009910004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Jonathanham@rocketmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d25f4027-607a-4327-ac8d-8b3b528df54c",
+      "id_registrasi_mahasiswa_pddikti": "c1b52861-3434-4e09-a3fa-6c853880d4d8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_mahasiswa": 158843,
+        "created_at": "2024-01-31 12:29:45"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1595,
+      "id_user": 34487,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Upik A. Miskad, Ph.D., Sp.P.A(K)",
+      "nidn": "0030037403",
+      "nip": "197403302005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d75b2995-5612-4951-ba3c-8f851c187413",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 1595
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1747,
+      "id_user": 37390,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Berti Julian Nelwan, DFM, Sp.F, M.Kes., Sp.PA(K)",
+      "nidn": "0018076701",
+      "nip": "196707181999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a65e87d6-06b7-4e6b-9538-e8d6b4fb4239",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 1747
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1353,
+      "id_user": 33782,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Gatot Susilo Lawrence, M.Sc., Sp.PA.",
+      "nidn": "0011046001",
+      "nip": "196004111990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d014b741-5a87-4eed-8517-8b6af6a2d925",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 1353
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1185,
+      "id_user": 37385,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Rina Masadah, Sp.PA.,M.Phil.DFM.",
+      "nidn": "0027046604",
+      "nip": "196704291992022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e78375e-a10f-4e11-854e-2f7001e6ba12",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 1185
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1204,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Tarsisia Truly Djimahit, Sp.PA.(K)",
+      "nidn": "9900985029",
+      "nip": "195311201983012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09d6be3f-7968-4e08-bb24-f35e1869d022",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 1204
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1089,
+      "id_user": 45112,
+      "id_prodi": 6,
+      "nama": "dr. Cahyono Kaelan, Ph.D., Sp.PA(K)., Sp.S(K).",
+      "nidn": "8834460018",
+      "nip": "195010232018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a180f-0f76-4ade-995d-a514ad0ef02f",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 1089
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3184,
+      "id_user": null,
+      "id_prodi": 123,
+      "nama": "dr. Ni Ketut Sungowati, Sp.PA(K)",
+      "nidn": null,
+      "nip": "196301281988032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 3184
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2227,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr.  Mahmud Ghaznawie, Ph.D., Sp.PA(K)",
+      "nidn": "8835433420",
+      "nip": "195110291981031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "091b6e95-af07-49b2-b7ba-2c841a5407b8",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 2227
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3037,
+      "id_user": null,
+      "id_prodi": 127,
+      "nama": "Prof. Dr. Syarifuddin Wahid, PhD, SpPA(K), SpF",
+      "nidn": null,
+      "nip": "194407241973081001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 3037
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3185,
+      "id_user": null,
+      "id_prodi": 123,
+      "nama": "dr. Juanita, M.Kes., Sp.PA",
+      "nidn": null,
+      "nip": "196906022009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 3185
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3032,
+      "id_user": 48406,
+      "id_prodi": 127,
+      "nama": "dr. Djumadi Achmad, SpPA(K), SpF",
+      "nidn": null,
+      "nip": "194810151974121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 3032
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3031,
+      "id_user": null,
+      "id_prodi": 127,
+      "nama": "dr. Gunawan Arsyadi, SpPA(K), SpF",
+      "nidn": null,
+      "nip": "130359351",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 3031
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1698,
+      "id_user": 28383,
+      "id_prodi": 6,
+      "nama": "dr.  Muhammad Husni, S.Ked.,Ph.D.",
+      "nidn": "0009047705",
+      "nip": "197704092002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b68f6dd7-336c-4183-a776-5a1a23796817",
+      "pivot": {
+        "id_kelas_kuliah": 125754,
+        "id_dosen": 1698
+      }
+    }
+  ]
+}

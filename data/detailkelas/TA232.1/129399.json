@@ -1,0 +1,45 @@
+{
+  "id_prodi": 34,
+  "nama_prodi": "SASTRA ASIA BARAT - S1",
+  "id_prodi_semester": 2629,
+  "idnumber_sikola": "46502.129399.34",
+  "shortname_sikola": "TA232-129399",
+  "kode_matkul": "23U02133520",
+  "nama_matkul": "Praktek Dunia Usaha/ Dunia Industri",
+  "nama_kelas": "Praktek Dunia Usaha dan Dunia Industri (MKPK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1661,
+      "id_user": 12008,
+      "id_prodi": 34,
+      "nama": "Haeruddin, SS., MA.",
+      "nidn": "0005107807",
+      "nip": "197810052005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1f7d2bf-2f92-4936-b30a-39da71213d57",
+      "pivot": {
+        "id_kelas_kuliah": 129399,
+        "id_dosen": 1661
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1835,
+      "id_user": 11588,
+      "id_prodi": 34,
+      "nama": "Haeriyyah, S.Ag.,M.Pd.I.",
+      "nidn": "0031087507",
+      "nip": "197508312008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f690ee8d-ff63-497f-b0fa-ff349d5dfd70",
+      "pivot": {
+        "id_kelas_kuliah": 129399,
+        "id_dosen": 1835
+      }
+    }
+  ]
+}

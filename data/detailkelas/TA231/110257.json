@@ -1,0 +1,140 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46394.110257.16",
+  "shortname_sikola": "TA231-110257",
+  "kode_matkul": "23D09130103",
+  "nama_matkul": "Listrik Kapal",
+  "nama_kelas": "Listrik Kapal Kelas B",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 136178,
+      "id_user": 36615,
+      "id_prodi": 16,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NUR AFRILIANA",
+      "nim": "D091201048",
+      "jalan": "Btn Bontomate'ne",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "-",
+      "kode_pos": "-",
+      "nisn": "0022896234",
+      "tempat_lahir": "KAB. TAKALAR",
+      "tanggal_lahir": "2002-04-25",
+      "telepon": "0",
+      "handphone": "082346396275",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Bajeng",
+      "id_wilayah": "190408",
+      "nik": "7305076504010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nurafriliana25@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "da0167b2-de5c-4ad7-acf7-c95c6e32d96e",
+      "id_registrasi_mahasiswa_pddikti": "3d69906d-12f9-4c99-ab19-82012da10c19",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110257,
+        "id_mahasiswa": 136178,
+        "created_at": "2023-08-04 22:52:24"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 153084,
+      "id_user": 49287,
+      "id_prodi": 16,
+      "angkatan": 2021,
+      "nama_mahasiswa": "AHSAN RAMADHANI",
+      "nim": "D091211018",
+      "jalan": "JL. BULU PATTUKU KAB. SINJAI PROV. SULAWESI SELATAN 92615",
+      "rt": 4,
+      "rw": 1,
+      "dusun": "Popanda",
+      "kode_pos": "92615",
+      "nisn": "0029438698",
+      "tempat_lahir": "SINJAI",
+      "tanggal_lahir": "2002-11-11",
+      "telepon": "0",
+      "handphone": "085656915215",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BONGKI",
+      "id_wilayah": "191207",
+      "nik": "7307051111020004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ahsanramadhani2@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b52d2979-0728-4f34-a0d3-d1cf3e13565f",
+      "id_registrasi_mahasiswa_pddikti": "8515e034-4ffb-4dbe-a71b-935eb9055e55",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110257,
+        "id_mahasiswa": 153084,
+        "created_at": "2023-08-06 10:10:14"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1909,
+      "id_user": 31687,
+      "id_prodi": 16,
+      "nama": "Haryanti Rivai, S.T., M,T., Ph.D",
+      "nidn": "0025027907",
+      "nip": "197902252002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ac401f43-e288-4bbc-b40d-881ea074052b",
+      "pivot": {
+        "id_kelas_kuliah": 110257,
+        "id_dosen": 1909
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1779,
+      "id_user": 12048,
+      "id_prodi": 16,
+      "nama": "Hasnawiyah Hasan, S.T., M.Eng.",
+      "nidn": "0019077805",
+      "nip": "197807192006042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "194ec793-5909-406e-817c-782e7c3ce6a0",
+      "pivot": {
+        "id_kelas_kuliah": 110257,
+        "id_dosen": 1779
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1479,
+      "id_user": 31590,
+      "id_prodi": 16,
+      "nama": "Rahimuddin, ST.,MT.,Ph.D.",
+      "nidn": "0025087101",
+      "nip": "197108251999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2d63bd63-658b-4475-8652-753278c1d21b",
+      "pivot": {
+        "id_kelas_kuliah": 110257,
+        "id_dosen": 1479
+      }
+    }
+  ]
+}

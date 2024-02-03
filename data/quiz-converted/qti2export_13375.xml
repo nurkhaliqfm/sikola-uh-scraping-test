@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Ujian Akhir Semester</text></name><questiontext format="html"><text><![CDATA[<p>Pertanyaan 1/Question 1</p><p>Jelaskan bagaimana dampak penghapusan pasal 7 dan 14 dari Undang-undang Nomor 4 Tahun 2009, sebagaimana dijelaskan dalam Undang-undang Nomor 3 Tahun 2020?</p>
+
+<p><em>Please explain how are the impacts of the nullification of the article 4 and 14 of the Law Number 4 of 2009, as stated in the Law Number 3 of 2020?</em> </p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>200.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_170694</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="multichoice"><name><text>Ujian Akhir Semester</text></name><questiontext format="html"><text><![CDATA[<p>Pertanyaan 2/Question 2</p><p>Berdasarkan Undang-undang Nomor 11 Tahun 2020&nbsp;tentang cipta kerja, bagaimana pekerjaan yang <u>tidak</u> termasuk dalam kriteria pekerjaan waktu tidak tertentu?</p>
+
+<p>B<em>ased on the Law Number 11 of 2020, what is <u>not</u> constituted as unspecified-time work?</em></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_170695</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Pekerjaan yang sekali selesai.</p>
+
+<p><em>One-timed work.</em></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Pekerjaan yang berhubungan dengan produk baru.</p>
+
+<p><em>Work that is related to new product.</em></p>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<p>Pekerjaan yang diperkirakan penyelesaiannya dalam waktu yang tidak terlalu lama dan maksimal 3 tahun.</p>
+
+<p><em>Work that is estimated to be completed in a not too long period and a maximum of 3 years.</em></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Pekerjaan yang bersifat musiman.</p>
+
+<p><em>Seasonal work.</em></p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Ujian Akhir Semester</text></name><questiontext format="html"><text><![CDATA[<p>Pertanyaan 3/Question 3</p><p>Bagaimana dasar penetapan upah minimum menurut Peraturan Pemerintah Nomor 36 Tahun 2021? Jawaban bisa lebih dari 1.</p>
+
+<p><em>What are the basis of the minimum wage based on the Government Regulation Number 36 of 2021? There are possibly more that 1 answer.</em></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_170696</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="50.0" format="html"><text><![CDATA[Kondisi ekonomi.
+
+<em>Economic condition.</em>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[Produktivitas.
+
+<em>Productivity.</em>]]></text><feedback><text/></feedback></answer><answer fraction="50.0" format="html"><text><![CDATA[Paritas daya beli.
+
+<em>Purchasing power parity.</em>]]></text><feedback><text/></feedback></answer><answer fraction="50.0" format="html"><text><![CDATA[Tingkat penyerapan tenaga kerja.
+
+<em>Labour absorption rate.</em>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[Pertumbuhan ekonomi.
+
+<em>Economic growth.</em>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[Kebutuhan hidup layak.
+
+<em>Necessity for decent living</em>.]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Ujian Akhir Semester</text></name><questiontext format="html"><text><![CDATA[<p>Pertanyaan 6/Question 6</p><p>Diketahui nilai akselarasi getaran tangan dan lengan berdasarkan hasil pengukuran adalah 15 meter/detik^2. Berapa durasi pajanan yang diperbolehkan?</p>
+
+<p><em>Given&nbsp;that the acceleration value of hand and arm vibration based on the measurement results is 15 meters/second^2. What is the permissible duration of exposure?</em></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_170699</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>1,39 jam</p>
+
+<p>1.39 <em>hour</em></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>0,90 jam</p>
+
+<p>0.90 <em>hour</em></p>]]></text><feedback><text/></feedback></answer><answer fraction="150.0" format="html"><text><![CDATA[<p>0,89 jam</p>
+
+<p>0.89 <em>hour</em></p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>1,40 jam</p>
+
+<p>1.40 <em>hour</em></p>]]></text><feedback><text/></feedback></answer></question></quiz>

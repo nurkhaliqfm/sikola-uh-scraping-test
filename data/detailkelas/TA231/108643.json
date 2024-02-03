@@ -1,0 +1,61 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2504,
+  "idnumber_sikola": "34833.108643.167",
+  "shortname_sikola": "TA231-108643",
+  "kode_matkul": "18D05310803",
+  "nama_matkul": "TEKNIK TEGANGAN TINGGI DAN ISOLASI LISTRIK LANJUT",
+  "nama_kelas": "PILIHAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 880,
+      "id_user": 34226,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir. H. Salama Manjang, MT., IPM.",
+      "nidn": "0011116211",
+      "nip": "196212311990031024",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5a512f7-1d68-4546-b716-54465bfc1293",
+      "pivot": {
+        "id_kelas_kuliah": 108643,
+        "id_dosen": 880
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1700,
+      "id_user": 16977,
+      "id_prodi": 17,
+      "nama": "Dr. Ikhlas Kitta, ST., MT.",
+      "nidn": "0014097603",
+      "nip": "197609142008011006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1718683-c9ac-4825-9fff-6baa5409f663",
+      "pivot": {
+        "id_kelas_kuliah": 108643,
+        "id_dosen": 1700
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1283,
+      "id_user": 20573,
+      "id_prodi": 17,
+      "nama": "Dr. Yusran, ST.,MT.",
+      "nidn": "0004047509",
+      "nip": "197504042000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a8ae9f3-a4eb-430a-ac81-6ff3513236a1",
+      "pivot": {
+        "id_kelas_kuliah": 108643,
+        "id_dosen": 1283
+      }
+    }
+  ]
+}

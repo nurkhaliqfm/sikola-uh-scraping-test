@@ -1,0 +1,85 @@
+{
+  "id_prodi": 108,
+  "nama_prodi": "ILMU ANTROPOLOGI - S3",
+  "id_prodi_semester": 2683,
+  "idnumber_sikola": "37309.124859.108",
+  "shortname_sikola": "TA232-124859",
+  "kode_matkul": "19E02310703",
+  "nama_matkul": "Manusia dan Lingkungan",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 416728,
+      "id_user": 82374,
+      "id_prodi": 108,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RESKY PURNAMASARI NASARUDDIN",
+      "nim": "E023231002",
+      "jalan": "JL. PERINTIS KEMERDEKAAN VII PERUMAHAN TRIKA MAHKOTA BLOK A/10",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "2023-08-03",
+      "telepon": "08114660600",
+      "handphone": "08114660600",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "7371074108930007",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "reskykikipurnamasari@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4d61c894-67d4-415d-a854-b2572b2a6247",
+      "id_registrasi_mahasiswa_pddikti": "e9d3b1a8-5262-4a30-a55e-3893592c87bc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124859,
+        "id_mahasiswa": 416728,
+        "created_at": "2024-02-02 12:05:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 688,
+      "id_user": 34336,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Hamka, MA.",
+      "nidn": "0004116109",
+      "nip": "196111041987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c1b064b6-5b99-4adb-8a73-69a7e9c7d0e3",
+      "pivot": {
+        "id_kelas_kuliah": 124859,
+        "id_dosen": 688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1828,
+      "id_user": 117,
+      "id_prodi": 30,
+      "nama": "Dr. Safriadi, SIP., M.Si.",
+      "nidn": "0005067408",
+      "nip": "197406052008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7ba6f9b-026d-43f5-b73c-f949185e4db7",
+      "pivot": {
+        "id_kelas_kuliah": 124859,
+        "id_dosen": 1828
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2735,
+  "idnumber_sikola": "34848.119016.167",
+  "shortname_sikola": "TA232-119016",
+  "kode_matkul": "18D05320303",
+  "nama_matkul": "SEMINAR INTERNASIONAL 2",
+  "nama_kelas": "KLS WAJIB BY RISET",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 119016,
+        "id_dosen": 813
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 827,
+      "id_user": 17599,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Andani, MT.",
+      "nidn": "0531126002",
+      "nip": "196012311987031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41633592-f13b-4062-99dc-2c91d5a10984",
+      "pivot": {
+        "id_kelas_kuliah": 119016,
+        "id_dosen": 827
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1553,
+      "id_user": 5300,
+      "id_prodi": 18,
+      "nama": "Dr. Amil Ahmad Ilham, S.T., MIT.",
+      "nidn": "0010107302",
+      "nip": "197310101998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ba607aee-93e4-4c08-a1f5-1b5061d95328",
+      "pivot": {
+        "id_kelas_kuliah": 119016,
+        "id_dosen": 1553
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1578,
+      "id_user": 9267,
+      "id_prodi": 18,
+      "nama": "Dr. Eng. Ir. Muhammad Niswar, S.T., M.InfoTech.",
+      "nidn": "0022097301",
+      "nip": "197309221999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87276310-8835-4e87-9902-fc23b68e7591",
+      "pivot": {
+        "id_kelas_kuliah": 119016,
+        "id_dosen": 1578
+      }
+    }
+  ]
+}

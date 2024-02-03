@@ -1,0 +1,140 @@
+{
+  "id_prodi": 94,
+  "nama_prodi": "TEKNIK SIPIL - S3",
+  "id_prodi_semester": 2670,
+  "idnumber_sikola": "27456.129771.94",
+  "shortname_sikola": "TA232-129771",
+  "kode_matkul": "18D01321703",
+  "nama_matkul": "DESAIN PONDASI KHUSUS (LIKUIFAKSI LERENG, RAWA, TAMBANG, REAKTOR, DLL)",
+  "nama_kelas": "Desain Pondasi khusus (Likuifaksi Lereng, Rawa, Tambang, Reaktor, Dll) (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423825,
+      "id_user": 82725,
+      "id_prodi": 94,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD ARFAN",
+      "nim": "D013231008",
+      "jalan": "JL. KANCIL PUTIH GANG PEGAGAN NO. 56",
+      "rt": 35,
+      "rw": 10,
+      "dusun": null,
+      "kode_pos": "30000",
+      "nisn": "0",
+      "tempat_lahir": "PALEMBANG",
+      "tanggal_lahir": "1973-03-25",
+      "telepon": "0",
+      "handphone": "081368888110",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Demang Lebar Daun",
+      "id_wilayah": "116004",
+      "nik": "1671012503730001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "m_4rf4n@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3d15bd12-1ad2-4121-95cf-cdc95345d651",
+      "id_registrasi_mahasiswa_pddikti": "f691dd97-0086-4444-ae72-f4ced94aaec8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129771,
+        "id_mahasiswa": 423825,
+        "created_at": "2024-02-01 16:41:31"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 423790,
+      "id_user": 82111,
+      "id_prodi": 94,
+      "angkatan": 2023,
+      "nama_mahasiswa": "HERDIAN GUMAY",
+      "nim": "D013231007",
+      "jalan": "JL. ISWAHYUDI",
+      "rt": 17,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "30118",
+      "nisn": null,
+      "tempat_lahir": "BENGKULU",
+      "tanggal_lahir": "1984-03-02",
+      "telepon": "0",
+      "handphone": "082182000020",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Kalidoni",
+      "id_wilayah": "116014",
+      "nik": "1671100203840008",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "herdian.gumay@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8713dcc4-1c54-43c5-a627-64d13c1ad6fe",
+      "id_registrasi_mahasiswa_pddikti": "92a228c5-d6c9-4dd6-b7ef-fb2d44421381",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129771,
+        "id_mahasiswa": 423790,
+        "created_at": "2024-02-01 18:13:11"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1294,
+      "id_user": 33438,
+      "id_prodi": 10,
+      "nama": "Dr. Tri Harianto, ST., MT.",
+      "nidn": "0009037201",
+      "nip": "197203092000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f937b563-6aed-4936-a47f-3f4a835794e5",
+      "pivot": {
+        "id_kelas_kuliah": 129771,
+        "id_dosen": 1294
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1065,
+      "id_user": 31143,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ir. Abdul Rachman Djamaluddin, MT.",
+      "nidn": "0010105904",
+      "nip": "195910101987031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fa9e681-a242-43d9-ba01-e85e77eaed18",
+      "pivot": {
+        "id_kelas_kuliah": 129771,
+        "id_dosen": 1065
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2039,
+      "id_user": 31454,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Ardy Arsyad, S.T., M.Eng.Sc",
+      "nidn": "0007077607",
+      "nip": "197607072005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d60f3ca6-77f7-4eb8-aec3-17ce61268336",
+      "pivot": {
+        "id_kelas_kuliah": 129771,
+        "id_dosen": 2039
+      }
+    }
+  ]
+}

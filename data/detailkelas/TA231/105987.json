@@ -1,0 +1,69 @@
+{
+  "id_prodi": 162,
+  "nama_prodi": "GEOFISIKA - S2",
+  "id_prodi_semester": 2499,
+  "idnumber_sikola": "39767.105987.162",
+  "shortname_sikola": "TA231-105987",
+  "kode_matkul": "18H04211002",
+  "nama_matkul": "Meteorologi dan Klimatologi Terapan",
+  "nama_kelas": "Meteorologi dan Klimatologi Terapan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385834,
+      "id_user": 73306,
+      "id_prodi": 162,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SYAMSINAR",
+      "nim": "H042222004",
+      "jalan": "paccinongan",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "99223",
+      "nisn": "0",
+      "tempat_lahir": "PA'LILANGAN",
+      "tanggal_lahir": "2000-08-26",
+      "telepon": "0",
+      "handphone": "082347398378",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Kale ko'mara",
+      "id_wilayah": "190404",
+      "nik": "7305046608000001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "syamsinarmakta@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d43e68a7-87ba-4b95-9319-fa0b127baeb0",
+      "id_registrasi_mahasiswa_pddikti": "bc39d0f6-2234-40b9-9794-a76f5b15ad85",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105987,
+        "id_mahasiswa": 385834,
+        "created_at": "2023-07-31 13:41:39"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 891,
+      "id_user": 22438,
+      "id_prodi": 48,
+      "nama": "Prof. Dr.  Halmar Halide, M.Sc.",
+      "nidn": "0015036302",
+      "nip": "196303151987101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "435e8147-5490-4eb2-a95e-9242823e6c10",
+      "pivot": {
+        "id_kelas_kuliah": 105987,
+        "id_dosen": 891
+      }
+    }
+  ]
+}

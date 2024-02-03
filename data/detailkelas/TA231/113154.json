@@ -1,0 +1,101 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2382,
+  "idnumber_sikola": "46509.113154.17",
+  "shortname_sikola": "TA231-113154",
+  "kode_matkul": "23U02131102",
+  "nama_matkul": "Kepemimpinan Inovatif",
+  "nama_kelas": "Kepemimpinan Inovatif / Kelas B",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 33603,
+      "id_user": 2855,
+      "id_prodi": 17,
+      "angkatan": 2019,
+      "nama_mahasiswa": "I PUTU KANATIKA",
+      "nim": "D041191059",
+      "jalan": "Benteng, Burau, Kabupaten Luwu Timur, Sulawesi Selatan",
+      "rt": 2,
+      "rw": 1,
+      "dusun": "Dusun Mertaraya",
+      "kode_pos": "92971",
+      "nisn": "0004884726",
+      "tempat_lahir": "Luwu Timur",
+      "tanggal_lahir": "2000-05-29",
+      "telepon": "0",
+      "handphone": "6285319588572",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Benteng",
+      "id_wilayah": "192601",
+      "nik": "7324072905000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "iputukanatika1234@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b6cae08a-e4e5-4f72-8582-7054964368d6",
+      "id_registrasi_mahasiswa_pddikti": "79e4bdc2-d82f-4865-b2f9-9ee9e95aa6b6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113154,
+        "id_mahasiswa": 33603,
+        "created_at": "2023-08-17 23:22:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1742,
+      "id_user": 27861,
+      "id_prodi": 17,
+      "nama": "Prof. M. Bachtiar Nappu, S.T., MT., Ph.D",
+      "nidn": "0006047603",
+      "nip": "197604062003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "53b0a267-ea6f-4cbe-ba3f-d6c59ad82c32",
+      "pivot": {
+        "id_kelas_kuliah": 113154,
+        "id_dosen": 1742
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1981,
+      "id_user": 31207,
+      "id_prodi": 17,
+      "nama": "Merna Baharuddin, ST.,M.Tel.Eng.,Ph.D.",
+      "nidn": "0005127503",
+      "nip": "197512052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "935fd211-7d06-44ef-b04b-99b3dd9200be",
+      "pivot": {
+        "id_kelas_kuliah": 113154,
+        "id_dosen": 1981
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2292,
+      "id_user": 47687,
+      "id_prodi": 17,
+      "nama": "Ir. Tajuddin Waris, MT.",
+      "nidn": "0024046702",
+      "nip": "196504241992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9098c034-b516-49cc-b28b-cb688ba69807",
+      "pivot": {
+        "id_kelas_kuliah": 113154,
+        "id_dosen": 2292
+      }
+    }
+  ]
+}

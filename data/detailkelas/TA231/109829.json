@@ -1,0 +1,61 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "45716.109829.148",
+  "shortname_sikola": "TA231-109829",
+  "kode_matkul": "23R01410503",
+  "nama_matkul": "Praktik Profesi Keperawatan Anak",
+  "nama_kelas": "Kep.Anak Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2362,
+      "id_user": 45079,
+      "id_prodi": 8,
+      "nama": "Dr. Suni Hariati, S.Kep.,Ns.,M.Kep.",
+      "nidn": "0024098404",
+      "nip": "198409242010122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc154e78-57c7-4a30-888b-7d44ae7903a7",
+      "pivot": {
+        "id_kelas_kuliah": 109829,
+        "id_dosen": 2362
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1697,
+      "id_user": 19579,
+      "id_prodi": 8,
+      "nama": "Dr. Kadek Ayu Erika, S.Kp., Ns.,M.Kes.",
+      "nidn": "0020107709",
+      "nip": "197710202003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5f4eebca-570d-4c6d-bc61-c30dca7c6a96",
+      "pivot": {
+        "id_kelas_kuliah": 109829,
+        "id_dosen": 1697
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2932,
+      "id_user": 57891,
+      "id_prodi": 148,
+      "nama": "Nur Fadilah S.Kep, Ns, MN",
+      "nidn": "0027028906",
+      "nip": "198902272021074001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b325953a-c13e-45c5-96bf-615c97c0cc36",
+      "pivot": {
+        "id_kelas_kuliah": 109829,
+        "id_dosen": 2932
+      }
+    }
+  ]
+}

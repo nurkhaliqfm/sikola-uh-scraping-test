@@ -1,0 +1,101 @@
+{
+  "id_prodi": 215,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH DAN KOTA - S2",
+  "id_prodi_semester": 2780,
+  "idnumber_sikola": "38124.122056.215",
+  "shortname_sikola": "TA232-122056",
+  "kode_matkul": "20D10211402",
+  "nama_matkul": "Perumahan pesisir dan Kepulauan",
+  "nama_kelas": "Perumahan Pesisir dan Kepulauan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 416194,
+      "id_user": 81061,
+      "id_prodi": 215,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NURPURNAMASARI",
+      "nim": "D102231005",
+      "jalan": "JL. PERUMNAS RAYA NO.36",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90234",
+      "nisn": "9961247978",
+      "tempat_lahir": "KINDANG",
+      "tanggal_lahir": "1996-08-17",
+      "telepon": "0",
+      "handphone": "+628781505733",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Manggala",
+      "id_wilayah": "120505",
+      "nik": "7371125708960006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "purnamasarinur40@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "81c613d0-aee3-4e37-8fcb-09a5ab1d1de7",
+      "id_registrasi_mahasiswa_pddikti": "382c22ce-da61-4e3d-ac5c-5f0c7a044e20",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122056,
+        "id_mahasiswa": 416194,
+        "created_at": "2024-02-02 00:41:45"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1752,
+      "id_user": 32969,
+      "id_prodi": 20,
+      "nama": "Mukti Ali, S.T., M.T., Ph.D",
+      "nidn": "0011127405",
+      "nip": "197412112005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5b986d1-c434-4a1d-b26c-1522dcf34f9e",
+      "pivot": {
+        "id_kelas_kuliah": 122056,
+        "id_dosen": 1752
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1836,
+      "id_user": 9333,
+      "id_prodi": 20,
+      "nama": "Dr. Eng. Abdul Rachman Rasyid, ST., M.Si.",
+      "nidn": "0006107409",
+      "nip": "197410062008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24941d81-8e40-4121-8cd6-448f8b0762b8",
+      "pivot": {
+        "id_kelas_kuliah": 122056,
+        "id_dosen": 1836
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1711,
+      "id_user": 31970,
+      "id_prodi": 20,
+      "nama": "Dr. Wiwik Wahidah Osman, ST., MT.",
+      "nidn": "0022106801",
+      "nip": "196810222000032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d9afff7-eb1c-4a72-91b8-2e92f97dde10",
+      "pivot": {
+        "id_kelas_kuliah": 122056,
+        "id_dosen": 1711
+      }
+    }
+  ]
+}

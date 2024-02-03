@@ -1,0 +1,133 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28450.129389.102",
+  "shortname_sikola": "TA232-129389",
+  "kode_matkul": "18P06217001",
+  "nama_matkul": "Kultur Sel dan Cell Line",
+  "nama_kelas": "Kultur Sel dan Cell Line (Histo-Afirmasi)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421845,
+      "id_user": 74714,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NADYA SEPTIANNISA NASRUL",
+      "nim": "P062231034",
+      "jalan": "BTN Cempaka Graha Asri Blok G-1, JL. KONASARA",
+      "rt": 18,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "93118",
+      "nisn": null,
+      "tempat_lahir": "KENDARI",
+      "tanggal_lahir": "1998-09-14",
+      "telepon": "0",
+      "handphone": "081354792406",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Bonggoeya",
+      "id_wilayah": "206009",
+      "nik": "7471095409980001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nadya.sept@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2b633221-2c7a-4fb4-8533-0d48d7736ce4",
+      "id_registrasi_mahasiswa_pddikti": "a5888290-618c-4890-91e0-202dd876985f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129389,
+        "id_mahasiswa": 421845,
+        "created_at": "2024-01-26 18:02:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1206,
+      "id_user": 32788,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Irfan Idris, M.Kes.",
+      "nidn": "0003116703",
+      "nip": "196711031998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aec58579-a6fc-49c0-934e-cc822cb02eb8",
+      "pivot": {
+        "id_kelas_kuliah": 129389,
+        "id_dosen": 1206
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1457,
+      "id_user": 33828,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Rahmawati Minhajat, Ph.D., Sp.PD, K-HOM",
+      "nidn": "0018026805",
+      "nip": "196802181999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7e79898-9ba2-4005-a635-ca7db63a4aba",
+      "pivot": {
+        "id_kelas_kuliah": 129389,
+        "id_dosen": 1457
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1723,
+      "id_user": 37662,
+      "id_prodi": 6,
+      "nama": "dr.  Isra Wahid, S.Ked., Ph.D.",
+      "nidn": "0027126802",
+      "nip": "196812271998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a108e912-6c59-40ce-bf9e-a4d15cf770f3",
+      "pivot": {
+        "id_kelas_kuliah": 129389,
+        "id_dosen": 1723
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1562,
+      "id_user": 34237,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Agussalim Bukhari, M.Clin.Med., Ph. D., Sp. GK",
+      "nidn": "0021087005",
+      "nip": "197008211999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "99ec55f4-389c-4deb-ba1c-0d45f4d91af1",
+      "pivot": {
+        "id_kelas_kuliah": 129389,
+        "id_dosen": 1562
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1629,
+      "id_user": 34353,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Marhaen Hardjo, M.Biomed.",
+      "nidn": "0018126703",
+      "nip": "196712121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b51e505e-e114-4f69-ac4c-dce854dbb848",
+      "pivot": {
+        "id_kelas_kuliah": 129389,
+        "id_dosen": 1629
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36884.106930.176",
+  "shortname_sikola": "TA231-106930",
+  "kode_matkul": "19G05213602",
+  "nama_matkul": "Analisis Rantai Pasok Agroindustri",
+  "nama_kelas": "Analisis Rantai Pasok Agroindustri (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 106930,
+        "id_dosen": 1038
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1104,
+      "id_user": 34125,
+      "id_prodi": 154,
+      "nama": "Dr. Ir. Rindam Latief, MS.",
+      "nidn": "0002036402",
+      "nip": "196403021989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9e28dc9b-6e1e-4aee-8159-ec9233411998",
+      "pivot": {
+        "id_kelas_kuliah": 106930,
+        "id_dosen": 1104
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 992,
+      "id_user": 28654,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Sitti Nur Faridah, MP.",
+      "nidn": "0007106801",
+      "nip": "196810071993032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d218707-f799-46d7-bcb4-42d5af370bfb",
+      "pivot": {
+        "id_kelas_kuliah": 106930,
+        "id_dosen": 992
+      }
+    }
+  ]
+}

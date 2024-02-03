@@ -1,0 +1,29 @@
+{
+  "id_prodi": 171,
+  "nama_prodi": "ILMU KEBIDANAN - S2",
+  "id_prodi_semester": 2739,
+  "idnumber_sikola": "35052.127808.171",
+  "shortname_sikola": "TA232-127808",
+  "kode_matkul": "18P10211602",
+  "nama_matkul": "Kependudukan Keluarga Berencana dan Kesehatan Reproduksi\r\n",
+  "nama_kelas": "Kependudukan, Keluarga Berencana, dan Kesehatan Reproduksi (P) (Kebidanan Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1773,
+      "id_user": 34986,
+      "id_prodi": 6,
+      "nama": "dr. Elizabet Chaterine Jusuf, M.Kes., Sp.OG.",
+      "nidn": "0008027614",
+      "nip": "197602082006042005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76713227-7ccb-4068-b043-4b1099070898",
+      "pivot": {
+        "id_kelas_kuliah": 127808,
+        "id_dosen": 1773
+      }
+    }
+  ]
+}

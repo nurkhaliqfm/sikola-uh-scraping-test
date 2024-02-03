@@ -1,0 +1,61 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "45619.111300.19",
+  "shortname_sikola": "TA231-111300",
+  "kode_matkul": "23D05130703",
+  "nama_matkul": "Konservasi & Revitalisasi Arsitektur",
+  "nama_kelas": "Architectural Conservation and Revitalization",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1259,
+      "id_user": 29024,
+      "id_prodi": 19,
+      "nama": "Dr. Mohammad Mochsen Sir, ST., MT.",
+      "nidn": "0007046902",
+      "nip": "196904071996031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d4059066-ecd9-4849-b476-3af5f719b11b",
+      "pivot": {
+        "id_kelas_kuliah": 111300,
+        "id_dosen": 1259
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1456,
+      "id_user": 15189,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Abdul Mufti Radja, ST., MT.",
+      "nidn": "0004036907",
+      "nip": "196903041999031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0113b15-d2f1-42b1-9b3a-9733f0da9032",
+      "pivot": {
+        "id_kelas_kuliah": 111300,
+        "id_dosen": 1456
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 111300,
+        "id_dosen": 1476
+      }
+    }
+  ]
+}

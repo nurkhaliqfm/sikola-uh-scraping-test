@@ -1,0 +1,101 @@
+{
+  "id_prodi": 152,
+  "nama_prodi": "AGROTEKNOLOGI - S1",
+  "id_prodi_semester": 2720,
+  "idnumber_sikola": "36351.122646.152",
+  "shortname_sikola": "TA232-122646",
+  "kode_matkul": "19G01134103",
+  "nama_matkul": "PENGINDERAAN JAUH",
+  "nama_kelas": "PENGINDERAAN JAUH",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139489,
+      "id_user": 39020,
+      "id_prodi": 152,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUH. IKHSAN PRIADI",
+      "nim": "G011201101",
+      "jalan": "Desa SALUGATTA, lorong satu lama, kec. BUDONG - BUDONG, kab. Mamuju tengah",
+      "rt": 2,
+      "rw": 3,
+      "dusun": "Ringin rejo",
+      "kode_pos": "91461",
+      "nisn": "0024017632",
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "2002-05-16",
+      "telepon": "0",
+      "handphone": "081245464147",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Salugatta",
+      "id_wilayah": "330105",
+      "nik": "7602051605020003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "radityafikram@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b08d6a67-a4bd-4e67-a626-9b1e4823fd0e",
+      "id_registrasi_mahasiswa_pddikti": "166e47ac-654a-41d0-94fb-ce5fdcfd06d5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122646,
+        "id_mahasiswa": 139489,
+        "created_at": "2024-01-11 21:28:05"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 777,
+      "id_user": 23628,
+      "id_prodi": 152,
+      "nama": "Prof. Ir.  Sumbangan Baja, M.Phil., Ph.D",
+      "nidn": "0029126302",
+      "nip": "196312291990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "589570b3-e8be-45f6-b998-7c5286093cf3",
+      "pivot": {
+        "id_kelas_kuliah": 122646,
+        "id_dosen": 777
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1985,
+      "id_user": 22907,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Asmita Ahmad, ST., M.Si.",
+      "nidn": "0016127304",
+      "nip": "197312162006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9ebe9865-4518-463f-b831-576680afc11d",
+      "pivot": {
+        "id_kelas_kuliah": 122646,
+        "id_dosen": 1985
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3529,
+      "id_user": 47718,
+      "id_prodi": 152,
+      "nama": "Ahmad Fauzan Adzima, S.P., M.Sc",
+      "nidn": "0003049205",
+      "nip": "199204032020121009",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "f0a844ee-5ea2-43a6-9add-c752636e6fea",
+      "pivot": {
+        "id_kelas_kuliah": 122646,
+        "id_dosen": 3529
+      }
+    }
+  ]
+}

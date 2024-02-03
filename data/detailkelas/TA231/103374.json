@@ -1,0 +1,140 @@
+{
+  "id_prodi": 200,
+  "nama_prodi": "ILMU AKUNTANSI - S3",
+  "id_prodi_semester": 2536,
+  "idnumber_sikola": "36169.103374.200",
+  "shortname_sikola": "TA231-103374",
+  "kode_matkul": "19A02310703",
+  "nama_matkul": "RISET AKUNTANSI SOSIAL DAN SPIRITUAL",
+  "nama_kelas": "SEMESTER II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 390007,
+      "id_user": 73655,
+      "id_prodi": 200,
+      "angkatan": 2022,
+      "nama_mahasiswa": "VICA VANESSA SESARYO TIMANG",
+      "nim": "A023222003",
+      "jalan": "FRANS KARANGAN NO. 5 A",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Tampo Tallunglipu",
+      "kode_pos": "91832",
+      "nisn": "A02322200",
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "1988-11-14",
+      "telepon": "2",
+      "handphone": "082285283585",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tampo Tallunglipu",
+      "id_wilayah": "192717",
+      "nik": "7326115411880001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "veeca_vanessa@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d8bbb77a-2bb0-4edc-aad5-d9abf6ee543e",
+      "id_registrasi_mahasiswa_pddikti": "65098d15-308e-4c18-b09e-fd72e4251932",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103374,
+        "id_mahasiswa": 390007,
+        "created_at": "2023-07-31 20:47:41"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 390008,
+      "id_user": 73648,
+      "id_prodi": 200,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SUTRISNO PARINTAK",
+      "nim": "A023222004",
+      "jalan": "POROS MAKALE - RANTEPAO",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91852",
+      "nisn": "A023222004",
+      "tempat_lahir": "LURA",
+      "tanggal_lahir": "1983-03-23",
+      "telepon": "0",
+      "handphone": "081342330023",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Rinding Batu",
+      "id_wilayah": "192707",
+      "nik": "7373012303830002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "sutrisnoparintak@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d80f66cc-ac5c-4875-97f1-d466c7efade2",
+      "id_registrasi_mahasiswa_pddikti": "a79717fc-7007-45ea-b144-561155d28872",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103374,
+        "id_mahasiswa": 390008,
+        "created_at": "2023-07-31 20:48:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 931,
+      "id_user": 21790,
+      "id_prodi": 3,
+      "nama": "Prof. Dr. Alimuddin, S.E., M.M.,Ak., CPMA",
+      "nidn": "0008125902",
+      "nip": "195912081986011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f6af59e2-8d76-47fe-b519-e16de5d31640",
+      "pivot": {
+        "id_kelas_kuliah": 103374,
+        "id_dosen": 931
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1709,
+      "id_user": 47693,
+      "id_prodi": 3,
+      "nama": "Dr. Nadhirah Nagu, S.E,Ak., M.Si., CA., CRS., CSRA",
+      "nidn": "0006027409",
+      "nip": "197402062008122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1863201c-f056-4ad7-85d9-b2c5af345d0f",
+      "pivot": {
+        "id_kelas_kuliah": 103374,
+        "id_dosen": 1709
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2052,
+      "id_user": 57094,
+      "id_prodi": 3,
+      "nama": "Afdal, S.E., M.Sc., DEc., Ak.",
+      "nidn": "0909018801",
+      "nip": "198801092015041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2bf3d8c7-751d-4f1b-adf1-410c93bfe201",
+      "pivot": {
+        "id_kelas_kuliah": 103374,
+        "id_dosen": 2052
+      }
+    }
+  ]
+}

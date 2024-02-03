@@ -1,0 +1,156 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "48841.129702.17",
+  "shortname_sikola": "TA232-129702",
+  "kode_matkul": "23D04136302",
+  "nama_matkul": "Perancangan Elektroteknik 1",
+  "nama_kelas": "Perancangan   Elektroteknik /  Kelas  S-  Di RG Robotika cerdas dan Sosial Kognitif",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 161070,
+      "id_user": 57820,
+      "id_prodi": 17,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUH. REZA EKA YUDHA",
+      "nim": "D041211023",
+      "jalan": "TODDOPULI X BARU KOTA MAKASSAR PROV. SULAWESI SELATAN 90233",
+      "rt": 4,
+      "rw": 11,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": "0033650638",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-03-10",
+      "telepon": "0",
+      "handphone": "081241467080",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BORONG",
+      "id_wilayah": "120505",
+      "nik": "7371121003030004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muh.reza4.mr@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "440a4482-8514-4014-9b89-2bed23e62fdb",
+      "id_registrasi_mahasiswa_pddikti": "1edad647-142a-4d86-aa6e-1406fada31e8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129702,
+        "id_mahasiswa": 161070,
+        "created_at": "2024-01-26 08:17:59"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 159300,
+      "id_user": 55911,
+      "id_prodi": 17,
+      "angkatan": 2021,
+      "nama_mahasiswa": "AHMAD RIDHA",
+      "nim": "D041211005",
+      "jalan": "JL. ANTANG RAYA NO.18",
+      "rt": 4,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90234",
+      "nisn": "0022837285",
+      "tempat_lahir": "Kota Makassar",
+      "tanggal_lahir": "2002-09-08",
+      "telepon": "0",
+      "handphone": "081342721324",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "ANTANG",
+      "id_wilayah": "120505",
+      "nik": "7371120909020007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Ridha2002.ar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b2e7d6d3-c7fb-43bb-afe6-a510f0318287",
+      "id_registrasi_mahasiswa_pddikti": "be0c6d7b-e1d2-4b56-8f8e-813d4e8b484a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129702,
+        "id_mahasiswa": 159300,
+        "created_at": "2024-02-02 13:55:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1609,
+      "id_user": 32004,
+      "id_prodi": 17,
+      "nama": "Prof. Dr.-Ing. Ir. Faizal Arya Samman, ST, MT, IPU, AseanEng, ACPE",
+      "nidn": "0005067507",
+      "nip": "197506052002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "06214b1e-7d41-4708-982d-94adb48684de",
+      "pivot": {
+        "id_kelas_kuliah": 129702,
+        "id_dosen": 1609
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1969,
+      "id_user": 32058,
+      "id_prodi": 17,
+      "nama": "Ida Rachmaniar Sahali, ST., MT",
+      "nidn": "0030068203",
+      "nip": "198206302012122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9fa1cb4d-357a-495c-8633-aceef4d1e2ba",
+      "pivot": {
+        "id_kelas_kuliah": 129702,
+        "id_dosen": 1969
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1659,
+      "id_user": 11683,
+      "id_prodi": 17,
+      "nama": "Dr. A. Ejah Umraeni Salam, ST., MT.",
+      "nidn": "0008097201",
+      "nip": "197209081997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "88086c3f-c6fa-4f38-a39f-9dd56f2be270",
+      "pivot": {
+        "id_kelas_kuliah": 129702,
+        "id_dosen": 1659
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1979,
+      "id_user": 15926,
+      "id_prodi": 17,
+      "nama": "Muh. Anshar, S.T., M.Sc(Research), Ph. D",
+      "nidn": "0017087713",
+      "nip": "197708172005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f091dc64-d02a-4427-aaf1-1b4ba2d7ba6d",
+      "pivot": {
+        "id_kelas_kuliah": 129702,
+        "id_dosen": 1979
+      }
+    }
+  ]
+}

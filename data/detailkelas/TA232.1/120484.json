@@ -1,0 +1,61 @@
+{
+  "id_prodi": 156,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PANGAN - S2",
+  "id_prodi_semester": 2724,
+  "idnumber_sikola": "37225.120484.156",
+  "shortname_sikola": "TA232-120484",
+  "kode_matkul": "19G03211103",
+  "nama_matkul": "Teknologi Hasil Hortikultura",
+  "nama_kelas": "Teknologi Hsl Hortikultura (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 683,
+      "id_user": 12391,
+      "id_prodi": 154,
+      "nama": "Prof. Dr. Ir. Mulyati Muhammad Tahir, MS.",
+      "nidn": "0023095702",
+      "nip": "195709231983122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2d588ca9-18d3-44d6-a209-aa34ffc2469e",
+      "pivot": {
+        "id_kelas_kuliah": 120484,
+        "id_dosen": 683
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1952,
+      "id_user": 31351,
+      "id_prodi": 154,
+      "nama": "Prof. Ir. Andi Dirpan, STP., M.Si., Ph.D.",
+      "nidn": "0008028202",
+      "nip": "198202082006041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d583eac1-557e-479c-990e-e06aa29cf7be",
+      "pivot": {
+        "id_kelas_kuliah": 120484,
+        "id_dosen": 1952
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 817,
+      "id_user": 34417,
+      "id_prodi": 154,
+      "nama": "Prof. Dr. Ir. Jumriah Langkong, MP.",
+      "nidn": "0015125701",
+      "nip": "195712151987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ccf575da-e6bd-4ee8-b9f9-0864a81c7499",
+      "pivot": {
+        "id_kelas_kuliah": 120484,
+        "id_dosen": 817
+      }
+    }
+  ]
+}

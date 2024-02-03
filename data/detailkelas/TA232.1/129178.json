@@ -1,0 +1,117 @@
+{
+  "id_prodi": 226,
+  "nama_prodi": "STUDI PEMBANGUNAN - S3",
+  "id_prodi_semester": 2790,
+  "idnumber_sikola": "39811.129178.226",
+  "shortname_sikola": "TA232-129178",
+  "kode_matkul": "20P02310202",
+  "nama_matkul": "Metodologi Penelitian dan Publikasi Ilmiah",
+  "nama_kelas": "Metodologi Penelitian dan Publikasi Ilmiah (S3 SP-Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428373,
+      "id_user": 86900,
+      "id_prodi": 226,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MANSUR YAHYA",
+      "nim": "P023232001",
+      "jalan": "POROS BONE - MAKASSAR",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Ujung",
+      "kode_pos": "90562",
+      "nisn": "-",
+      "tempat_lahir": "CAMBA KAB. MAROS",
+      "tanggal_lahir": "1982-05-25",
+      "telepon": "081342398820",
+      "handphone": "081342398820",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PATTIRO DECENG",
+      "id_wilayah": "190106",
+      "nik": "7309022505820001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86900,
+      "kode_status": "A",
+      "email": "yahya_mansur@ymail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129178,
+        "id_mahasiswa": 428373,
+        "created_at": "2024-01-24 14:43:32"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 688,
+      "id_user": 34336,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Hamka, MA.",
+      "nidn": "0004116109",
+      "nip": "196111041987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c1b064b6-5b99-4adb-8a73-69a7e9c7d0e3",
+      "pivot": {
+        "id_kelas_kuliah": 129178,
+        "id_dosen": 688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2117,
+      "id_user": 34484,
+      "id_prodi": 215,
+      "nama": "Prof. Dr. Ir. Slamet Tri Sutomo, MS.",
+      "nidn": "8928800020",
+      "nip": "8928800020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "23c0f61b-2a6f-4520-a90c-d65beca17205",
+      "pivot": {
+        "id_kelas_kuliah": 129178,
+        "id_dosen": 2117
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1389,
+      "id_user": 29279,
+      "id_prodi": 57,
+      "nama": "Prof. Anwar, S.KM., M.Sc., Ph.D",
+      "nidn": "0016087401",
+      "nip": "197408161999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c66cd37-0048-4143-a440-910b139d4089",
+      "pivot": {
+        "id_kelas_kuliah": 129178,
+        "id_dosen": 1389
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3594,
+      "id_user": 58095,
+      "id_prodi": 226,
+      "nama": "Dr. Ir. Muhammad Yamin, M.Si",
+      "nidn": "1109036001",
+      "nip": "196003091990031007",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d48dd14-6560-4bc6-a759-fb115eee177b",
+      "pivot": {
+        "id_kelas_kuliah": 129178,
+        "id_dosen": 3594
+      }
+    }
+  ]
+}

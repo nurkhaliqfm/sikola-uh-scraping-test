@@ -1,0 +1,156 @@
+{
+  "id_prodi": 248,
+  "nama_prodi": "MANAJEMEN BENCANA - S2",
+  "id_prodi_semester": 2579,
+  "idnumber_sikola": "42856.108214.248",
+  "shortname_sikola": "TA231-108214",
+  "kode_matkul": "21P12210602",
+  "nama_matkul": "Aspek Sosial dan Ekonomi Kebencanaan",
+  "nama_kelas": "Aspek Sosial dan Ekonomi Kebencanaan (MB_Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421889,
+      "id_user": 77681,
+      "id_prodi": 248,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SURIYANTO LOPANG",
+      "nim": "P122231001",
+      "jalan": "LUNDAN",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "LUNDAN",
+      "kode_pos": "91870",
+      "nisn": null,
+      "tempat_lahir": "SILLANAN",
+      "tanggal_lahir": "1989-01-25",
+      "telepon": "082349701007",
+      "handphone": "082349701007",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "KELURAHAN RANTE KALUA'",
+      "id_wilayah": "191802",
+      "nik": "7318122501890001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rintolopang@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "49aa0717-e226-44b1-9058-96d5cea21647",
+      "id_registrasi_mahasiswa_pddikti": "c1a81004-d0d8-426b-8e24-b1ca1cab1fdf",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108214,
+        "id_mahasiswa": 421889,
+        "created_at": "2023-07-29 10:55:30"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 385153,
+      "id_user": 71936,
+      "id_prodi": 248,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUH. IDHAM",
+      "nim": "P122222001",
+      "jalan": "Jln. ABD MADJID PATTARO PURA (Lorong Puskesmas) Topoyo",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Lomba bou",
+      "kode_pos": "91563",
+      "nisn": "0",
+      "tempat_lahir": "TOPOYO",
+      "tanggal_lahir": "2000-08-08",
+      "telepon": "0",
+      "handphone": "081243033161",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TOPOYO",
+      "id_wilayah": "330112",
+      "nik": "7602090808000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Idhammaulana118@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "fd970c3e-b7b8-4593-9781-67a775ea964a",
+      "id_registrasi_mahasiswa_pddikti": "6278688b-91b2-48ea-97c8-c5805c2d9cfa",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108214,
+        "id_mahasiswa": 385153,
+        "created_at": "2023-08-05 11:37:03"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 688,
+      "id_user": 34336,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Hamka, MA.",
+      "nidn": "0004116109",
+      "nip": "196111041987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c1b064b6-5b99-4adb-8a73-69a7e9c7d0e3",
+      "pivot": {
+        "id_kelas_kuliah": 108214,
+        "id_dosen": 688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1322,
+      "id_user": 33569,
+      "id_prodi": 1,
+      "nama": "Drs. Muhammad Yusri Zamhuri, MA., Ph.D",
+      "nidn": "0006086113",
+      "nip": "196108061989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c191fe7a-125f-414c-8cf7-7a5ec2c86fb8",
+      "pivot": {
+        "id_kelas_kuliah": 108214,
+        "id_dosen": 1322
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3235,
+      "id_user": null,
+      "id_prodi": 171,
+      "nama": "Dr. Jibril, S.Kom., M.Si",
+      "nidn": null,
+      "nip": "196808092000031001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 108214,
+        "id_dosen": 3235
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2519,
+      "id_user": 11866,
+      "id_prodi": 80,
+      "nama": "Dr. Kurniaty, S.E., M.Si",
+      "nidn": "0901058005",
+      "nip": "198005012019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87653b30-453f-44d8-a24c-9bd90c2d18ec",
+      "pivot": {
+        "id_kelas_kuliah": 108214,
+        "id_dosen": 2519
+      }
+    }
+  ]
+}

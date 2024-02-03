@@ -1,0 +1,45 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36871.110607.176",
+  "shortname_sikola": "TA231-110607",
+  "kode_matkul": "19G05212302",
+  "nama_matkul": "Rekayasa Perancangan Proses Agroindustri",
+  "nama_kelas": "Rekayasa Perancangan Proses Agroindustri (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 110607,
+        "id_dosen": 1038
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1104,
+      "id_user": 34125,
+      "id_prodi": 154,
+      "nama": "Dr. Ir. Rindam Latief, MS.",
+      "nidn": "0002036402",
+      "nip": "196403021989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9e28dc9b-6e1e-4aee-8159-ec9233411998",
+      "pivot": {
+        "id_kelas_kuliah": 110607,
+        "id_dosen": 1104
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id_prodi": 227,
+  "nama_prodi": "PPDS ANESTESIOLOGI  DAN TERAPI (Sp2)",
+  "id_prodi_semester": 2560,
+  "idnumber_sikola": "39953.103419.227",
+  "shortname_sikola": "TA231-103419",
+  "kode_matkul": "20C01820502",
+  "nama_matkul": "Jurnal 1",
+  "nama_kelas": "Jurnal 1 - KIC 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 340330,
+      "id_user": 58457,
+      "id_prodi": 227,
+      "angkatan": 2021,
+      "nama_mahasiswa": "INDRA SUKMANA PUTRA",
+      "nim": "C018212001",
+      "jalan": "JL. M.T. HARYONO NO.8",
+      "rt": 2,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "75125",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1987-04-08",
+      "telepon": "0",
+      "handphone": "085342746401",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "Lok Bahu",
+      "id_wilayah": "166004",
+      "nik": "7371050804870002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "indrasputra077@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d6320a08-a72e-4587-8a1e-3be0f974db0a",
+      "id_registrasi_mahasiswa_pddikti": "ca7bd652-f7ce-45e2-9452-3b1f84fbb482",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_mahasiswa": 340330,
+        "created_at": "2023-07-31 18:15:09"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 340789,
+      "id_user": 58804,
+      "id_prodi": 227,
+      "angkatan": 2021,
+      "nama_mahasiswa": "LUKMAN H SEMARANG",
+      "nim": "C018212005",
+      "jalan": "DIPONEGORO",
+      "rt": 1,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "97113",
+      "nisn": null,
+      "tempat_lahir": "AMBON",
+      "tanggal_lahir": "1980-08-06",
+      "telepon": "0",
+      "handphone": "081247323237",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "urimesing",
+      "id_wilayah": "216001",
+      "nik": "8171010608800005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "abilukmanbekam@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "86c0a2cc-4d4c-4d29-a4c5-ff6b80583980",
+      "id_registrasi_mahasiswa_pddikti": "614ce836-d66f-4ddd-bf1e-2f84214a86a5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_mahasiswa": 340789,
+        "created_at": "2023-08-01 15:37:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2642,
+      "id_user": 34605,
+      "id_prodi": 128,
+      "nama": "dr. Faisal Muchtar, Sp.An-KIC",
+      "nidn": null,
+      "nip": "197708132008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2642
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1503,
+      "id_user": 34598,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Syafri Kamsul Arif, Sp.An., KIC-KAKV",
+      "nidn": "0024056707",
+      "nip": "196705241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fc2ac18b-1aeb-49cb-b992-f7f6ba7651e5",
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 1503
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2635,
+      "id_user": 34612,
+      "id_prodi": 128,
+      "nama": "Prof. dr. A. Husni Tanra, PhD, Sp.AnKIC",
+      "nidn": null,
+      "nip": "194301291967011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2635
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2644,
+      "id_user": 34606,
+      "id_prodi": 128,
+      "nama": "dr. Muhammad Rum, Sp.An, M.Kes",
+      "nidn": null,
+      "nip": "197509182004111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2644
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2643,
+      "id_user": 34609,
+      "id_prodi": 128,
+      "nama": "dr. Ari Santri Palinrungi, Sp.An",
+      "nidn": "8875120016",
+      "nip": "198105102014121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6c42f29e-24cf-4d80-9a44-a52dc99b377a",
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2643
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2638,
+      "id_user": 74156,
+      "id_prodi": 128,
+      "nama": "Dr. dr. Hisbullah, Sp.An-KIC-KAKV",
+      "nidn": "8859520016",
+      "nip": "196403052018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0fca84ef-de9e-4d35-92d8-aed23e894b5f",
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2638
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2647,
+      "id_user": 71549,
+      "id_prodi": 128,
+      "nama": "dr. Andi Adil, M.Kes, Sp.An",
+      "nidn": "8870630017",
+      "nip": "198104042018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7f1f592e-9068-413c-a105-01c4daa2f3e7",
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2647
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2637,
+      "id_user": 85660,
+      "id_prodi": 128,
+      "nama": "Dr. dr. Syamsul Hilal Salam, Sp.An",
+      "nidn": null,
+      "nip": "196111222018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2637
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2645,
+      "id_user": 11872,
+      "id_prodi": 128,
+      "nama": "dr. Haizah Nurdin, SpAn-KIC",
+      "nidn": "8886610016",
+      "nip": "198104112018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f94dc39d-1723-4319-a4e0-40849b67a166",
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 2645
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 801,
+      "id_user": 34596,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Muhammad Ramli Achmad, Sp.An (K)",
+      "nidn": "0023035904",
+      "nip": "195903231987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22cf7408-bcd5-4f8a-bb11-cfc789976f0e",
+      "pivot": {
+        "id_kelas_kuliah": 103419,
+        "id_dosen": 801
+      }
+    }
+  ]
+}

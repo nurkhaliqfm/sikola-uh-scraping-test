@@ -1,0 +1,45 @@
+{
+  "id_prodi": 156,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PANGAN - S2",
+  "id_prodi_semester": 2493,
+  "idnumber_sikola": "36807.110224.156",
+  "shortname_sikola": "TA231-110224",
+  "kode_matkul": "19G03221002",
+  "nama_matkul": "Pengendalian Mutu Mikrobiologis Pangan",
+  "nama_kelas": "Pengendalian Mutu Mikrobiologis Pangan (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1005,
+      "id_user": 34083,
+      "id_prodi": 154,
+      "nama": "Prof. Dr. Ir. A m r a n, M.Si.",
+      "nidn": "0031126307",
+      "nip": "196212311988031020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f5626c11-4896-4b67-8295-d1642bf2d3a6",
+      "pivot": {
+        "id_kelas_kuliah": 110224,
+        "id_dosen": 1005
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2623,
+      "id_user": 37115,
+      "id_prodi": 154,
+      "nama": "Dr.Ir Andi Hasizah, M.Si",
+      "nidn": "0922056801",
+      "nip": "196805222015082001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d744ac81-e684-49d2-b98c-8c0aa516d689",
+      "pivot": {
+        "id_kelas_kuliah": 110224,
+        "id_dosen": 2623
+      }
+    }
+  ]
+}

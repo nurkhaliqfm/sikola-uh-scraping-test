@@ -1,0 +1,29 @@
+{
+  "id_prodi": 123,
+  "nama_prodi": "PPDS PATOLOGI ANATOMI",
+  "id_prodi_semester": 2465,
+  "idnumber_sikola": "38799.125702.123",
+  "shortname_sikola": "TA231-125702",
+  "kode_matkul": "20C07530701",
+  "nama_matkul": "Imunopatologi",
+  "nama_kelas": "Kelas Sem.5 Imunopatologi-2023-2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1595,
+      "id_user": 34487,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Upik A. Miskad, Ph.D., Sp.P.A(K)",
+      "nidn": "0030037403",
+      "nip": "197403302005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d75b2995-5612-4951-ba3c-8f851c187413",
+      "pivot": {
+        "id_kelas_kuliah": 125702,
+        "id_dosen": 1595
+      }
+    }
+  ]
+}

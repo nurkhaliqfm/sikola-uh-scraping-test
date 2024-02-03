@@ -1,0 +1,85 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2705,
+  "idnumber_sikola": "31482.126488.132",
+  "shortname_sikola": "TA232-126488",
+  "kode_matkul": "18D03213602",
+  "nama_matkul": "SISTEM KOMUNIKASI DAN MULTIMEDIA",
+  "nama_kelas": "Teknik Telekomunikasi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415460,
+      "id_user": 75848,
+      "id_prodi": 132,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANDI INSANA KHAERUNNISA",
+      "nim": "D032231002",
+      "jalan": "JL. PELITA TENGGARA",
+      "rt": 2,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "91113",
+      "nisn": "0001733530",
+      "tempat_lahir": "PAREPARE",
+      "tanggal_lahir": "2000-04-03",
+      "telepon": "0",
+      "handphone": "087789400389",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Ujung Bulu",
+      "id_wilayah": "196102",
+      "nik": "7372024304000013",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 75848,
+      "kode_status": "A",
+      "email": "andinsana@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2d0401d9-9ed5-4e29-a404-cc5ee41cecd6",
+      "id_registrasi_mahasiswa_pddikti": "987b2fba-7265-485d-b7e7-368612c8b5aa",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126488,
+        "id_mahasiswa": 415460,
+        "created_at": "2024-01-17 22:55:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1575,
+      "id_user": 19608,
+      "id_prodi": 17,
+      "nama": "Dr. Eng. Ir Wardi, ST., M.Eng.",
+      "nidn": "0028087203",
+      "nip": "197208281999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b2d9603e-82a4-439e-98ee-32d4ea1b58cc",
+      "pivot": {
+        "id_kelas_kuliah": 126488,
+        "id_dosen": 1575
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1484,
+      "id_user": 9435,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Intan Sari Areni, S.T., MT.",
+      "nidn": "0003027508",
+      "nip": "197502032000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d2d64e8-56cf-40a6-ab07-bc218bdbaf65",
+      "pivot": {
+        "id_kelas_kuliah": 126488,
+        "id_dosen": 1484
+      }
+    }
+  ]
+}

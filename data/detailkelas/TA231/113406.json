@@ -1,0 +1,45 @@
+{
+  "id_prodi": 179,
+  "nama_prodi": "PPDS - ILMU GIZI KLINIK",
+  "id_prodi_semester": 2516,
+  "idnumber_sikola": "38833.113406.179",
+  "shortname_sikola": "TA231-113406",
+  "kode_matkul": "20Y00510801",
+  "nama_matkul": "Administrasi Kesehatan & Rekam Medik",
+  "nama_kelas": "Administrasi Kesehatan & Rekam Medik",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1367,
+      "id_user": 34439,
+      "id_prodi": 57,
+      "nama": "Dr.  Syahrir A.P., MS.",
+      "nidn": "0010026502",
+      "nip": "196502101991031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e071f78b-68a5-45ac-9b85-6b85db2a9085",
+      "pivot": {
+        "id_kelas_kuliah": 113406,
+        "id_dosen": 1367
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3201,
+      "id_user": null,
+      "id_prodi": 179,
+      "nama": "A. Pinrakati, SKM, M.Kes",
+      "nidn": null,
+      "nip": "7371116002530001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 113406,
+        "id_dosen": 3201
+      }
+    }
+  ]
+}

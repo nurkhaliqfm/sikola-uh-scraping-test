@@ -1,0 +1,29 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "43315.127135.173",
+  "shortname_sikola": "TA232-127135",
+  "kode_matkul": "18K01330102",
+  "nama_matkul": "Seminar Kemajuan 4",
+  "nama_kelas": "Seminar Kemajuan 4 (By Riset)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1463,
+      "id_user": 27689,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. Aminuddin Syam, SKM., M.Kes., M.Med.Ed",
+      "nidn": "0017066701",
+      "nip": "196706171999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff920b2f-d2de-48c3-a4d1-69c2b987c930",
+      "pivot": {
+        "id_kelas_kuliah": 127135,
+        "id_dosen": 1463
+      }
+    }
+  ]
+}

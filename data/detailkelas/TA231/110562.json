@@ -1,0 +1,77 @@
+{
+  "id_prodi": 226,
+  "nama_prodi": "STUDI PEMBANGUNAN - S3",
+  "id_prodi_semester": 2559,
+  "idnumber_sikola": "39825.110562.226",
+  "shortname_sikola": "TA231-110562",
+  "kode_matkul": "20P02311603",
+  "nama_matkul": "Pertanian Berkelanjutan",
+  "nama_kelas": "Pertanian Berkelanjutan (P) (S3 SP-Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 694,
+      "id_user": 33360,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Ambo Ala, MS.",
+      "nidn": "0031125408",
+      "nip": "195412311981021006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6396c876-deae-4c09-a3f6-92fa5470fb7e",
+      "pivot": {
+        "id_kelas_kuliah": 110562,
+        "id_dosen": 694
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1014,
+      "id_user": 23346,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Sikstus Gusli, M.Sc.",
+      "nidn": "0005045404",
+      "nip": "195404061983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c03b21e-9b8a-4666-abd8-628b98f35c57",
+      "pivot": {
+        "id_kelas_kuliah": 110562,
+        "id_dosen": 1014
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 792,
+      "id_user": 21725,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Rahim Darma, MS.",
+      "nidn": "0001045905",
+      "nip": "195904011985021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09e84bbc-4533-4bdc-9cc6-f91a2b06eb2d",
+      "pivot": {
+        "id_kelas_kuliah": 110562,
+        "id_dosen": 792
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3625,
+      "id_user": null,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. H. Andi Amran Sulaiman, MP",
+      "nidn": null,
+      "nip": "7371092704680005",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110562,
+        "id_dosen": 3625
+      }
+    }
+  ]
+}

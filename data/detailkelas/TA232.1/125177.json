@@ -1,0 +1,69 @@
+{
+  "id_prodi": 258,
+  "nama_prodi": "PPDS - ILMU BEDAH ANAK",
+  "id_prodi_semester": 2819,
+  "idnumber_sikola": "44303.125177.258",
+  "shortname_sikola": "TA232-125177",
+  "kode_matkul": "22C22511102",
+  "nama_matkul": "BEDAH SARAF",
+  "nama_kelas": "Bedah Saraf 2023-2",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415084,
+      "id_user": 79719,
+      "id_prodi": 258,
+      "angkatan": 2023,
+      "nama_mahasiswa": "HENDRA KURNIAWAN",
+      "nim": "C225231002",
+      "jalan": "Jl. Mawar, Blok ED No. 2 Komples perumahan Nusa Tamalanrea Indah",
+      "rt": 2,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "BALINGGI",
+      "tanggal_lahir": "1996-05-16",
+      "telepon": "0",
+      "handphone": "082210144261",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "7208151605960001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "hendrafkuntad@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c4f9bd4f-4f59-42d9-9a2a-7d9c9e46c250",
+      "id_registrasi_mahasiswa_pddikti": "fcf6ce8f-8556-4092-891c-96c3ab62fccb",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125177,
+        "id_mahasiswa": 415084,
+        "created_at": "2024-01-31 11:26:45"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1816,
+      "id_user": 69214,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Willy Adhimarta, Sp.BS(K)",
+      "nidn": "0022037603",
+      "nip": "197603222008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be556a1d-6c2c-4581-912f-6ab277225bf7",
+      "pivot": {
+        "id_kelas_kuliah": 125177,
+        "id_dosen": 1816
+      }
+    }
+  ]
+}

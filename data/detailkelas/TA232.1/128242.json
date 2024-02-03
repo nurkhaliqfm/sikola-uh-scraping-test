@@ -1,0 +1,93 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2762,
+  "idnumber_sikola": "35968.128242.195",
+  "shortname_sikola": "TA232-128242",
+  "kode_matkul": "19M03310503",
+  "nama_matkul": "POLITIK EKOLOGI KEHUTANAN",
+  "nama_kelas": "POLITIK EKOLOGI KEHUTANAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1834,
+      "id_user": 10744,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. forest. Muhammad Alif KS., S.Hut., M.Si.",
+      "nidn": "0031087903",
+      "nip": "197908312008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b39a91d9-f3db-4e3f-9442-1b829450f4e6",
+      "pivot": {
+        "id_kelas_kuliah": 128242,
+        "id_dosen": 1834
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 786,
+      "id_user": 19301,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Yusran, S.Hut., M.Si., IPU",
+      "nidn": "0006126901",
+      "nip": "196912061996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a3342-cddb-406b-835b-703b68bdce5f",
+      "pivot": {
+        "id_kelas_kuliah": 128242,
+        "id_dosen": 786
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1035,
+      "id_user": 11001,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Supratman, S.Hut., MP.",
+      "nidn": "0018097001",
+      "nip": "197009181997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6f64e940-dc0a-409c-b9a5-dd3aeab3dc37",
+      "pivot": {
+        "id_kelas_kuliah": 128242,
+        "id_dosen": 1035
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3342,
+      "id_user": null,
+      "id_prodi": 195,
+      "nama": "Lambert Johan Verheijen, Ph.D",
+      "nidn": null,
+      "nip": "NTK269HL1",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128242,
+        "id_dosen": 3342
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3231,
+      "id_user": null,
+      "id_prodi": 77,
+      "nama": "Micah Radandima Fisher, M.Si., Ph.D",
+      "nidn": null,
+      "nip": "482163536",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128242,
+        "id_dosen": 3231
+      }
+    }
+  ]
+}

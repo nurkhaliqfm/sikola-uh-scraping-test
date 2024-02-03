@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "48762.116957.102",
+  "shortname_sikola": "TA231-116957",
+  "kode_matkul": "23P06218802",
+  "nama_matkul": "Diseksi Cadaver",
+  "nama_kelas": "Diseksi Cadaver (P) (Anatomi-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3656,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Reza Kurniawan Arta",
+      "nidn": null,
+      "nip": "7306071110930005",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 116957,
+        "id_dosen": 3656
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1738,
+      "id_user": 33943,
+      "id_prodi": 6,
+      "nama": "dr. Muh. Iqbal Basri, M.Kes., Sp.S(K).",
+      "nidn": "0010077006",
+      "nip": "197007102002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "52ab442e-0a27-4990-9697-197077afe227",
+      "pivot": {
+        "id_kelas_kuliah": 116957,
+        "id_dosen": 1738
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1782,
+      "id_user": 58361,
+      "id_prodi": 6,
+      "nama": "dr.  Hasan Nyambe, S.Ked., M.Med.Ed",
+      "nidn": "0015068002",
+      "nip": "198006152006041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e6c34a5-66ca-4faf-9f5f-164cfcd0b0b9",
+      "pivot": {
+        "id_kelas_kuliah": 116957,
+        "id_dosen": 1782
+      }
+    }
+  ]
+}

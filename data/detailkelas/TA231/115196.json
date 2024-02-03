@@ -1,0 +1,796 @@
+{
+  "id_prodi": 6,
+  "nama_prodi": "PENDIDIKAN DOKTER - S1",
+  "id_prodi_semester": 2372,
+  "idnumber_sikola": "37919.115196.6",
+  "shortname_sikola": "TA231-115196",
+  "kode_matkul": "20C01140205",
+  "nama_matkul": "Gawat Darurat & Traumatologi",
+  "nama_kelas": "Gawat Darurat & Traumatologi  - Kelas Mengulang - 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 15947,
+      "id_user": 22747,
+      "id_prodi": 6,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Ghina Raudhatul Jannah",
+      "nim": "C011191247",
+      "jalan": "Jl. Bina bakti",
+      "rt": 9,
+      "rw": 3,
+      "dusun": "Simpang empat",
+      "kode_pos": "72213",
+      "nisn": "0024849026",
+      "tempat_lahir": "Pare-pare",
+      "tanggal_lahir": "2002-06-12",
+      "telepon": "0",
+      "handphone": "6281389933752",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Sejahtera",
+      "id_wilayah": "150000",
+      "nik": "6310065206020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "ghinacs79@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7c3ddaf8-1977-43be-af00-5f0b6c2dfe6f",
+      "id_registrasi_mahasiswa_pddikti": "b3e93def-88e4-4b5d-9df8-68b1a9245497",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_mahasiswa": 15947,
+        "created_at": "2023-08-04 18:37:25"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 15934,
+      "id_user": 12860,
+      "id_prodi": 6,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Moh Aqil Hardjo",
+      "nim": "C011191234",
+      "jalan": "Jl.Asam Keranji No. 190 PNK III",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "14022",
+      "nisn": "0006283841",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2000-06-30",
+      "telepon": "081354514318",
+      "handphone": "081354514318",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kassi-kassi",
+      "id_wilayah": "196013",
+      "nik": "7371133006000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "mohammadaqilhardjo@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5cf5e0e8-4206-4111-80ae-fb236c027e7e",
+      "id_registrasi_mahasiswa_pddikti": "4d6937ee-5b5b-4dd5-bc26-cc02db84f794",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_mahasiswa": 15934,
+        "created_at": "2023-08-04 19:59:55"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2647,
+      "id_user": 71549,
+      "id_prodi": 128,
+      "nama": "dr. Andi Adil, M.Kes, Sp.An",
+      "nidn": "8870630017",
+      "nip": "198104042018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7f1f592e-9068-413c-a105-01c4daa2f3e7",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2647
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1917,
+      "id_user": 33749,
+      "id_prodi": 6,
+      "nama": "dr.  Jayarasti Kusumanegara, M.Kes., Sp.BTKV",
+      "nidn": "0029018203",
+      "nip": "198201292010121007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a859cb4-5ab4-4b17-9c73-1c8e5f89b920",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1917
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2374,
+      "id_user": 71683,
+      "id_prodi": 6,
+      "nama": "dr. Lia Hafiyani, M.Pharm.,Sc",
+      "nidn": "0003048703",
+      "nip": "198704032012122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1570e384-977b-4ad6-9582-49733d0ae762",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2374
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3681,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Muhammad Azron Junaedi",
+      "nidn": null,
+      "nip": "7371142302940001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 3681
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1503,
+      "id_user": 34598,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Syafri Kamsul Arif, Sp.An., KIC-KAKV",
+      "nidn": "0024056707",
+      "nip": "196705241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fc2ac18b-1aeb-49cb-b992-f7f6ba7651e5",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1503
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1802,
+      "id_user": 34595,
+      "id_prodi": 6,
+      "nama": "dr.  Nur Surya Wirawan, Sp.An., KMN",
+      "nidn": "0022048204",
+      "nip": "198204222008011007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c9205e4d-c574-4e57-972b-811974f0527e",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1802
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 801,
+      "id_user": 34596,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Muhammad Ramli Achmad, Sp.An (K)",
+      "nidn": "0023035904",
+      "nip": "195903231987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22cf7408-bcd5-4f8a-bb11-cfc789976f0e",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 801
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2500,
+      "id_user": null,
+      "id_prodi": 147,
+      "nama": "dr. Khaeruddin H.A., M.Kes., Sp.THT-KL.",
+      "nidn": "8865380018",
+      "nip": "197404262018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a4612569-1f09-41f5-91fd-b76e8fcafc00",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2500
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2408,
+      "id_user": 37491,
+      "id_prodi": null,
+      "nama": "Dr. dr. Masyita Gaffar, Sp. THT-KL",
+      "nidn": "0027096709",
+      "nip": "196709271999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7dce80e9-b76c-45d8-83d5-c46cc1bedefc",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2408
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2668,
+      "id_user": 44997,
+      "id_prodi": 180,
+      "nama": "Dr. dr. Irawaty Djaharuddin, Sp.P(K)",
+      "nidn": "8838040017",
+      "nip": "197206172018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15c6e3eb-4c92-4f2a-b219-ac666cfeb781",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2668
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1783,
+      "id_user": 18560,
+      "id_prodi": 6,
+      "nama": "dr.  Arif Santoso, Sp.P(K)., Ph.D., FAPSR.",
+      "nidn": "0015077712",
+      "nip": "197707152006041012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f485eac-45f4-4c64-8d2e-d68e62b6acbe",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1783
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2405,
+      "id_user": 33832,
+      "id_prodi": 6,
+      "nama": "dr. M. Asykar A. Palinrungi, Sp.U(K)",
+      "nidn": "0014127405",
+      "nip": "197412142002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ed926ed-00a0-4600-8e9a-bd9234654b60",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2405
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2406,
+      "id_user": 37422,
+      "id_prodi": 6,
+      "nama": "dr. Nugraha Utama Pelupessy, S.Ked, Sp.OG(K)",
+      "nidn": "0024067407",
+      "nip": "197406242006041009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "104e065b-6407-4ac2-9b72-4f4156e2cd5a",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2406
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1802,
+      "id_user": 34595,
+      "id_prodi": 6,
+      "nama": "dr.  Nur Surya Wirawan, Sp.An., KMN",
+      "nidn": "0022048204",
+      "nip": "198204222008011007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c9205e4d-c574-4e57-972b-811974f0527e",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1802
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2364,
+      "id_user": 55719,
+      "id_prodi": 6,
+      "nama": "dr.  Irma Savitri CH. Rasjad, Sp.OG, M.Kes",
+      "nidn": "0005127906",
+      "nip": "197912052010122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1e2b336a-d291-4ec6-bfd7-3e4b4597b86b",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2364
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 882,
+      "id_user": 37401,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Syahrul Rauf, Sp.OG(K)",
+      "nidn": "0016116202",
+      "nip": "196211161989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fb4c28b8-50c3-42f1-b06c-7c512a5481e5",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 882
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2425,
+      "id_user": 37511,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Ema Alasiry, Sp.A(K)",
+      "nidn": "8853110016",
+      "nip": "197004012018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "28eff8e1-3431-49d9-9627-9e312faec980",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2425
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2672,
+      "id_user": 48145,
+      "id_prodi": 180,
+      "nama": "dr. Harry Akza Putrawan, Sp.P.",
+      "nidn": "0022098808",
+      "nip": "198809222020121007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "162269f2-4c6e-4cbd-b315-e584914f8d8c",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2672
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1602,
+      "id_user": 37523,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Jumraini Tammasse, Sp.S(K).",
+      "nidn": "0018076803",
+      "nip": "196807232000032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0e9f25e1-5b1a-486e-9208-a9ad1f6519a4",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1602
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2645,
+      "id_user": 11872,
+      "id_prodi": 128,
+      "nama": "dr. Haizah Nurdin, SpAn-KIC",
+      "nidn": "8886610016",
+      "nip": "198104112018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f94dc39d-1723-4319-a4e0-40849b67a166",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2645
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3418,
+      "id_user": 37981,
+      "id_prodi": 6,
+      "nama": "dr. Andi Wija Indrawan Pangerang, Sp.An",
+      "nidn": "0008128910",
+      "nip": "198912082019031014",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "68db1ed0-ef49-4c7c-b609-00d842cbb562",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 3418
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1773,
+      "id_user": 34986,
+      "id_prodi": 6,
+      "nama": "dr. Elizabet Chaterine Jusuf, M.Kes., Sp.OG.",
+      "nidn": "0008027614",
+      "nip": "197602082006042005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76713227-7ccb-4068-b043-4b1099070898",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1773
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2905,
+      "id_user": 58055,
+      "id_prodi": 178,
+      "nama": "dr. Muhammad Nuralim Mallapassi, SpBTKV(K)",
+      "nidn": null,
+      "nip": "195111082018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2905
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2743,
+      "id_user": 34292,
+      "id_prodi": 117,
+      "nama": "Dr.dr. Isharyah Sunarno, SpOG(K)",
+      "nidn": "8864130016",
+      "nip": "196903172018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15ac46f4-35a7-4f83-8099-57a96007a9c4",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2743
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1557,
+      "id_user": 34443,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Siti Maisuri Tadjuddin Chalid, SpOG(K)",
+      "nidn": "0009056709",
+      "nip": "196704091996012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4ba0c2b1-81aa-40b7-b9d1-59b250982ce6",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1557
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1603,
+      "id_user": 37411,
+      "id_prodi": 6,
+      "nama": "dr. A. Dwi Bahagia Febriani, Ph.D., Sp.A(K)",
+      "nidn": "0027026702",
+      "nip": "196602271992022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "912c55b6-b123-4136-9219-f677ee7755b6",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1603
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1926,
+      "id_user": 34289,
+      "id_prodi": 6,
+      "nama": "dr.  Monika Fitria Farid, SpOG, M. Kes",
+      "nidn": "0020087908",
+      "nip": "197908202010122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5b0c3e1a-112b-4705-80c3-9e6af784d0e7",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1926
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1799,
+      "id_user": 37495,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Muhammad Sakti, Sp.OT(K)",
+      "nidn": "0001107611",
+      "nip": "197610012008011013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9df5f394-39f5-4904-bfcc-e9bff7507f50",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1799
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2699,
+      "id_user": 74177,
+      "id_prodi": 129,
+      "nama": "dr. Ira Nong, M.Kes., Sp.OT",
+      "nidn": "8929820021",
+      "nip": "198308102021116001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50b284fb-7cfe-4101-8090-7c240bae3497",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2699
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 849,
+      "id_user": 37420,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Warsinggih, SpB-KBD., M.Kes",
+      "nidn": "0021026209",
+      "nip": "196202211990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4da5b49e-4a06-4103-b9d2-a722236d9ebe",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 849
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1815,
+      "id_user": 34628,
+      "id_prodi": 6,
+      "nama": "dr. Muhammad Andry Usman, Sp.OT",
+      "nidn": "0004047510",
+      "nip": "197504042008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "719deaaa-3dc4-4489-a1e8-c97d0f816e78",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1815
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2341,
+      "id_user": 28329,
+      "id_prodi": 6,
+      "nama": "Dr. dr. St. Aizah Lawang, M.Kes., Sp.A(K)",
+      "nidn": "0021037413",
+      "nip": "197403212008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "707a9620-dda9-4cce-8c83-44be8cd54674",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2341
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2444,
+      "id_user": 37488,
+      "id_prodi": 115,
+      "nama": "Dr. dr. Syakri Syahrir, Sp.U(K)",
+      "nidn": "8823120016",
+      "nip": "197501072018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0addea4e-23b5-4de5-91c0-b9ea9db3ead3",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2444
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2446,
+      "id_user": 58281,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Idham Jaya Ganda, Sp.A(K)",
+      "nidn": "8851120016",
+      "nip": "195810052018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "839b7424-6a7d-4b87-a7b5-adf6d8ca942c",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2446
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1888,
+      "id_user": 37553,
+      "id_prodi": 6,
+      "nama": "dr.  Jainal Arifin, Sp.OT., M.Kes",
+      "nidn": "0011117508",
+      "nip": "197511112009121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76ae72a6-575e-4eb7-b725-02cad30d7c2c",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1888
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3703,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. Umar Usman, Sp.BTKV",
+      "nidn": null,
+      "nip": "198407212010011012",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 3703
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1879,
+      "id_user": 37610,
+      "id_prodi": 6,
+      "nama": "dr. Ashari Bahar, M.Kes., Sp.S(K)., FINS., FINA",
+      "nidn": "0019077710",
+      "nip": "197707192009121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bac1d86d-1475-4f51-a302-404b5d8f97de",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1879
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2386,
+      "id_user": 37428,
+      "id_prodi": 6,
+      "nama": "dr. Muhammad Phetrus Johan, Sp.OT, M.Kes",
+      "nidn": "0028108207",
+      "nip": "198210282014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4efc5092-b663-4583-917b-8be398069d7b",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2386
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1816,
+      "id_user": 69214,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Willy Adhimarta, Sp.BS(K)",
+      "nidn": "0022037603",
+      "nip": "197603222008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be556a1d-6c2c-4581-912f-6ab277225bf7",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1816
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2729,
+      "id_user": 71477,
+      "id_prodi": 117,
+      "nama": "Dr. dr. Efendi Lukas, SpOG(K)",
+      "nidn": "8899830017",
+      "nip": "196408122018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "610eefc8-a78c-44f4-986d-5749a08957b2",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 2729
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1500,
+      "id_user": 34599,
+      "id_prodi": 6,
+      "nama": "dr.  Syafruddin Gaus, Ph.D.,Sp.An.",
+      "nidn": "0019106302",
+      "nip": "196310191996011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f0d48fc1-d1ab-401d-9688-56ef8a8eb963",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1500
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1780,
+      "id_user": 34990,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Sachraswaty R. Laidding, Sp.B., Sp.BP-RE(K)",
+      "nidn": "0012017603",
+      "nip": "197601122006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50a29ae0-5093-473a-a832-af279cdbe768",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1780
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1797,
+      "id_user": 34334,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Andi Muhammad Takdir Musba, Sp.An., KMN",
+      "nidn": "0031107406",
+      "nip": "197410312008011009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1108270b-cb43-4eb1-a26b-3b9dd8178080",
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 1797
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3769,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. Caesarani Kristel, M.Ked.Klin., SpBP-RE",
+      "nidn": null,
+      "nip": "3172066708880000",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115196,
+        "id_dosen": 3769
+      }
+    }
+  ]
+}

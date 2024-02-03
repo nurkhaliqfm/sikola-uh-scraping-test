@@ -1,0 +1,69 @@
+{
+  "id_prodi": 32,
+  "nama_prodi": "SASTRA INGGRIS - S1",
+  "id_prodi_semester": 2627,
+  "idnumber_sikola": "44808.129492.32",
+  "shortname_sikola": "TA232-129492",
+  "kode_matkul": "23F04121002",
+  "nama_matkul": "Budaya dalam Kesusastraan Inggris",
+  "nama_kelas": "Budaya Dalam Kesusastraan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139265,
+      "id_user": 39034,
+      "id_prodi": 32,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD IQBAL ALGIFARIK",
+      "nim": "F041201018",
+      "jalan": "Jln. Lintas mpuri, RT 004/RW 002, Desa Woro, Kec. Madapangga, Kab. Bima.",
+      "rt": 4,
+      "rw": 2,
+      "dusun": "002",
+      "kode_pos": "84161",
+      "nisn": "-",
+      "tempat_lahir": "WORO",
+      "tanggal_lahir": "2003-11-09",
+      "telepon": "-0",
+      "handphone": "6285253816064",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "WORO",
+      "id_wilayah": "230613",
+      "nik": "5206130911020002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "iqbalbima226@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d6091360-d300-4c24-85ef-abb679bb410b",
+      "id_registrasi_mahasiswa_pddikti": "22626018-0180-4071-8888-bf911158cd86",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129492,
+        "id_mahasiswa": 139265,
+        "created_at": "2024-01-29 18:32:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 878,
+      "id_user": 10405,
+      "id_prodi": 32,
+      "nama": "Prof. Dr.  Fathu Rahman, M.Hum.",
+      "nidn": "0031126058",
+      "nip": "196012311987031025",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5641b25-7b00-474c-86e1-f60116a1bb9c",
+      "pivot": {
+        "id_kelas_kuliah": 129492,
+        "id_dosen": 878
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 49,
+  "nama_prodi": "KIMIA - S1",
+  "id_prodi_semester": 2638,
+  "idnumber_sikola": "46518.126710.49",
+  "shortname_sikola": "TA232-126710",
+  "kode_matkul": "23U02131402",
+  "nama_matkul": "Etika Profesi",
+  "nama_kelas": "ETIKA PROFESI",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139831,
+      "id_user": 42167,
+      "id_prodi": 49,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ANDI MUHAMMAD ISKAR ISMAIL",
+      "nim": "H031201051",
+      "jalan": "Jl.hertasning timur no 2",
+      "rt": 4,
+      "rw": 5,
+      "dusun": "-",
+      "kode_pos": "90222",
+      "nisn": "0013734127",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2001-09-07",
+      "telepon": "0411880130",
+      "handphone": "62895803129606",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kassi-kassi",
+      "id_wilayah": "190000",
+      "nik": "7371130709010004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muhammadiskar0709@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8bd90f3b-67db-4263-b0bf-7254aa0fc687",
+      "id_registrasi_mahasiswa_pddikti": "e431a042-8917-4165-bc86-14d6b2dcff34",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126710,
+        "id_mahasiswa": 139831,
+        "created_at": "2024-02-02 13:29:02"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1601,
+      "id_user": 20927,
+      "id_prodi": 49,
+      "nama": "Dr. St. Fauziah, S.Si.,M.Si.",
+      "nidn": "0002027202",
+      "nip": "197202021999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bb37db96-db74-4a3d-9efb-289092f1072d",
+      "pivot": {
+        "id_kelas_kuliah": 126710,
+        "id_dosen": 1601
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2349,
+      "id_user": 18265,
+      "id_prodi": 49,
+      "nama": "Dr. Nur Umriani Permatasari, S.Si.,M.Si.",
+      "nidn": "0009128101",
+      "nip": "198112092006042003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f169db82-76d1-4d9a-939e-674f0ec12aaf",
+      "pivot": {
+        "id_kelas_kuliah": 126710,
+        "id_dosen": 2349
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Latihan : 8-1-1 (Konsep TL dan Konsep invers TL dari suatu fungsi</text></name><questiontext format="html"><text><![CDATA[<p>Dengan memakai tabel, carilah Transformasi Laplace dari fungsi f(t) berikut ini :</p><p> 1. <span class="math-tex">`f(t)=a+bt+ct^2`</span></p>
+
+<p>2. <span class="math-tex">`f(t)=(t^2+1/2)^2`</span></p>
+
+<p>3. <span class="math-tex">`f(t)=ce^(-at+b)`</span></p>
+
+<p>4, <span class="math-tex">`f(t)=3cos0.6t+t+4`</span></p>
+
+<p>5. <span class="math-tex">`f(t)=sin^2t+cos^2t`</span></p>
+
+<p> </p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>500.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_43093</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>Latihan : 8-1-1 (Konsep TL dan Konsep invers TL dari suatu fungsi</text></name><questiontext format="html"><text><![CDATA[<p>Carilah invers TL dari beberapa F(S) berikut ini :</p><p>1. <span class="math-tex">`F(s)=1/(s^2+9)`</span></p>
+
+<p>2. <span class="math-tex">`F(s)=(2s+1)/(s^2+4)`</span></p>
+
+<p>3. <span class="math-tex">`F(s)=a/s+b/s^2+c/s^3+1/(s^2+1)`</span></p>
+
+<p>4. <span class="math-tex">`F(s)=(4s+1)/(s^2-16`</span></p>
+
+<p>5. <span class="math-tex">`F(s)=1/(s^2+3s`</span></p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>500.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_43094</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

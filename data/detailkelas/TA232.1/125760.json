@@ -1,0 +1,85 @@
+{
+  "id_prodi": 160,
+  "nama_prodi": "SISTEM INFORMASI - S1",
+  "id_prodi_semester": 2728,
+  "idnumber_sikola": "45492.125760.160",
+  "shortname_sikola": "TA232-125760",
+  "kode_matkul": "23H07121703",
+  "nama_matkul": "Pengantar Data Mining",
+  "nama_kelas": "Pengantar Data Mining D 2021",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 116403,
+      "id_user": 32594,
+      "id_prodi": 160,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Akbar Lewa Agung",
+      "nim": "H071191039",
+      "jalan": "jln. Poros makassar-bone",
+      "rt": 1,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "99871",
+      "nisn": "0016237332",
+      "tempat_lahir": "Merauke",
+      "tanggal_lahir": "2001-07-16",
+      "telepon": "081247038976",
+      "handphone": "081247038976",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Eci",
+      "id_wilayah": "251405",
+      "nik": "911706167010002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "akbarlewa8@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b7c9d6af-1356-4afc-873d-e2d7e2780e1b",
+      "id_registrasi_mahasiswa_pddikti": "9b540f3b-0758-45ff-a846-6c46dbed1b84",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125760,
+        "id_mahasiswa": 116403,
+        "created_at": "2024-02-02 02:45:31"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2498,
+      "id_user": 35005,
+      "id_prodi": 202,
+      "nama": "Edy Saputra Rusdy , S.Si., M.Si.",
+      "nidn": "0010049104",
+      "nip": "199104102020053001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "710871f3-b9a3-4aa9-bd0b-a879ee31e99b",
+      "pivot": {
+        "id_kelas_kuliah": 125760,
+        "id_dosen": 2498
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1606,
+      "id_user": 21615,
+      "id_prodi": 160,
+      "nama": "Dr. Armin Lawi, S.Si.,M.Si.",
+      "nidn": "0023047210",
+      "nip": "197204231995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ad8b4f05-a6a6-4966-91fa-7496bc76fb59",
+      "pivot": {
+        "id_kelas_kuliah": 125760,
+        "id_dosen": 1606
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46487.123190.11",
+  "shortname_sikola": "TA232-123190",
+  "kode_matkul": "23D13140503",
+  "nama_matkul": "Pengelolaan Sumber Daya Air",
+  "nama_kelas": "Pengelolaan Sumber Daya Air",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2084,
+      "id_user": 32479,
+      "id_prodi": 11,
+      "nama": "Dr. Roslinda Ibrahim, S.P., M.T",
+      "nidn": "0023067502",
+      "nip": "197506232015042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aafa63e6-4385-4e1b-9d7f-2bcd92fbcb15",
+      "pivot": {
+        "id_kelas_kuliah": 123190,
+        "id_dosen": 2084
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3068,
+      "id_user": 60783,
+      "id_prodi": 11,
+      "nama": "Nur An-nisa Putry Mangarengi, S.T.,M.Sc.",
+      "nidn": "0014019204",
+      "nip": "199201142021074001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "424cb4dc-af43-4f49-a6f1-83f37c744156",
+      "pivot": {
+        "id_kelas_kuliah": 123190,
+        "id_dosen": 3068
+      }
+    }
+  ]
+}

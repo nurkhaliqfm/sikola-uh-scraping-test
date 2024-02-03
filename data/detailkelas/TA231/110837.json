@@ -1,0 +1,172 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2412,
+  "idnumber_sikola": "21360.110837.57",
+  "shortname_sikola": "TA231-110837",
+  "kode_matkul": "105K1712",
+  "nama_matkul": "Logika",
+  "nama_kelas": "LOGIKA KELAS A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142933,
+      "id_user": 38993,
+      "id_prodi": 57,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ANGELINE NATASHA PRADEVY",
+      "nim": "K011201185",
+      "jalan": "Jl. Monginsidi no.44 depan SMP Katolik Rantepao",
+      "rt": 2,
+      "rw": 1,
+      "dusun": "Malango'",
+      "kode_pos": "91831",
+      "nisn": "0014777078",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2001-10-17",
+      "telepon": "0",
+      "handphone": "6285396471309",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Malango'",
+      "id_wilayah": "192710",
+      "nik": "7318275710010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "angeline.natasha17@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "360758ff-e196-45cd-81a4-1f457daab355",
+      "id_registrasi_mahasiswa_pddikti": "d3b98c03-7292-41ed-9f83-72ac85d7a4fd",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110837,
+        "id_mahasiswa": 142933,
+        "created_at": "2023-08-04 10:33:01"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 424614,
+      "id_user": 83644,
+      "id_prodi": 57,
+      "angkatan": 2023,
+      "nama_mahasiswa": "HILDAYANTI UMAR",
+      "nim": "K011231219",
+      "jalan": "-Desa saga Kecamatan bajo Kabupaten Luwu",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Buntu Sappang",
+      "kode_pos": "91995",
+      "nisn": "-",
+      "tempat_lahir": "BUNTU SAPPANG",
+      "tanggal_lahir": "1995-01-09",
+      "telepon": "0",
+      "handphone": "082349535230",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Saga",
+      "id_wilayah": "191704",
+      "nik": "7317044901950001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 83644,
+      "kode_status": "A",
+      "email": "hildayantihilda72@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110837,
+        "id_mahasiswa": 424614,
+        "created_at": "2023-08-19 11:00:43"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2296,
+      "id_user": 29377,
+      "id_prodi": 57,
+      "nama": "Dr. Muhammad Arsyad, SKM., M.Kes.",
+      "nidn": "0018047001",
+      "nip": "197004181994121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "964d1ebb-6b71-4ea6-884f-c0d7f8595419",
+      "pivot": {
+        "id_kelas_kuliah": 110837,
+        "id_dosen": 2296
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1811,
+      "id_user": 33818,
+      "id_prodi": 57,
+      "nama": "Sudirman Nasir, S.Ked.,MWH.,Ph.D.",
+      "nidn": "0031127313",
+      "nip": "197312312008011037",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "503daa3d-abc6-4a82-8a83-5549f08540dc",
+      "pivot": {
+        "id_kelas_kuliah": 110837,
+        "id_dosen": 1811
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2008,
+      "id_user": 11113,
+      "id_prodi": 57,
+      "nama": "Muhammad Rachmat, SKM.,M.Kes",
+      "nidn": "0001018307",
+      "nip": "198301012014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b7db0f7a-7497-4217-8c6d-8c694333c80e",
+      "pivot": {
+        "id_kelas_kuliah": 110837,
+        "id_dosen": 2008
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1706,
+      "id_user": 80197,
+      "id_prodi": 57,
+      "nama": "Dr. Indra Fajarwati Ibnu, SKM., MA.",
+      "nidn": "0015117804",
+      "nip": "197811152005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "81f5d98d-6dfa-439d-84f7-72541776ff30",
+      "pivot": {
+        "id_kelas_kuliah": 110837,
+        "id_dosen": 1706
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3259,
+      "id_user": null,
+      "id_prodi": 57,
+      "nama": "Prof. Dr, Arlin Adam, S.KM., M.Si",
+      "nidn": null,
+      "nip": "7371110403730011",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110837,
+        "id_dosen": 3259
+      }
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id_prodi": 213,
+  "nama_prodi": "Rekayasa Kehutanan - S1",
+  "id_prodi_semester": 2547,
+  "idnumber_sikola": "37965.111197.213",
+  "shortname_sikola": "TA231-111197",
+  "kode_matkul": "20M02130202",
+  "nama_matkul": "Praktek Aplikasi Teknologi HH",
+  "nama_kelas": "Praktek Aplikasi Teknologi HH (B)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 140623,
+      "id_user": 42805,
+      "id_prodi": 213,
+      "angkatan": 2020,
+      "nama_mahasiswa": "A. RAHIM MUHARRAM",
+      "nim": "M021201006",
+      "jalan": "JALAN POROS-BONE SINJAI",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "Biccoing",
+      "kode_pos": "92774",
+      "nisn": "0024793293",
+      "tempat_lahir": "BICCOING",
+      "tanggal_lahir": "2002-08-04",
+      "telepon": "0",
+      "handphone": "082347191012",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Biccoing",
+      "id_wilayah": "190705",
+      "nik": "7308050408020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andirahim439@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b4f24755-c504-43e7-9031-eeca9d8e05d6",
+      "id_registrasi_mahasiswa_pddikti": "8faa98ca-ee17-4e5a-a495-2270b41986b3",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_mahasiswa": 140623,
+        "created_at": "2023-08-04 17:34:15"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 154529,
+      "id_user": 50864,
+      "id_prodi": 213,
+      "angkatan": 2021,
+      "nama_mahasiswa": "RISMAWATI",
+      "nim": "M021211024",
+      "jalan": "POROS MAROS - BONE",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Jampue",
+      "kode_pos": "90563",
+      "nisn": "0033070574",
+      "tempat_lahir": "MAROS",
+      "tanggal_lahir": "2003-09-16",
+      "telepon": "0",
+      "handphone": "085336165163",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MATTAMPAPOLE",
+      "id_wilayah": "190107",
+      "nik": "7309065609030001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "watyrisma705@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f0ff0068-d943-45fe-88f1-f39866754989",
+      "id_registrasi_mahasiswa_pddikti": "28ceb0e8-beb7-485d-a53f-43287880f628",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_mahasiswa": 154529,
+        "created_at": "2023-08-16 10:54:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1407,
+      "id_user": 9780,
+      "id_prodi": 71,
+      "nama": "Dr. Suhasman, S.Hut., M.Si.",
+      "nidn": "0002046901",
+      "nip": "196904022000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4a9c42c0-b924-49f5-bc90-50edf475879f",
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_dosen": 1407
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1380,
+      "id_user": 30738,
+      "id_prodi": 71,
+      "nama": "Dr. Andi Detti Yunianti, S.Hut., MP.",
+      "nidn": "0006067002",
+      "nip": "197006061995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd6e0c5f-4660-4309-be72-b5f76b112e31",
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_dosen": 1380
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2532,
+      "id_user": 21995,
+      "id_prodi": 71,
+      "nama": "Dr. Andi Sri Rahayu Diza Lestari A, S.Hut., M.Si.",
+      "nidn": "0004129001",
+      "nip": "199012042019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "220b99f6-eae4-4939-967d-bebb1e157ff8",
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_dosen": 2532
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1827,
+      "id_user": 11547,
+      "id_prodi": 71,
+      "nama": "Sahriyanti Saad, S.Hut.,M.Si.,Ph.D.",
+      "nidn": "0005078202",
+      "nip": "198207052008122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "77e06139-676d-40a0-8418-69029e8dc38d",
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_dosen": 1827
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2085,
+      "id_user": 108,
+      "id_prodi": 71,
+      "nama": "Agussalim, S.Hut., M.Si",
+      "nidn": "0919088302",
+      "nip": "198308192015041004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "12809913-140e-4fcb-8e7f-da67353e5deb",
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_dosen": 2085
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3784,
+      "id_user": 60688,
+      "id_prodi": 213,
+      "nama": "Kidung Tirtayasa Putra Pangestu, S.Hut., M.Si.",
+      "nidn": "0015049605",
+      "nip": "199604152022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "91af1590-5d94-4256-8806-60dcc604ff3a",
+      "pivot": {
+        "id_kelas_kuliah": 111197,
+        "id_dosen": 3784
+      }
+    }
+  ]
+}

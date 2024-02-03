@@ -1,0 +1,85 @@
+{
+  "id_prodi": 113,
+  "nama_prodi": "TEKNIK SIPIL - S2",
+  "id_prodi_semester": 2687,
+  "idnumber_sikola": "29443.128615.113",
+  "shortname_sikola": "TA232-128615",
+  "kode_matkul": "18D01211803",
+  "nama_matkul": "PEMODELAN TRANSPORTASI",
+  "nama_kelas": "Pemodelan Transportasi (Transportasi)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 422314,
+      "id_user": 75577,
+      "id_prodi": 113,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FERRY UPANG TANDI LAYUK",
+      "nim": "D012231036",
+      "jalan": "JL. PERINTIS KEMERDEKAAN 18 LR. 3 NO. 13",
+      "rt": 1,
+      "rw": 4,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": "D012231036",
+      "tempat_lahir": "SUNGGUMINASA",
+      "tanggal_lahir": "1976-02-17",
+      "telepon": "085344121486",
+      "handphone": "085344121486",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "9104011702760001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "upangtandilayukferry@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "6d80df7b-607e-4db1-ae31-6612def135cf",
+      "id_registrasi_mahasiswa_pddikti": "6b742cea-3f1e-40cb-8562-c92e9081a660",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128615,
+        "id_mahasiswa": 422314,
+        "created_at": "2024-01-26 12:44:55"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1282,
+      "id_user": 19425,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Eng. Muhammad Isran Ramli, ST., MT.",
+      "nidn": "0026097301",
+      "nip": "197309262000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c5dcceb-62d9-434f-aacd-29386867ffc8",
+      "pivot": {
+        "id_kelas_kuliah": 128615,
+        "id_dosen": 1282
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1441,
+      "id_user": 30061,
+      "id_prodi": 11,
+      "nama": "Dr. Eng. Muralia Hustim, ST., MT.",
+      "nidn": "0024047205",
+      "nip": "197204242000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "795719fa-e784-4775-9591-0f1817815746",
+      "pivot": {
+        "id_kelas_kuliah": 128615,
+        "id_dosen": 1441
+      }
+    }
+  ]
+}

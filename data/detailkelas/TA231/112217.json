@@ -1,0 +1,61 @@
+{
+  "id_prodi": 235,
+  "nama_prodi": "TEKNOLOGI HASIL PERIKANAN - S1",
+  "id_prodi_semester": 2567,
+  "idnumber_sikola": "47253.112217.235",
+  "shortname_sikola": "TA231-112217",
+  "kode_matkul": "23L06120703",
+  "nama_matkul": "Aditif Bahan Pangan",
+  "nama_kelas": "Aditif Bahan Pangan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1763,
+      "id_user": 21087,
+      "id_prodi": 235,
+      "nama": "Dr. Nursinah Amir, S.Pi., MP.",
+      "nidn": "0015117904",
+      "nip": "197911152006042030",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5245705b-cdb7-4031-a378-c23c8ba06f9f",
+      "pivot": {
+        "id_kelas_kuliah": 112217,
+        "id_dosen": 1763
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 900,
+      "id_user": 24123,
+      "id_prodi": 235,
+      "nama": "Prof. Dr. Ir. Metusalach, M.Sc.",
+      "nidn": "0025056002",
+      "nip": "196005251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5efa67f5-93cd-419d-ad65-4fc29782cf3e",
+      "pivot": {
+        "id_kelas_kuliah": 112217,
+        "id_dosen": 900
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2460,
+      "id_user": 60802,
+      "id_prodi": 235,
+      "nama": "Dr. Ir.  Ophirtus Sumule, DEA.",
+      "nidn": "0025105911",
+      "nip": "195910251987111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34069e98-4c09-487f-8ffc-aca87ffcf8f1",
+      "pivot": {
+        "id_kelas_kuliah": 112217,
+        "id_dosen": 2460
+      }
+    }
+  ]
+}

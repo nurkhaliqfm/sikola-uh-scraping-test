@@ -1,0 +1,61 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47527.127598.10",
+  "shortname_sikola": "TA232-127598",
+  "kode_matkul": "23D01132902",
+  "nama_matkul": "Manajemen Mutu Konstruksi",
+  "nama_kelas": "Manajemen Mutu Konstruksi Pilihan INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1133,
+      "id_user": 33433,
+      "id_prodi": 10,
+      "nama": "Dr. Rusdi Usman Latif, MT.",
+      "nidn": "0005026603",
+      "nip": "196602051991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1b7759f7-3b8a-423d-9b83-eeb015688aad",
+      "pivot": {
+        "id_kelas_kuliah": 127598,
+        "id_dosen": 1133
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1467,
+      "id_user": 33631,
+      "id_prodi": 10,
+      "nama": "Ir. Suharman Hamzah, ST., MT., Ph.D., HSE",
+      "nidn": "0005037608",
+      "nip": "197605032002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7852bd4b-fe3a-42ef-977b-a50620806bbb",
+      "pivot": {
+        "id_kelas_kuliah": 127598,
+        "id_dosen": 1467
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2020,
+      "id_user": 18720,
+      "id_prodi": 10,
+      "nama": "Dr.  Muhammad Asad Abdurrahman, ST., M.Eng",
+      "nidn": "0006037303",
+      "nip": "197303061998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9513e8b4-1bb9-41fb-85cf-1ee03da66b09",
+      "pivot": {
+        "id_kelas_kuliah": 127598,
+        "id_dosen": 2020
+      }
+    }
+  ]
+}

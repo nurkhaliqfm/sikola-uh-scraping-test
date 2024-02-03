@@ -1,0 +1,45 @@
+{
+  "id_prodi": 135,
+  "nama_prodi": "TEKNIK GEOLOGI - S2",
+  "id_prodi_semester": 2477,
+  "idnumber_sikola": "31685.111221.135",
+  "shortname_sikola": "TA231-111221",
+  "kode_matkul": "18D06212702",
+  "nama_matkul": "GEOLOGI PENGELOLAAN LIMBAH",
+  "nama_kelas": "Geologi Pengelolaan Limbah",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 871,
+      "id_user": 12114,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  M. Fauzi Arifin, M.Si",
+      "nidn": "0003125802",
+      "nip": "195812031986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1bf564a1-889a-4675-90ab-6cb07ad46f03",
+      "pivot": {
+        "id_kelas_kuliah": 111221,
+        "id_dosen": 871
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 876,
+      "id_user": 10614,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Hamid Umar, MS.",
+      "nidn": "0002116002",
+      "nip": "196012021988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "11bdd910-f86f-4005-9156-36953221304f",
+      "pivot": {
+        "id_kelas_kuliah": 111221,
+        "id_dosen": 876
+      }
+    }
+  ]
+}

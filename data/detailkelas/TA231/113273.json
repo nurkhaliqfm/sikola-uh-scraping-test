@@ -1,0 +1,29 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46540.113273.16",
+  "shortname_sikola": "TA231-113273",
+  "kode_matkul": "23U02131702",
+  "nama_matkul": "Inovasi dan Pemikiran Desain",
+  "nama_kelas": "Inovasi dan Pemikiran Desain",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1273,
+      "id_user": 11935,
+      "id_prodi": 16,
+      "nama": "M. Rusydi Alwi, ST.,MT.",
+      "nidn": "0023017306",
+      "nip": "197301232000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55bdd942-4307-4880-acf0-6e3b35218ca2",
+      "pivot": {
+        "id_kelas_kuliah": 113273,
+        "id_dosen": 1273
+      }
+    }
+  ]
+}

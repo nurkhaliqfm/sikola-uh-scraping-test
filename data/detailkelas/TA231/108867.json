@@ -1,0 +1,45 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44070.108867.47",
+  "shortname_sikola": "TA231-108867",
+  "kode_matkul": "23H02130803",
+  "nama_matkul": "DINAMIKA NONLINIER",
+  "nama_kelas": "Dinamika Nonlinier (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1048,
+      "id_user": 28999,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. rer-nat Wira Bahari Nurdin",
+      "nidn": "0023096702",
+      "nip": "196709231991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d7c1ff6d-4119-4b3e-a690-c4cc28362f72",
+      "pivot": {
+        "id_kelas_kuliah": 108867,
+        "id_dosen": 1048
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1364,
+      "id_user": 21587,
+      "id_prodi": 47,
+      "nama": "Drs. Bansawang BJ., M.Si.",
+      "nidn": "0006126303",
+      "nip": "196312061994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "869eacbc-a5b7-44a3-bb18-15e4b44b56d3",
+      "pivot": {
+        "id_kelas_kuliah": 108867,
+        "id_dosen": 1364
+      }
+    }
+  ]
+}

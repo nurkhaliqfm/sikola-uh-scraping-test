@@ -1,0 +1,77 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2415,
+  "idnumber_sikola": "45469.112323.67",
+  "shortname_sikola": "TA231-112323",
+  "kode_matkul": "23L02130603",
+  "nama_matkul": "Ekologi Ikan",
+  "nama_kelas": "Ekologi Ikan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1315,
+      "id_user": 26806,
+      "id_prodi": 67,
+      "nama": "Dr. Ir.  Budiman Yunus, MP.",
+      "nidn": "0014066002",
+      "nip": "196006141986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1e62ae8b-fc52-486a-a13c-9e43688a8f27",
+      "pivot": {
+        "id_kelas_kuliah": 112323,
+        "id_dosen": 1315
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1764,
+      "id_user": 31147,
+      "id_prodi": 67,
+      "nama": "Dr. Ir.  Hadiratul Kudsiah, MP.",
+      "nidn": "0006116706",
+      "nip": "196711062006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9f16320e-80c6-41b9-8f9d-2f740800627c",
+      "pivot": {
+        "id_kelas_kuliah": 112323,
+        "id_dosen": 1764
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1371,
+      "id_user": 27421,
+      "id_prodi": 67,
+      "nama": "Dr. Ir.  Nadiarti, M.Sc.",
+      "nidn": "0006016801",
+      "nip": "196801061991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "367e51ef-39d7-494a-b1a6-095375dcaba4",
+      "pivot": {
+        "id_kelas_kuliah": 112323,
+        "id_dosen": 1371
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2224,
+      "id_user": 31117,
+      "id_prodi": 67,
+      "nama": "Dr. Ir. Suwarni, M.Si.",
+      "nidn": "0017076303",
+      "nip": "196307171988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cb487132-3ab7-4598-bd5b-114a3ee81096",
+      "pivot": {
+        "id_kelas_kuliah": 112323,
+        "id_dosen": 2224
+      }
+    }
+  ]
+}

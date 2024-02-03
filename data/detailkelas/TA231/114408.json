@@ -1,0 +1,45 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2368,
+  "idnumber_sikola": "396.114408.1",
+  "shortname_sikola": "TA231-114408",
+  "kode_matkul": "207A1113",
+  "nama_matkul": "STATISTIKA EKONOMI",
+  "nama_kelas": "STATISTIKA EKONOMI (KELAS INTERNASIONAL )",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1867,
+      "id_user": 22990,
+      "id_prodi": 1,
+      "nama": "Dr.  Indraswati T.R., SE., MA.",
+      "nidn": "0012106501",
+      "nip": "196510121999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a1c4e285-f362-4313-bbf1-e8487d69598b",
+      "pivot": {
+        "id_kelas_kuliah": 114408,
+        "id_dosen": 1867
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1497,
+      "id_user": 18925,
+      "id_prodi": 1,
+      "nama": "Dr. Fitriwati, SE.,M.Si.",
+      "nidn": "0021088003",
+      "nip": "198008212005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17aa51e8-3164-49e3-8d5f-f4d80ea6a725",
+      "pivot": {
+        "id_kelas_kuliah": 114408,
+        "id_dosen": 1497
+      }
+    }
+  ]
+}

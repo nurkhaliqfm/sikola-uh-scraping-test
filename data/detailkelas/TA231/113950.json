@@ -1,0 +1,61 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2375,
+  "idnumber_sikola": "47514.113950.10",
+  "shortname_sikola": "TA231-113950",
+  "kode_matkul": "23D01131602",
+  "nama_matkul": "Erosi dan Angkutan Sedimen",
+  "nama_kelas": "Erosi dan Angkutan Sedimen Pilihan INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2113,
+      "id_user": 32366,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ir. Muhammad Saleh Pallu, M.Eng.",
+      "nidn": "0010095405",
+      "nip": "195409101983031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17907aec-728d-4229-a5cb-058bfd584a30",
+      "pivot": {
+        "id_kelas_kuliah": 113950,
+        "id_dosen": 2113
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1288,
+      "id_user": 33439,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Ir. Farouk Maricar, MT.",
+      "nidn": "0020106409",
+      "nip": "196410201991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c7c25df-d5ed-4232-a273-b66f77e99b4c",
+      "pivot": {
+        "id_kelas_kuliah": 113950,
+        "id_dosen": 1288
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2443,
+      "id_user": 33398,
+      "id_prodi": 10,
+      "nama": "Muhammad Farid Maricar, B.Eng., M.Eng.",
+      "nidn": "0031109205",
+      "nip": "199210312019031017",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3259a752-f968-4fd3-8292-f1fa5478158d",
+      "pivot": {
+        "id_kelas_kuliah": 113950,
+        "id_dosen": 2443
+      }
+    }
+  ]
+}

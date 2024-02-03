@@ -1,0 +1,85 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2471,
+  "idnumber_sikola": "31253.105390.129",
+  "shortname_sikola": "TA231-105390",
+  "kode_matkul": "17C14541202",
+  "nama_matkul": "Spine 4",
+  "nama_kelas": "Spine 4_2017",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 103328,
+      "id_user": 26090,
+      "id_prodi": 129,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Radinal Irwinsyah",
+      "nim": "C145191002",
+      "jalan": "Jl Arief rate no 37",
+      "rt": 2,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90114",
+      "nisn": null,
+      "tempat_lahir": "Kendari",
+      "tanggal_lahir": "1988-11-11",
+      "telepon": "0",
+      "handphone": "6281258781954",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "mangkura",
+      "id_wilayah": "196005",
+      "nik": "7371131111880005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "radinalirwinsyah@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105390,
+        "id_mahasiswa": 103328,
+        "created_at": "2023-08-09 13:23:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2494,
+      "id_user": 33748,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Karya Triko Biakto, Sp.OT(K)",
+      "nidn": "8815910016",
+      "nip": "196510052018015002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1eac6d6-6dbb-4394-9b41-9fa75516ce3d",
+      "pivot": {
+        "id_kelas_kuliah": 105390,
+        "id_dosen": 2494
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1888,
+      "id_user": 37553,
+      "id_prodi": 6,
+      "nama": "dr.  Jainal Arifin, Sp.OT., M.Kes",
+      "nidn": "0011117508",
+      "nip": "197511112009121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76ae72a6-575e-4eb7-b725-02cad30d7c2c",
+      "pivot": {
+        "id_kelas_kuliah": 105390,
+        "id_dosen": 1888
+      }
+    }
+  ]
+}

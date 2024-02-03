@@ -1,0 +1,69 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "48280.122496.19",
+  "shortname_sikola": "TA232-122496",
+  "kode_matkul": "23D05141502",
+  "nama_matkul": "Rencana Penelitian Tugas Akhir Riset (LBE Teori dan Sejarah Arsitektur)",
+  "nama_kelas": "Final Project Research Proposal (LBE of Theory and Architecture Behavior)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 37073,
+      "id_user": 11993,
+      "id_prodi": 19,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Rezky Nugraha Loanardo",
+      "nim": "D051191050",
+      "jalan": "jl landak baru 10 no 1f",
+      "rt": 6,
+      "rw": 6,
+      "dusun": "Rappocini",
+      "kode_pos": "90222",
+      "nisn": "0018320464",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2001-02-06",
+      "telepon": "-1",
+      "handphone": "082296185980",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Banta Bantaeng",
+      "id_wilayah": "190000",
+      "nik": "7371130602010003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ffsrezki08@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7c14075a-96ae-4cd4-8ed3-d81c0b53836a",
+      "id_registrasi_mahasiswa_pddikti": "b6e98474-2023-46d8-9222-bae860eedacf",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122496,
+        "id_mahasiswa": 37073,
+        "created_at": "2024-01-12 06:01:07"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 122496,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

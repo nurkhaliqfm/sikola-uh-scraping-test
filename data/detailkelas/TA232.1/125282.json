@@ -1,0 +1,101 @@
+{
+  "id_prodi": 75,
+  "nama_prodi": "SISTEM-SISTEM PERTANIAN - S2",
+  "id_prodi_semester": 2653,
+  "idnumber_sikola": "25604.125282.75",
+  "shortname_sikola": "TA232-125282",
+  "kode_matkul": "18P01212103",
+  "nama_matkul": "Evaluasi Program Pembangunan Pertanian\r\n",
+  "nama_kelas": "Evaluasi Program Pembangunan Pertanian (P) (SSP)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428391,
+      "id_user": 86918,
+      "id_prodi": 75,
+      "angkatan": 2023,
+      "nama_mahasiswa": "AMELIA ICHA BUJANG",
+      "nim": "P012232001",
+      "jalan": "TEUKU UMAR XIV",
+      "rt": 2,
+      "rw": 4,
+      "dusun": "-",
+      "kode_pos": "90211",
+      "nisn": "-",
+      "tempat_lahir": "KASISI'",
+      "tanggal_lahir": "1999-12-13",
+      "telepon": "082196518076",
+      "handphone": "082196518076",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TALLO",
+      "id_wilayah": "196009",
+      "nik": "7318125312990001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86918,
+      "kode_status": "A",
+      "email": "ameliaicha1312@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125282,
+        "id_mahasiswa": 428391,
+        "created_at": "2024-01-23 21:03:22"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 971,
+      "id_user": 23186,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Muslim, M.Sc.",
+      "nidn": "0016066801",
+      "nip": "196806161992031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d194bda0-3b4b-4f1a-9f21-8090493844bd",
+      "pivot": {
+        "id_kelas_kuliah": 125282,
+        "id_dosen": 971
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1663,
+      "id_user": 20999,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. A. Nixia Tenriawaru, SP., M.Si.",
+      "nidn": "0007117201",
+      "nip": "197211071997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "19003e3b-e7ce-4fd6-b6d4-40bd89c513ea",
+      "pivot": {
+        "id_kelas_kuliah": 125282,
+        "id_dosen": 1663
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3629,
+      "id_user": 71543,
+      "id_prodi": 75,
+      "nama": "Dr. Ariady Arsal, S.P., M.Si",
+      "nidn": "8944930022",
+      "nip": "197307182022015001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "cb47610f-8945-45e7-b76e-963556384e20",
+      "pivot": {
+        "id_kelas_kuliah": 125282,
+        "id_dosen": 3629
+      }
+    }
+  ]
+}

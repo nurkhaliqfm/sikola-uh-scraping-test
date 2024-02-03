@@ -1,0 +1,69 @@
+{
+  "id_prodi": 247,
+  "nama_prodi": "TERAPI GIGI - D4",
+  "id_prodi_semester": 2578,
+  "idnumber_sikola": "44636.112956.247",
+  "shortname_sikola": "TA231-112956",
+  "kode_matkul": "23U01110402",
+  "nama_matkul": "Pendidikan Agama Hindu",
+  "nama_kelas": "Pendidikan Agama Hindu",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 422208,
+      "id_user": 79848,
+      "id_prodi": 247,
+      "angkatan": 2023,
+      "nama_mahasiswa": "KETUT AYU WINDARI",
+      "nim": "V066231021",
+      "jalan": "SETIA DARMA",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Salubua",
+      "kode_pos": "92963",
+      "nisn": "0059031286",
+      "tempat_lahir": "SALU BUA",
+      "tanggal_lahir": "2005-02-04",
+      "telepon": "0",
+      "handphone": "087861533928",
+      "id_agama": null,
+      "id_prodi_jenjang": 10,
+      "kelurahan": "Minanga Tallu",
+      "id_wilayah": "192404",
+      "nik": "7322064402050001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "windariketutayu@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f5eaa14d-e0f7-4b18-aa27-2b5f9306eb65",
+      "id_registrasi_mahasiswa_pddikti": "c7b29648-a0e8-49c2-9b77-57beccb7a079",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112956,
+        "id_mahasiswa": 422208,
+        "created_at": "2023-08-05 10:26:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2787,
+      "id_user": 34144,
+      "id_prodi": 142,
+      "nama": "I Ketut Mundra,S.Ag",
+      "nidn": null,
+      "nip": "150372256",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 112956,
+        "id_dosen": 2787
+      }
+    }
+  ]
+}

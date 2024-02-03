@@ -1,0 +1,61 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2733,
+  "idnumber_sikola": "34732.125813.165",
+  "shortname_sikola": "TA232-125813",
+  "kode_matkul": "18D02320104",
+  "nama_matkul": "SEMINAR HASIL PENELITIAN DISERTASI",
+  "nama_kelas": "SEMINAR HASIL PENELITIAN DISERTASI (SARI OKTAVIA)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 125813,
+        "id_dosen": 1454
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 125813,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1259,
+      "id_user": 29024,
+      "id_prodi": 19,
+      "nama": "Dr. Mohammad Mochsen Sir, ST., MT.",
+      "nidn": "0007046902",
+      "nip": "196904071996031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d4059066-ecd9-4849-b476-3af5f719b11b",
+      "pivot": {
+        "id_kelas_kuliah": 125813,
+        "id_dosen": 1259
+      }
+    }
+  ]
+}

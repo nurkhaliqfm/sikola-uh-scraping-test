@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34895.107868.168",
+  "shortname_sikola": "TA231-107868",
+  "kode_matkul": "18D04320204",
+  "nama_matkul": "PENELITIAN DAN SEMINAR DISERTASI II",
+  "nama_kelas": "Penelitian dan Seminar Disertasi II (Albertha Lolo Tandung)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117081,
+      "id_user": 27495,
+      "id_prodi": 168,
+      "angkatan": 2019,
+      "nama_mahasiswa": "ALBERTHA LOLO TANDUNG",
+      "nim": "D043191005",
+      "jalan": "Perum. Nusa Tamalanrea Indah Blok FB.1 Makassar 90245",
+      "rt": 5,
+      "rw": 6,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "Bantaeng",
+      "tanggal_lahir": "1976-02-03",
+      "telepon": "085255539236",
+      "handphone": "085255539236",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "7371144302760003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "albertha_ppstrnr@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "44cedd85-3358-4f45-9c75-559f6ac1afdc",
+      "id_registrasi_mahasiswa_pddikti": "2f3f323e-c8ac-48ad-bbab-ef08f28d1150",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107868,
+        "id_mahasiswa": 117081,
+        "created_at": "2023-08-07 08:09:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1194,
+      "id_user": 14331,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng. Andi Erwin Eka Putra, ST., MT.",
+      "nidn": "0021127102",
+      "nip": "197112211998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e084b56a-9c49-4d8b-8546-40f886bf3c72",
+      "pivot": {
+        "id_kelas_kuliah": 107868,
+        "id_dosen": 1194
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2242,
+      "id_user": 31434,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. Syamsul Asri, MT.",
+      "nidn": "0018036501",
+      "nip": "196503181991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37fab9e6-b66b-4b95-bf1a-6014c96b003b",
+      "pivot": {
+        "id_kelas_kuliah": 107868,
+        "id_dosen": 2242
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1479,
+      "id_user": 31590,
+      "id_prodi": 16,
+      "nama": "Rahimuddin, ST.,MT.,Ph.D.",
+      "nidn": "0025087101",
+      "nip": "197108251999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2d63bd63-658b-4475-8652-753278c1d21b",
+      "pivot": {
+        "id_kelas_kuliah": 107868,
+        "id_dosen": 1479
+      }
+    }
+  ]
+}

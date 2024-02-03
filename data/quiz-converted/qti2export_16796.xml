@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Apa itu Abstract Class ? - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222741</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Instance dari Objek</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Class yang tidak memiliki sub-class</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Class yang selalu memiliki instance/objek</p>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<p>Class yang tidak akan pernah memiliki instance/objek</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Apa terminologi Jika sebuah subclass menyediakan implementasi spesifik dari metode yang telah dideklarasikan oleh salah satu Super Class. - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222742</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Private Method</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Abstract Class</p>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<p> Method overriding.</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Protected Method</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Apa yang dimaksud dengan "Class"  - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222743</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Atribut Objek</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Instance dari Objek</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Parent Objek</p>]]></text><feedback><text/></feedback></answer><answer fraction="50.0" format="html"><text><![CDATA[<p>Blueprint Objek</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Apakah output dari program berikut setelah di compile dan di run? - Copy</p><pre>
+public class Car
+{
+   private int fuel;
+
+   public Car() { fuel = 0; }
+   public Car(int g) { fuel = g; }
+
+   public void addFuel() { fuel++; }
+   public void display() { System.out.print(fuel + &quot; &quot;); }
+}
+
+public class Sedan extends Car
+{
+   public Sedan(int g) { super(2*g); }
+}
+
+
+Apakah output dari program diatas setelah di compile dan di run?
+
+Car car = new Car(5);
+Car fastCar = new Sedan(5);
+car.display()
+car.addFuel();
+car.display();
+fastCar.display();
+fastCar.addFuel();
+fastCar.display();
+</pre>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222744</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="200.0" format="html"><text><![CDATA[<p>5 6 10 11</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>10 11 10 11</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Runtime Error</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>5 6 5 6</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Apakah output dari program ini ? - Copy</p><pre>
+public class Base
+{
+   public void methodOne()
+   {
+      System.out.print(&quot;A&quot;);
+      methodTwo();
+   }
+
+   public void methodTwo()
+   {
+      System.out.print(&quot;B&quot;);
+   }
+}
+
+public class Derived extends Base
+{
+   public void methodOne()
+   {
+      super.methodOne();
+      System.out.print(&quot;C&quot;);
+   }
+
+   public void methodTwo()
+   {
+      super.methodTwo();
+      System.out.print(&quot;D&quot;);
+   }
+}</pre>
+
+<p>&nbsp;</p>
+
+<pre>
+Apakah output dari program diatas setelah di compile dan di run?</pre>
+
+<p>Base b = new Derived();</p>
+
+<p>b.methodOne();</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222745</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>ABCD</p>]]></text><feedback><text/></feedback></answer><answer fraction="150.0" format="html"><text><![CDATA[<p>ABDC</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>AB</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>ABC</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Apakah output dari program ini ?  - Copy</p><pre>
+public class Food {
+   public String getFood() {
+      return &quot;Pizza&quot;;
+   }
+   public String getInfo()  {
+      return this.getFood();
+   }
+}
+
+public class TradFood extends Food {
+   public String getFood() {
+      return &quot;Barongko&quot;;
+   }
+}</pre>
+
+<pre>
+Apakah output dari program diatas setelah di compile dan di run?
+</pre>
+
+<p>&nbsp;TradFood myfood = new TradFood();</p>
+
+<p>&nbsp;myfood.getInfo();</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222746</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Gagal Compile karena membuat objek dari TradFood, bukan dari Food</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Gagal Compile karena menggunakan this.getFood()</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Pizza</p>]]></text><feedback><text/></feedback></answer><answer fraction="150.0" format="html"><text><![CDATA[<p>Barongko</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Fitur OOP manakah yang mendukung "Code Reusability" - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222747</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Interface</p>]]></text><feedback><text/></feedback></answer><answer fraction="50.0" format="html"><text><![CDATA[<p>Inheritance</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Abstraction</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Polymorphism</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Manakah di antara Access Specifier berikut ini yang  hanya dapat diakses dari member class sendiri saja. - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222748</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Protected</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Public</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Default</p>]]></text><feedback><text/></feedback></answer><answer fraction="50.0" format="html"><text><![CDATA[<p>Private</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Manakah yang BUKAN fitur dari OOP - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222749</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Code Reusability</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Efficient Code</p>]]></text><feedback><text/></feedback></answer><answer fraction="50.0" format="html"><text><![CDATA[<p>Duplicate Data</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Modularity</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Mid-test</text></name><questiontext format="html"><text><![CDATA[<p>Sebuah program sedang ditulis oleh tim programmer. Seorang programmer mengimplementasikan kelas yang disebut "Employee".  Programmer lain sedang menulis kode yang akan menggunakan kelas "Employee". Manakah dari aspek public method dan fields dari kelas "Employee" berikut yang tidak perlu diketahui oleh kedua pemrogramer? - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_222750</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>Programmer tidak perlu tahu tipe dari method parameter</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Programmer tidak perlu tahu nama method</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Programmer tidak perlu tahu method return type</p>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<p>Programmer tidak perlu tahu bagaimana method itu di implementasi</p>]]></text><feedback><text/></feedback></answer></question></quiz>

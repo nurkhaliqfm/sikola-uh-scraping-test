@@ -1,0 +1,61 @@
+{
+  "id_prodi": 46,
+  "nama_prodi": "STATISTIKA - S1",
+  "id_prodi_semester": 2404,
+  "idnumber_sikola": "45380.108346.46",
+  "shortname_sikola": "TA231-108346",
+  "kode_matkul": "23H05131003",
+  "nama_matkul": "Pemodelan Statistika",
+  "nama_kelas": "Pemodelan Statistika",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1685,
+      "id_user": 10451,
+      "id_prodi": 46,
+      "nama": "Dr. Anna Islamiyati, S.Si.,M.Si.",
+      "nidn": "0028067701",
+      "nip": "197708082005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2b97ed7b-f52e-4570-bf4e-15413bb64be4",
+      "pivot": {
+        "id_kelas_kuliah": 108346,
+        "id_dosen": 1685
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1495,
+      "id_user": 30083,
+      "id_prodi": 46,
+      "nama": "Dr.  Erna Tri Herdiani, S.Si.,M.Si.",
+      "nidn": "0029047505",
+      "nip": "197504292000032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "14ef2a2e-1dcb-4d9e-8a10-6134273de0f0",
+      "pivot": {
+        "id_kelas_kuliah": 108346,
+        "id_dosen": 1495
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 991,
+      "id_user": 9272,
+      "id_prodi": 46,
+      "nama": "Drs. Raupong, M.Si.",
+      "nidn": "0015106201",
+      "nip": "196210151988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6cef683-2838-4afb-9709-3137e93235a2",
+      "pivot": {
+        "id_kelas_kuliah": 108346,
+        "id_dosen": 991
+      }
+    }
+  ]
+}

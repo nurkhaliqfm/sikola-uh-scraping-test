@@ -1,0 +1,61 @@
+{
+  "id_prodi": 153,
+  "nama_prodi": "AGRIBISNIS - S1",
+  "id_prodi_semester": 2490,
+  "idnumber_sikola": "36541.106296.153",
+  "shortname_sikola": "TA231-106296",
+  "kode_matkul": "19G02131103",
+  "nama_matkul": "TEKNOLOGI PANGAN",
+  "nama_kelas": "Teknologi Pangan Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 962,
+      "id_user": 21756,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Rahmadanih, M.Si.",
+      "nidn": "0027046603",
+      "nip": "196604271991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a83e0b3d-6e59-4369-b0b4-2cd34edef3a2",
+      "pivot": {
+        "id_kelas_kuliah": 106296,
+        "id_dosen": 962
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3135,
+      "id_user": 14794,
+      "id_prodi": 154,
+      "nama": "Muspirah Djalal, STP., MSc.",
+      "nidn": "0017089104",
+      "nip": "199108172019092001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0e04dcd1-77bd-49ec-a812-677a47c69fb2",
+      "pivot": {
+        "id_kelas_kuliah": 106296,
+        "id_dosen": 3135
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3513,
+      "id_user": 47745,
+      "id_prodi": 154,
+      "nama": "Arfina Sukmawati Arifin, S.TP., M.Si",
+      "nidn": "0015089206",
+      "nip": "199208152020122016",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "b19c68d1-ec42-47a7-a0be-1ec59c071d16",
+      "pivot": {
+        "id_kelas_kuliah": 106296,
+        "id_dosen": 3513
+      }
+    }
+  ]
+}

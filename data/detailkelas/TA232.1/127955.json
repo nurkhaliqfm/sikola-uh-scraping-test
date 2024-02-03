@@ -1,0 +1,85 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2684,
+  "idnumber_sikola": "29097.127955.109",
+  "shortname_sikola": "TA232-127955",
+  "kode_matkul": "18P07210602",
+  "nama_matkul": "Kesehatan Reproduksi",
+  "nama_kelas": "Kesehatan Reproduksi (Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428427,
+      "id_user": 86954,
+      "id_prodi": 109,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FAJRIANI",
+      "nim": "P072232001",
+      "jalan": "JL. BTN PONDOK INDAH SOREANG NO. 4",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91132",
+      "nisn": "0",
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1981-07-12",
+      "telepon": "0",
+      "handphone": "085255514450",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BUKIT HARAPAN",
+      "id_wilayah": "020819",
+      "nik": "7372035207810002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86954,
+      "kode_status": "A",
+      "email": "vajoji42@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127955,
+        "id_mahasiswa": 428427,
+        "created_at": "2024-01-18 16:22:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1800,
+      "id_user": 27450,
+      "id_prodi": 65,
+      "nama": "Dr.  Healthy Hidayanty, SKM.,M.Kes.",
+      "nidn": "0907048101",
+      "nip": "198104072008012013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c40abbc-8f76-4cb6-9917-0635fc6d8976",
+      "pivot": {
+        "id_kelas_kuliah": 127955,
+        "id_dosen": 1800
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1624,
+      "id_user": 11346,
+      "id_prodi": 57,
+      "nama": "Dr. Apik Indarty Moedjiono, SKM.,M.Si.",
+      "nidn": "0019047702",
+      "nip": "197704192002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "534d1dd3-3989-4eda-b8cf-553ddef9e364",
+      "pivot": {
+        "id_kelas_kuliah": 127955,
+        "id_dosen": 1624
+      }
+    }
+  ]
+}

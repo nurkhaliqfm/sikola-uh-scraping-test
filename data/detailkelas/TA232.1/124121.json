@@ -1,0 +1,61 @@
+{
+  "id_prodi": 159,
+  "nama_prodi": "HUKUM ADMINISTRASI NEGARA - S1",
+  "id_prodi_semester": 2727,
+  "idnumber_sikola": "46748.124121.159",
+  "shortname_sikola": "TA232-124121",
+  "kode_matkul": "23B02110804",
+  "nama_matkul": "Hukum Internasional",
+  "nama_kelas": "Hukum Internasional Kelas C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1613,
+      "id_user": 34285,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Iin Karita Sakharina, SH., MA.",
+      "nidn": "0020127701",
+      "nip": "197701202001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9fd24e70-fe6d-45a0-8c14-248053d946bb",
+      "pivot": {
+        "id_kelas_kuliah": 124121,
+        "id_dosen": 1613
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1652,
+      "id_user": 44539,
+      "id_prodi": 5,
+      "nama": "Birkah Latif, SH.,MH.,LLM.",
+      "nidn": "0008098005",
+      "nip": "198009082005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c49e773c-025e-413e-8490-7fa52d44c781",
+      "pivot": {
+        "id_kelas_kuliah": 124121,
+        "id_dosen": 1652
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2112,
+      "id_user": 34250,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Ny. Alma Manuputty, SH., MH.",
+      "nidn": "9900981981",
+      "nip": "194603121969022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "855605e6-1ccb-4102-b55e-9f420a9cd4f3",
+      "pivot": {
+        "id_kelas_kuliah": 124121,
+        "id_dosen": 2112
+      }
+    }
+  ]
+}

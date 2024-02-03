@@ -1,0 +1,61 @@
+{
+  "id_prodi": 226,
+  "nama_prodi": "STUDI PEMBANGUNAN - S3",
+  "id_prodi_semester": 2790,
+  "idnumber_sikola": "39821.129181.226",
+  "shortname_sikola": "TA232-129181",
+  "kode_matkul": "20P02311203",
+  "nama_matkul": "Dimensi Sosial dan Budaya dalam Pembangunan Daerah",
+  "nama_kelas": "Dimensi Sosial dan Budaya dalam Pembangunan Daerah (P) (S3 SP-Sem_I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 868,
+      "id_user": 34228,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  Dwia Aries Tina Pulubuhu, MA.",
+      "nidn": "0019046406",
+      "nip": "196404191989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e21d9d5e-9bc4-484d-91d6-d23e5f8c64dd",
+      "pivot": {
+        "id_kelas_kuliah": 129181,
+        "id_dosen": 868
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 815,
+      "id_user": 34158,
+      "id_prodi": 36,
+      "nama": "Prof. Dr. Akin Duli,  MA.",
+      "nidn": "0016076401",
+      "nip": "196407161991031010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4545c664-fa98-4aff-b49c-d44f01a40468",
+      "pivot": {
+        "id_kelas_kuliah": 129181,
+        "id_dosen": 815
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 956,
+      "id_user": 18300,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Eymal Bahsar Demmallino, M.Si.",
+      "nidn": "0015086403",
+      "nip": "196408151990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eaf0c21b-5afd-4214-9ee7-f11927f3f179",
+      "pivot": {
+        "id_kelas_kuliah": 129181,
+        "id_dosen": 956
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 159,
+  "nama_prodi": "HUKUM ADMINISTRASI NEGARA - S1",
+  "id_prodi_semester": 2727,
+  "idnumber_sikola": "46745.124016.159",
+  "shortname_sikola": "TA232-124016",
+  "kode_matkul": "23B02110603",
+  "nama_matkul": "Hukum Pidana",
+  "nama_kelas": "Hukum Pidana Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 986,
+      "id_user": 33962,
+      "id_prodi": 5,
+      "nama": "Dr.  Syamsuddin Muchtar, SH., MH.",
+      "nidn": "0024106301",
+      "nip": "196310241989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7163414e-187a-4134-9f68-e25af3418d9c",
+      "pivot": {
+        "id_kelas_kuliah": 124016,
+        "id_dosen": 986
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1042,
+      "id_user": 34062,
+      "id_prodi": 5,
+      "nama": "Dr. Abd. Azis, SH., MH.",
+      "nidn": "0018066201",
+      "nip": "196206181989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73d70c01-4a91-4fc6-9b71-b9d96ef16515",
+      "pivot": {
+        "id_kelas_kuliah": 124016,
+        "id_dosen": 1042
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1359,
+      "id_user": 34273,
+      "id_prodi": 5,
+      "nama": "Dr Haeranah, SH., MH.",
+      "nidn": "0012126601",
+      "nip": "196612121991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "969d58f8-bbae-437f-a872-42bc871fb0bd",
+      "pivot": {
+        "id_kelas_kuliah": 124016,
+        "id_dosen": 1359
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3764,
+      "id_user": 60676,
+      "id_prodi": 5,
+      "nama": "M. Aris Munandar, S.H., M.H.",
+      "nidn": "0011099701",
+      "nip": "199709112022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "a8b037ef-bfc1-4ab4-a4f8-15ebc676aa4e",
+      "pivot": {
+        "id_kelas_kuliah": 124016,
+        "id_dosen": 3764
+      }
+    }
+  ]
+}

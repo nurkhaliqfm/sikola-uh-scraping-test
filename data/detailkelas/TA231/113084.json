@@ -1,0 +1,29 @@
+{
+  "id_prodi": 197,
+  "nama_prodi": "BAHASA MANDARIN DAN KEBUDAYAAN TIONGKOK",
+  "id_prodi_semester": 2533,
+  "idnumber_sikola": "43707.113084.197",
+  "shortname_sikola": "TA231-113084",
+  "kode_matkul": "21F09149320",
+  "nama_matkul": "Pengembangan karakter humanisme",
+  "nama_kelas": "Pengembangan karakter humanisme",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1266,
+      "id_user": 23161,
+      "id_prodi": 32,
+      "nama": "Dra. Ria Rosdiana Jubhari,  MA, Ph.D",
+      "nidn": "0007026602",
+      "nip": "196602071991032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "48003d83-e7a6-42df-9ce4-c090cceee39f",
+      "pivot": {
+        "id_kelas_kuliah": 113084,
+        "id_dosen": 1266
+      }
+    }
+  ]
+}

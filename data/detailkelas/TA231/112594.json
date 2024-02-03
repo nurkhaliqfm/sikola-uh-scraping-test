@@ -1,0 +1,29 @@
+{
+  "id_prodi": 13,
+  "nama_prodi": "TEKNIK INDUSTRI - S1",
+  "id_prodi_semester": 2378,
+  "idnumber_sikola": "47618.112594.13",
+  "shortname_sikola": "TA231-112594",
+  "kode_matkul": "23D07141302",
+  "nama_matkul": "Analisa Keputusan Multi Kriteria",
+  "nama_kelas": "Analisa  Keputusan Multi Kriteria",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2566,
+      "id_user": 28615,
+      "id_prodi": 13,
+      "nama": "A. Besse Riyani Indah, S.T., M.T.",
+      "nidn": "0001128908",
+      "nip": "198912012019032013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "26865c6b-e165-4e8c-bd8e-3b163742521b",
+      "pivot": {
+        "id_kelas_kuliah": 112594,
+        "id_dosen": 2566
+      }
+    }
+  ]
+}

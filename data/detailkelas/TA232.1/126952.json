@@ -1,0 +1,77 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30392.126952.122",
+  "shortname_sikola": "TA232-126952",
+  "kode_matkul": "0209C20801",
+  "nama_matkul": "TUGAS PENDAHULUAN DAN TUTORIAL",
+  "nama_kelas": "Tugas Pendahuluan dan Tutorial",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2197,
+      "id_user": 34502,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Mansyur Arif, Ph.D., Sp.PK.(K)",
+      "nidn": "0004116401",
+      "nip": "196411041990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "33c2135d-a8b3-4837-9f77-4c2b1bb38d2a",
+      "pivot": {
+        "id_kelas_kuliah": 126952,
+        "id_dosen": 2197
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2957,
+      "id_user": 37792,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Tenri Esa, M.Si, SpPK",
+      "nidn": "0025026904",
+      "nip": "196902251999032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3207ee14-6bab-4b06-aae9-0a8d9f157a11",
+      "pivot": {
+        "id_kelas_kuliah": 126952,
+        "id_dosen": 2957
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1502,
+      "id_user": 33834,
+      "id_prodi": 6,
+      "nama": "dr. Uleng, Sp.PK. (K)., Ph.D",
+      "nidn": "0018056803",
+      "nip": "196805181998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d649ec1-523c-4432-8d25-1f7e8fb7cd66",
+      "pivot": {
+        "id_kelas_kuliah": 126952,
+        "id_dosen": 1502
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2971,
+      "id_user": 60382,
+      "id_prodi": 122,
+      "nama": "dr. Raehana Samad, M.Kes, SpPK",
+      "nidn": "0008127304",
+      "nip": "197312082002122005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "67dbf0b5-6be3-4dcc-bbf1-67016252bba6",
+      "pivot": {
+        "id_kelas_kuliah": 126952,
+        "id_dosen": 2971
+      }
+    }
+  ]
+}

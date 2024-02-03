@@ -1,0 +1,45 @@
+{
+  "id_prodi": 29,
+  "nama_prodi": "SOSIOLOGI - S1",
+  "id_prodi_semester": 2393,
+  "idnumber_sikola": "11316.116646.29",
+  "shortname_sikola": "TA231-116646",
+  "kode_matkul": "101E4103",
+  "nama_matkul": "Pengantar Sosiologi",
+  "nama_kelas": "Kelas Khusus Pengantar Sosiologi (Angkatan Lama)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 894,
+      "id_user": 22532,
+      "id_prodi": 29,
+      "nama": "Prof. Hasbi Marissangan, M.Si., Ph.D",
+      "nidn": "0027086310",
+      "nip": "196308271991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a48975e9-b875-4ec3-bafa-7df1a688ae05",
+      "pivot": {
+        "id_kelas_kuliah": 116646,
+        "id_dosen": 894
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2915,
+      "id_user": 33603,
+      "id_prodi": 29,
+      "nama": "MUSRAYANI USMAN S.SOS.,M.SI.",
+      "nidn": "0024058409",
+      "nip": "198405242019032011",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "42526122-ad08-40cb-b947-4989e9da38f5",
+      "pivot": {
+        "id_kelas_kuliah": 116646,
+        "id_dosen": 2915
+      }
+    }
+  ]
+}

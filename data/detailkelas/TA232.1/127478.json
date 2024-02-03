@@ -1,0 +1,156 @@
+{
+  "id_prodi": 77,
+  "nama_prodi": "KEHUTANAN - S2",
+  "id_prodi_semester": 2655,
+  "idnumber_sikola": "44142.127478.77",
+  "shortname_sikola": "TA232-127478",
+  "kode_matkul": "21M012101003",
+  "nama_matkul": "EKONOMI KEHUTANAN",
+  "nama_kelas": "EKONOMI KEHUTANAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427667,
+      "id_user": 86193,
+      "id_prodi": 77,
+      "angkatan": 2023,
+      "nama_mahasiswa": "INUL MUAFFAT",
+      "nim": "M012232008",
+      "jalan": "JL. UNTAD 1",
+      "rt": 4,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "94111",
+      "nisn": "009246126",
+      "tempat_lahir": "BULUKUMBA",
+      "tanggal_lahir": "2000-03-09",
+      "telepon": "085298966596",
+      "handphone": "085298966596",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TONDO",
+      "id_wilayah": "186008",
+      "nik": "7302090903000002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86193,
+      "kode_status": "A",
+      "email": "inulmuaffat15@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127478,
+        "id_mahasiswa": 427667,
+        "created_at": "2024-02-01 14:15:19"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427543,
+      "id_user": 86066,
+      "id_prodi": 77,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NUR FAJRIANI",
+      "nim": "M012232004",
+      "jalan": "DESA SALULINO",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Salulino",
+      "kode_pos": "51592",
+      "nisn": null,
+      "tempat_lahir": "SALULINO",
+      "tanggal_lahir": "2000-04-15",
+      "telepon": "6281347149501",
+      "handphone": "082210515313",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "DESA SALULINO",
+      "id_wilayah": "191714",
+      "nik": "7317161504000002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86066,
+      "kode_status": "A",
+      "email": "nfajriani206@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127478,
+        "id_mahasiswa": 427543,
+        "created_at": "2024-02-02 11:26:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1093,
+      "id_user": 34333,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Syamsu Alam, MS.",
+      "nidn": "0020045904",
+      "nip": "195904201985031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "493ecbb8-d60c-4778-b224-c682803ba9ee",
+      "pivot": {
+        "id_kelas_kuliah": 127478,
+        "id_dosen": 1093
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1035,
+      "id_user": 11001,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Supratman, S.Hut., MP.",
+      "nidn": "0018097001",
+      "nip": "197009181997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6f64e940-dc0a-409c-b9a5-dd3aeab3dc37",
+      "pivot": {
+        "id_kelas_kuliah": 127478,
+        "id_dosen": 1035
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1838,
+      "id_user": 13030,
+      "id_prodi": 71,
+      "nama": "Makkarennu, S.Hut., M.Si., Ph.D.",
+      "nidn": "0007037007",
+      "nip": "197003072008122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b18c1280-6aa6-4614-a2a5-949203d3acf1",
+      "pivot": {
+        "id_kelas_kuliah": 127478,
+        "id_dosen": 1838
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2019,
+      "id_user": 23178,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Ridwan, M.SE.",
+      "nidn": "0012016802",
+      "nip": "196801121994031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c3b9e02b-23c0-4b96-a75e-05e83a1ab3dd",
+      "pivot": {
+        "id_kelas_kuliah": 127478,
+        "id_dosen": 2019
+      }
+    }
+  ]
+}

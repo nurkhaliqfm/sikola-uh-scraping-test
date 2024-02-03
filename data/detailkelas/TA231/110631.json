@@ -1,0 +1,45 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36878.110631.176",
+  "shortname_sikola": "TA231-110631",
+  "kode_matkul": "19G05213003",
+  "nama_matkul": "Teknik Kontrol Lanjut",
+  "nama_kelas": "Teknik Kontrol Lanjut (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1446,
+      "id_user": 31475,
+      "id_prodi": 155,
+      "nama": "Dr. Ir. Abdul Waris, MT.",
+      "nidn": "0011016003",
+      "nip": "196011011989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3133247b-732f-4da3-86f2-3e6adc83a572",
+      "pivot": {
+        "id_kelas_kuliah": 110631,
+        "id_dosen": 1446
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1532,
+      "id_user": 19872,
+      "id_prodi": 155,
+      "nama": "Dr. Ir.  Mahmud, MP.",
+      "nidn": "0003067005",
+      "nip": "197006031994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8bfed169-61f9-43f9-8938-12f93d05c127",
+      "pivot": {
+        "id_kelas_kuliah": 110631,
+        "id_dosen": 1532
+      }
+    }
+  ]
+}

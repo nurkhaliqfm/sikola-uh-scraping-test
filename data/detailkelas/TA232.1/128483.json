@@ -1,0 +1,77 @@
+{
+  "id_prodi": 253,
+  "nama_prodi": "ILMU LINGKUNGAN - S3",
+  "id_prodi_semester": 2814,
+  "idnumber_sikola": "43020.128483.253",
+  "shortname_sikola": "TA232-128483",
+  "kode_matkul": "22P03310203",
+  "nama_matkul": "Analisis Kondisi dan Permasalahan Lingkungan Tropis",
+  "nama_kelas": "Analisis Kondisi dan Permasalahan Ligkungan Tropis (B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 128483,
+        "id_dosen": 779
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 695,
+      "id_user": null,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Winarni Dien Monoarfa, MS.",
+      "nidn": "0021116202",
+      "nip": "196211211985032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f00ba531-5be0-48e7-98bd-b8cfed8e416c",
+      "pivot": {
+        "id_kelas_kuliah": 128483,
+        "id_dosen": 695
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 848,
+      "id_user": 20611,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Rahmawaty Andi Nadja. MS.",
+      "nidn": "0020085503",
+      "nip": "195508201983032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "036c4549-a646-4c28-9d26-1d75f631c92e",
+      "pivot": {
+        "id_kelas_kuliah": 128483,
+        "id_dosen": 848
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3900,
+      "id_user": null,
+      "id_prodi": 255,
+      "nama": "Dr. Ir. Amir Yassi, M.Si",
+      "nidn": null,
+      "nip": "7371140311590001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128483,
+        "id_dosen": 3900
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2762,
+  "idnumber_sikola": "35987.128590.195",
+  "shortname_sikola": "TA232-128590",
+  "kode_matkul": "19M03312403",
+  "nama_matkul": "APLIKASI TEKNOLOGI KIMIA HASIL HUTAN",
+  "nama_kelas": "APLIKASI TEKNOLOGI KIMIA HASIL HUTAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1683,
+      "id_user": 19451,
+      "id_prodi": 71,
+      "nama": "Syahidah, S.Hut.,M.Si., Ph.D.",
+      "nidn": "0015087012",
+      "nip": "197008152005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bfde48d5-cd8e-4818-9604-0cb739699d49",
+      "pivot": {
+        "id_kelas_kuliah": 128590,
+        "id_dosen": 1683
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1380,
+      "id_user": 30738,
+      "id_prodi": 71,
+      "nama": "Dr. Andi Detti Yunianti, S.Hut., MP.",
+      "nidn": "0006067002",
+      "nip": "197006061995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd6e0c5f-4660-4309-be72-b5f76b112e31",
+      "pivot": {
+        "id_kelas_kuliah": 128590,
+        "id_dosen": 1380
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1440,
+      "id_user": 23324,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Astuti, S.Hut., M.Si., IPU",
+      "nidn": "0015037307",
+      "nip": "197303152001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f641e136-33da-4708-9c84-0579d41f9720",
+      "pivot": {
+        "id_kelas_kuliah": 128590,
+        "id_dosen": 1440
+      }
+    }
+  ]
+}

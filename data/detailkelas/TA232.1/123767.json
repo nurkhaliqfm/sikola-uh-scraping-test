@@ -1,0 +1,29 @@
+{
+  "id_prodi": 205,
+  "nama_prodi": "BAHASA INGGRIS - S3",
+  "id_prodi_semester": 2772,
+  "idnumber_sikola": "42559.123767.205",
+  "shortname_sikola": "TA232-123767",
+  "kode_matkul": "21F02311701",
+  "nama_matkul": "Seminar Kemajuan Disertasi 2",
+  "nama_kelas": "Kemajuan Disertasi 2 (by Riset)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 959,
+      "id_user": 33549,
+      "id_prodi": 32,
+      "nama": "Prof. Dr. M. Amir P, M.Hum.",
+      "nidn": "0031126206",
+      "nip": "196212311988031021",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "afa845a0-5397-43d2-b11e-9d757311b798",
+      "pivot": {
+        "id_kelas_kuliah": 123767,
+        "id_dosen": 959
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2617,
+  "idnumber_sikola": "47960.119668.21",
+  "shortname_sikola": "TA232-119668",
+  "kode_matkul": "23D06131002",
+  "nama_matkul": "Geologi Ekonomi",
+  "nama_kelas": "Geologi Ekonomi Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157191,
+      "id_user": 53689,
+      "id_prodi": 21,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUHAMMAD DHILAN RAMADHAN",
+      "nim": "D061211001",
+      "jalan": "JL. LIBUKANG X BLOK B.2, NO. 19 KOTA PALOPO PROV. SULAWESI SELATAN 91921",
+      "rt": 3,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91921",
+      "nisn": "0031381076",
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "2003-11-02",
+      "telepon": "0",
+      "handphone": "081393456325",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BENTENG",
+      "id_wilayah": "196205",
+      "nik": "7373050211030004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "dhilan762@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4fe5e634-40bc-46c7-91af-b5e0e0255ba3",
+      "id_registrasi_mahasiswa_pddikti": "e03f18cb-6021-4d54-b04a-ff15cd090808",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119668,
+        "id_mahasiswa": 157191,
+        "created_at": "2024-02-01 18:42:57"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1329,
+      "id_user": 27414,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Musri, M.T.",
+      "nidn": "0031126344",
+      "nip": "196112311989031019",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff3ac60f-8349-40e0-a1bd-2f9d6484dfaa",
+      "pivot": {
+        "id_kelas_kuliah": 119668,
+        "id_dosen": 1329
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1682,
+      "id_user": 28267,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Eng. Adi Maulana, ST., M.Phil.",
+      "nidn": "0028048002",
+      "nip": "198004282005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "df8b487e-bb0b-4f4f-836f-72db6b730210",
+      "pivot": {
+        "id_kelas_kuliah": 119668,
+        "id_dosen": 1682
+      }
+    }
+  ]
+}

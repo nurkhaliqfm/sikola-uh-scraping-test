@@ -1,0 +1,45 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30429.127018.122",
+  "shortname_sikola": "TA232-127018",
+  "kode_matkul": "0802C20802",
+  "nama_matkul": "SEMINAR PROPOSAL",
+  "nama_kelas": "Seminar Proposal Tahun 2017",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1502,
+      "id_user": 33834,
+      "id_prodi": 6,
+      "nama": "dr. Uleng, Sp.PK. (K)., Ph.D",
+      "nidn": "0018056803",
+      "nip": "196805181998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d649ec1-523c-4432-8d25-1f7e8fb7cd66",
+      "pivot": {
+        "id_kelas_kuliah": 127018,
+        "id_dosen": 1502
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2971,
+      "id_user": 60382,
+      "id_prodi": 122,
+      "nama": "dr. Raehana Samad, M.Kes, SpPK",
+      "nidn": "0008127304",
+      "nip": "197312082002122005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "67dbf0b5-6be3-4dcc-bbf1-67016252bba6",
+      "pivot": {
+        "id_kelas_kuliah": 127018,
+        "id_dosen": 2971
+      }
+    }
+  ]
+}

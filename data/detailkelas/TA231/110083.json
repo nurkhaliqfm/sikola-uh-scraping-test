@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34728.110083.165",
+  "shortname_sikola": "TA231-110083",
+  "kode_matkul": "18D02310702",
+  "nama_matkul": "SEMINAR PROPOSAL PENELITIAN DISERTASI",
+  "nama_kelas": "SEMINAR PROPOSAL PENELITIAN DISERTASI (ARMIAWATY)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 340410,
+      "id_user": 59196,
+      "id_prodi": 165,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ARMIWATY",
+      "nim": "D023212003",
+      "jalan": "JL. DR. LEIMENA PERUMAHAN GAPURA SATELIT INDAH NO. 23",
+      "rt": 3,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": null,
+      "tempat_lahir": "UJUNGPANDANG",
+      "tanggal_lahir": "1976-12-31",
+      "telepon": "0",
+      "handphone": "08114227710",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tello Baru",
+      "id_wilayah": "196010",
+      "nik": "7371097112760059",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "armiwaty@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5b51a479-0a79-4e04-9b11-c5c0be4b94da",
+      "id_registrasi_mahasiswa_pddikti": "9709097b-3a6f-495f-93e5-e1cf2bf01b22",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110083,
+        "id_mahasiswa": 340410,
+        "created_at": "2023-08-02 19:37:17"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1230,
+      "id_user": 16366,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Nurul Jamala B, MT.",
+      "nidn": "0004096407",
+      "nip": "196409041994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8e2445f0-50bf-481f-902f-009d11107045",
+      "pivot": {
+        "id_kelas_kuliah": 110083,
+        "id_dosen": 1230
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 110083,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1227,
+      "id_user": 17220,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Rosady Mulyadi, ST., MT.",
+      "nidn": "0010087001",
+      "nip": "197008101998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c5ca569-9daf-42b2-863d-dbaa2c1e7189",
+      "pivot": {
+        "id_kelas_kuliah": 110083,
+        "id_dosen": 1227
+      }
+    }
+  ]
+}

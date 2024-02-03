@@ -1,0 +1,85 @@
+{
+  "id_prodi": 101,
+  "nama_prodi": "ILMU KOMUNIKASI - S2",
+  "id_prodi_semester": 2446,
+  "idnumber_sikola": "37285.107346.101",
+  "shortname_sikola": "TA231-107346",
+  "kode_matkul": "19E02210602",
+  "nama_matkul": "KOMUNIKASI ANTAR BUDAYA DAN RESOLUSI KONFLIK (W)",
+  "nama_kelas": "Studi Media dan Dinamika Politik II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 386822,
+      "id_user": 72534,
+      "id_prodi": 101,
+      "angkatan": 2022,
+      "nama_mahasiswa": "NIRWANA",
+      "nim": "E022222022",
+      "jalan": "JL. RA. KARTINI NO. 64",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "93711",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1998-03-06",
+      "telepon": "082196405968",
+      "handphone": "082196405968",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Wale",
+      "id_wilayah": "206102",
+      "nik": "7472024603980001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "wananirwana856@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d3a1ad61-148e-4d06-ae37-6c4f0c9c5f21",
+      "id_registrasi_mahasiswa_pddikti": "86e76cc2-0bfd-49ee-973a-a1bbe2fe361b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107346,
+        "id_mahasiswa": 386822,
+        "created_at": "2023-08-05 11:10:08"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 909,
+      "id_user": 34233,
+      "id_prodi": 28,
+      "nama": "Prof. Dr. Jeanny Maria Fatimah, M.Si.",
+      "nidn": "0001105908",
+      "nip": "195910011987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fa114119-f4b4-41a5-b1b1-58f64611254d",
+      "pivot": {
+        "id_kelas_kuliah": 107346,
+        "id_dosen": 909
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1404,
+      "id_user": 33858,
+      "id_prodi": 28,
+      "nama": "Syamsuddin Azis, M.Phil., Ph.D",
+      "nidn": "0025046303",
+      "nip": "196304251993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "943c8af4-970a-4466-b910-e2812f92af84",
+      "pivot": {
+        "id_kelas_kuliah": 107346,
+        "id_dosen": 1404
+      }
+    }
+  ]
+}

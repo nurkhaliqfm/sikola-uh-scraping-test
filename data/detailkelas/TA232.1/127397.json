@@ -1,0 +1,156 @@
+{
+  "id_prodi": 77,
+  "nama_prodi": "KEHUTANAN - S2",
+  "id_prodi_semester": 2655,
+  "idnumber_sikola": "44152.127397.77",
+  "shortname_sikola": "TA232-127397",
+  "kode_matkul": "21M01212003",
+  "nama_matkul": "PERENCANAAN AGROFORESTRY",
+  "nama_kelas": "PERENCANAAN AGROFORESTRY",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427655,
+      "id_user": 86181,
+      "id_prodi": 77,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ABDURRAHMAN ABDULLAH",
+      "nim": "M012232003",
+      "jalan": "BTP SAMANGGI BLOK I NOMOR 8",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "90561",
+      "nisn": "0",
+      "tempat_lahir": "BANTIMURUNG",
+      "tanggal_lahir": "1997-07-20",
+      "telepon": "0",
+      "handphone": "085242557980",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SAMANGKI",
+      "id_wilayah": "190112",
+      "nik": "7309092007970001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86181,
+      "kode_status": "A",
+      "email": "abdurrahmanabdullah43@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127397,
+        "id_mahasiswa": 427655,
+        "created_at": "2024-01-11 14:21:36"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427361,
+      "id_user": 85884,
+      "id_prodi": 77,
+      "angkatan": 2023,
+      "nama_mahasiswa": "JAENAR ADELIA NADI",
+      "nim": "M012232012",
+      "jalan": "JLN. PURWODADI",
+      "rt": 3,
+      "rw": 2,
+      "dusun": "Purwodadi",
+      "kode_pos": "92963",
+      "nisn": "0",
+      "tempat_lahir": "Tondon",
+      "tanggal_lahir": "2002-06-16",
+      "telepon": "0",
+      "handphone": "082188289211",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "RAWAMANGUN",
+      "id_wilayah": "192404",
+      "nik": "7322065606020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 85884,
+      "kode_status": "A",
+      "email": "jaenaradelianadi@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127397,
+        "id_mahasiswa": 427361,
+        "created_at": "2024-01-15 11:32:08"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1090,
+      "id_user": 23723,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Syamsuddin Millang, MS..IPU",
+      "nidn": "0031126016",
+      "nip": "196006171986011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57ba18cd-049f-4136-8ba2-32b414e99e46",
+      "pivot": {
+        "id_kelas_kuliah": 127397,
+        "id_dosen": 1090
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 725,
+      "id_user": 10596,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Samuel Arung Paembonan, IPU",
+      "nidn": "0015015502",
+      "nip": "195501151981021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "56eee1ad-83d5-4ff2-a1a7-3769abbb26fb",
+      "pivot": {
+        "id_kelas_kuliah": 127397,
+        "id_dosen": 725
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2346,
+      "id_user": 12970,
+      "id_prodi": 71,
+      "nama": "Ir. Mukrimin, S.Hut., MP., Ph.D",
+      "nidn": "0009027802",
+      "nip": "197802092008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f41561c6-e7e3-4209-aaad-c624cf12869d",
+      "pivot": {
+        "id_kelas_kuliah": 127397,
+        "id_dosen": 2346
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2203,
+      "id_user": null,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Anwar Umar, MS.",
+      "nidn": "8807650017",
+      "nip": "195007241980031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9333d8a2-e420-4817-b7ef-8347f93648bb",
+      "pivot": {
+        "id_kelas_kuliah": 127397,
+        "id_dosen": 2203
+      }
+    }
+  ]
+}

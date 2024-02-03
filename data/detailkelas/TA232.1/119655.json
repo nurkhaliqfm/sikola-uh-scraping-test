@@ -1,0 +1,29 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48153.119655.12",
+  "shortname_sikola": "TA232-119655",
+  "kode_matkul": "23D02140104",
+  "nama_matkul": "Skripsi",
+  "nama_kelas": "SKRIPSI S",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1960,
+      "id_user": 21402,
+      "id_prodi": 12,
+      "nama": "Azwar Hayat, ST., M.Sc., Ph.D.",
+      "nidn": "0026018403",
+      "nip": "198401262012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e25bf60f-d7cc-4e97-8166-6f4ceddcc378",
+      "pivot": {
+        "id_kelas_kuliah": 119655,
+        "id_dosen": 1960
+      }
+    }
+  ]
+}

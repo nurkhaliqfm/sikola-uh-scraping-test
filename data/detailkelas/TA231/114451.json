@@ -1,0 +1,69 @@
+{
+  "id_prodi": 45,
+  "nama_prodi": "MATEMATIKA - S1",
+  "id_prodi_semester": 2403,
+  "idnumber_sikola": "46530.114451.45",
+  "shortname_sikola": "TA231-114451",
+  "kode_matkul": "23U02133420",
+  "nama_matkul": "Pengembangan dan Penguatan Kewirausahaan",
+  "nama_kelas": "Pengembangan dan Penguatan Kewirausahaan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 59288,
+      "id_user": 27883,
+      "id_prodi": 45,
+      "angkatan": 2018,
+      "nama_mahasiswa": "ABDUL JALIL SALEH",
+      "nim": "H011181327",
+      "jalan": "Jalan poros Sumalaya",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Sumalaya",
+      "kode_pos": "92574",
+      "nisn": "0005757339",
+      "tempat_lahir": "Bulukumba",
+      "tanggal_lahir": "2000-07-24",
+      "telepon": "0",
+      "handphone": "085845315635",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Lembanna",
+      "id_wilayah": "191106",
+      "nik": "7302062407000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 60504,
+      "kode_status": "A",
+      "email": "abdjalil2407@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "edbd704e-866c-4533-a33d-0c748d0e221e",
+      "id_registrasi_mahasiswa_pddikti": "5a35e934-ef2b-4db2-be7b-05f93d3e1bef",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114451,
+        "id_mahasiswa": 59288,
+        "created_at": "2023-08-17 20:53:19"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1281,
+      "id_user": 13550,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Nurdin, S.Si., M.Si.",
+      "nidn": "0007087001",
+      "nip": "197008072000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d7ce9326-a252-46c5-ba6d-d2adfb63770c",
+      "pivot": {
+        "id_kelas_kuliah": 114451,
+        "id_dosen": 1281
+      }
+    }
+  ]
+}

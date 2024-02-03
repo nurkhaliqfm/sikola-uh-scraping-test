@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28154.129434.102",
+  "shortname_sikola": "TA232-129434",
+  "kode_matkul": "18P06211902",
+  "nama_matkul": "Mikologi Khusus",
+  "nama_kelas": "Mikologi Khusus (Mikro-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 889,
+      "id_user": 34368,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Muh. Nasrum Massi, M.Sc., Ph.D., Sp.MK",
+      "nidn": "0010096703",
+      "nip": "196709101996031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f425e8b-c8d4-4329-9187-182e4989367e",
+      "pivot": {
+        "id_kelas_kuliah": 129434,
+        "id_dosen": 889
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1485,
+      "id_user": 34491,
+      "id_prodi": 6,
+      "nama": "dr.  Rizalinda, M.Sc.,Ph.D., Sp.MK",
+      "nidn": "0018096904",
+      "nip": "196909181996032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b90217-d34c-4cd0-b128-058f1d8ed421",
+      "pivot": {
+        "id_kelas_kuliah": 129434,
+        "id_dosen": 1485
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1470,
+      "id_user": 34331,
+      "id_prodi": 6,
+      "nama": "dr. Firdaus Hamid, S.Ked., Ph.D.",
+      "nidn": "0031127705",
+      "nip": "197712312002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e02f8344-eef9-4a50-abe3-b6fdebf088f9",
+      "pivot": {
+        "id_kelas_kuliah": 129434,
+        "id_dosen": 1470
+      }
+    }
+  ]
+}

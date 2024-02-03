@@ -1,0 +1,61 @@
+{
+  "id_prodi": 83,
+  "nama_prodi": "PENGELOLAAN LINGKUNGAN HIDUP - S2",
+  "id_prodi_semester": 2429,
+  "idnumber_sikola": "26487.110314.83",
+  "shortname_sikola": "TA231-110314",
+  "kode_matkul": "18P03210603",
+  "nama_matkul": "Konservasi Sumberdaya Alam\r\n",
+  "nama_kelas": "Konservasi Sumberdaya Alam (PLH_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 684,
+      "id_user": 21853,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Kahar Mustari, MS.",
+      "nidn": "9990429945",
+      "nip": "195010231975031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "db969b01-0210-445b-8d4d-b98058e1f104",
+      "pivot": {
+        "id_kelas_kuliah": 110314,
+        "id_dosen": 684
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1072,
+      "id_user": 69468,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Usman Arsyad, M.Si.., IPU.",
+      "nidn": "8820523419",
+      "nip": "195401072019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "826be80d-7057-484e-b2b8-77ae75a366ee",
+      "pivot": {
+        "id_kelas_kuliah": 110314,
+        "id_dosen": 1072
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3464,
+      "id_user": null,
+      "id_prodi": 83,
+      "nama": "Dr. Abigail Mary Moore, B.Sc., M.Sc",
+      "nidn": null,
+      "nip": "560971900",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110314,
+        "id_dosen": 3464
+      }
+    }
+  ]
+}

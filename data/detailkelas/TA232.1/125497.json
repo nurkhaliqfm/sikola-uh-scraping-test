@@ -1,0 +1,413 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2692,
+  "idnumber_sikola": "39132.125497.119",
+  "shortname_sikola": "TA232-125497",
+  "kode_matkul": "20C10522301",
+  "nama_matkul": "Journal Reading II",
+  "nama_kelas": "Journal Reading II - 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2999,
+      "id_user": 37484,
+      "id_prodi": 119,
+      "nama": "Prof. Dr. dr. Syarifuddin Rauf, Sp.A(K)",
+      "nidn": null,
+      "nip": "194504271969021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2999
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2446,
+      "id_user": 58281,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Idham Jaya Ganda, Sp.A(K)",
+      "nidn": "8851120016",
+      "nip": "195810052018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "839b7424-6a7d-4b87-a7b5-adf6d8ca942c",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2446
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2437,
+      "id_user": 37682,
+      "id_prodi": 6,
+      "nama": "dr. Hadia Angriani M, Sp.A(K), MARS",
+      "nidn": "8805910016",
+      "nip": "195908212018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0cf91ef4-5375-41a0-9e2d-f8bb1bb9fc15",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2437
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2416,
+      "id_user": 48362,
+      "id_prodi": 6,
+      "nama": "dr. Setia Budi Salekede, Sp.A(K)",
+      "nidn": "8873510016",
+      "nip": "195805052018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c38d41d2-f5f1-475f-ae50-d6f6c28fbff3",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2416
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1603,
+      "id_user": 37411,
+      "id_prodi": 6,
+      "nama": "dr. A. Dwi Bahagia Febriani, Ph.D., Sp.A(K)",
+      "nidn": "0027026702",
+      "nip": "196602271992022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "912c55b6-b123-4136-9219-f677ee7755b6",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 1603
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1583,
+      "id_user": 36994,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Aidah Juliaty A. Baso, Sp.A(K), Sp.GK",
+      "nidn": "0018077001",
+      "nip": "197007181998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2dfad46a-aeac-4458-a7af-2271395f10f1",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 1583
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2413,
+      "id_user": 37527,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Martira Maddeppungeng, Sp.A(K)",
+      "nidn": "8891510016",
+      "nip": "196411072018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1004b3e4-a031-49d9-bcc1-1743d52a375a",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2413
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2425,
+      "id_user": 37511,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Ema Alasiry, Sp.A(K)",
+      "nidn": "8853110016",
+      "nip": "197004012018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "28eff8e1-3431-49d9-9627-9e312faec980",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2425
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2418,
+      "id_user": 60440,
+      "id_prodi": null,
+      "nama": "dr. Ratna Dewi Artati, Sp.A(K), MARS",
+      "nidn": "8883910016",
+      "nip": "196908202018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "238fed42-0b94-4bea-b71f-e4d685b8ac12",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2418
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2341,
+      "id_user": 28329,
+      "id_prodi": 6,
+      "nama": "Dr. dr. St. Aizah Lawang, M.Kes., Sp.A(K)",
+      "nidn": "0021037413",
+      "nip": "197403212008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "707a9620-dda9-4cce-8c83-44be8cd54674",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2341
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1875,
+      "id_user": 60423,
+      "id_prodi": 6,
+      "nama": "dr. Ninny Meutia Pelupessy, SpA",
+      "nidn": "0015107003",
+      "nip": "197010152009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7a8729c0-fa49-427d-b8a9-cae33c287123",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 1875
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2429,
+      "id_user": 60231,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Nadirah Rasyid Ridha, M.Kes., Sp.A(K)",
+      "nidn": "8893510016",
+      "nip": "197305152018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "43539adb-8bb9-438a-b13f-e41593bda6c5",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2429
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2450,
+      "id_user": 58027,
+      "id_prodi": 6,
+      "nama": "dr. Amiruddin L, Sp.A(K)",
+      "nidn": "8857910016",
+      "nip": "196212302018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ea5f063b-663e-4130-a9b7-2423a47bc534",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2450
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2251,
+      "id_user": 48326,
+      "id_prodi": 6,
+      "nama": "dr.  Bahrul Fikri, M.Kes, Sp.A",
+      "nidn": "0031127416",
+      "nip": "197412312001121013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "415d104c-94fd-4003-8719-2dc4cd9617bd",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2251
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2427,
+      "id_user": 74202,
+      "id_prodi": 119,
+      "nama": "dr. Rahmawaty, M.Kes., Sp.A.",
+      "nidn": "8822620016",
+      "nip": "198009032018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ea112661-c506-4cd8-9e31-d2784f756b5c",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2427
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2409,
+      "id_user": 48284,
+      "id_prodi": 6,
+      "nama": "dr. Jusli, M.Kes., Sp.A(K)",
+      "nidn": "0017057606",
+      "nip": "197605172003121008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "13c53644-24b6-4440-87d7-2be2309bf9d3",
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 2409
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3555,
+      "id_user": 48310,
+      "id_prodi": 119,
+      "nama": "dr. Urfianty, M.Kes., Sp.A(K)",
+      "nidn": null,
+      "nip": "790632460126",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3555
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3248,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Adhariana HK, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "7371146608850007",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3248
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3246,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Besse Sarmila, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "198401142009022005",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3246
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3551,
+      "id_user": 58276,
+      "id_prodi": 119,
+      "nama": "dr. Merlyn Meta Astari, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "198004292008122001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3551
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3247,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Aulia Faisal, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "197603172005021006",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3247
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3674,
+      "id_user": 58277,
+      "id_prodi": 119,
+      "nama": "dr. Destya Maulani, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "7371104312840001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3674
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3675,
+      "id_user": 58273,
+      "id_prodi": 119,
+      "nama": "dr. Mokhammad Ikhsan Nurkholis, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "7371090407800013",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3675
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3677,
+      "id_user": 58279,
+      "id_prodi": 119,
+      "nama": "dr. Sri Hardiyanti Putri, Sp.A",
+      "nidn": null,
+      "nip": "7309015710890002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3677
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3678,
+      "id_user": 58280,
+      "id_prodi": 119,
+      "nama": "dr. M. Farid Huzein, Sp.A",
+      "nidn": null,
+      "nip": "7371111708900013",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125497,
+        "id_dosen": 3678
+      }
+    }
+  ]
+}

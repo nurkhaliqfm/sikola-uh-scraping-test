@@ -1,0 +1,77 @@
+{
+  "id_prodi": 248,
+  "nama_prodi": "MANAJEMEN BENCANA - S2",
+  "id_prodi_semester": 2579,
+  "idnumber_sikola": "42864.108103.248",
+  "shortname_sikola": "TA231-108103",
+  "kode_matkul": "21P12211402",
+  "nama_matkul": "Pemberdayaan Masyarakat dan Kesiapsiagaan Menghadapi Bencana",
+  "nama_kelas": "Pemberdayaan Masyarakat dan Kesiapsiagaan Menghadapi Bencana (P) (MB_Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 708,
+      "id_user": 25455,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir.  Darmawan, M.Sc.",
+      "nidn": "0006066301",
+      "nip": "196306061988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4986613c-e075-4352-b8fb-b986f2715bb0",
+      "pivot": {
+        "id_kelas_kuliah": 108103,
+        "id_dosen": 708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1322,
+      "id_user": 33569,
+      "id_prodi": 1,
+      "nama": "Drs. Muhammad Yusri Zamhuri, MA., Ph.D",
+      "nidn": "0006086113",
+      "nip": "196108061989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c191fe7a-125f-414c-8cf7-7a5ec2c86fb8",
+      "pivot": {
+        "id_kelas_kuliah": 108103,
+        "id_dosen": 1322
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2519,
+      "id_user": 11866,
+      "id_prodi": 80,
+      "nama": "Dr. Kurniaty, S.E., M.Si",
+      "nidn": "0901058005",
+      "nip": "198005012019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87653b30-453f-44d8-a24c-9bd90c2d18ec",
+      "pivot": {
+        "id_kelas_kuliah": 108103,
+        "id_dosen": 2519
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3463,
+      "id_user": null,
+      "id_prodi": 215,
+      "nama": "Dr. Jumiaty Nurung, S.P., M.Si",
+      "nidn": null,
+      "nip": "7371144609740009",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 108103,
+        "id_dosen": 3463
+      }
+    }
+  ]
+}

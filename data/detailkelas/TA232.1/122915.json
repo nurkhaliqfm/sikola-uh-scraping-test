@@ -1,0 +1,77 @@
+{
+  "id_prodi": 190,
+  "nama_prodi": "SOSIOLOGI - S3",
+  "id_prodi_semester": 2757,
+  "idnumber_sikola": "35845.122915.190",
+  "shortname_sikola": "TA232-122915",
+  "kode_matkul": "20E04310103",
+  "nama_matkul": "TEORI-TEORI SOSIOLOGI",
+  "nama_kelas": "Reguler I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 868,
+      "id_user": 34228,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  Dwia Aries Tina Pulubuhu, MA.",
+      "nidn": "0019046406",
+      "nip": "196404191989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e21d9d5e-9bc4-484d-91d6-d23e5f8c64dd",
+      "pivot": {
+        "id_kelas_kuliah": 122915,
+        "id_dosen": 868
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 861,
+      "id_user": 34098,
+      "id_prodi": 29,
+      "nama": "Drs. Andi Haris, M.Sc.,Ph.D",
+      "nidn": "0002066210",
+      "nip": "196206021987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cafa1e20-c1e7-447c-be15-f106596147d3",
+      "pivot": {
+        "id_kelas_kuliah": 122915,
+        "id_dosen": 861
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1751,
+      "id_user": 12203,
+      "id_prodi": 29,
+      "nama": "Dr. M. Ramli AT., M.Si.",
+      "nidn": "0001076603",
+      "nip": "196607011999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "32e263d2-2be0-4c81-beca-503ed34f9d0f",
+      "pivot": {
+        "id_kelas_kuliah": 122915,
+        "id_dosen": 1751
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2029,
+      "id_user": 34504,
+      "id_prodi": 29,
+      "nama": "Dr. Buhari Mengge, M.A",
+      "nidn": "0029056905",
+      "nip": "196905292003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2843042b-8e1d-4341-b888-c89dc7320021",
+      "pivot": {
+        "id_kelas_kuliah": 122915,
+        "id_dosen": 2029
+      }
+    }
+  ]
+}

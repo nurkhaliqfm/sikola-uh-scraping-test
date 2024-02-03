@@ -1,0 +1,61 @@
+{
+  "id_prodi": 159,
+  "nama_prodi": "HUKUM ADMINISTRASI NEGARA - S1",
+  "id_prodi_semester": 2727,
+  "idnumber_sikola": "46747.124032.159",
+  "shortname_sikola": "TA232-124032",
+  "kode_matkul": "23B02110703",
+  "nama_matkul": "Hukum Perdata",
+  "nama_kelas": "Hukum Perdata Kelas C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 841,
+      "id_user": 11199,
+      "id_prodi": 5,
+      "nama": "Dr. Winner Sitorus, S.H., M.H., LLM.",
+      "nidn": "0026036601",
+      "nip": "196603261991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "54d15227-c5bc-4f54-a919-2433aa347617",
+      "pivot": {
+        "id_kelas_kuliah": 124032,
+        "id_dosen": 841
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2357,
+      "id_user": 15868,
+      "id_prodi": 5,
+      "nama": "Dr. Aulia Rifai, SH., MH.",
+      "nidn": "0020047303",
+      "nip": "197304202005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aa53f9e5-8bb9-40cf-ab8e-67dd4e178f04",
+      "pivot": {
+        "id_kelas_kuliah": 124032,
+        "id_dosen": 2357
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1658,
+      "id_user": 26599,
+      "id_prodi": 5,
+      "nama": "Dr. Marwah, SH., MH.",
+      "nidn": "0023048305",
+      "nip": "198304232008012006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "82f70c9d-ff23-4c27-b391-f668ae0c0bc1",
+      "pivot": {
+        "id_kelas_kuliah": 124032,
+        "id_dosen": 1658
+      }
+    }
+  ]
+}

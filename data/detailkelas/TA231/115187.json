@@ -1,0 +1,45 @@
+{
+  "id_prodi": 49,
+  "nama_prodi": "KIMIA - S1",
+  "id_prodi_semester": 2407,
+  "idnumber_sikola": "46502.115187.49",
+  "shortname_sikola": "TA231-115187",
+  "kode_matkul": "23U02133520",
+  "nama_matkul": "Praktek Dunia Usaha/ Dunia Industri",
+  "nama_kelas": "PRAKTEK DUNIA USAHA/DUNIA INDUSTRI",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2349,
+      "id_user": 18265,
+      "id_prodi": 49,
+      "nama": "Dr. Nur Umriani Permatasari, S.Si.,M.Si.",
+      "nidn": "0009128101",
+      "nip": "198112092006042003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f169db82-76d1-4d9a-939e-674f0ec12aaf",
+      "pivot": {
+        "id_kelas_kuliah": 115187,
+        "id_dosen": 2349
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1601,
+      "id_user": 20927,
+      "id_prodi": 49,
+      "nama": "Dr. St. Fauziah, S.Si.,M.Si.",
+      "nidn": "0002027202",
+      "nip": "197202021999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bb37db96-db74-4a3d-9efb-289092f1072d",
+      "pivot": {
+        "id_kelas_kuliah": 115187,
+        "id_dosen": 1601
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 159,
+  "nama_prodi": "HUKUM ADMINISTRASI NEGARA - S1",
+  "id_prodi_semester": 2727,
+  "idnumber_sikola": "46903.124088.159",
+  "shortname_sikola": "TA232-124088",
+  "kode_matkul": "23B02110904",
+  "nama_matkul": "Hukum Administrasi Negara",
+  "nama_kelas": "Hukum Administrasi Negara Kelas C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 685,
+      "id_user": 34166,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Syamsul Bachri, SH., MS.",
+      "nidn": "0020045403",
+      "nip": "195404201981031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "afc96815-43df-438a-9c56-7fa82246943f",
+      "pivot": {
+        "id_kelas_kuliah": 124088,
+        "id_dosen": 685
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1489,
+      "id_user": 34076,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Hamzah Halim, S.H., M.H., M.AP.",
+      "nidn": "0031127305",
+      "nip": "197312311999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "862e9d98-7138-4ea9-a4dc-fc6113f9d9f7",
+      "pivot": {
+        "id_kelas_kuliah": 124088,
+        "id_dosen": 1489
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1614,
+      "id_user": 34171,
+      "id_prodi": 5,
+      "nama": "Dr. Romi Librayanto, SH., MH.",
+      "nidn": "0017107802",
+      "nip": "197810172005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0a4c2b15-165f-4d38-a713-74cfd39f27ca",
+      "pivot": {
+        "id_kelas_kuliah": 124088,
+        "id_dosen": 1614
+      }
+    }
+  ]
+}

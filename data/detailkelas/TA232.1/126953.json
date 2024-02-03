@@ -1,0 +1,45 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47522.126953.10",
+  "shortname_sikola": "TA232-126953",
+  "kode_matkul": "23D01132402",
+  "nama_matkul": "Rekayasa Forensik dan Perkuatan Struktur",
+  "nama_kelas": "Rekayasa Forensik dan Perkuatan Struktur Pilihan INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2250,
+      "id_user": 33536,
+      "id_prodi": 10,
+      "nama": "Prof. Dr.  Rudy Djamaluddin, ST., M.Eng.",
+      "nidn": "0008117003",
+      "nip": "197011081994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5659a90a-f193-46f8-9a10-dd61594346e2",
+      "pivot": {
+        "id_kelas_kuliah": 126953,
+        "id_dosen": 2250
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2464,
+      "id_user": 19441,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Fakhruddin, S.T., M.Eng",
+      "nidn": "0028028702",
+      "nip": "198702282019031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "239bb57f-40e9-40b5-850e-756708ca9271",
+      "pivot": {
+        "id_kelas_kuliah": 126953,
+        "id_dosen": 2464
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id_prodi": 266,
+  "nama_prodi": "PARAMEDIK VETERINER - D4",
+  "id_prodi_semester": 2825,
+  "idnumber_sikola": "48557.123257.266",
+  "shortname_sikola": "TA232-123257",
+  "kode_matkul": "23V10610702",
+  "nama_matkul": "Etika, Regulasi Vet Dan Kesejahteraan Hewan",
+  "nama_kelas": "Etika Regulasi Paravet Dan Kesejahteraan Hewan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 4167,
+      "id_user": 85283,
+      "id_prodi": 146,
+      "nama": "drh. Rian Hari Suharto, M.Sc.",
+      "nidn": "0011038905",
+      "nip": "198903112014031003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "3e005b4a-3824-414f-bd59-5bca81959e96",
+      "pivot": {
+        "id_kelas_kuliah": 123257,
+        "id_dosen": 4167
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3224,
+      "id_user": 82748,
+      "id_prodi": 146,
+      "nama": "Drh. Anak Agung Putu Joniwahyuda, M.Si.",
+      "nidn": "0007026805",
+      "nip": "196802071999031003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "8f3ea70d-c05e-4763-ae4a-083f6639d84b",
+      "pivot": {
+        "id_kelas_kuliah": 123257,
+        "id_dosen": 3224
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2549,
+      "id_user": 34096,
+      "id_prodi": 146,
+      "nama": "drh. Zainal Abidin Kholilullah, S.KH., M.Kes.",
+      "nidn": "0017106907",
+      "nip": "196910172008041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00df6c34-56a0-4cd0-9aa3-c674483dc099",
+      "pivot": {
+        "id_kelas_kuliah": 123257,
+        "id_dosen": 2549
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4166,
+      "id_user": null,
+      "id_prodi": 266,
+      "nama": "drh. Adytma Muhammad Nur, M.Si.",
+      "nidn": null,
+      "nip": "7322111606880262",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123257,
+        "id_dosen": 4166
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4086,
+      "id_user": 85285,
+      "id_prodi": 146,
+      "nama": "drh. Irwan Ismail, M.Si.",
+      "nidn": null,
+      "nip": "7304021012930003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123257,
+        "id_dosen": 4086
+      }
+    }
+  ]
+}

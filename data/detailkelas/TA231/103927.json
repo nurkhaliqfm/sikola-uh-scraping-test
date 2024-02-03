@@ -1,0 +1,77 @@
+{
+  "id_prodi": 193,
+  "nama_prodi": "PETERNAKAN - S3",
+  "id_prodi_semester": 2529,
+  "idnumber_sikola": "37464.103927.193",
+  "shortname_sikola": "TA231-103927",
+  "kode_matkul": "20I01310803",
+  "nama_matkul": "ILMU DAGING DAN PRODUK DAGING OLAHAN",
+  "nama_kelas": "Ilmu Daging dan Produk Daging Olahan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1381,
+      "id_user": 10149,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Hikmah, S.Pt., M.Si., IPU, ASEAN Eng.",
+      "nidn": "0019087104",
+      "nip": "197108191998021005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4fd73e2e-a743-4348-aafa-a0bf12d43cd6",
+      "pivot": {
+        "id_kelas_kuliah": 103927,
+        "id_dosen": 1381
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 709,
+      "id_user": 15739,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. drh. Ratmawati Malaka, M.Sc.",
+      "nidn": "0012076407",
+      "nip": "196407121989112002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "63a3c019-1692-4ac0-85c3-3577abb094f1",
+      "pivot": {
+        "id_kelas_kuliah": 103927,
+        "id_dosen": 709
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1688,
+      "id_user": 14953,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Muhammad Irfan Said, S.Pt., MP., IPM, ASEAN Eng.",
+      "nidn": "0005127404",
+      "nip": "197412052006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f947a3a8-2725-4be1-86b8-a0a0d88195fb",
+      "pivot": {
+        "id_kelas_kuliah": 103927,
+        "id_dosen": 1688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1635,
+      "id_user": 9308,
+      "id_prodi": 51,
+      "nama": "Dr. Hajrawati, S.Pt.,M.Si.",
+      "nidn": "0010057809",
+      "nip": "197810052005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7f07e4f-9f38-4e86-b618-1284d372930b",
+      "pivot": {
+        "id_kelas_kuliah": 103927,
+        "id_dosen": 1635
+      }
+    }
+  ]
+}

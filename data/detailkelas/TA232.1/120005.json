@@ -1,0 +1,173 @@
+{
+  "id_prodi": 31,
+  "nama_prodi": "SASTRA INDONESIA - S1",
+  "id_prodi_semester": 2626,
+  "idnumber_sikola": "37668.120005.31",
+  "shortname_sikola": "TA232-120005",
+  "kode_matkul": "20F01176602",
+  "nama_matkul": "SEMINAR PRASKRIPSI KEBAHASAAN",
+  "nama_kelas": "SEMINAR PRASKRIPSI KEBAHASAAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 810,
+      "id_user": 34283,
+      "id_prodi": 31,
+      "nama": "Prof. Dr.  Nurhayati, M.Hum.",
+      "nidn": "0002106001",
+      "nip": "196010021986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fdfc0d82-88c9-4cb7-a660-12b1468be5a2",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 810
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 756,
+      "id_user": 34272,
+      "id_prodi": 31,
+      "nama": "Prof. Dr.  Tadjuddin Maknun, SU.",
+      "nidn": "0031125409",
+      "nip": "195412311981031041",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ce7a1cdf-a2dc-488b-9dc3-93ffdc2509a1",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 756
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 712,
+      "id_user": 31198,
+      "id_prodi": 31,
+      "nama": "Prof. Dr.  Muhammad Darwis, MS.",
+      "nidn": "0028085905",
+      "nip": "195908281984031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "21527b2c-2fb1-4918-95b3-746cb1727aa0",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 712
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2140,
+      "id_user": 10026,
+      "id_prodi": 31,
+      "nama": "Prof. Dr. Lukman, MS.",
+      "nidn": "0031126059",
+      "nip": "196012311987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37782f0f-06fe-40ff-8909-ebb9196c2875",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 2140
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 984,
+      "id_user": 34282,
+      "id_prodi": 31,
+      "nama": "Dr. Asriani Abbas, M.Hum.",
+      "nidn": "0029096603",
+      "nip": "196609291992032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2b1edb02-d7d3-4b05-8e56-4a68fc495bb1",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 984
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1490,
+      "id_user": 11166,
+      "id_prodi": 31,
+      "nama": "Dr. Munira Hasyim, S.S.,M.Hum.",
+      "nidn": "0010057101",
+      "nip": "197105101998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7360352d-fe10-41e8-9883-0539cab4b1ab",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 1490
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 980,
+      "id_user": 15218,
+      "id_prodi": 31,
+      "nama": "Dr.  Ikhwan, M.Hum.",
+      "nidn": "0031126419",
+      "nip": "196412311992031032",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ac0f5dff-bbf5-48ee-8cba-2e5182a1c25d",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 980
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1134,
+      "id_user": 32854,
+      "id_prodi": 31,
+      "nama": "Dr. Tammasse, M.Hum.",
+      "nidn": "0025086601",
+      "nip": "196608251991031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e43c69e9-52d6-4869-804d-31e401971827",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 1134
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 994,
+      "id_user": 32302,
+      "id_prodi": 31,
+      "nama": "Dr. Kaharuddin, M.Hum.",
+      "nidn": "0031126486",
+      "nip": "196412311991031029",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73ad567b-c462-41a4-9a31-4d6fb956a647",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 994
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2550,
+      "id_user": 22604,
+      "id_prodi": 31,
+      "nama": "Rismayanti, S.S., M.Hum.",
+      "nidn": "0018098905",
+      "nip": "198909182019032022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "31359982-fbf9-4552-a4e6-db5d7aced4a9",
+      "pivot": {
+        "id_kelas_kuliah": 120005,
+        "id_dosen": 2550
+      }
+    }
+  ]
+}

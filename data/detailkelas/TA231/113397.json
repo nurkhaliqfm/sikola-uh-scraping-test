@@ -1,0 +1,61 @@
+{
+  "id_prodi": 179,
+  "nama_prodi": "PPDS - ILMU GIZI KLINIK",
+  "id_prodi_semester": 2516,
+  "idnumber_sikola": "38796.113397.179",
+  "shortname_sikola": "TA231-113397",
+  "kode_matkul": "20Y00510601",
+  "nama_matkul": "Farmakologi Klinik",
+  "nama_kelas": "Farmakologi Klinik",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 727,
+      "id_user": 34442,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Peter Kabo, Ph.D., Sp.FK.",
+      "nidn": "8923260022",
+      "nip": "195003291976121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "438cbbd6-56af-49f1-b3db-b7fe461dab95",
+      "pivot": {
+        "id_kelas_kuliah": 113397,
+        "id_dosen": 727
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1620,
+      "id_user": 17487,
+      "id_prodi": 6,
+      "nama": "dr. Yanti Leman, S.Ked.,M.Kes.,Sp.KK.",
+      "nidn": "0016126702",
+      "nip": "196712161997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "db0f7fdf-68eb-4d80-bf67-bae739443f81",
+      "pivot": {
+        "id_kelas_kuliah": 113397,
+        "id_dosen": 1620
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2374,
+      "id_user": 71683,
+      "id_prodi": 6,
+      "nama": "dr. Lia Hafiyani, M.Pharm.,Sc",
+      "nidn": "0003048703",
+      "nip": "198704032012122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1570e384-977b-4ad6-9582-49733d0ae762",
+      "pivot": {
+        "id_kelas_kuliah": 113397,
+        "id_dosen": 2374
+      }
+    }
+  ]
+}

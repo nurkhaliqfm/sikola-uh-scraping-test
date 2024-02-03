@@ -1,0 +1,156 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2735,
+  "idnumber_sikola": "34843.118950.167",
+  "shortname_sikola": "TA232-118950",
+  "kode_matkul": "18D05311803",
+  "nama_matkul": "PENGELOHAN CITRA DAN ISYARAT LANJUT",
+  "nama_kelas": "PILIHAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415712,
+      "id_user": 79334,
+      "id_prodi": 167,
+      "angkatan": 2023,
+      "nama_mahasiswa": "A ASNI. B",
+      "nim": "D053231005",
+      "jalan": "JAMRUD 12",
+      "rt": 33,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "76115",
+      "nisn": null,
+      "tempat_lahir": "PANGKEP",
+      "tanggal_lahir": "1978-09-14",
+      "telepon": "0",
+      "handphone": "081347432269",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "sepinggan Baru",
+      "id_wilayah": "166101",
+      "nik": "6471055409780002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "a.asni.b@uniba-bpn.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f49af3ee-3f79-4ad5-8331-f26ea457cc62",
+      "id_registrasi_mahasiswa_pddikti": "c8bf727e-0b74-4819-9787-bb1d0536679c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118950,
+        "id_mahasiswa": 415712,
+        "created_at": "2024-01-29 10:48:33"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 415714,
+      "id_user": 78848,
+      "id_prodi": 167,
+      "angkatan": 2023,
+      "nama_mahasiswa": "YULIANA RAUF",
+      "nim": "D053231007",
+      "jalan": "JALAN MANNURUKI PERUM GRIYA HASANAH NO 8",
+      "rt": 2,
+      "rw": 3,
+      "dusun": "sudiang raya",
+      "kode_pos": "90242",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1978-08-05",
+      "telepon": "0",
+      "handphone": "081341759068",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "sudiang",
+      "id_wilayah": "196011",
+      "nik": "7371094508780011",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "yuli.rauf2@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8e5e8d2b-03b4-4022-a7ab-a34c102ea750",
+      "id_registrasi_mahasiswa_pddikti": "d49d4beb-0f83-4886-881b-95dadbb70101",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118950,
+        "id_mahasiswa": 415714,
+        "created_at": "2024-02-01 12:52:38"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 118950,
+        "id_dosen": 813
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1484,
+      "id_user": 9435,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Intan Sari Areni, S.T., MT.",
+      "nidn": "0003027508",
+      "nip": "197502032000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d2d64e8-56cf-40a6-ab07-bc218bdbaf65",
+      "pivot": {
+        "id_kelas_kuliah": 118950,
+        "id_dosen": 1484
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2196,
+      "id_user": 33490,
+      "id_prodi": 17,
+      "nama": "Dr. Ir.  Zulfajri Basri Hasanuddin, M.Eng.",
+      "nidn": "0024016905",
+      "nip": "196901241993031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "396573ba-e683-41f9-8f53-bbc5e358b0ce",
+      "pivot": {
+        "id_kelas_kuliah": 118950,
+        "id_dosen": 2196
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1643,
+      "id_user": 9944,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Ingrid Nurtanio,  MT",
+      "nidn": "0013086103",
+      "nip": "196108131988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "33ae198b-6c19-49ff-95ba-1876909cb9a2",
+      "pivot": {
+        "id_kelas_kuliah": 118950,
+        "id_dosen": 1643
+      }
+    }
+  ]
+}

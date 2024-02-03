@@ -1,0 +1,140 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "42130.104184.148",
+  "shortname_sikola": "TA231-104184",
+  "kode_matkul": "21R01412002",
+  "nama_matkul": "Community Health Nursing & Home Care",
+  "nama_kelas": "Community Health Nursing & Home Care.Kerjasama",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 388025,
+      "id_user": 73139,
+      "id_prodi": 148,
+      "angkatan": 2022,
+      "nama_mahasiswa": "JULHAIDIN",
+      "nim": "R014222051",
+      "jalan": "JL. PENDIDIKAN UNHAS",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "90245",
+      "nisn": "R014222051",
+      "tempat_lahir": "BIMA",
+      "tanggal_lahir": "1987-08-07",
+      "telepon": "0",
+      "handphone": "082193692052",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196012",
+      "nik": "7407010708870003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "julhaidin87@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c0e25ebf-d222-41a5-b403-0eb46a8da6f7",
+      "id_registrasi_mahasiswa_pddikti": "b2da74af-3d66-4a30-8e72-194c7430d22d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104184,
+        "id_mahasiswa": 388025,
+        "created_at": "2023-08-02 21:36:39"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 387151,
+      "id_user": 72787,
+      "id_prodi": 148,
+      "angkatan": 2022,
+      "nama_mahasiswa": "LA DEMI",
+      "nim": "R014222002",
+      "jalan": "PENDIDIKAN UNHAS",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "92045",
+      "nisn": "R014222002",
+      "tempat_lahir": "BAU-BAU",
+      "tanggal_lahir": "1988-07-27",
+      "telepon": "0",
+      "handphone": "082293507423",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196012",
+      "nik": "7472012707880001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "demihamid2731@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "322a9206-29a7-4acc-a36b-6eaaee4d4b95",
+      "id_registrasi_mahasiswa_pddikti": "8f9c5d29-6451-41d5-9734-cf889d3918de",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104184,
+        "id_mahasiswa": 387151,
+        "created_at": "2023-08-03 14:43:03"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1964,
+      "id_user": 85348,
+      "id_prodi": 8,
+      "nama": "Nuurhidayat Jafar, S.Kep.,Ns.,M.Kep",
+      "nidn": "0018098403",
+      "nip": "198409182012121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1ff3f7f-3c3e-41bf-9117-8b74d2962779",
+      "pivot": {
+        "id_kelas_kuliah": 104184,
+        "id_dosen": 1964
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4148,
+      "id_user": 82342,
+      "id_prodi": 8,
+      "nama": "Dr. Karmila Sarih, S.Kep.Ns., M.Kes",
+      "nidn": "3427077201",
+      "nip": "197207271996032006",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "a2c8e66c-afc2-45e8-8229-fc59f9ed3f35",
+      "pivot": {
+        "id_kelas_kuliah": 104184,
+        "id_dosen": 4148
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2569,
+      "id_user": 18127,
+      "id_prodi": 8,
+      "nama": "Framita Rahman, S.Kep., Ns., M.Sc.",
+      "nidn": "0921079001",
+      "nip": "199007212019032022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "13acf32e-c2e9-46cd-a70a-a19bce605c77",
+      "pivot": {
+        "id_kelas_kuliah": 104184,
+        "id_dosen": 2569
+      }
+    }
+  ]
+}

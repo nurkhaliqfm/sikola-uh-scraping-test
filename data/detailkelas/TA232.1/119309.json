@@ -1,0 +1,29 @@
+{
+  "id_prodi": 162,
+  "nama_prodi": "GEOFISIKA - S2",
+  "id_prodi_semester": 2730,
+  "idnumber_sikola": "39779.119309.162",
+  "shortname_sikola": "TA232-119309",
+  "kode_matkul": "18H04212202",
+  "nama_matkul": "Prediksi Cuaca Numerik",
+  "nama_kelas": "PREDIKSI CUACA NUMERIK",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 891,
+      "id_user": 22438,
+      "id_prodi": 48,
+      "nama": "Prof. Dr.  Halmar Halide, M.Sc.",
+      "nidn": "0015036302",
+      "nip": "196303151987101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "435e8147-5490-4eb2-a95e-9242823e6c10",
+      "pivot": {
+        "id_kelas_kuliah": 119309,
+        "id_dosen": 891
+      }
+    }
+  ]
+}

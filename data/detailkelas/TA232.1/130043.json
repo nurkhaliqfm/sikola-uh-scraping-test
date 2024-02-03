@@ -1,0 +1,140 @@
+{
+  "id_prodi": 228,
+  "nama_prodi": "PPDS ILMU BEDAH (Sp2)",
+  "id_prodi_semester": 2792,
+  "idnumber_sikola": "42739.130043.228",
+  "shortname_sikola": "TA232-130043",
+  "kode_matkul": "21C02820103",
+  "nama_matkul": "Tumor Payudara 2",
+  "nama_kelas": "Tumor Payudara 2",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 386218,
+      "id_user": 72057,
+      "id_prodi": 228,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUHAMMAD TONTOWI JAUHARI",
+      "nim": "C028222005",
+      "jalan": "Jl. Perintis VIII no 19",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "C028222005",
+      "tempat_lahir": "SURABAYA",
+      "tanggal_lahir": "1982-09-02",
+      "telepon": "08113940303",
+      "handphone": "087865068228",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "Tamalanrea jaya",
+      "id_wilayah": "196012",
+      "nik": "7371110209820010",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "tantowijauhari1507@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0addfe0c-1444-4588-ad2f-ac5858fc900a",
+      "id_registrasi_mahasiswa_pddikti": "50791ec1-609d-4937-a398-019665dd61d8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 130043,
+        "id_mahasiswa": 386218,
+        "created_at": "2024-01-29 15:13:46"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 385475,
+      "id_user": 73181,
+      "id_prodi": 228,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SAN WINATA BADIRI",
+      "nim": "C028222001",
+      "jalan": "PRADA UTAMA",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "23115",
+      "nisn": null,
+      "tempat_lahir": "BANDA ACEH",
+      "tanggal_lahir": "1981-09-08",
+      "telepon": "0",
+      "handphone": "082161722654",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "Lamgugob",
+      "id_wilayah": "066104",
+      "nik": "1171040809810008",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "sanbadiri@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ff0c497d-bed7-4c16-8bd0-3b7f5d12a01b",
+      "id_registrasi_mahasiswa_pddikti": "0fc6ee4f-1d69-439d-b615-a6af45f7c296",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 130043,
+        "id_mahasiswa": 385475,
+        "created_at": "2024-01-31 10:52:38"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3044,
+      "id_user": 37658,
+      "id_prodi": 115,
+      "nama": "Dr. dr. William Hamdani, Sp.B(K)Onk.",
+      "nidn": "8875330017",
+      "nip": "195803092018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "def70e82-7053-4263-9483-df8834883a06",
+      "pivot": {
+        "id_kelas_kuliah": 130043,
+        "id_dosen": 3044
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3043,
+      "id_user": 37659,
+      "id_prodi": 115,
+      "nama": "dr. Haryasena, SpB.Subsp.Onk.(K)",
+      "nidn": "8824130016",
+      "nip": "195708242018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a94a84ba-5e58-4957-bc13-3dafa69f0b5d",
+      "pivot": {
+        "id_kelas_kuliah": 130043,
+        "id_dosen": 3043
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1754,
+      "id_user": 37397,
+      "id_prodi": 6,
+      "nama": "dr. Salman Ardi Syamsu, SpB.Subsp.Onk.(K).",
+      "nidn": "0026097805",
+      "nip": "197809262005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b542a0a1-dce6-4437-8cea-d6901efd74bb",
+      "pivot": {
+        "id_kelas_kuliah": 130043,
+        "id_dosen": 1754
+      }
+    }
+  ]
+}

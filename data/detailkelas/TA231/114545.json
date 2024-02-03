@@ -1,0 +1,29 @@
+{
+  "id_prodi": 45,
+  "nama_prodi": "MATEMATIKA - S1",
+  "id_prodi_semester": 2403,
+  "idnumber_sikola": "46532.114545.45",
+  "shortname_sikola": "TA231-114545",
+  "kode_matkul": "23U02131801",
+  "nama_matkul": "Pengembangan Talenta",
+  "nama_kelas": "Pengembangan Talenta",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1281,
+      "id_user": 13550,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Nurdin, S.Si., M.Si.",
+      "nidn": "0007087001",
+      "nip": "197008072000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d7ce9326-a252-46c5-ba6d-d2adfb63770c",
+      "pivot": {
+        "id_kelas_kuliah": 114545,
+        "id_dosen": 1281
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "45599.121574.19",
+  "shortname_sikola": "TA232-121574",
+  "kode_matkul": "23D05130404",
+  "nama_matkul": "Struktur dan Konstruksi Bangunan 4",
+  "nama_kelas": "Building Structure and Construction 4",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 121574,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1370,
+      "id_user": 29496,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Samsuddin, M.T",
+      "nidn": "0031126606",
+      "nip": "196612311994031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a04c83f5-bf5c-44ed-ae7c-7dfa8215390a",
+      "pivot": {
+        "id_kelas_kuliah": 121574,
+        "id_dosen": 1370
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2004,
+      "id_user": 19488,
+      "id_prodi": 19,
+      "nama": "Pratiwi Mushar, S.T., M.T.",
+      "nidn": "0019018601",
+      "nip": "198601192014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c9ebe46c-8b94-4b09-8357-b5bd04cf4e85",
+      "pivot": {
+        "id_kelas_kuliah": 121574,
+        "id_dosen": 2004
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2369,
+  "idnumber_sikola": "48399.110869.2",
+  "shortname_sikola": "TA231-110869",
+  "kode_matkul": "23A02110203",
+  "nama_matkul": "Pengantar Bisnis",
+  "nama_kelas": "PENGANTAR BISNIS KELAS D",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 744,
+      "id_user": 34044,
+      "id_prodi": 2,
+      "nama": "Prof. Dr.  Muh. Asdar, SE., M.Si.",
+      "nidn": "0031106102",
+      "nip": "196110311989101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "db53b2ac-7dda-49b7-b013-a2c95da13eb1",
+      "pivot": {
+        "id_kelas_kuliah": 110869,
+        "id_dosen": 744
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 995,
+      "id_user": 15308,
+      "id_prodi": 2,
+      "nama": "Dra. Andi Reni, M.Si., Ph.D",
+      "nidn": "0031126417",
+      "nip": "196412311990112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "98ca628c-9e3b-4cb4-896d-097d6ee0c9b2",
+      "pivot": {
+        "id_kelas_kuliah": 110869,
+        "id_dosen": 995
+      }
+    }
+  ]
+}

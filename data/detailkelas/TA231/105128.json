@@ -1,0 +1,69 @@
+{
+  "id_prodi": 228,
+  "nama_prodi": "PPDS ILMU BEDAH (Sp2)",
+  "id_prodi_semester": 2561,
+  "idnumber_sikola": "42765.105128.228",
+  "shortname_sikola": "TA231-105128",
+  "kode_matkul": "21C02822203",
+  "nama_matkul": "Tindakan Kemoterapi Keganasan Kolorektal dan Anus",
+  "nama_kelas": "Tindakan Kemoterapi Keganasan Kolorektal dan Anus 2023/2024",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 340964,
+      "id_user": 59234,
+      "id_prodi": 228,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ADRIAN PARDOMUAN PURBA",
+      "nim": "C028212003",
+      "jalan": "Bumi Tamalanrea Permai, Tamalanrea Mas M1/2",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1978-11-25",
+      "telepon": "0",
+      "handphone": "081243440509",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "3674052511780003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "purba.adrian@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "de47f42a-6cc0-47f6-8a3d-8d34691f34a4",
+      "id_registrasi_mahasiswa_pddikti": "7976a2ec-18ee-4f9e-ace3-f81f1228b7f9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105128,
+        "id_mahasiswa": 340964,
+        "created_at": "2023-08-06 12:02:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 849,
+      "id_user": 37420,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Warsinggih, SpB-KBD., M.Kes",
+      "nidn": "0021026209",
+      "nip": "196202211990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4da5b49e-4a06-4103-b9d2-a722236d9ebe",
+      "pivot": {
+        "id_kelas_kuliah": 105128,
+        "id_dosen": 849
+      }
+    }
+  ]
+}

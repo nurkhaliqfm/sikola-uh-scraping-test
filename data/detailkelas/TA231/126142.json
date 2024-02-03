@@ -1,0 +1,45 @@
+{
+  "id_prodi": 125,
+  "nama_prodi": "PPDS ILMU KEDOKTERAN JIWA - PSIKIATRI",
+  "id_prodi_semester": 2467,
+  "idnumber_sikola": "38633.126142.125",
+  "shortname_sikola": "TA231-126142",
+  "kode_matkul": "20C06510402",
+  "nama_matkul": "PSIKOFARMAKOLOGI",
+  "nama_kelas": "KELAS B - PSIKOFARMAKOLOGI 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1213,
+      "id_user": 37525,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  A. Jayalangkara T., Sp.KJ.,Ph.D.",
+      "nidn": "0021015602",
+      "nip": "195502211987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60c0ff1a-b5ca-43db-b96a-774024a8471a",
+      "pivot": {
+        "id_kelas_kuliah": 126142,
+        "id_dosen": 1213
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1650,
+      "id_user": 34313,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Sonny Teddy Lisal, Sp.KJ.",
+      "nidn": "0016066701",
+      "nip": "196706161995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "996fbea6-b48e-4216-8103-7fa3ebe92891",
+      "pivot": {
+        "id_kelas_kuliah": 126142,
+        "id_dosen": 1650
+      }
+    }
+  ]
+}

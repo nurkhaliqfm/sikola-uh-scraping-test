@@ -1,0 +1,69 @@
+{
+  "id_prodi": 108,
+  "nama_prodi": "ILMU ANTROPOLOGI - S3",
+  "id_prodi_semester": 2683,
+  "idnumber_sikola": "37307.124848.108",
+  "shortname_sikola": "TA232-124848",
+  "kode_matkul": "19E02310503",
+  "nama_matkul": "Antropologi Maritim",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 416728,
+      "id_user": 82374,
+      "id_prodi": 108,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RESKY PURNAMASARI NASARUDDIN",
+      "nim": "E023231002",
+      "jalan": "JL. PERINTIS KEMERDEKAAN VII PERUMAHAN TRIKA MAHKOTA BLOK A/10",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "2023-08-03",
+      "telepon": "08114660600",
+      "handphone": "08114660600",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "7371074108930007",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "reskykikipurnamasari@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4d61c894-67d4-415d-a854-b2572b2a6247",
+      "id_registrasi_mahasiswa_pddikti": "e9d3b1a8-5262-4a30-a55e-3893592c87bc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124848,
+        "id_mahasiswa": 416728,
+        "created_at": "2024-02-02 12:05:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 862,
+      "id_user": 30984,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Ansar Arifin, MS.",
+      "nidn": "0027126108",
+      "nip": "196112271988111002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "08b4a9bf-c9a7-4496-ae5b-5a29cca15fa9",
+      "pivot": {
+        "id_kelas_kuliah": 124848,
+        "id_dosen": 862
+      }
+    }
+  ]
+}

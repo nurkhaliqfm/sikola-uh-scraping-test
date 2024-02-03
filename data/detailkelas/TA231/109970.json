@@ -1,0 +1,29 @@
+{
+  "id_prodi": 84,
+  "nama_prodi": "ILMU LINGUISTIK - S3",
+  "id_prodi_semester": 2430,
+  "idnumber_sikola": "26655.109970.84",
+  "shortname_sikola": "TA231-109970",
+  "kode_matkul": "19F01331412",
+  "nama_matkul": "Disertasi dan Ujian Disertasi",
+  "nama_kelas": "Disertasi by Riset",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2140,
+      "id_user": 10026,
+      "id_prodi": 31,
+      "nama": "Prof. Dr. Lukman, MS.",
+      "nidn": "0031126059",
+      "nip": "196012311987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37782f0f-06fe-40ff-8909-ebb9196c2875",
+      "pivot": {
+        "id_kelas_kuliah": 109970,
+        "id_dosen": 2140
+      }
+    }
+  ]
+}

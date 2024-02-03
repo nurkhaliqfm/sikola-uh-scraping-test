@@ -1,0 +1,117 @@
+{
+  "id_prodi": 253,
+  "nama_prodi": "ILMU LINGKUNGAN - S3",
+  "id_prodi_semester": 2814,
+  "idnumber_sikola": "43026.128490.253",
+  "shortname_sikola": "TA232-128490",
+  "kode_matkul": "22P03310803",
+  "nama_matkul": "Permasalahan dan Rekayasa Kultural Lingkungan Tropis",
+  "nama_kelas": "Permasalahan dan Rekayasa Kultural Lingkungan Tropis (A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 429080,
+      "id_user": 87654,
+      "id_prodi": 253,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NURMIATI Z.",
+      "nim": "P033232002",
+      "jalan": "JL. YONGGANG NO. 21",
+      "rt": null,
+      "rw": null,
+      "dusun": null,
+      "kode_pos": null,
+      "nisn": null,
+      "tempat_lahir": "MAJENE",
+      "tanggal_lahir": null,
+      "telepon": null,
+      "handphone": "081343957800",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": null,
+      "id_wilayah": null,
+      "nik": "7605086804780001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": null,
+      "kode_status": "A",
+      "email": null,
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": "081343957800",
+      "pivot": {
+        "id_kelas_kuliah": 128490,
+        "id_mahasiswa": 429080,
+        "created_at": "2024-02-02 13:09:31"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 688,
+      "id_user": 34336,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Hamka, MA.",
+      "nidn": "0004116109",
+      "nip": "196111041987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c1b064b6-5b99-4adb-8a73-69a7e9c7d0e3",
+      "pivot": {
+        "id_kelas_kuliah": 128490,
+        "id_dosen": 688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 828,
+      "id_user": 34288,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Munsi Lampe, MA.",
+      "nidn": "0027125608",
+      "nip": "195612271986121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6d42e7f9-5559-4e48-b345-22712842a0c6",
+      "pivot": {
+        "id_kelas_kuliah": 128490,
+        "id_dosen": 828
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 799,
+      "id_user": 25526,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Sitti Bulkis, MS.",
+      "nidn": "0029085401",
+      "nip": "196108291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2522df57-c432-4189-b3ac-136ee3209855",
+      "pivot": {
+        "id_kelas_kuliah": 128490,
+        "id_dosen": 799
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3993,
+      "id_user": null,
+      "id_prodi": 253,
+      "nama": "Dr. Ir. Darhamsyah, M.Si.",
+      "nidn": null,
+      "nip": "196401121985021001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128490,
+        "id_dosen": 3993
+      }
+    }
+  ]
+}

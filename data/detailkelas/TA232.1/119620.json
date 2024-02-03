@@ -1,0 +1,69 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48150.119620.12",
+  "shortname_sikola": "TA232-119620",
+  "kode_matkul": "23D02131302",
+  "nama_matkul": "Seminar Proposal",
+  "nama_kelas": "SEMINAR PROPOSAL E",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 27775,
+      "id_user": 22189,
+      "id_prodi": 12,
+      "angkatan": 2018,
+      "nama_mahasiswa": "A.MUH.ABBAS",
+      "nim": "D021181029",
+      "jalan": "Jl. Benteng",
+      "rt": 0,
+      "rw": 2,
+      "dusun": "Doajeng",
+      "kode_pos": "92716",
+      "nisn": "9995364862",
+      "tempat_lahir": "Watampone",
+      "tanggal_lahir": "1999-11-21",
+      "telepon": "0",
+      "handphone": "089635788854",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Lonrae",
+      "id_wilayah": "190726",
+      "nik": "7308232111990004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andiabbasbachtiar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d9531474-644d-4475-900f-e0612a9ea622",
+      "id_registrasi_mahasiswa_pddikti": "e7848ae5-8706-4124-ab09-27e76e62095e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119620,
+        "id_mahasiswa": 27775,
+        "created_at": "2024-01-29 19:14:43"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 824,
+      "id_user": 34176,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir  Luther Sule, MT.",
+      "nidn": "0027085601",
+      "nip": "195608271985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "853d14fc-aa4f-44a7-b659-c502cdc6ff15",
+      "pivot": {
+        "id_kelas_kuliah": 119620,
+        "id_dosen": 824
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2380,
+  "idnumber_sikola": "46529.114324.15",
+  "shortname_sikola": "TA231-114324",
+  "kode_matkul": "23U02131202",
+  "nama_matkul": "Pengambilan Keputusan",
+  "nama_kelas": "Pengambilan Keputusan A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1793,
+      "id_user": 31659,
+      "id_prodi": 15,
+      "nama": "Dr. Chairul Paotonan, ST.,MT.",
+      "nidn": "0005067506",
+      "nip": "197506052002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "da77c090-29a0-424a-ab33-9443560c7ae5",
+      "pivot": {
+        "id_kelas_kuliah": 114324,
+        "id_dosen": 1793
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1592,
+      "id_user": 28475,
+      "id_prodi": 15,
+      "nama": "Dr.  Hasdinar Umar, ST.,MT.",
+      "nidn": "0028047806",
+      "nip": "197804282003122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b12d581-777c-4ea0-84b8-79eefc87a8a5",
+      "pivot": {
+        "id_kelas_kuliah": 114324,
+        "id_dosen": 1592
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1641,
+      "id_user": 10466,
+      "id_prodi": 15,
+      "nama": "Ashury, ST.,MT.",
+      "nidn": "0018037405",
+      "nip": "197403182006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "674c48a5-5cf3-4037-b05f-5bc339221e74",
+      "pivot": {
+        "id_kelas_kuliah": 114324,
+        "id_dosen": 1641
+      }
+    }
+  ]
+}

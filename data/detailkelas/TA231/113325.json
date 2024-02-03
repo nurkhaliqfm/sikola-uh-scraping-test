@@ -1,0 +1,77 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "47703.113325.51",
+  "shortname_sikola": "TA231-113325",
+  "kode_matkul": "23I01140204",
+  "nama_matkul": "Skripsi Peternakan",
+  "nama_kelas": "Skripsi Peternakan K23",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1770,
+      "id_user": 18531,
+      "id_prodi": 51,
+      "nama": "Dr. Kasmiyati Kasim, S.Pt.,M.Si.",
+      "nidn": "0019077307",
+      "nip": "197307192006042012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4b6fbb29-de2d-4d33-a441-33f67768be89",
+      "pivot": {
+        "id_kelas_kuliah": 113325,
+        "id_dosen": 1770
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 879,
+      "id_user": 32716,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Wempie, M.Sc.",
+      "nidn": "0003056403",
+      "nip": "196405031990031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "dc720231-cdb4-4d24-9d3e-75bff1852c3e",
+      "pivot": {
+        "id_kelas_kuliah": 113325,
+        "id_dosen": 879
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1688,
+      "id_user": 14953,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Muhammad Irfan Said, S.Pt., MP., IPM, ASEAN Eng.",
+      "nidn": "0005127404",
+      "nip": "197412052006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f947a3a8-2725-4be1-86b8-a0a0d88195fb",
+      "pivot": {
+        "id_kelas_kuliah": 113325,
+        "id_dosen": 1688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 897,
+      "id_user": 15735,
+      "id_prodi": 51,
+      "nama": "Dr. Ir Rohmiyatul Islamiyati, MP.",
+      "nidn": "0019086505",
+      "nip": "196508191990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6a679f5-623c-4587-bb34-e30f98fbaa24",
+      "pivot": {
+        "id_kelas_kuliah": 113325,
+        "id_dosen": 897
+      }
+    }
+  ]
+}

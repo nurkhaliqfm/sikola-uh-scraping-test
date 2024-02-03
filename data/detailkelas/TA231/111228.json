@@ -1,0 +1,45 @@
+{
+  "id_prodi": 135,
+  "nama_prodi": "TEKNIK GEOLOGI - S2",
+  "id_prodi_semester": 2477,
+  "idnumber_sikola": "31671.111228.135",
+  "shortname_sikola": "TA231-111228",
+  "kode_matkul": "18D06211302",
+  "nama_matkul": "GEOLOGI BATUAN DASAR",
+  "nama_kelas": "Geologi Batuan Dasar",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1212,
+      "id_user": 16983,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Eng. Asri Jaya H.S., ST., MT.",
+      "nidn": "0024096902",
+      "nip": "196909241998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3f17b79b-7257-4b76-8ac6-97318df8f845",
+      "pivot": {
+        "id_kelas_kuliah": 111228,
+        "id_dosen": 1212
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1682,
+      "id_user": 28267,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Eng. Adi Maulana, ST., M.Phil.",
+      "nidn": "0028048002",
+      "nip": "198004282005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "df8b487e-bb0b-4f4f-836f-72db6b730210",
+      "pivot": {
+        "id_kelas_kuliah": 111228,
+        "id_dosen": 1682
+      }
+    }
+  ]
+}

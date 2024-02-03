@@ -1,0 +1,125 @@
+{
+  "id_prodi": 74,
+  "nama_prodi": "PROG. PROFESI APOTEKER",
+  "id_prodi_semester": 2421,
+  "idnumber_sikola": "43185.129221.74",
+  "shortname_sikola": "TA231-129221",
+  "kode_matkul": "22N01410502",
+  "nama_matkul": "Komunikasi dan Konseling",
+  "nama_kelas": "Komunikasi dan Konseling C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2377,
+      "id_user": 19913,
+      "id_prodi": 73,
+      "nama": "Prof. Andi Dian Permana, S.Si., M.Si., Ph.D., Apt",
+      "nidn": "0005028901",
+      "nip": "198902052012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "de7360f7-190f-42b5-be5e-ece99156a25f",
+      "pivot": {
+        "id_kelas_kuliah": 129221,
+        "id_dosen": 2377
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3544,
+      "id_user": 48252,
+      "id_prodi": 73,
+      "nama": "Bustanul Arifin, S.Farm., Apt., M.Sc., MPH., Ph.D",
+      "nidn": "0016038306",
+      "nip": "198303162005021003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "75cdeffc-3a50-46d9-b6d8-38c63ae55b2d",
+      "pivot": {
+        "id_kelas_kuliah": 129221,
+        "id_dosen": 3544
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1906,
+      "id_user": 25690,
+      "id_prodi": 73,
+      "nama": "Anshar Saud, S.Si.,M.Farm.,Apt.",
+      "nidn": "0030067807",
+      "nip": "197806302008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3b365285-a5d6-45fd-bc0e-4cda7e284412",
+      "pivot": {
+        "id_kelas_kuliah": 129221,
+        "id_dosen": 1906
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2071,
+      "id_user": 33410,
+      "id_prodi": 9,
+      "nama": "Elvita Bellani,  S.Psi., M.Sc",
+      "nidn": "0018048603",
+      "nip": "198604182011012020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a10399e5-7aaf-4376-af9e-f56392cf8d9c",
+      "pivot": {
+        "id_kelas_kuliah": 129221,
+        "id_dosen": 2071
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2388,
+      "id_user": 48148,
+      "id_prodi": 73,
+      "nama": "Rangga Meidianto Asri, S.Si., Apt., M.Pharm.Sc",
+      "nidn": "0018058901",
+      "nip": "198905182014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78d9cdae-d41a-4174-9ce8-98ce210f7008",
+      "pivot": {
+        "id_kelas_kuliah": 129221,
+        "id_dosen": 2388
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1848,
+      "id_user": 57967,
+      "id_prodi": 73,
+      "nama": "Aminullah, S.Si., M.Pharm.Sc.,Apt.",
+      "nidn": "0010028203",
+      "nip": "198202102009121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f576a640-60d1-4bc5-bbb9-b4ff6dc1dc2b",
+      "pivot": {
+        "id_kelas_kuliah": 129221,
+        "id_dosen": 1848
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1125,
+      "id_user": 23223,
+      "id_prodi": 9,
+      "nama": "Prof. Dr. Muh. Tamar, M.Psi.",
+      "nidn": "0031126448",
+      "nip": "196412311990021004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9e8bf096-ddd8-45fd-b220-4bb8f5d126c5",
+      "pivot": {
+        "id_kelas_kuliah": 129221,
+        "id_dosen": 1125
+      }
+    }
+  ]
+}

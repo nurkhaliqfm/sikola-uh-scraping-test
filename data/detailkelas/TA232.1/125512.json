@@ -1,0 +1,45 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2692,
+  "idnumber_sikola": "39138.125512.119",
+  "shortname_sikola": "TA232-125512",
+  "kode_matkul": "20C10522701",
+  "nama_matkul": "Neurologi Madya",
+  "nama_kelas": "Neurologi Madya - 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2437,
+      "id_user": 37682,
+      "id_prodi": 6,
+      "nama": "dr. Hadia Angriani M, Sp.A(K), MARS",
+      "nidn": "8805910016",
+      "nip": "195908212018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0cf91ef4-5375-41a0-9e2d-f8bb1bb9fc15",
+      "pivot": {
+        "id_kelas_kuliah": 125512,
+        "id_dosen": 2437
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3555,
+      "id_user": 48310,
+      "id_prodi": 119,
+      "nama": "dr. Urfianty, M.Kes., Sp.A(K)",
+      "nidn": null,
+      "nip": "790632460126",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125512,
+        "id_dosen": 3555
+      }
+    }
+  ]
+}

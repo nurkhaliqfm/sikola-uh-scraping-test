@@ -1,0 +1,188 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2412,
+  "idnumber_sikola": "21368.110839.57",
+  "shortname_sikola": "TA231-110839",
+  "kode_matkul": "106K1712",
+  "nama_matkul": "Antropologi dan Sosiologi Kesehatan",
+  "nama_kelas": "ANTROPOLOGI DAN SOSIOLOGI KESEHATAN KELAS A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 73227,
+      "id_user": 9804,
+      "id_prodi": 57,
+      "angkatan": 2019,
+      "nama_mahasiswa": "CHRISTOPHER TOMA",
+      "nim": "K011191245",
+      "jalan": "Jln. Politeknik Lorong Ali Hizaam No. 26,\nPondok Al Barokah",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Tamalanrea Indah",
+      "kode_pos": "90245",
+      "nisn": "9967467266",
+      "tempat_lahir": "Iowara",
+      "tanggal_lahir": "1996-09-19",
+      "telepon": "0",
+      "handphone": "6282397766263",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196012",
+      "nik": "9116021909760001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "christotoma33@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9bf0f337-f5e0-48c7-ad14-555d92a7785b",
+      "id_registrasi_mahasiswa_pddikti": "52c654ed-fbb2-4f9a-8424-1a3dfe7e7845",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_mahasiswa": 73227,
+        "created_at": "2023-08-03 10:13:09"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 424614,
+      "id_user": 83644,
+      "id_prodi": 57,
+      "angkatan": 2023,
+      "nama_mahasiswa": "HILDAYANTI UMAR",
+      "nim": "K011231219",
+      "jalan": "-Desa saga Kecamatan bajo Kabupaten Luwu",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Buntu Sappang",
+      "kode_pos": "91995",
+      "nisn": "-",
+      "tempat_lahir": "BUNTU SAPPANG",
+      "tanggal_lahir": "1995-01-09",
+      "telepon": "0",
+      "handphone": "082349535230",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Saga",
+      "id_wilayah": "191704",
+      "nik": "7317044901950001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 83644,
+      "kode_status": "A",
+      "email": "hildayantihilda72@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_mahasiswa": 424614,
+        "created_at": "2023-08-23 16:51:33"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1328,
+      "id_user": 17740,
+      "id_prodi": 57,
+      "nama": "Dr. Ridwan Mochtar Thaha, M.Sc.",
+      "nidn": "9990067215",
+      "nip": "195809061986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "30f98ce0-b0b5-4fe3-b410-969c27ae846d",
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_dosen": 1328
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 866,
+      "id_user": 34378,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. dr. Muhammad Syafar, MS.",
+      "nidn": "0021105401",
+      "nip": "195410211988121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "42b4a715-25fb-4cf2-af68-c70fcd028928",
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_dosen": 866
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2296,
+      "id_user": 29377,
+      "id_prodi": 57,
+      "nama": "Dr. Muhammad Arsyad, SKM., M.Kes.",
+      "nidn": "0018047001",
+      "nip": "197004181994121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "964d1ebb-6b71-4ea6-884f-c0d7f8595419",
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_dosen": 2296
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2331,
+      "id_user": 56011,
+      "id_prodi": 57,
+      "nama": "Dr. Shanti Riskiyani, SKM., M.Kes.",
+      "nidn": "0021107803",
+      "nip": "197810212006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78794e53-4932-4834-a0af-63d9a121ac37",
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_dosen": 2331
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1555,
+      "id_user": 34245,
+      "id_prodi": 30,
+      "nama": "Dr. Yahya, MA.",
+      "nidn": "0031126257",
+      "nip": "196212312000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eb9ae31-673a-48c1-826e-3a1b7a25ea40",
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_dosen": 1555
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2488,
+      "id_user": 29432,
+      "id_prodi": 57,
+      "nama": "Nasrah, S.KM., M.Kes",
+      "nidn": "0021078905",
+      "nip": "198907212018074001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b3b227f-aca8-4835-a151-2a01d969fad8",
+      "pivot": {
+        "id_kelas_kuliah": 110839,
+        "id_dosen": 2488
+      }
+    }
+  ]
+}

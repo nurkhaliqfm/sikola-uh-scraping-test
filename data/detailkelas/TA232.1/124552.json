@@ -1,0 +1,29 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2769,
+  "idnumber_sikola": "46533.124552.202",
+  "shortname_sikola": "TA232-124552",
+  "kode_matkul": "23U02131902",
+  "nama_matkul": "Pengembangan Talenta",
+  "nama_kelas": "Pengembangan Talenta",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1126,
+      "id_user": 19035,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Hasmawati, M.Si.",
+      "nidn": "0031126416",
+      "nip": "196412311990032007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "07ad2c06-739d-4d1e-b9f0-377799685d11",
+      "pivot": {
+        "id_kelas_kuliah": 124552,
+        "id_dosen": 1126
+      }
+    }
+  ]
+}

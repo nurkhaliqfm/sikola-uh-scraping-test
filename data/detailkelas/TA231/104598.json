@@ -1,0 +1,125 @@
+{
+  "id_prodi": 194,
+  "nama_prodi": "BIOLOGI - S2",
+  "id_prodi_semester": 2530,
+  "idnumber_sikola": "35961.104598.194",
+  "shortname_sikola": "TA231-104598",
+  "kode_matkul": "18H05211405",
+  "nama_matkul": "Publikasi Ilmiah",
+  "nama_kelas": "PUBLIKASI ILMIAH",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 816,
+      "id_user": 22671,
+      "id_prodi": 50,
+      "nama": "Dr.  Slamet Santosa, M.Si.",
+      "nidn": "0029076201",
+      "nip": "196207261987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1cf30ead-432a-46d6-b8d8-7e34ce1fea89",
+      "pivot": {
+        "id_kelas_kuliah": 104598,
+        "id_dosen": 816
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1196,
+      "id_user": 33163,
+      "id_prodi": 50,
+      "nama": "Prof. Dr. Dirayah Rauf Husain, M.Sc.",
+      "nidn": "0025056003",
+      "nip": "196005251986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d6efead6-e3ce-44eb-8e26-6c81822afffb",
+      "pivot": {
+        "id_kelas_kuliah": 104598,
+        "id_dosen": 1196
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1202,
+      "id_user": 29454,
+      "id_prodi": 50,
+      "nama": "Prof. Dr. Fahruddin, M.Si.",
+      "nidn": "0015096501",
+      "nip": "196509151991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73261e22-a194-4536-9a88-7c012eec58ba",
+      "pivot": {
+        "id_kelas_kuliah": 104598,
+        "id_dosen": 1202
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1577,
+      "id_user": 33851,
+      "id_prodi": 50,
+      "nama": "Dr.  Nur Haedar, S.Si.,M.Si.",
+      "nidn": "0029016802",
+      "nip": "196801291997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "343df49f-ebbd-4fdc-8497-ef219f9d755a",
+      "pivot": {
+        "id_kelas_kuliah": 104598,
+        "id_dosen": 1577
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1518,
+      "id_user": 31757,
+      "id_prodi": 50,
+      "nama": "Dr.  Magdalena Litaay, M.Sc.",
+      "nidn": "0029096401",
+      "nip": "196409291989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "093bd2d0-8503-47c7-8c9d-e935c7b0f724",
+      "pivot": {
+        "id_kelas_kuliah": 104598,
+        "id_dosen": 1518
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1400,
+      "id_user": 34177,
+      "id_prodi": 50,
+      "nama": "Dr. Eddyman, S.Si., M.Si.",
+      "nidn": "0010017002",
+      "nip": "197001101997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15f3c27a-7c51-4ab9-b1d2-5e22bcc9d365",
+      "pivot": {
+        "id_kelas_kuliah": 104598,
+        "id_dosen": 1400
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2011,
+      "id_user": 30843,
+      "id_prodi": 50,
+      "nama": "Dr. Sulfahri, S.Si.,M.Si.",
+      "nidn": "0026018901",
+      "nip": "198901262014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d69e251-2dd9-43ce-aade-7b35160e3625",
+      "pivot": {
+        "id_kelas_kuliah": 104598,
+        "id_dosen": 2011
+      }
+    }
+  ]
+}

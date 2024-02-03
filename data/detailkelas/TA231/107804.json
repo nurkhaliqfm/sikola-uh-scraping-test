@@ -1,0 +1,61 @@
+{
+  "id_prodi": 174,
+  "nama_prodi": "ILMU POLITIK - S2",
+  "id_prodi_semester": 2511,
+  "idnumber_sikola": "43006.107804.174",
+  "shortname_sikola": "TA231-107804",
+  "kode_matkul": "22E05210503",
+  "nama_matkul": "Etika Praktek Politik",
+  "nama_kelas": "Reguler I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1002,
+      "id_user": 10701,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Armin, M.Si.",
+      "nidn": "0009116508",
+      "nip": "196511091991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8c4fcacf-e9ad-4e0e-8986-0a788f7868ba",
+      "pivot": {
+        "id_kelas_kuliah": 107804,
+        "id_dosen": 1002
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2232,
+      "id_user": 33548,
+      "id_prodi": 24,
+      "nama": "Drs. Andi Yakub, M.Si., Ph.D",
+      "nidn": "0002066211",
+      "nip": "196212311990031023",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05279457-f91b-4f7c-a42c-940f85794c9c",
+      "pivot": {
+        "id_kelas_kuliah": 107804,
+        "id_dosen": 2232
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2581,
+      "id_user": 60788,
+      "id_prodi": 24,
+      "nama": "Dr. Muh Imran, SIP., M.Si",
+      "nidn": "8816001019",
+      "nip": "196805082022043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ae35ce54-298f-4d08-a6de-b7274b4ec88c",
+      "pivot": {
+        "id_kelas_kuliah": 107804,
+        "id_dosen": 2581
+      }
+    }
+  ]
+}

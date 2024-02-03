@@ -1,0 +1,45 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2538,
+  "idnumber_sikola": "45494.113021.202",
+  "shortname_sikola": "TA231-113021",
+  "kode_matkul": "23H08130603",
+  "nama_matkul": "Kapita Selekta Aktuaria",
+  "nama_kelas": "Kapita Selekta Aktuaria",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2466,
+      "id_user": 21253,
+      "id_prodi": 202,
+      "nama": "Andi Muhammad Anwar, S.Si., M.Si",
+      "nidn": "0928129001",
+      "nip": "199012282018031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0c0ac1f1-385e-4260-9eba-b48e1ee220b2",
+      "pivot": {
+        "id_kelas_kuliah": 113021,
+        "id_dosen": 2466
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1631,
+      "id_user": 31577,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Eng. Mawardi, S.Si., M.Si.",
+      "nidn": "0031127002",
+      "nip": "197012311998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8968a8f4-2e73-426b-bb79-a78f6b48fd41",
+      "pivot": {
+        "id_kelas_kuliah": 113021,
+        "id_dosen": 1631
+      }
+    }
+  ]
+}

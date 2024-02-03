@@ -1,0 +1,29 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2368,
+  "idnumber_sikola": "47881.112993.1",
+  "shortname_sikola": "TA231-112993",
+  "kode_matkul": "23A01110302",
+  "nama_matkul": "Pengantar Ekonomi Makro",
+  "nama_kelas": "PENGANTAR EKONOMI MAKRO KELAS P",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2389,
+      "id_user": 33478,
+      "id_prodi": 1,
+      "nama": "Mirzalina Zaenal, SE.,M..S.E",
+      "nidn": "0911018701",
+      "nip": "198701112014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50475e78-87ff-4df4-95f0-28bd11d1c14a",
+      "pivot": {
+        "id_kelas_kuliah": 112993,
+        "id_dosen": 2389
+      }
+    }
+  ]
+}

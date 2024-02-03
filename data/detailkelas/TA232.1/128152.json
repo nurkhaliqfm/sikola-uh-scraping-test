@@ -1,0 +1,61 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2650,
+  "idnumber_sikola": "39609.128152.71",
+  "shortname_sikola": "TA232-128152",
+  "kode_matkul": "20M01121103",
+  "nama_matkul": "Sistem Informasi Geografis",
+  "nama_kelas": "Sistem Informasi Geografis  (D)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1491,
+      "id_user": 34036,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Syamsu Rijal, S.Hut., M.Si., IPU",
+      "nidn": "0008017706",
+      "nip": "197701082003121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d295b214-6f27-4fc3-bc03-f21adc30a275",
+      "pivot": {
+        "id_kelas_kuliah": 128152,
+        "id_dosen": 1491
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1097,
+      "id_user": 26651,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Roland Alexander Barkey",
+      "nidn": "8842723420",
+      "nip": "195406141981031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60e28e8d-1d85-490b-a54d-06f0c38dcac9",
+      "pivot": {
+        "id_kelas_kuliah": 128152,
+        "id_dosen": 1097
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3389,
+      "id_user": 48355,
+      "id_prodi": 71,
+      "nama": "Chairil A, S.Hut., M.Hut",
+      "nidn": "8988020021",
+      "nip": "199402212021015001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "3cc6547e-c9d6-4d98-9b7f-bc7e677bc978",
+      "pivot": {
+        "id_kelas_kuliah": 128152,
+        "id_dosen": 3389
+      }
+    }
+  ]
+}

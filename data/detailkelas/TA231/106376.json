@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "25791.106376.76",
+  "shortname_sikola": "TA231-106376",
+  "kode_matkul": "18P01311403",
+  "nama_matkul": "Bioremediasi",
+  "nama_kelas": "Bioremediasi (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 764,
+      "id_user": 24927,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Elkawakib Syam'un, MP.",
+      "nidn": "0018035603",
+      "nip": "195603181985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "657baf28-e7ac-4cde-91da-c3876c20cf4b",
+      "pivot": {
+        "id_kelas_kuliah": 106376,
+        "id_dosen": 764
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 759,
+      "id_user": 11717,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Baharuddin",
+      "nidn": "0024126002",
+      "nip": "196012241986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d4d307e0-b55d-4ae5-9e84-698e026e0ee6",
+      "pivot": {
+        "id_kelas_kuliah": 106376,
+        "id_dosen": 759
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2412,
+  "idnumber_sikola": "21436.107275.57",
+  "shortname_sikola": "TA231-107275",
+  "kode_matkul": "404K1112",
+  "nama_matkul": "Current Issue AKK",
+  "nama_kelas": "CURRENT ISSUE ADMINISTRASI DAN KEBIJAKAN KESEHATAN KELAS A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 717,
+      "id_user": 28583,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Amran Razak,SE, M.Sc",
+      "nidn": "0002015701",
+      "nip": "195701021986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d6a2d617-1a60-434b-82a5-22a0a1926382",
+      "pivot": {
+        "id_kelas_kuliah": 107275,
+        "id_dosen": 717
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1408,
+      "id_user": 29184,
+      "id_prodi": 57,
+      "nama": "Dr. H. Muhammad Alwy Arifin, M.Kes.",
+      "nidn": "0008076402",
+      "nip": "196407081991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "48dc6383-e9ec-4118-abdd-d937e8bae1d1",
+      "pivot": {
+        "id_kelas_kuliah": 107275,
+        "id_dosen": 1408
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1968,
+      "id_user": 29159,
+      "id_prodi": 57,
+      "nama": "Muh. Yusri Abadi, S. KM., M. Kes",
+      "nidn": "0926048401",
+      "nip": "198404262012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3e95fb89-3e4a-4687-a2a3-2ff96e231fd7",
+      "pivot": {
+        "id_kelas_kuliah": 107275,
+        "id_dosen": 1968
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2539,
+      "id_user": 29319,
+      "id_prodi": 57,
+      "nama": "Suci Rahmadani, S.K.M., M.Kes",
+      "nidn": "0901049001",
+      "nip": "199004012019032018",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3e4a6bd8-2779-41f5-980f-0069b6300999",
+      "pivot": {
+        "id_kelas_kuliah": 107275,
+        "id_dosen": 2539
+      }
+    }
+  ]
+}

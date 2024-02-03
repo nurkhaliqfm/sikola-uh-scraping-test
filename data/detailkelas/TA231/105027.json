@@ -1,0 +1,140 @@
+{
+  "id_prodi": 228,
+  "nama_prodi": "PPDS ILMU BEDAH (Sp2)",
+  "id_prodi_semester": 2561,
+  "idnumber_sikola": "42740.105027.228",
+  "shortname_sikola": "TA231-105027",
+  "kode_matkul": "21C02820203",
+  "nama_matkul": "Tumor Tiroid 2",
+  "nama_kelas": "Tumor Tiroid 2 2023/2024",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 352216,
+      "id_user": 66692,
+      "id_prodi": 228,
+      "angkatan": 2022,
+      "nama_mahasiswa": "YUSFITARIA ALVINA",
+      "nim": "C028221001",
+      "jalan": "JL.Pemuda no 25 Makassar",
+      "rt": 4,
+      "rw": 10,
+      "dusun": "-",
+      "kode_pos": "90225",
+      "nisn": "C028221001",
+      "tempat_lahir": "MALANG",
+      "tanggal_lahir": "1985-07-06",
+      "telepon": "0",
+      "handphone": "081234833436",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "Bongaya",
+      "id_wilayah": "196003",
+      "nik": "7371104607850015",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aqillarania1@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "99fba4c9-0ed5-4c2d-a564-494df4861cdd",
+      "id_registrasi_mahasiswa_pddikti": "836ab62e-cadf-4844-a8fa-e89b6a1f2735",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105027,
+        "id_mahasiswa": 352216,
+        "created_at": "2023-08-01 10:26:42"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 347975,
+      "id_user": 62445,
+      "id_prodi": 228,
+      "angkatan": 2022,
+      "nama_mahasiswa": "FAISAL LUKMAN BAWANONG",
+      "nim": "C028221002",
+      "jalan": "JALAN EMMY SAELAN N0.71 MAMUJU",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "91511",
+      "nisn": "0",
+      "tempat_lahir": "MAMUJU",
+      "tanggal_lahir": "1984-02-21",
+      "telepon": "0",
+      "handphone": "08114613050",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "BINANGA",
+      "id_wilayah": "330102",
+      "nik": "7602012102840004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "isalbawanong02@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "71661ab6-961e-4b65-ab6a-2eda538619a3",
+      "id_registrasi_mahasiswa_pddikti": "82c76fcd-0f98-410a-be68-63cbc88603c6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105027,
+        "id_mahasiswa": 347975,
+        "created_at": "2023-08-02 09:07:28"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3066,
+      "id_user": 69265,
+      "id_prodi": 115,
+      "nama": "dr. Djonny Ferianto S.Pualillin, SpB.Subsp.Onk.(K).",
+      "nidn": null,
+      "nip": "196902192018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105027,
+        "id_dosen": 3066
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3101,
+      "id_user": 60188,
+      "id_prodi": 115,
+      "nama": "dr. John SLA Pieter, SpB.Subsp.Onk.(K).",
+      "nidn": "8843330017",
+      "nip": "197111202018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be9e09c5-d719-4a9e-97eb-105803770903",
+      "pivot": {
+        "id_kelas_kuliah": 105027,
+        "id_dosen": 3101
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1855,
+      "id_user": 18644,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Prihantono, S.Ked., Sp.B(K)Onk., M.Kes.",
+      "nidn": "0029067408",
+      "nip": "197406292008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f8c3a284-7a90-4c0d-968e-c62e7995fd9f",
+      "pivot": {
+        "id_kelas_kuliah": 105027,
+        "id_dosen": 1855
+      }
+    }
+  ]
+}

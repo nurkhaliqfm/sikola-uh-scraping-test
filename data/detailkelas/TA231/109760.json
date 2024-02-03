@@ -1,0 +1,45 @@
+{
+  "id_prodi": 157,
+  "nama_prodi": "KETEKNIKAN PERTANIAN - S2",
+  "id_prodi_semester": 2494,
+  "idnumber_sikola": "36939.109760.157",
+  "shortname_sikola": "TA231-109760",
+  "kode_matkul": "19G04212002",
+  "nama_matkul": "Manajemen Agroindustri dan Pascapanen",
+  "nama_kelas": "Manajemen Agroindustri dan Pascapanen (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 687,
+      "id_user": 23573,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Mursalim, IPU., ASEAN.Eng.",
+      "nidn": "0010056102",
+      "nip": "196105101987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6f6c902-415f-4de4-ae93-c8ca138f80ad",
+      "pivot": {
+        "id_kelas_kuliah": 109760,
+        "id_dosen": 687
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1887,
+      "id_user": 23408,
+      "id_prodi": 155,
+      "nama": "Diyah Yumeina, STP.,M.Agr.,Ph.D.",
+      "nidn": "0029018104",
+      "nip": "198101292009122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "29694b3a-ffc6-44f6-a99a-31f210e35f69",
+      "pivot": {
+        "id_kelas_kuliah": 109760,
+        "id_dosen": 1887
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id_prodi": 27,
+  "nama_prodi": "ADMINISTRASI PUBLIK - S1",
+  "id_prodi_semester": 2391,
+  "idnumber_sikola": "10708.118444.27",
+  "shortname_sikola": "TA231-118444",
+  "kode_matkul": "332E2103",
+  "nama_matkul": "Metode Penelitian Administrasi",
+  "nama_kelas": "Metode Penelitian Administrasi A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 45045,
+      "id_user": 17395,
+      "id_prodi": 27,
+      "angkatan": 2018,
+      "nama_mahasiswa": "ANDI ANNIZA QURRATA AININ PADJONGA",
+      "nim": "E011181517",
+      "jalan": "JLN. SULTAN ALAUDDIN PERUMAHAN PERMATA SARI PS4 NO.29",
+      "rt": 2,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "90221",
+      "nisn": "E011181517",
+      "tempat_lahir": "ujung pandang",
+      "tanggal_lahir": "1999-05-27",
+      "telepon": "089630828795",
+      "handphone": "089630828795",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "gunungsari",
+      "id_wilayah": "196013",
+      "nik": "7371136705990003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andiannizaqap@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f9b477c3-11e3-4995-bd5c-2370a7881ad9",
+      "id_registrasi_mahasiswa_pddikti": "92511595-90c5-4a18-9c13-21c6c136504d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118444,
+        "id_mahasiswa": 45045,
+        "created_at": "2023-12-15 13:39:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 945,
+      "id_user": 19424,
+      "id_prodi": 27,
+      "nama": "Prof. Dr.  Mohamad Thahir Haning, M.Si.",
+      "nidn": "0007055712",
+      "nip": "195705071984031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "90671e1a-de6f-41af-8023-9f7c76acf5cd",
+      "pivot": {
+        "id_kelas_kuliah": 118444,
+        "id_dosen": 945
+      }
+    }
+  ]
+}

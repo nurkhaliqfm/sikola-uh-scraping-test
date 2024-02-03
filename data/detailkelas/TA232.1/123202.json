@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46476.123202.11",
+  "shortname_sikola": "TA232-123202",
+  "kode_matkul": "23D13130503",
+  "nama_matkul": "Perencanaan Bangunan Pengolahan Air Minum",
+  "nama_kelas": "Perencanaan Bangunan Pengolahan Air Minum A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2084,
+      "id_user": 32479,
+      "id_prodi": 11,
+      "nama": "Dr. Roslinda Ibrahim, S.P., M.T",
+      "nidn": "0023067502",
+      "nip": "197506232015042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aafa63e6-4385-4e1b-9d7f-2bcd92fbcb15",
+      "pivot": {
+        "id_kelas_kuliah": 123202,
+        "id_dosen": 2084
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3450,
+      "id_user": 57932,
+      "id_prodi": 11,
+      "nama": "Nurul Masyiah Rani Harusi, S.T., M.Eng",
+      "nidn": "0015019501",
+      "nip": "199501152021074001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "cb29b76b-7d53-4514-82df-a16949c500f5",
+      "pivot": {
+        "id_kelas_kuliah": 123202,
+        "id_dosen": 3450
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 174,
+  "nama_prodi": "ILMU POLITIK - S2",
+  "id_prodi_semester": 2511,
+  "idnumber_sikola": "43007.116828.174",
+  "shortname_sikola": "TA231-116828",
+  "kode_matkul": "22E05210601",
+  "nama_matkul": "Benchmarking",
+  "nama_kelas": "Reguler I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1668,
+      "id_user": 10130,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Phil. Sukri, S.IP., M.Si.",
+      "nidn": "0018087507",
+      "nip": "197508182008011008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "72714fe6-561d-40d4-bfda-a92776daff64",
+      "pivot": {
+        "id_kelas_kuliah": 116828,
+        "id_dosen": 1668
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1564,
+      "id_user": 10606,
+      "id_prodi": 24,
+      "nama": "Dr. Ariana, S.I.P.,M.Si.",
+      "nidn": "0005077102",
+      "nip": "197107051998032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24c26530-8ced-47e3-9b4f-a3d80b543d8b",
+      "pivot": {
+        "id_kelas_kuliah": 116828,
+        "id_dosen": 1564
+      }
+    }
+  ]
+}

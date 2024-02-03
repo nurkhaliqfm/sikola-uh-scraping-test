@@ -1,0 +1,29 @@
+{
+  "id_prodi": 257,
+  "nama_prodi": "ILMU KEDOKTERAN GIGI - S3",
+  "id_prodi_semester": 2818,
+  "idnumber_sikola": "43989.129711.257",
+  "shortname_sikola": "TA232-129711",
+  "kode_matkul": "22J01320101",
+  "nama_matkul": "Seminar Progres 5",
+  "nama_kelas": "Seminar Progres 5",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1554,
+      "id_user": 37255,
+      "id_prodi": 55,
+      "nama": "Dr. drg. Nurlindah Hamrun, M.Kes.",
+      "nidn": "0005056802",
+      "nip": "196805051999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60f2e10f-8d28-4d1b-a62f-58283308bf12",
+      "pivot": {
+        "id_kelas_kuliah": 129711,
+        "id_dosen": 1554
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 66,
+  "nama_prodi": "ILMU KELAUTAN - S1",
+  "id_prodi_semester": 2414,
+  "idnumber_sikola": "44928.112283.66",
+  "shortname_sikola": "TA231-112283",
+  "kode_matkul": "23L01131203",
+  "nama_matkul": "Geomorfologi Pesisir  (P)",
+  "nama_kelas": "Geomorfologi Pesisir (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141515,
+      "id_user": 40240,
+      "id_prodi": 66,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NUR  AIMMATUNNISA H.MUSTAMIN",
+      "nim": "L011201054",
+      "jalan": "JL BANDANG NO. 22",
+      "rt": 4,
+      "rw": 1,
+      "dusun": "LINGK. BARU",
+      "kode_pos": "91219",
+      "nisn": "0025992422",
+      "tempat_lahir": "PINRANG",
+      "tanggal_lahir": "2002-04-09",
+      "telepon": "0",
+      "handphone": "6285756489261",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PENRANG",
+      "id_wilayah": "191404",
+      "nik": "7315044904020002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aimmanisaa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "4435bff9-f1fd-46f4-8c0e-0caabe36e4f9",
+      "id_registrasi_mahasiswa_pddikti": "eb77be9a-ec47-40ed-8984-9642f4a0752a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112283,
+        "id_mahasiswa": 141515,
+        "created_at": "2024-01-02 16:15:49"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1160,
+      "id_user": 16420,
+      "id_prodi": 66,
+      "nama": "Dr. Muhammad Anshar Amran, M.Si.",
+      "nidn": "0018026402",
+      "nip": "196402181992031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "36666b2e-6f43-4e91-aece-1b46f99b7ea4",
+      "pivot": {
+        "id_kelas_kuliah": 112283,
+        "id_dosen": 1160
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1768,
+      "id_user": 11009,
+      "id_prodi": 66,
+      "nama": "Dr. Wasir Samad, S.Si., M.Si.",
+      "nidn": "0023117205",
+      "nip": "197211232006041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e39df791-ec85-4bc4-9f50-93b1654587e3",
+      "pivot": {
+        "id_kelas_kuliah": 112283,
+        "id_dosen": 1768
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1396,
+      "id_user": 10978,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  Ahmad Faizal, ST., M.Si.",
+      "nidn": "0027077506",
+      "nip": "197507272001121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4d020133-6590-4e27-815d-4a46b7dea000",
+      "pivot": {
+        "id_kelas_kuliah": 112283,
+        "id_dosen": 1396
+      }
+    }
+  ]
+}

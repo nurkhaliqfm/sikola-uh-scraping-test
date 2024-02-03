@@ -1,0 +1,93 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48122.129349.12",
+  "shortname_sikola": "TA232-129349",
+  "kode_matkul": "23D02120304",
+  "nama_matkul": "Matematika Dasar III",
+  "nama_kelas": "MATEMATIKA DASAR III A2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1262,
+      "id_user": 33505,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Zuryati Djafar, MT.",
+      "nidn": "0001036802",
+      "nip": "196803011997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eca59994-74e0-45c2-bfbe-122dc7ab3657",
+      "pivot": {
+        "id_kelas_kuliah": 129349,
+        "id_dosen": 1262
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1141,
+      "id_user": 34320,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ing. Wahyu Haryadi Piarah, MSME.",
+      "nidn": "0002036004",
+      "nip": "196003021986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "602228c6-6068-469f-8ea1-2aaab24b24cb",
+      "pivot": {
+        "id_kelas_kuliah": 129349,
+        "id_dosen": 1141
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 877,
+      "id_user": 29849,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Zulkifli Djafar, MT.",
+      "nidn": "0030066502",
+      "nip": "196506301991031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7ba17152-8498-4e20-b976-6762c9dffe1b",
+      "pivot": {
+        "id_kelas_kuliah": 129349,
+        "id_dosen": 877
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 824,
+      "id_user": 34176,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir  Luther Sule, MT.",
+      "nidn": "0027085601",
+      "nip": "195608271985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "853d14fc-aa4f-44a7-b659-c502cdc6ff15",
+      "pivot": {
+        "id_kelas_kuliah": 129349,
+        "id_dosen": 824
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4143,
+      "id_user": null,
+      "id_prodi": 12,
+      "nama": "Taufiqurrahman Zulkifli, S.T., M.T.",
+      "nidn": null,
+      "nip": "7371140910940001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 129349,
+        "id_dosen": 4143
+      }
+    }
+  ]
+}

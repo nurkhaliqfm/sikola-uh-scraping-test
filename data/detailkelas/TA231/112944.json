@@ -1,0 +1,29 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2368,
+  "idnumber_sikola": "47880.112944.1",
+  "shortname_sikola": "TA231-112944",
+  "kode_matkul": "23A01110202",
+  "nama_matkul": "Pengantar Ekonomi Mikro",
+  "nama_kelas": "PENGANTAR EKONOMI MIKRO KELAS N",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1645,
+      "id_user": 10051,
+      "id_prodi": 1,
+      "nama": "Dr. Nur Dwiana Sari Saudi, SE.,M.Si.",
+      "nidn": "0019017708",
+      "nip": "197701192008012008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9f9c301b-4b43-44f2-affd-39be2e901c8a",
+      "pivot": {
+        "id_kelas_kuliah": 112944,
+        "id_dosen": 1645
+      }
+    }
+  ]
+}

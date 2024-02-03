@@ -1,0 +1,29 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2650,
+  "idnumber_sikola": "48778.128507.71",
+  "shortname_sikola": "TA232-128507",
+  "kode_matkul": "499U004",
+  "nama_matkul": "Kuliah Kerja Nyata",
+  "nama_kelas": "Desa Wisata Bantaeng 3",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1987,
+      "id_user": 19720,
+      "id_prodi": 153,
+      "nama": "Ir. Rusli M. Rukka, SP., M.Si.",
+      "nidn": "0026097007",
+      "nip": "197009262005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf52d0c7-9bc3-4f92-974d-89e9451012db",
+      "pivot": {
+        "id_kelas_kuliah": 128507,
+        "id_dosen": 1987
+      }
+    }
+  ]
+}

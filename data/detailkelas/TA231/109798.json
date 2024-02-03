@@ -1,0 +1,29 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "45711.109798.148",
+  "shortname_sikola": "TA231-109798",
+  "kode_matkul": "23R01410102",
+  "nama_matkul": "Praktik Profesi Keperawatan Dasar",
+  "nama_kelas": "Kep.Dasar Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2934,
+      "id_user": 60821,
+      "id_prodi": 148,
+      "nama": "Andi Fajrin Permana S.Kep.,Ns.,M.Sc",
+      "nidn": "0006129206",
+      "nip": "199212062022043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7c9f438e-45c8-45cc-b5ae-c7a689b6de4d",
+      "pivot": {
+        "id_kelas_kuliah": 109798,
+        "id_dosen": 2934
+      }
+    }
+  ]
+}

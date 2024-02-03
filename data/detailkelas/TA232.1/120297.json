@@ -1,0 +1,101 @@
+{
+  "id_prodi": 92,
+  "nama_prodi": "ILMU KIMIA - S3",
+  "id_prodi_semester": 2668,
+  "idnumber_sikola": "37349.120297.92",
+  "shortname_sikola": "TA232-120297",
+  "kode_matkul": "18H01320105",
+  "nama_matkul": "Jurnal Internasional 1",
+  "nama_kelas": "Jurnal Internasional 1 (REG. C)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157689,
+      "id_user": 54220,
+      "id_prodi": 92,
+      "angkatan": 2021,
+      "nama_mahasiswa": "EKA SUKMAWATY",
+      "nim": "H013211003",
+      "jalan": "JL. H.M YASIN LIMPO",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "92118",
+      "nisn": null,
+      "tempat_lahir": "PAREPARE",
+      "tanggal_lahir": "1986-07-16",
+      "telepon": "0",
+      "handphone": "08114131607",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "ROMANGPOLONG",
+      "id_wilayah": "190304",
+      "nik": "7311045607860005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ekasukmawaty@uin-alauddin.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5bd0c2aa-39a9-4c19-a0ae-5f5a1b2b2287",
+      "id_registrasi_mahasiswa_pddikti": "1344807f-9f41-4799-91a0-2870ad3ce7fb",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120297,
+        "id_mahasiswa": 157689,
+        "created_at": "2024-01-30 12:14:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 706,
+      "id_user": 16642,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Ahyar",
+      "nidn": "0031126362",
+      "nip": "196712311991031020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ab02eec5-d0e6-4077-b0da-ae88a1ecb5dc",
+      "pivot": {
+        "id_kelas_kuliah": 120297,
+        "id_dosen": 706
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1056,
+      "id_user": 25210,
+      "id_prodi": 49,
+      "nama": "Dr. Abdul Karim, M.Si.",
+      "nidn": "0010076202",
+      "nip": "196207101988031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "495acd44-f620-4425-91d1-2a0a50ded964",
+      "pivot": {
+        "id_kelas_kuliah": 120297,
+        "id_dosen": 1056
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1153,
+      "id_user": 11054,
+      "id_prodi": 50,
+      "nama": "Dr.  Zaraswati Dwyana Zainuddin, M.Si.",
+      "nidn": "0009126502",
+      "nip": "196512091990082001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ed0e50f-359f-4496-bd4e-734d1b57a381",
+      "pivot": {
+        "id_kelas_kuliah": 120297,
+        "id_dosen": 1153
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 187,
+  "nama_prodi": "ILMU FARMASI - S3",
+  "id_prodi_semester": 2755,
+  "idnumber_sikola": "35741.128484.187",
+  "shortname_sikola": "TA232-128484",
+  "kode_matkul": "18N04310903",
+  "nama_matkul": "BIOTEKNOLOGI FARMASI LANJUTAN",
+  "nama_kelas": "BIOTEKNOLOGI FARMASI LANJUTAN (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 964,
+      "id_user": 30849,
+      "id_prodi": 73,
+      "nama": "Prof. Dr. Sartini, M.Si., Apt.",
+      "nidn": "0011116114",
+      "nip": "196111111987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a3a8e48b-61dc-4e0c-ae2e-c54234bc4eaa",
+      "pivot": {
+        "id_kelas_kuliah": 128484,
+        "id_dosen": 964
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1632,
+      "id_user": 20731,
+      "id_prodi": 73,
+      "nama": "Dr.  Herlina Rante, S.Si., M.Si., Apt.",
+      "nidn": "0025117702",
+      "nip": "197711252002122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "029419b8-2945-42bc-b2a3-6745b12b83a1",
+      "pivot": {
+        "id_kelas_kuliah": 128484,
+        "id_dosen": 1632
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 700,
+      "id_user": 31933,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  M. Natsir Djide, M.Si, Apt.",
+      "nidn": "8987110021",
+      "nip": "195008171979031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b80d439-82c7-45ce-9607-be647e6e028b",
+      "pivot": {
+        "id_kelas_kuliah": 128484,
+        "id_dosen": 700
+      }
+    }
+  ]
+}

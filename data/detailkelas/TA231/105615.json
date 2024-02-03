@@ -1,0 +1,45 @@
+{
+  "id_prodi": 216,
+  "nama_prodi": "TEKNIK PERTAMBANGAN -S2",
+  "id_prodi_semester": 2550,
+  "idnumber_sikola": "38011.105615.216",
+  "shortname_sikola": "TA231-105615",
+  "kode_matkul": "20D11211302",
+  "nama_matkul": "Benefisiasi Batubara",
+  "nama_kelas": "Benefisiasi Batubara Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1622,
+      "id_user": 31396,
+      "id_prodi": 22,
+      "nama": "Dr. Phil. Nat. Sri Widodo, ST.,MT.",
+      "nidn": "0001017127",
+      "nip": "197101012010121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1c65c851-0ff2-4f3a-abc0-c54fdf1adecf",
+      "pivot": {
+        "id_kelas_kuliah": 105615,
+        "id_dosen": 1622
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1561,
+      "id_user": 27709,
+      "id_prodi": 22,
+      "nama": "Dr. Sufriadin, ST., MT.",
+      "nidn": "0017086602",
+      "nip": "196608172000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5066421-a9ad-491b-b3f2-850571bc12ed",
+      "pivot": {
+        "id_kelas_kuliah": 105615,
+        "id_dosen": 1561
+      }
+    }
+  ]
+}

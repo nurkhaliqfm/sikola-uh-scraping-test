@@ -1,0 +1,85 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34729.112304.165",
+  "shortname_sikola": "TA231-112304",
+  "kode_matkul": "18D02310803",
+  "nama_matkul": "MATAKULIAH PILIHAN PENDUKUNG DISERTASI (MKPPD) LINTAS DISIPLIN ILMU",
+  "nama_kelas": "MATAKULIAH PILIHAN PENDUKUNG DISERTASI (MKPPD) LINTAS DISIPLIN ILMU (MARZON MAIZI)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 386439,
+      "id_user": 73118,
+      "id_prodi": 165,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MARSON MAIZI",
+      "nim": "D023222002",
+      "jalan": "JL. TOA DAENG NO. 10, Kota Makassar",
+      "rt": 1,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": null,
+      "tempat_lahir": "KAOBULA",
+      "tanggal_lahir": "1984-02-28",
+      "telepon": "082345175761",
+      "handphone": "082345175761",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Batua",
+      "id_wilayah": "120505",
+      "nik": "7472062802840001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "marsonmaizimt@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f1f52fbc-58a2-4e2f-b9f3-8d65e9618f97",
+      "id_registrasi_mahasiswa_pddikti": "83d5f5c6-f929-45e6-aa4d-12705b8d83e4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112304,
+        "id_mahasiswa": 386439,
+        "created_at": "2023-08-01 14:13:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 858,
+      "id_user": 32363,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Muhammad Wihardi Tjaronge, ST., M.Eng.",
+      "nidn": "0029056807",
+      "nip": "196805292002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "72750d22-f799-482a-a4c2-c00021e098d1",
+      "pivot": {
+        "id_kelas_kuliah": 112304,
+        "id_dosen": 858
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1832,
+      "id_user": 33443,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Bambang Bakri, ST., MT.",
+      "nidn": "0025048108",
+      "nip": "198104252008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b3baa0c0-551d-44bd-8786-713c7c9a593c",
+      "pivot": {
+        "id_kelas_kuliah": 112304,
+        "id_dosen": 1832
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2461,
+  "idnumber_sikola": "39175.113890.119",
+  "shortname_sikola": "TA231-113890",
+  "kode_matkul": "20C10540704",
+  "nama_matkul": "Unit RS Mitra / Rujukan C",
+  "nama_kelas": "Rujukan C - 20231",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2427,
+      "id_user": 74202,
+      "id_prodi": 119,
+      "nama": "dr. Rahmawaty, M.Kes., Sp.A.",
+      "nidn": "8822620016",
+      "nip": "198009032018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ea112661-c506-4cd8-9e31-d2784f756b5c",
+      "pivot": {
+        "id_kelas_kuliah": 113890,
+        "id_dosen": 2427
+      }
+    }
+  ]
+}

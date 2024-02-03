@@ -1,0 +1,61 @@
+{
+  "id_prodi": 133,
+  "nama_prodi": "TEKNIK PERENCANAAN PRASARANA - S2",
+  "id_prodi_semester": 2706,
+  "idnumber_sikola": "31548.127914.133",
+  "shortname_sikola": "TA232-127914",
+  "kode_matkul": "18P08211202",
+  "nama_matkul": "Perencanaan Prasarana Permukiman\r\n",
+  "nama_kelas": "Perencanaan Prasarana Permukiman (P) (TPP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1173,
+      "id_user": 32083,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Idawarni, MT.",
+      "nidn": "0001076502",
+      "nip": "196507011994032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fe5c9f9c-97d7-461c-bea3-0213c6bd1261",
+      "pivot": {
+        "id_kelas_kuliah": 127914,
+        "id_dosen": 1173
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3588,
+      "id_user": 79772,
+      "id_prodi": 133,
+      "nama": "Dr. Ir. Lucky Caroles, S.T., M.T",
+      "nidn": "8933050022",
+      "nip": "197704292022065001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "fe4f6bca-6ece-4762-be3a-24a629e56888",
+      "pivot": {
+        "id_kelas_kuliah": 127914,
+        "id_dosen": 3588
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1370,
+      "id_user": 29496,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Samsuddin, M.T",
+      "nidn": "0031126606",
+      "nip": "196612311994031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a04c83f5-bf5c-44ed-ae7c-7dfa8215390a",
+      "pivot": {
+        "id_kelas_kuliah": 127914,
+        "id_dosen": 1370
+      }
+    }
+  ]
+}

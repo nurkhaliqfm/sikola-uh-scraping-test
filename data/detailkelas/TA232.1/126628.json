@@ -1,0 +1,85 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2602,
+  "idnumber_sikola": "2541.126628.5",
+  "shortname_sikola": "TA232-126628",
+  "kode_matkul": "18B011410402",
+  "nama_matkul": "HUKUM WARIS BW\r\n",
+  "nama_kelas": "HUKUM WARIS BW KLS. INTERNASIONAL",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 154333,
+      "id_user": 50657,
+      "id_prodi": 5,
+      "angkatan": 2021,
+      "nama_mahasiswa": "NANDA YUNIZA EVIANI",
+      "nim": "B011211236",
+      "jalan": "JL. KAPTEN PIERRE TENDEAN I/6",
+      "rt": 2,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90217",
+      "nisn": "0036031442",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-02-02",
+      "telepon": "0",
+      "handphone": "085298158552",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "UJUNG PANDANG BARU",
+      "id_wilayah": "196009",
+      "nik": "7371074202030007",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nandayuniza0202@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a3c02faa-1f0e-40b3-bdee-17e300fd0645",
+      "id_registrasi_mahasiswa_pddikti": "b7a5d50d-a0dd-4c17-a200-7b5d814878dc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126628,
+        "id_mahasiswa": 154333,
+        "created_at": "2024-02-02 00:02:56"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 841,
+      "id_user": 11199,
+      "id_prodi": 5,
+      "nama": "Dr. Winner Sitorus, S.H., M.H., LLM.",
+      "nidn": "0026036601",
+      "nip": "196603261991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "54d15227-c5bc-4f54-a919-2433aa347617",
+      "pivot": {
+        "id_kelas_kuliah": 126628,
+        "id_dosen": 841
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3610,
+      "id_user": null,
+      "id_prodi": 5,
+      "nama": "Santi Kouwagam, S.H., LL.M., Ph.D",
+      "nidn": null,
+      "nip": "7371034410830001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126628,
+        "id_dosen": 3610
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26246.125496.80",
+  "shortname_sikola": "TA232-125496",
+  "kode_matkul": "18P02210302",
+  "nama_matkul": "Ekonomi Wilayah\r\n",
+  "nama_kelas": "Ekonomi Wilayah (P) (PPW)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 971,
+      "id_user": 23186,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Muslim, M.Sc.",
+      "nidn": "0016066801",
+      "nip": "196806161992031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d194bda0-3b4b-4f1a-9f21-8090493844bd",
+      "pivot": {
+        "id_kelas_kuliah": 125496,
+        "id_dosen": 971
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1254,
+      "id_user": 23764,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Mahyuddin, M.Si.",
+      "nidn": "0002076801",
+      "nip": "196807021993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3ae8f218-0817-4b55-ad94-8de75413000e",
+      "pivot": {
+        "id_kelas_kuliah": 125496,
+        "id_dosen": 1254
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2519,
+      "id_user": 11866,
+      "id_prodi": 80,
+      "nama": "Dr. Kurniaty, S.E., M.Si",
+      "nidn": "0901058005",
+      "nip": "198005012019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87653b30-453f-44d8-a24c-9bd90c2d18ec",
+      "pivot": {
+        "id_kelas_kuliah": 125496,
+        "id_dosen": 2519
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3364,
+      "id_user": null,
+      "id_prodi": 80,
+      "nama": "Dr. Jimmy R.A. Torar, S.E., M.M",
+      "nidn": null,
+      "nip": "12345678",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125496,
+        "id_dosen": 3364
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2602,
+  "idnumber_sikola": "2553.119108.5",
+  "shortname_sikola": "TA232-119108",
+  "kode_matkul": "18B011411602",
+  "nama_matkul": "PERBANDINGAN SISTEM HUKUM\r\n",
+  "nama_kelas": "PERBANDINGAN SISTEM HUKUM",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 153805,
+      "id_user": 50101,
+      "id_prodi": 5,
+      "angkatan": 2021,
+      "nama_mahasiswa": "NABILA NANDAYANI HARIS",
+      "nim": "B011211177",
+      "jalan": "JL. TAMALATE II NO.05,RT/RW 001/008,KECAMATAN RAPPOCINI,KELURAHAN MAPPALA",
+      "rt": 1,
+      "rw": 8,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "0033653195",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-12-08",
+      "telepon": "0",
+      "handphone": "081243312923",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MAPPALA",
+      "id_wilayah": "196013",
+      "nik": "7371134812030003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nabilanandayaniharis@gmai.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "405f777a-71d3-409f-9d97-fca91061cad8",
+      "id_registrasi_mahasiswa_pddikti": "3896c98b-18a4-4f56-a8ba-465b6a02da6f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119108,
+        "id_mahasiswa": 153805,
+        "created_at": "2024-01-16 19:51:52"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 142127,
+      "id_user": 41521,
+      "id_prodi": 5,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUCHAMMAD NURICHSAN AGUS",
+      "nim": "B011201206",
+      "jalan": "Jalan. RS. Faisal 18 No. 6",
+      "rt": 7,
+      "rw": 6,
+      "dusun": "-",
+      "kode_pos": "90222",
+      "nisn": "0012308858",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2001-05-24",
+      "telepon": "081703399644",
+      "handphone": "6281703399644",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Banta-Bantaeng",
+      "id_wilayah": "196000",
+      "nik": "7371010905010003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Ichsan2451@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "bc9a2dc1-3b7b-464a-8b0f-05825321ca7a",
+      "id_registrasi_mahasiswa_pddikti": "2b2d2643-3226-44b1-a15e-b451f15df9c8",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119108,
+        "id_mahasiswa": 142127,
+        "created_at": "2024-02-02 08:37:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 791,
+      "id_user": 34085,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Syamsuddin Muhammad Noor, SH., MH.",
+      "nidn": "0002075503",
+      "nip": "195507021988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2fbfbcbd-83b7-43a5-b6f4-c58f244758a2",
+      "pivot": {
+        "id_kelas_kuliah": 119108,
+        "id_dosen": 791
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2112,
+      "id_user": 34250,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Ny. Alma Manuputty, SH., MH.",
+      "nidn": "9900981981",
+      "nip": "194603121969022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "855605e6-1ccb-4102-b55e-9f420a9cd4f3",
+      "pivot": {
+        "id_kelas_kuliah": 119108,
+        "id_dosen": 2112
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1272,
+      "id_user": 31362,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Maskun, SH., LLM.",
+      "nidn": "0028117601",
+      "nip": "197611291999031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "702634be-fd1a-4e82-a8cf-215e16b7cd77",
+      "pivot": {
+        "id_kelas_kuliah": 119108,
+        "id_dosen": 1272
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3521,
+      "id_user": 47672,
+      "id_prodi": 5,
+      "nama": "Riyad Febrian Anwar, S..H., LL.M.",
+      "nidn": null,
+      "nip": "7371130602920003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 119108,
+        "id_dosen": 3521
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 166,
+  "nama_prodi": "TEKNOLOGI KEBUMIAN DAN LINGKUNGAN - S3",
+  "id_prodi_semester": 2503,
+  "idnumber_sikola": "34765.113125.166",
+  "shortname_sikola": "TA231-113125",
+  "kode_matkul": "18D03310303",
+  "nama_matkul": "PENUNJANG DISERTASI 1",
+  "nama_kelas": "PENUNJANG DISERTASI 1 / Muh. Fahrullah Kelas C",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 387559,
+      "id_user": 72848,
+      "id_prodi": 166,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUH. FAHRULLAH",
+      "nim": "D033222003",
+      "jalan": "JL. ANAWAI, GRAHA PERSADA RESIDENCE BLOK C. NO. 2",
+      "rt": 2,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "93118",
+      "nisn": "D033222003",
+      "tempat_lahir": "PEKKAE",
+      "tanggal_lahir": "1988-03-10",
+      "telepon": "0",
+      "handphone": "0811416230",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "ANAWAI",
+      "id_wilayah": "206009",
+      "nik": "7311021003880004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fahrullahinsinyur88@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "05020621-4950-4da7-a6f9-ab61d046e046",
+      "id_registrasi_mahasiswa_pddikti": "c7bcdc8d-576c-46a7-96a6-7f66c5f3133b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113125,
+        "id_mahasiswa": 387559,
+        "created_at": "2023-08-03 15:46:48"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1270,
+      "id_user": 28264,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Adi Tonggiroh, ST., MT.",
+      "nidn": "0028096501",
+      "nip": "196509282000031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5c28690a-0f4c-4053-8bc8-da669a992ac0",
+      "pivot": {
+        "id_kelas_kuliah": 113125,
+        "id_dosen": 1270
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1622,
+      "id_user": 31396,
+      "id_prodi": 22,
+      "nama": "Dr. Phil. Nat. Sri Widodo, ST.,MT.",
+      "nidn": "0001017127",
+      "nip": "197101012010121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1c65c851-0ff2-4f3a-abc0-c54fdf1adecf",
+      "pivot": {
+        "id_kelas_kuliah": 113125,
+        "id_dosen": 1622
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1950,
+      "id_user": 28829,
+      "id_prodi": 21,
+      "nama": "Dr. Eng. Hendra Pachri, S.T., M.Eng",
+      "nidn": "0014127705",
+      "nip": "197712142005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38f01ca0-2989-4839-9af6-40a23858cb01",
+      "pivot": {
+        "id_kelas_kuliah": 113125,
+        "id_dosen": 1950
+      }
+    }
+  ]
+}

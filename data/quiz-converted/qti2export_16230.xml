@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Final Test No. 2</text></name><questiontext format="html"><text><![CDATA[<p>Interchange of limit</p><p><b>2. (Point 20) Competency CO1</b></p>
+
+<p>Explain the statement below whether it is true or it is not true. Give a reason such as a counterexample or the statement of a theorem etc.</p>
+
+<ol style="list-style-type:lower-alpha">
+	<li><span style="line-height:normal"><span style="tab-stops:list 2.0cm">If a sequence of continuous functions converges uniformly to another function on a domain A, then the limit function has to be continuous on A .</span></span></li>
+	<li><span style="line-height:normal"><span style="tab-stops:list 2.0cm">If a sequence of continuous functions converges pointwise to another function on a domain A, then the limit function has to be continuous on A?</span></span></li>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>200.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_215660</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

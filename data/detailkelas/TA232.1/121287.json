@@ -1,0 +1,85 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "48309.121287.12",
+  "shortname_sikola": "TA232-121287",
+  "kode_matkul": "23D02136002",
+  "nama_matkul": "Kendaraan Listrik",
+  "nama_kelas": "KENDARAAN LISTRIK",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 153754,
+      "id_user": 50046,
+      "id_prodi": 12,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUHAMMAD AJRY ALIVIO",
+      "nim": "D021211028",
+      "jalan": "BALANA 1 NO. 38 MAKASSAR KOTA MAKASSAR PROV. SULAWESI SELATAN 90145",
+      "rt": 7,
+      "rw": 2,
+      "dusun": "-",
+      "kode_pos": "90145",
+      "nisn": "0044700617",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-05-29",
+      "telepon": "0",
+      "handphone": "082193141247",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BARANA",
+      "id_wilayah": "016404",
+      "nik": "7371032905030003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "alivioajry@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e40c6ade-65c4-4e1c-a9be-b770f79a11e3",
+      "id_registrasi_mahasiswa_pddikti": "afe2178e-b359-42f1-a378-7260ae451120",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121287,
+        "id_mahasiswa": 153754,
+        "created_at": "2024-01-14 09:42:43"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1427,
+      "id_user": 31767,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng Jalaluddin, ST., MT.",
+      "nidn": "0025087201",
+      "nip": "197208252000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "67974365-53ce-4226-b25a-972ab0cf7489",
+      "pivot": {
+        "id_kelas_kuliah": 121287,
+        "id_dosen": 1427
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1953,
+      "id_user": 34342,
+      "id_prodi": 12,
+      "nama": "Dr. Eng.  Andi Amijoyo Mochtar, ST.,M.Sc.",
+      "nidn": "0016027607",
+      "nip": "197602162010121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d534b83-49c7-46e4-b8e3-c8064ac249cd",
+      "pivot": {
+        "id_kelas_kuliah": 121287,
+        "id_dosen": 1953
+      }
+    }
+  ]
+}

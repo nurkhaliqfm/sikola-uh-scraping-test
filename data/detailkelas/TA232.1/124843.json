@@ -1,0 +1,172 @@
+{
+  "id_prodi": 115,
+  "nama_prodi": "PPDS ILMU BEDAH",
+  "id_prodi_semester": 2688,
+  "idnumber_sikola": "38420.124843.115",
+  "shortname_sikola": "TA232-124843",
+  "kode_matkul": "20C04520103",
+  "nama_matkul": "Bedah Saraf 1",
+  "nama_kelas": "Bedah Saraf 1 20232",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385489,
+      "id_user": 72022,
+      "id_prodi": 115,
+      "angkatan": 2022,
+      "nama_mahasiswa": "M ALIF VISYAR",
+      "nim": "C045222006",
+      "jalan": "JL. HARIMAU NO.29",
+      "rt": 1,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90142",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1996-06-18",
+      "telepon": "0",
+      "handphone": "081243234178",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Maricaya",
+      "id_wilayah": "196000",
+      "nik": "7371031806960004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "alifvisyar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "406d6e3e-1535-4316-995d-a267df87374a",
+      "id_registrasi_mahasiswa_pddikti": "84b0f177-23b2-450e-840d-d869cf9b415d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124843,
+        "id_mahasiswa": 385489,
+        "created_at": "2024-01-23 14:06:47"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 385487,
+      "id_user": 73174,
+      "id_prodi": 115,
+      "angkatan": 2022,
+      "nama_mahasiswa": "GAYATRI SUMANTRI",
+      "nim": "C045222003",
+      "jalan": "JALAN HATI MURNI NO.24",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Mattoangin",
+      "kode_pos": "90121",
+      "nisn": null,
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "1989-03-11",
+      "telepon": "0",
+      "handphone": "082119982220",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Mattoangin",
+      "id_wilayah": "196001",
+      "nik": "7371015103890002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "gayatrisumantri1222@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "377513a8-db92-4d1e-adef-a21bc4b13feb",
+      "id_registrasi_mahasiswa_pddikti": "f0332d3c-72f2-4785-950a-2b8966ef7b0f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124843,
+        "id_mahasiswa": 385487,
+        "created_at": "2024-01-29 19:35:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 769,
+      "id_user": 35366,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Andi Asadul Islam, Sp.BS(K)",
+      "nidn": "0019105501",
+      "nip": "195510191982031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff43eff4-f4af-4474-bb76-b72c420e6568",
+      "pivot": {
+        "id_kelas_kuliah": 124843,
+        "id_dosen": 769
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2939,
+      "id_user": 83104,
+      "id_prodi": 182,
+      "nama": "Dr. dr. Djoko Widodo, Sp.BS(K)",
+      "nidn": "8879650017",
+      "nip": "196201232018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ac9e9ad-9df4-4084-9120-4c1cf327f08b",
+      "pivot": {
+        "id_kelas_kuliah": 124843,
+        "id_dosen": 2939
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2938,
+      "id_user": 74037,
+      "id_prodi": 182,
+      "nama": "Dr. dr. Nasrullah Mustamir, Sp.BS(K)",
+      "nidn": "8899650017",
+      "nip": "196505081996031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b68bc78-b493-4776-980f-20e573e2bda2",
+      "pivot": {
+        "id_kelas_kuliah": 124843,
+        "id_dosen": 2938
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1816,
+      "id_user": 69214,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Willy Adhimarta, Sp.BS(K)",
+      "nidn": "0022037603",
+      "nip": "197603222008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be556a1d-6c2c-4581-912f-6ab277225bf7",
+      "pivot": {
+        "id_kelas_kuliah": 124843,
+        "id_dosen": 1816
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3605,
+      "id_user": 84121,
+      "id_prodi": 182,
+      "nama": "Dr. dr. Wahyudi, Sp.BS(K).",
+      "nidn": null,
+      "nip": "0914097902",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124843,
+        "id_dosen": 3605
+      }
+    }
+  ]
+}

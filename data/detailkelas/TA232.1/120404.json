@@ -1,0 +1,117 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2743,
+  "idnumber_sikola": "37001.120404.175",
+  "shortname_sikola": "TA232-120404",
+  "kode_matkul": "19G01212702",
+  "nama_matkul": "Konservasi Lahan Marginal",
+  "nama_kelas": "Konservasi Lahan Marginal (Kelas A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428307,
+      "id_user": 86834,
+      "id_prodi": 175,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RIRIN KHOLIFAH",
+      "nim": "G012232010",
+      "jalan": "JL. USMAN BINOL",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "94514",
+      "nisn": "-",
+      "tempat_lahir": "LAMONGAN",
+      "tanggal_lahir": "1999-03-25",
+      "telepon": "0",
+      "handphone": "082241585864",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BARU",
+      "id_wilayah": "180604",
+      "nik": "7204076503990002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86834,
+      "kode_status": "A",
+      "email": "ririnkholifah25@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120404,
+        "id_mahasiswa": 428307,
+        "created_at": "2024-01-19 14:04:42"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1078,
+      "id_user": 23544,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Dorothea Agnes Rampisela, M.Sc.",
+      "nidn": "0017015701",
+      "nip": "195701171983032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1857c589-d52e-40f7-b85f-1619e13b214e",
+      "pivot": {
+        "id_kelas_kuliah": 120404,
+        "id_dosen": 1078
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1432,
+      "id_user": 23534,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Rismaneswati, SP., MP.",
+      "nidn": "0003027603",
+      "nip": "197603022002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "285ce4a4-ed63-4fd0-ac81-bfb5855aa0f7",
+      "pivot": {
+        "id_kelas_kuliah": 120404,
+        "id_dosen": 1432
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1420,
+      "id_user": 23636,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Muhammad Nathan, M.Agr.c.",
+      "nidn": "0015036303",
+      "nip": "196303151991031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f09ce530-9457-4cec-9680-e3a3eeee343e",
+      "pivot": {
+        "id_kelas_kuliah": 120404,
+        "id_dosen": 1420
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1843,
+      "id_user": 9793,
+      "id_prodi": 152,
+      "nama": "Ir. Sartika Laban, SP., MP., Ph.D.",
+      "nidn": "0028108204",
+      "nip": "198210282008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7817e992-311f-4dd5-9310-9dbd9b5d64a6",
+      "pivot": {
+        "id_kelas_kuliah": 120404,
+        "id_dosen": 1843
+      }
+    }
+  ]
+}

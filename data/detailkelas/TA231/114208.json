@@ -1,0 +1,45 @@
+{
+  "id_prodi": 14,
+  "nama_prodi": "TEKNIK PERKAPALAN - S1",
+  "id_prodi_semester": 2379,
+  "idnumber_sikola": "47758.114208.14",
+  "shortname_sikola": "TA231-114208",
+  "kode_matkul": "23D03122302",
+  "nama_matkul": "Kapal LNG",
+  "nama_kelas": "Kapal LNG Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 953,
+      "id_user": 30813,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. Ganding Sitepu, Dipl.Ing.",
+      "nidn": "0025046001",
+      "nip": "196004251988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c03a196-67da-45f0-bff6-f092c091b210",
+      "pivot": {
+        "id_kelas_kuliah": 114208,
+        "id_dosen": 953
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1128,
+      "id_user": 30808,
+      "id_prodi": 14,
+      "nama": "Farianto Fachruddin L., ST.,MT.",
+      "nidn": "0026047001",
+      "nip": "197004261994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "444586fd-32c4-458a-8c32-38c1785f065b",
+      "pivot": {
+        "id_kelas_kuliah": 114208,
+        "id_dosen": 1128
+      }
+    }
+  ]
+}

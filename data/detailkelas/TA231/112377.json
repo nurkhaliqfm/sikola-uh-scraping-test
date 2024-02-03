@@ -1,0 +1,61 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34720.112377.165",
+  "shortname_sikola": "TA231-112377",
+  "kode_matkul": "18D02310303",
+  "nama_matkul": "PENULISAN ILMIAH DAN ETIKA AKADEMIK",
+  "nama_kelas": "PENULISAN ILMIA DAN ETIKA AKADEMIK",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 112377,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1227,
+      "id_user": 17220,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Rosady Mulyadi, ST., MT.",
+      "nidn": "0010087001",
+      "nip": "197008101998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c5ca569-9daf-42b2-863d-dbaa2c1e7189",
+      "pivot": {
+        "id_kelas_kuliah": 112377,
+        "id_dosen": 1227
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1581,
+      "id_user": 20337,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Asniawaty, ST., MT.",
+      "nidn": "0025097103",
+      "nip": "197109251999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "84165af9-44e5-440c-86d6-565a2078e2df",
+      "pivot": {
+        "id_kelas_kuliah": 112377,
+        "id_dosen": 1581
+      }
+    }
+  ]
+}

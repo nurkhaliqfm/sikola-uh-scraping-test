@@ -1,0 +1,29 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2368,
+  "idnumber_sikola": "47879.113079.1",
+  "shortname_sikola": "TA231-113079",
+  "kode_matkul": "23A01110103",
+  "nama_matkul": "Pengantar Matematika Ekonomi",
+  "nama_kelas": "PENGANTAR MATEMATIKA EKONOMI KELAS D",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1317,
+      "id_user": 22400,
+      "id_prodi": 1,
+      "nama": "Dr.  Madris, M.Si",
+      "nidn": "0031126019",
+      "nip": "196012311988111002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1481dc01-2f93-4e77-b691-4f575f3f3d46",
+      "pivot": {
+        "id_kelas_kuliah": 113079,
+        "id_dosen": 1317
+      }
+    }
+  ]
+}

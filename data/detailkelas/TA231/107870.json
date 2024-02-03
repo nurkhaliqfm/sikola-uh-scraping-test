@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34896.107870.168",
+  "shortname_sikola": "TA231-107870",
+  "kode_matkul": "18D04320403",
+  "nama_matkul": "PRESENTASI MAKALAH ILMIAH PADA SEMINAR INTERNASIONAL",
+  "nama_kelas": "Presentasi Makalah Ilmiah pada Seminar Internasional ( Nitha)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117074,
+      "id_user": 19708,
+      "id_prodi": 168,
+      "angkatan": 2018,
+      "nama_mahasiswa": "NITHA",
+      "nim": "D043181002",
+      "jalan": "Jln. Satelit II No. 42 Taman Telkomas, Makassar",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Rantepao",
+      "kode_pos": "91831",
+      "nisn": null,
+      "tempat_lahir": "Rantepao",
+      "tanggal_lahir": "1978-11-02",
+      "telepon": "082292410124",
+      "handphone": "082292410124",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Rantepao",
+      "id_wilayah": "192710",
+      "nik": "7326114211780002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nithamaska@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "dc5437e8-7d30-4bf9-8aea-643331d0491d",
+      "id_registrasi_mahasiswa_pddikti": "eb21bdb9-4c02-4d70-b2e3-74bef62979b6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107870,
+        "id_mahasiswa": 117074,
+        "created_at": "2023-09-16 18:09:46"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 901,
+      "id_user": 17252,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Onny Suryono Sutresman, MT.",
+      "nidn": "8902560023",
+      "nip": "195206071978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d048f3ae-3a11-498e-b189-deb936d7978a",
+      "pivot": {
+        "id_kelas_kuliah": 107870,
+        "id_dosen": 901
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1356,
+      "id_user": 22533,
+      "id_prodi": 12,
+      "nama": "Dr. Ir.  Ahmad Yusran Aminy, MT.",
+      "nidn": "0021095805",
+      "nip": "195809211986031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f8e35d25-7920-405b-b58d-b20f153feca2",
+      "pivot": {
+        "id_kelas_kuliah": 107870,
+        "id_dosen": 1356
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1605,
+      "id_user": 26206,
+      "id_prodi": 12,
+      "nama": "Dr. Eng Lukmanul Hakim Arma, ST, MT",
+      "nidn": "0015047401",
+      "nip": "197404151999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b7a1de71-f97d-4379-94ab-2fe4655e92be",
+      "pivot": {
+        "id_kelas_kuliah": 107870,
+        "id_dosen": 1605
+      }
+    }
+  ]
+}

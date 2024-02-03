@@ -1,0 +1,77 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "45715.109825.148",
+  "shortname_sikola": "TA231-109825",
+  "kode_matkul": "23R01410403",
+  "nama_matkul": "Praktik Profesi Keperawatan Maternitas",
+  "nama_kelas": "Kep.Maternitas Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3958,
+      "id_user": 74211,
+      "id_prodi": 8,
+      "nama": "Sri Bintari Rahayu, S.Kep., Ns., M.Kep",
+      "nidn": null,
+      "nip": "7371144404920006",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109825,
+        "id_dosen": 3958
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2373,
+      "id_user": 34561,
+      "id_prodi": 8,
+      "nama": "Dr. Erfina, S.Kep.,NS.,M.Kep.",
+      "nidn": "0015048301",
+      "nip": "198304152010122006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0c2ce8d5-1fe1-455a-8d3f-94fed9fb0712",
+      "pivot": {
+        "id_kelas_kuliah": 109825,
+        "id_dosen": 2373
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1919,
+      "id_user": 25194,
+      "id_prodi": 8,
+      "nama": "Nurmaulid, S.Kep.,NS, M.Kep.",
+      "nidn": "0019128301",
+      "nip": "198312192010122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45b47055-0c22-4b64-a883-ae805338c623",
+      "pivot": {
+        "id_kelas_kuliah": 109825,
+        "id_dosen": 1919
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3198,
+      "id_user": 21210,
+      "id_prodi": 8,
+      "nama": "Indra Gaffar, S.Kep.Ns., M.Kep",
+      "nidn": "0025098110",
+      "nip": "198109252006042009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38eda258-f401-49a1-b564-2b66e794438a",
+      "pivot": {
+        "id_kelas_kuliah": 109825,
+        "id_dosen": 3198
+      }
+    }
+  ]
+}

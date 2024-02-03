@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Final 1 </text></name><questiontext format="html"><text><![CDATA[<p>Expliquez les systems particulières de la formation des mots suivants et  donnez 2 exemples minimum (choisisez 5 sur 10):</p><style type="text/css">p
+	{
+		font-family: Spectral;
+		font-size: 14px;
+		line-height: 2;
+	}
+ol
+	{
+		font-family: Spectral;
+		font-size: 14px;
+	}
+h1	
+	{
+		font-family: Spectral;
+		font-size: 20px;
+		font-weight: strong;
+	}
+h2
+	{
+		font-family: Spectral;
+		font-size: 18px;
+		font-weight: strong;
+		font-style: italic;
+	}
+h3	
+	{
+		font-family: Spectral;
+		font-size: 16px;
+		font-style: italic;
+		font-weight: strong;
+	}
+h4
+	{
+		font-family: Spectral;
+		font-size: 20px;
+		line-height: 2;
+		font-style: italic;
+	}
+</style>
+<ol>
+<li>Emprunt :</li>
+<li>Onomatope :</li>
+<li>Reduplication :</li>
+<li>Siglaison :</li>
+<li>Abreviation :</li>
+<li>Acronyme :</li>
+<li>Apherese :</li>
+<li>Apocope :</li>
+<li>Verlan :</li>
+<li>Mots-valise :</li>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1000.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_59636</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

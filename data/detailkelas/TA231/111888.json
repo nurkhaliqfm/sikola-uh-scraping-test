@@ -1,0 +1,61 @@
+{
+  "id_prodi": 68,
+  "nama_prodi": "BUDIDAYA PERAIRAN - S1",
+  "id_prodi_semester": 2416,
+  "idnumber_sikola": "45551.111888.68",
+  "shortname_sikola": "TA231-111888",
+  "kode_matkul": "23L03120103",
+  "nama_matkul": "Fisiologi Organisme Akuakultur",
+  "nama_kelas": "Fisiologi Organisme Akuakultur (Kelas B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1145,
+      "id_user": 18939,
+      "id_prodi": 68,
+      "nama": "Ir. Muhammad Iqbal Djawad, M.Sc., Ph.D",
+      "nidn": "0018036701",
+      "nip": "196703181989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9b18a37-bb8f-42a9-9e67-3d969a094357",
+      "pivot": {
+        "id_kelas_kuliah": 111888,
+        "id_dosen": 1145
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1182,
+      "id_user": 25448,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Dody Dharmawan Trijuno, M.App.,Sc",
+      "nidn": "0003056402",
+      "nip": "196405031989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17778d41-cc89-4d54-a01a-c6aaadddd179",
+      "pivot": {
+        "id_kelas_kuliah": 111888,
+        "id_dosen": 1182
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1365,
+      "id_user": 23197,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Siti Aslamyah, MP.",
+      "nidn": "0009016905",
+      "nip": "196909011993032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0fc883ff-0dc8-448d-ab5d-2ea2c3b1ea86",
+      "pivot": {
+        "id_kelas_kuliah": 111888,
+        "id_dosen": 1365
+      }
+    }
+  ]
+}

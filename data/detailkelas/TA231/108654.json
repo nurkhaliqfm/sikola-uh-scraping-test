@@ -1,0 +1,85 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44113.108654.47",
+  "shortname_sikola": "TA231-108654",
+  "kode_matkul": "23H02134902",
+  "nama_matkul": "ANATOMI DAN FISIOLOGI",
+  "nama_kelas": "Anatomi dan Fisiologi (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139809,
+      "id_user": 41803,
+      "id_prodi": 47,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ELZA PUTRI FRANSISCA",
+      "nim": "H021201060",
+      "jalan": "Jl.Trans Sulawesi",
+      "rt": 2,
+      "rw": 0,
+      "dusun": "Saulu",
+      "kode_pos": "92975",
+      "nisn": "0011505332",
+      "tempat_lahir": "BURAU, LUWU TIMUR",
+      "tanggal_lahir": "2001-12-23",
+      "telepon": "0",
+      "handphone": "6285334713898",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Jalajja",
+      "id_wilayah": "190000",
+      "nik": "7324076312010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "elzaputrifransisca123@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "922d42cb-3abf-4170-aeb5-5cd6dc1e16af",
+      "id_registrasi_mahasiswa_pddikti": "19d172dd-5715-4df8-b5d7-49e1ab9dfbc1",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108654,
+        "id_mahasiswa": 139809,
+        "created_at": "2023-07-29 10:23:13"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 823,
+      "id_user": 18079,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Sri Suryani, DEA.",
+      "nidn": "0008055803",
+      "nip": "195805081983122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2235230d-c8f2-4434-a700-8323c844a6a5",
+      "pivot": {
+        "id_kelas_kuliah": 108654,
+        "id_dosen": 823
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1400,
+      "id_user": 34177,
+      "id_prodi": 50,
+      "nama": "Dr. Eddyman, S.Si., M.Si.",
+      "nidn": "0010017002",
+      "nip": "197001101997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15f3c27a-7c51-4ab9-b1d2-5e22bcc9d365",
+      "pivot": {
+        "id_kelas_kuliah": 108654,
+        "id_dosen": 1400
+      }
+    }
+  ]
+}

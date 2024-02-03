@@ -1,0 +1,29 @@
+{
+  "id_prodi": 36,
+  "nama_prodi": "ARKEOLOGI - S1",
+  "id_prodi_semester": 2400,
+  "idnumber_sikola": "43687.106288.36",
+  "shortname_sikola": "TA231-106288",
+  "kode_matkul": "21F07149520",
+  "nama_matkul": "Pengembangan dan penguatan kewirausahaan",
+  "nama_kelas": "Pengembangan dan Penguatan Kewirausahaan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1646,
+      "id_user": 34294,
+      "id_prodi": 36,
+      "nama": "Dr. Rosmawati, S.S.,M.Si.",
+      "nidn": "0002057206",
+      "nip": "197205022005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c15b232e-2ed6-48f0-8c76-1950ecc9b010",
+      "pivot": {
+        "id_kelas_kuliah": 106288,
+        "id_dosen": 1646
+      }
+    }
+  ]
+}

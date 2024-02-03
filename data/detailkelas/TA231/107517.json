@@ -1,0 +1,29 @@
+{
+  "id_prodi": 103,
+  "nama_prodi": "SOSIOLOGI - S2",
+  "id_prodi_semester": 2448,
+  "idnumber_sikola": "44160.107517.103",
+  "shortname_sikola": "TA231-107517",
+  "kode_matkul": "22E03210302",
+  "nama_matkul": "MANAJEMEN SDM",
+  "nama_kelas": "Kerjasama BPS I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3463,
+      "id_user": null,
+      "id_prodi": 215,
+      "nama": "Dr. Jumiaty Nurung, S.P., M.Si",
+      "nidn": null,
+      "nip": "7371144609740009",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 107517,
+        "id_dosen": 3463
+      }
+    }
+  ]
+}

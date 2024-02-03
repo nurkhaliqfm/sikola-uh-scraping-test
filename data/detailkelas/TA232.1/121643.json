@@ -1,0 +1,61 @@
+{
+  "id_prodi": 128,
+  "nama_prodi": "PPDS ANESTESIOLOGI",
+  "id_prodi_semester": 2701,
+  "idnumber_sikola": "38726.121643.128",
+  "shortname_sikola": "TA232-121643",
+  "kode_matkul": "20Y00510102",
+  "nama_matkul": "ETIKOMEDIKOLEGAL",
+  "nama_kelas": "Etika Profesi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1089,
+      "id_user": 45112,
+      "id_prodi": 6,
+      "nama": "dr. Cahyono Kaelan, Ph.D., Sp.PA(K)., Sp.S(K).",
+      "nidn": "8834460018",
+      "nip": "195010232018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a180f-0f76-4ade-995d-a514ad0ef02f",
+      "pivot": {
+        "id_kelas_kuliah": 121643,
+        "id_dosen": 1089
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1353,
+      "id_user": 33782,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Gatot Susilo Lawrence, M.Sc., Sp.PA.",
+      "nidn": "0011046001",
+      "nip": "196004111990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d014b741-5a87-4eed-8517-8b6af6a2d925",
+      "pivot": {
+        "id_kelas_kuliah": 121643,
+        "id_dosen": 1353
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2657,
+      "id_user": 56512,
+      "id_prodi": 121,
+      "nama": "Dr.dr.Muji Iswanty, Sp.KK, M.Kes, SH, MH",
+      "nidn": null,
+      "nip": "1098008012009040000",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 121643,
+        "id_dosen": 2657
+      }
+    }
+  ]
+}

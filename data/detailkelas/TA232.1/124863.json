@@ -1,0 +1,172 @@
+{
+  "id_prodi": 115,
+  "nama_prodi": "PPDS ILMU BEDAH",
+  "id_prodi_semester": 2688,
+  "idnumber_sikola": "38440.124863.115",
+  "shortname_sikola": "TA232-124863",
+  "kode_matkul": "20C04520303",
+  "nama_matkul": "Bedah Emergenci 3",
+  "nama_kelas": "Bedah Emergency 3 2023",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385489,
+      "id_user": 72022,
+      "id_prodi": 115,
+      "angkatan": 2022,
+      "nama_mahasiswa": "M ALIF VISYAR",
+      "nim": "C045222006",
+      "jalan": "JL. HARIMAU NO.29",
+      "rt": 1,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90142",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1996-06-18",
+      "telepon": "0",
+      "handphone": "081243234178",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Maricaya",
+      "id_wilayah": "196000",
+      "nik": "7371031806960004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "alifvisyar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "406d6e3e-1535-4316-995d-a267df87374a",
+      "id_registrasi_mahasiswa_pddikti": "84b0f177-23b2-450e-840d-d869cf9b415d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124863,
+        "id_mahasiswa": 385489,
+        "created_at": "2024-01-23 14:06:47"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 385487,
+      "id_user": 73174,
+      "id_prodi": 115,
+      "angkatan": 2022,
+      "nama_mahasiswa": "GAYATRI SUMANTRI",
+      "nim": "C045222003",
+      "jalan": "JALAN HATI MURNI NO.24",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Mattoangin",
+      "kode_pos": "90121",
+      "nisn": null,
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "1989-03-11",
+      "telepon": "0",
+      "handphone": "082119982220",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Mattoangin",
+      "id_wilayah": "196001",
+      "nik": "7371015103890002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "gayatrisumantri1222@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "377513a8-db92-4d1e-adef-a21bc4b13feb",
+      "id_registrasi_mahasiswa_pddikti": "f0332d3c-72f2-4785-950a-2b8966ef7b0f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124863,
+        "id_mahasiswa": 385487,
+        "created_at": "2024-01-29 19:35:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2905,
+      "id_user": 58055,
+      "id_prodi": 178,
+      "nama": "dr. Muhammad Nuralim Mallapassi, SpBTKV(K)",
+      "nidn": null,
+      "nip": "195111082018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124863,
+        "id_dosen": 2905
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3093,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. Mulawardi, SpB(K)V",
+      "nidn": null,
+      "nip": "197609012018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124863,
+        "id_dosen": 3093
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1917,
+      "id_user": 33749,
+      "id_prodi": 6,
+      "nama": "dr.  Jayarasti Kusumanegara, M.Kes., Sp.BTKV",
+      "nidn": "0029018203",
+      "nip": "198201292010121007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a859cb4-5ab4-4b17-9c73-1c8e5f89b920",
+      "pivot": {
+        "id_kelas_kuliah": 124863,
+        "id_dosen": 1917
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3703,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. Umar Usman, Sp.BTKV",
+      "nidn": null,
+      "nip": "198407212010011012",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124863,
+        "id_dosen": 3703
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3714,
+      "id_user": null,
+      "id_prodi": 115,
+      "nama": "dr. Tom Ch. Adriani, Sp.B(K)V",
+      "nidn": null,
+      "nip": "198409292014121002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124863,
+        "id_dosen": 3714
+      }
+    }
+  ]
+}

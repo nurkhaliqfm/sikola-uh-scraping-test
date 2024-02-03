@@ -1,0 +1,29 @@
+{
+  "id_prodi": 125,
+  "nama_prodi": "PPDS ILMU KEDOKTERAN JIWA - PSIKIATRI",
+  "id_prodi_semester": 2467,
+  "idnumber_sikola": "38579.126132.125",
+  "shortname_sikola": "TA231-126132",
+  "kode_matkul": "20C06510202",
+  "nama_matkul": "SIKLUS KEHIDUPAN DAN TEORI PERKEMBANGAN",
+  "nama_kelas": "KELAS B - SIKLUS KEHIDUPAN DAN TEORI PERKEMBANGAN 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3137,
+      "id_user": 34112,
+      "id_prodi": 125,
+      "nama": "dr Rinvil Renaldi, M.Kes., Sp.KJ(K)",
+      "nidn": "0006048208",
+      "nip": "198204062008041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b868c72f-b23d-4b90-8b34-f455b767fe45",
+      "pivot": {
+        "id_kelas_kuliah": 126132,
+        "id_dosen": 3137
+      }
+    }
+  ]
+}

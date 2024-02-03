@@ -1,0 +1,133 @@
+{
+  "id_prodi": 217,
+  "nama_prodi": "KEDOKTERAN GIGI - S2",
+  "id_prodi_semester": 2551,
+  "idnumber_sikola": "39541.104860.217",
+  "shortname_sikola": "TA231-104860",
+  "kode_matkul": "20J08214101",
+  "nama_matkul": "Terapi multidisiplin",
+  "nama_kelas": "TERAPI MULTIDISIPLIN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385873,
+      "id_user": 72066,
+      "id_prodi": 217,
+      "angkatan": 2022,
+      "nama_mahasiswa": "INSIYAH HURIYAH AKBAR",
+      "nim": "J012222002",
+      "jalan": "PERUMAHAN BUMI TAKKALALA PERMAI BLOK D NO. 7",
+      "rt": 4,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91959",
+      "nisn": null,
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "1996-01-10",
+      "telepon": "0",
+      "handphone": "085315028608",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "wara selatan",
+      "id_wilayah": "190805",
+      "nik": "7373035201960001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "huriyah_insiyah@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3c7f10f9-c0f0-481d-8843-18eded1d0996",
+      "id_registrasi_mahasiswa_pddikti": "037cd2f6-3ab5-4b86-9bfa-dd5d84a8ae2d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104860,
+        "id_mahasiswa": 385873,
+        "created_at": "2023-08-04 08:22:13"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1585,
+      "id_user": 37179,
+      "id_prodi": 55,
+      "nama": "Dr. drg. Juni Jekti Nugroho, .Sp.KG",
+      "nidn": "0026067106",
+      "nip": "197106252005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c12b1b4d-9122-4235-bad4-1b760902577f",
+      "pivot": {
+        "id_kelas_kuliah": 104860,
+        "id_dosen": 1585
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1586,
+      "id_user": 34555,
+      "id_prodi": 55,
+      "nama": "Dr. drg. Ike Damayanti Habar, Sp.Pros.",
+      "nidn": "0029077509",
+      "nip": "197507292005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2b844e36-dce5-488d-898a-1150b30cd1c2",
+      "pivot": {
+        "id_kelas_kuliah": 104860,
+        "id_dosen": 1586
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1169,
+      "id_user": 34692,
+      "id_prodi": 55,
+      "nama": "drg. Nurhayati Natsir, Ph.D., Sp.KG.(K)",
+      "nidn": "0018056401",
+      "nip": "196405181991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "324dd89e-a900-498d-84b1-0128636a07fd",
+      "pivot": {
+        "id_kelas_kuliah": 104860,
+        "id_dosen": 1169
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1179,
+      "id_user": 35537,
+      "id_prodi": 55,
+      "nama": "Prof. Dr. drg. Sri Oktawati, Sp.Perio.",
+      "nidn": "0003106401",
+      "nip": "196410031990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "152df927-936a-4272-a364-aaab0f4c30d0",
+      "pivot": {
+        "id_kelas_kuliah": 104860,
+        "id_dosen": 1179
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1853,
+      "id_user": 37297,
+      "id_prodi": 55,
+      "nama": "drg. Arni Irawaty Djais, Sp.Perio.(K)",
+      "nidn": "0030017509",
+      "nip": "197501302008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d662c03e-9458-4273-aa84-d4fed471d25c",
+      "pivot": {
+        "id_kelas_kuliah": 104860,
+        "id_dosen": 1853
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2419,
+  "idnumber_sikola": "39620.111118.71",
+  "shortname_sikola": "TA231-111118",
+  "kode_matkul": "20M01130502",
+  "nama_matkul": "Pengelolaan Lingkungan Hidup",
+  "nama_kelas": "PENGELOLAAN LINGKUNGAN HIDUP (C)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 786,
+      "id_user": 19301,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Yusran, S.Hut., M.Si., IPU",
+      "nidn": "0006126901",
+      "nip": "196912061996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d6a3342-cddb-406b-835b-703b68bdce5f",
+      "pivot": {
+        "id_kelas_kuliah": 111118,
+        "id_dosen": 786
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 999,
+      "id_user": 34339,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Iswara Gautama, M.Si.",
+      "nidn": "0015096302",
+      "nip": "196309151990031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9bab8215-0850-4a87-af4f-7e11091209fa",
+      "pivot": {
+        "id_kelas_kuliah": 111118,
+        "id_dosen": 999
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2346,
+      "id_user": 12970,
+      "id_prodi": 71,
+      "nama": "Ir. Mukrimin, S.Hut., MP., Ph.D",
+      "nidn": "0009027802",
+      "nip": "197802092008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f41561c6-e7e3-4209-aaad-c624cf12869d",
+      "pivot": {
+        "id_kelas_kuliah": 111118,
+        "id_dosen": 2346
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2479,
+      "id_user": 10687,
+      "id_prodi": 71,
+      "nama": "Ir. Adrayanti Sabar, S.Hut., M.P., IPM",
+      "nidn": "0016098506",
+      "nip": "198509162018074001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4ce39a1c-d7d8-4d86-ab22-40ac1d3096c1",
+      "pivot": {
+        "id_kelas_kuliah": 111118,
+        "id_dosen": 2479
+      }
+    }
+  ]
+}

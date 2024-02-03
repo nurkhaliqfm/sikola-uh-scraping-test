@@ -1,0 +1,61 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2512,
+  "idnumber_sikola": "37027.106770.175",
+  "shortname_sikola": "TA231-106770",
+  "kode_matkul": "19G01212102",
+  "nama_matkul": "Ketahanan Tanaman terhadap Hama dan Penyakit",
+  "nama_kelas": "Ketahanan Tanam. thp hama dan penyakit (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 764,
+      "id_user": 24927,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Elkawakib Syam'un, MP.",
+      "nidn": "0018035603",
+      "nip": "195603181985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "657baf28-e7ac-4cde-91da-c3876c20cf4b",
+      "pivot": {
+        "id_kelas_kuliah": 106770,
+        "id_dosen": 764
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 701,
+      "id_user": 29155,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Sylvia Sjam, MS.",
+      "nidn": "0008095701",
+      "nip": "195709081983032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "28955330-5742-4cb8-bcfe-d6ed57ba074b",
+      "pivot": {
+        "id_kelas_kuliah": 106770,
+        "id_dosen": 701
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1033,
+      "id_user": 20932,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Tutik Kuswinanti, M.Sc.",
+      "nidn": "0016036503",
+      "nip": "196503161989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d78a466c-5325-48b8-8ff3-51dae6e07db9",
+      "pivot": {
+        "id_kelas_kuliah": 106770,
+        "id_dosen": 1033
+      }
+    }
+  ]
+}

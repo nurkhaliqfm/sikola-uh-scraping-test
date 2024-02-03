@@ -1,0 +1,45 @@
+{
+  "id_prodi": 163,
+  "nama_prodi": "FISIKA - S2",
+  "id_prodi_semester": 2500,
+  "idnumber_sikola": "40525.104372.163",
+  "shortname_sikola": "TA231-104372",
+  "kode_matkul": "19H03221603",
+  "nama_matkul": "FISIKA RADIODIAGNOSTIK LANJUTAN",
+  "nama_kelas": "Fisika Radiodiagnostik Lanjutan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 892,
+      "id_user": 31288,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Syamsir D.,  D., MS.",
+      "nidn": "0011016302",
+      "nip": "196301111990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "86c2a15c-92c0-41cd-8fc8-be3f134489e8",
+      "pivot": {
+        "id_kelas_kuliah": 104372,
+        "id_dosen": 892
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1434,
+      "id_user": 17475,
+      "id_prodi": 47,
+      "nama": "Dr. Sri Dewi Astuty, S.Si.,M.Si.",
+      "nidn": "0013057502",
+      "nip": "197505131999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3344b510-d213-4a67-af81-98ecef09978b",
+      "pivot": {
+        "id_kelas_kuliah": 104372,
+        "id_dosen": 1434
+      }
+    }
+  ]
+}

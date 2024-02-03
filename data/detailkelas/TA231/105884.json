@@ -1,0 +1,77 @@
+{
+  "id_prodi": 130,
+  "nama_prodi": "FARMASI - S2",
+  "id_prodi_semester": 2472,
+  "idnumber_sikola": "37851.105884.130",
+  "shortname_sikola": "TA231-105884",
+  "kode_matkul": "20N02211302",
+  "nama_matkul": "Produksi dan Standarisasi Produk Alam dan Sintetik",
+  "nama_kelas": "PRODUKSI DAN STANDARISASI PRODUK ALAM DAN SINTETIK",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1296,
+      "id_user": 26517,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  Gemini Alam, M.Si.,Apt",
+      "nidn": "0031126414",
+      "nip": "196412311990021005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d704b8b-4659-4407-b68b-0c0f03df835a",
+      "pivot": {
+        "id_kelas_kuliah": 105884,
+        "id_dosen": 1296
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1509,
+      "id_user": 17844,
+      "id_prodi": 73,
+      "nama": "Prof. Subehan,  S.Si., M.Pharm.,Sc.,Ph.D, Apt",
+      "nidn": "0025097508",
+      "nip": "197509252001121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "83e91721-cda2-4ea7-9c9c-0a851624b4c7",
+      "pivot": {
+        "id_kelas_kuliah": 105884,
+        "id_dosen": 1509
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1724,
+      "id_user": 34448,
+      "id_prodi": 73,
+      "nama": "Prof. Yusnita Rifai, S.Si., M.Pharm., Ph.D., Apt",
+      "nidn": "0017117505",
+      "nip": "197511172000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9af50174-cce5-4fd9-b540-fe13a3a4c340",
+      "pivot": {
+        "id_kelas_kuliah": 105884,
+        "id_dosen": 1724
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 977,
+      "id_user": 23217,
+      "id_prodi": 73,
+      "nama": "Dr. Syaharuddin, M.Si.,Apt.",
+      "nidn": "0001086301",
+      "nip": "196308011990031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bd321b78-95bd-434a-896a-c7e56c8c0420",
+      "pivot": {
+        "id_kelas_kuliah": 105884,
+        "id_dosen": 977
+      }
+    }
+  ]
+}

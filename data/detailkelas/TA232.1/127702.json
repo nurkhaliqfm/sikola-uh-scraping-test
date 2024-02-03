@@ -1,0 +1,45 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "44633.127702.10",
+  "shortname_sikola": "TA232-127702",
+  "kode_matkul": "23U01110102",
+  "nama_matkul": "Pendidikan Agama Islam",
+  "nama_kelas": "Pendidikan Agama Islam INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1858,
+      "id_user": 16217,
+      "id_prodi": 34,
+      "nama": "Muhammad Ridwan, SS., MA.",
+      "nidn": "0008057106",
+      "nip": "197105082008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2dcbe1ac-98b1-4108-89e4-e2254ffda691",
+      "pivot": {
+        "id_kelas_kuliah": 127702,
+        "id_dosen": 1858
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1283,
+      "id_user": 20573,
+      "id_prodi": 17,
+      "nama": "Dr. Yusran, ST.,MT.",
+      "nidn": "0004047509",
+      "nip": "197504042000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a8ae9f3-a4eb-430a-ac81-6ff3513236a1",
+      "pivot": {
+        "id_kelas_kuliah": 127702,
+        "id_dosen": 1283
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46478.123200.11",
+  "shortname_sikola": "TA232-123200",
+  "kode_matkul": "23D13130703",
+  "nama_matkul": "Ruang Terbuka Hijau Perkotaan",
+  "nama_kelas": "Ruang Terbuka Hijau Perkotaan A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1282,
+      "id_user": 19425,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Eng. Muhammad Isran Ramli, ST., MT.",
+      "nidn": "0026097301",
+      "nip": "197309262000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c5dcceb-62d9-434f-aacd-29386867ffc8",
+      "pivot": {
+        "id_kelas_kuliah": 123200,
+        "id_dosen": 1282
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3452,
+      "id_user": 60753,
+      "id_prodi": 11,
+      "nama": "Zarah Arwieny Hanami, S.T., M.T.",
+      "nidn": "0027109701",
+      "nip": "199710272022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "12f166c2-1681-49c2-988e-a4f83d87bc36",
+      "pivot": {
+        "id_kelas_kuliah": 123200,
+        "id_dosen": 3452
+      }
+    }
+  ]
+}

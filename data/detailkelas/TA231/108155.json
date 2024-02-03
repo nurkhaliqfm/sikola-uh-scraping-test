@@ -1,0 +1,29 @@
+{
+  "id_prodi": 248,
+  "nama_prodi": "MANAJEMEN BENCANA - S2",
+  "id_prodi_semester": 2579,
+  "idnumber_sikola": "42865.108155.248",
+  "shortname_sikola": "TA231-108155",
+  "kode_matkul": "21P12211502",
+  "nama_matkul": "Manajemen Krisis dan Psiko-sosial Kebencanaan",
+  "nama_kelas": "Manajemen Krisis dan Psiko-sosial Kebencanaan (P) (MB_Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 868,
+      "id_user": 34228,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  Dwia Aries Tina Pulubuhu, MA.",
+      "nidn": "0019046406",
+      "nip": "196404191989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e21d9d5e-9bc4-484d-91d6-d23e5f8c64dd",
+      "pivot": {
+        "id_kelas_kuliah": 108155,
+        "id_dosen": 868
+      }
+    }
+  ]
+}

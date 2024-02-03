@@ -1,0 +1,140 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2663,
+  "idnumber_sikola": "26817.130097.86",
+  "shortname_sikola": "TA232-130097",
+  "kode_matkul": "18B01311102",
+  "nama_matkul": "HUKUM INTERNASIONAL KONTEMPORER\r\n",
+  "nama_kelas": "KLS A MKS SEM II INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 414221,
+      "id_user": 80508,
+      "id_prodi": 86,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MOH. MAULANA",
+      "nim": "B013231003",
+      "jalan": "KOMPLEKS BUMI SUDIANG RAYA BLOK I NO 7",
+      "rt": 4,
+      "rw": 13,
+      "dusun": null,
+      "kode_pos": "90243",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1990-11-18",
+      "telepon": "0811460161",
+      "handphone": "0811460161",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Sudiang raya",
+      "id_wilayah": "196011",
+      "nik": "7371111811900008",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "hujanamarah@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "aca0855a-55df-497f-855a-d763e575ab77",
+      "id_registrasi_mahasiswa_pddikti": "cd1b57ca-be44-4ab7-9b19-102c1c2264ad",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 130097,
+        "id_mahasiswa": 414221,
+        "created_at": "2024-01-31 01:27:20"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 414219,
+      "id_user": 83199,
+      "id_prodi": 86,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SAPTANDRI WIDIYANTO",
+      "nim": "B013231001",
+      "jalan": "BINONG PERMAI BLOK L-10/4A",
+      "rt": 10,
+      "rw": 16,
+      "dusun": "Binong",
+      "kode_pos": "15810",
+      "nisn": null,
+      "tempat_lahir": "KEDIRI",
+      "tanggal_lahir": "1966-01-06",
+      "telepon": "0",
+      "handphone": "081315411917",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Binong",
+      "id_wilayah": "280305",
+      "nik": "3603170601660001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "saptandri017@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8e6d6dbf-5791-434f-9cd6-647883b469a0",
+      "id_registrasi_mahasiswa_pddikti": "99bcfa10-3d32-48c8-b91d-a8186eaee6f7",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 130097,
+        "id_mahasiswa": 414219,
+        "created_at": "2024-01-31 21:46:37"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 791,
+      "id_user": 34085,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Syamsuddin Muhammad Noor, SH., MH.",
+      "nidn": "0002075503",
+      "nip": "195507021988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2fbfbcbd-83b7-43a5-b6f4-c58f244758a2",
+      "pivot": {
+        "id_kelas_kuliah": 130097,
+        "id_dosen": 791
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 925,
+      "id_user": 34169,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Marthen Napang, SH., MH., M.Si.",
+      "nidn": "0012035702",
+      "nip": "195703121986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5012deb7-a901-4068-a970-63ed1b45868e",
+      "pivot": {
+        "id_kelas_kuliah": 130097,
+        "id_dosen": 925
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1272,
+      "id_user": 31362,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Maskun, SH., LLM.",
+      "nidn": "0028117601",
+      "nip": "197611291999031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "702634be-fd1a-4e82-a8cf-215e16b7cd77",
+      "pivot": {
+        "id_kelas_kuliah": 130097,
+        "id_dosen": 1272
+      }
+    }
+  ]
+}

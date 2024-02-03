@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Ism Isyarah</text></name><questiontext format="html"><text><![CDATA[<p>ما هذا؟</p><p class="text-center"><img alt="" height="75" src="/courses/101F4114/document/images/sabun.png" width="75" /></p>
+
+<p> </p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>0.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_45338</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

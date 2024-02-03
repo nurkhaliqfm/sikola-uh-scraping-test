@@ -1,0 +1,140 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2737,
+  "idnumber_sikola": "41912.128143.169",
+  "shortname_sikola": "TA232-128143",
+  "kode_matkul": "21P11210103",
+  "nama_matkul": "Pengelolaan Terpadu Pesisir dan Lautan",
+  "nama_kelas": "Pengelolaan Terpadu Pesisir dan Lautan (PSPT_Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427487,
+      "id_user": 86010,
+      "id_prodi": 169,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NURUL AULIA ANANDA",
+      "nim": "P112232002",
+      "jalan": "SEJATI UNHAS",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "00000",
+      "tempat_lahir": "SENTANI",
+      "tanggal_lahir": "1999-09-03",
+      "telepon": "0",
+      "handphone": "081241063740",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "TAMALANREA INDAH",
+      "id_wilayah": "196012",
+      "nik": "7317144309990001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86010,
+      "kode_status": "A",
+      "email": "nurulauliaananda9@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128143,
+        "id_mahasiswa": 427487,
+        "created_at": "2024-01-26 12:21:35"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 429100,
+      "id_user": 87451,
+      "id_prodi": 169,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NUR WAHIDA",
+      "nim": "P112232003",
+      "jalan": "JL. HASANUDDIN IRIGASI",
+      "rt": null,
+      "rw": null,
+      "dusun": null,
+      "kode_pos": null,
+      "nisn": null,
+      "tempat_lahir": "BONLONOMPO",
+      "tanggal_lahir": null,
+      "telepon": null,
+      "handphone": "085340307218",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": null,
+      "id_wilayah": null,
+      "nik": "9109014911940003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 99,
+      "kode_status": "A",
+      "email": null,
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": "085340307218",
+      "pivot": {
+        "id_kelas_kuliah": 128143,
+        "id_mahasiswa": 429100,
+        "created_at": "2024-01-31 14:36:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 883,
+      "id_user": 10013,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  A m r a n, ST., M.Si.",
+      "nidn": "0024096707",
+      "nip": "196709241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9cf80578-a4aa-4435-8c26-aefe6dd6378b",
+      "pivot": {
+        "id_kelas_kuliah": 128143,
+        "id_dosen": 883
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1534,
+      "id_user": 24204,
+      "id_prodi": 67,
+      "nama": "Dr. Ir. Dewi Yanuarita, M.Si.",
+      "nidn": "9990254581",
+      "nip": "195801021987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ee21fde-a8ce-499b-b3c1-f6badd7984a9",
+      "pivot": {
+        "id_kelas_kuliah": 128143,
+        "id_dosen": 1534
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 128143,
+        "id_dosen": 779
+      }
+    }
+  ]
+}

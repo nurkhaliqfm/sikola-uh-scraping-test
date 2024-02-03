@@ -1,0 +1,45 @@
+{
+  "id_prodi": 75,
+  "nama_prodi": "SISTEM-SISTEM PERTANIAN - S2",
+  "id_prodi_semester": 2653,
+  "idnumber_sikola": "25600.125278.75",
+  "shortname_sikola": "TA232-125278",
+  "kode_matkul": "18P01211703",
+  "nama_matkul": "Aquakultur Lanjutan\r\n",
+  "nama_kelas": "Aquakultur Lanjutan (P) (SSP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1182,
+      "id_user": 25448,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Dody Dharmawan Trijuno, M.App.,Sc",
+      "nidn": "0003056402",
+      "nip": "196405031989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17778d41-cc89-4d54-a01a-c6aaadddd179",
+      "pivot": {
+        "id_kelas_kuliah": 125278,
+        "id_dosen": 1182
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1519,
+      "id_user": 23939,
+      "id_prodi": 68,
+      "nama": "Ir. Edison Saade, M.Sc., Ph.D",
+      "nidn": "0003086301",
+      "nip": "196308031989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "81a8a862-5c79-4982-a98d-24593d00ff28",
+      "pivot": {
+        "id_kelas_kuliah": 125278,
+        "id_dosen": 1519
+      }
+    }
+  ]
+}

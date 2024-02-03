@@ -1,0 +1,204 @@
+{
+  "id_prodi": 121,
+  "nama_prodi": "PPDS ILMU PENYAKIT KULIT DAN KELAMIN",
+  "id_prodi_semester": 2463,
+  "idnumber_sikola": "30376.104299.121",
+  "shortname_sikola": "TA231-104299",
+  "kode_matkul": "0602C20701",
+  "nama_matkul": "PUBLIKASI ILMIAH",
+  "nama_kelas": "PUBLIKASI ILMIAH",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 131676,
+      "id_user": 7518,
+      "id_prodi": 121,
+      "angkatan": 2019,
+      "nama_mahasiswa": "TIMOTHY YUSUF SANGIAN",
+      "nim": "C115192005",
+      "jalan": "KOMPLEKS POHON PALA NO 35",
+      "rt": 8,
+      "rw": 16,
+      "dusun": "Penjaringan",
+      "kode_pos": "14440",
+      "nisn": null,
+      "tempat_lahir": "MANADO",
+      "tanggal_lahir": "1991-06-28",
+      "telepon": "0",
+      "handphone": "081317311991",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Penjagalan",
+      "id_wilayah": "016101",
+      "nik": "3171062806910003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "timothy_ys@hotmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3c585f23-ee1d-4a7d-94be-e5a4acbb0803",
+      "id_registrasi_mahasiswa_pddikti": "b1af2ac8-90bd-415e-9d6f-2c363c0138d5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_mahasiswa": 131676,
+        "created_at": "2023-08-01 09:51:40"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 147193,
+      "id_user": 45988,
+      "id_prodi": 121,
+      "angkatan": 2020,
+      "nama_mahasiswa": "JENNIFER MICHELLE WIDYSANTO",
+      "nim": "C115202002",
+      "jalan": "JL. PELEPAH HIJAU I BLOK TA I/8",
+      "rt": 8,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "14240",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1989-04-09",
+      "telepon": "0",
+      "handphone": "082187846188",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Kelapa Gading Timur",
+      "id_wilayah": "016105",
+      "nik": "3172064904890004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "michellewidysanto@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "33d10299-2549-465c-abb8-e564d923c014",
+      "id_registrasi_mahasiswa_pddikti": "9922e3ed-5a2a-4dd8-a597-c8d8dbd898de",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_mahasiswa": 147193,
+        "created_at": "2023-08-04 14:27:15"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1708,
+      "id_user": 37633,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Siswanto Wahab, Sp.KK(K)",
+      "nidn": "0027056502",
+      "nip": "196505271999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d07178b-7d57-4897-8b21-48949770e5fa",
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_dosen": 1708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2665,
+      "id_user": 44992,
+      "id_prodi": 121,
+      "nama": "Dr. dr. Khairuddin DjawadSp, KK(K), FINSDV, FAADV",
+      "nidn": "8839510016",
+      "nip": "196602132018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45fb5baf-7088-42ba-b8f0-df2e901c5447",
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_dosen": 2665
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2654,
+      "id_user": null,
+      "id_prodi": 121,
+      "nama": "Prof. Dr. dr. Farida Tabri., Sp.KK(K)",
+      "nidn": null,
+      "nip": "195401281983032000",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_dosen": 2654
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1023,
+      "id_user": 34418,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr.  Anis Irawan Anwar, Sp.KK. (K)",
+      "nidn": "0027066201",
+      "nip": "196206271989031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a697ddcf-5f45-40b3-a1b6-ead3f5cf79f1",
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_dosen": 1023
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1885,
+      "id_user": 34355,
+      "id_prodi": 6,
+      "nama": "dr.  Widya Widita , Sp.KK., M.Kes",
+      "nidn": "0012088301",
+      "nip": "198308122009122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "982b771d-acf2-49ab-b63e-0c57af49f227",
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_dosen": 1885
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1923,
+      "id_user": 34687,
+      "id_prodi": 6,
+      "nama": "dr.  Airin Riskianty Nurdin, Sp.KK., M.Kes",
+      "nidn": "0012067910",
+      "nip": "197906122010122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf2e4b4f-7e61-4d26-a993-392b496592af",
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_dosen": 1923
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1857,
+      "id_user": 45154,
+      "id_prodi": 6,
+      "nama": "dr.  Idrianti Idrus Paturusi,  Sp.KK., M. Kes",
+      "nidn": "0024028107",
+      "nip": "198102242008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a3399842-2905-41e6-ba74-8444002a9752",
+      "pivot": {
+        "id_kelas_kuliah": 104299,
+        "id_dosen": 1857
+      }
+    }
+  ]
+}

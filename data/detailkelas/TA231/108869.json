@@ -1,0 +1,45 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44105.108869.47",
+  "shortname_sikola": "TA231-108869",
+  "kode_matkul": "23H02134302",
+  "nama_matkul": "RADIOEKOLOGI",
+  "nama_kelas": "Radioekologi (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 823,
+      "id_user": 18079,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Sri Suryani, DEA.",
+      "nidn": "0008055803",
+      "nip": "195805081983122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2235230d-c8f2-4434-a700-8323c844a6a5",
+      "pivot": {
+        "id_kelas_kuliah": 108869,
+        "id_dosen": 823
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1548,
+      "id_user": 22291,
+      "id_prodi": 47,
+      "nama": "Bannu, S.Si.,M.Si.",
+      "nidn": "0005077303",
+      "nip": "197305021998021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e2f07929-d6de-42f5-8e2b-efa51d9a4512",
+      "pivot": {
+        "id_kelas_kuliah": 108869,
+        "id_dosen": 1548
+      }
+    }
+  ]
+}

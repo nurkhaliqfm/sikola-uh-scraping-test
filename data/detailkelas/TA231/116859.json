@@ -1,0 +1,29 @@
+{
+  "id_prodi": 178,
+  "nama_prodi": "PPDS - ILMU PENYAKIT JANTUNG DAN PEMBULUH DARAH",
+  "id_prodi_semester": 2515,
+  "idnumber_sikola": "39208.116859.178",
+  "shortname_sikola": "TA231-116859",
+  "kode_matkul": "20C16530703",
+  "nama_matkul": "Vaskular",
+  "nama_kelas": "Vaskular smtr 6 (2020)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1722,
+      "id_user": 20711,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Idar Mappangara, Sp.PD, SpJP",
+      "nidn": "0021076611",
+      "nip": "196607211996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "90d4d749-7477-43fa-8ab8-6b3fe0879fa5",
+      "pivot": {
+        "id_kelas_kuliah": 116859,
+        "id_dosen": 1722
+      }
+    }
+  ]
+}

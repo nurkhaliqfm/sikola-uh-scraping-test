@@ -1,0 +1,77 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "25839.109975.76",
+  "shortname_sikola": "TA231-109975",
+  "kode_matkul": "18P01310202",
+  "nama_matkul": "Analisis Statistika (W)",
+  "nama_kelas": "Analisis Statistika - B (S3 Ptn_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 972,
+      "id_user": 74,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Asmuddin Natsir, M.Sc.",
+      "nidn": "0017095902",
+      "nip": "195909171985031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "43eb80f2-0e2d-40ee-87c1-9756e2d9d1ce",
+      "pivot": {
+        "id_kelas_kuliah": 109975,
+        "id_dosen": 972
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1887,
+      "id_user": 23408,
+      "id_prodi": 155,
+      "nama": "Diyah Yumeina, STP.,M.Agr.,Ph.D.",
+      "nidn": "0029018104",
+      "nip": "198101292009122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "29694b3a-ffc6-44f6-a99a-31f210e35f69",
+      "pivot": {
+        "id_kelas_kuliah": 109975,
+        "id_dosen": 1887
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1710,
+      "id_user": 18800,
+      "id_prodi": 155,
+      "nama": "Dr. Ir. Iqbal, STP., M.Si., IPM",
+      "nidn": "0025127802",
+      "nip": "197812252002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a13b99ab-2215-4f46-b3c5-24959e0f8e14",
+      "pivot": {
+        "id_kelas_kuliah": 109975,
+        "id_dosen": 1710
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3438,
+      "id_user": 48119,
+      "id_prodi": 152,
+      "nama": "Dr. Muhammad Fuad Anshori, S.P., M.Si.",
+      "nidn": "0015119207",
+      "nip": "199211152020121010",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "1d587475-73dd-46f7-bb0d-edd08b62537a",
+      "pivot": {
+        "id_kelas_kuliah": 109975,
+        "id_dosen": 3438
+      }
+    }
+  ]
+}

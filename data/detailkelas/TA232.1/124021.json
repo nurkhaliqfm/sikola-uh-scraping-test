@@ -1,0 +1,61 @@
+{
+  "id_prodi": 159,
+  "nama_prodi": "HUKUM ADMINISTRASI NEGARA - S1",
+  "id_prodi_semester": 2727,
+  "idnumber_sikola": "46745.124021.159",
+  "shortname_sikola": "TA232-124021",
+  "kode_matkul": "23B02110603",
+  "nama_matkul": "Hukum Pidana",
+  "nama_kelas": "Hukum Pidana Kelas C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 967,
+      "id_user": 34310,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Muhammad Said Karim, SH., MH.",
+      "nidn": "0011076202",
+      "nip": "196207111987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "983a8f19-77b5-44f4-a86c-60c9df061c96",
+      "pivot": {
+        "id_kelas_kuliah": 124021,
+        "id_dosen": 967
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1692,
+      "id_user": 34340,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Amir Ilyas, SH., MH.",
+      "nidn": "0010078002",
+      "nip": "198007102006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f1553da-92c9-430a-a413-66e9a6d8d9b6",
+      "pivot": {
+        "id_kelas_kuliah": 124021,
+        "id_dosen": 1692
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1840,
+      "id_user": 32017,
+      "id_prodi": 5,
+      "nama": "Dr. Hijrah Adhyanti Mirzana, SH.,MH.",
+      "nidn": "0026037910",
+      "nip": "197903262008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc7b3342-eb2b-4ea1-8fe5-083d4150684b",
+      "pivot": {
+        "id_kelas_kuliah": 124021,
+        "id_dosen": 1840
+      }
+    }
+  ]
+}

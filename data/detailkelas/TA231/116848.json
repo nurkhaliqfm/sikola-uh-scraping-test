@@ -1,0 +1,85 @@
+{
+  "id_prodi": 235,
+  "nama_prodi": "TEKNOLOGI HASIL PERIKANAN - S1",
+  "id_prodi_semester": 2567,
+  "idnumber_sikola": "48096.116848.235",
+  "shortname_sikola": "TA231-116848",
+  "kode_matkul": "23L06110302",
+  "nama_matkul": "Dasar-Dasar Teknologi Hasil Perikanan",
+  "nama_kelas": "Dasar-Dasar Teknologi Hasil Perikanan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 80367,
+      "id_user": 1706,
+      "id_prodi": 67,
+      "angkatan": 2018,
+      "nama_mahasiswa": "SRI SUTRA YULIANTI S.",
+      "nim": "L021181028",
+      "jalan": "Maccinibaji",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "99998",
+      "nisn": "L021181028",
+      "tempat_lahir": "Jeneponto",
+      "tanggal_lahir": "2001-02-19",
+      "telepon": "082351933950",
+      "handphone": "082351933950",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tolo",
+      "id_wilayah": "190505",
+      "nik": "7304055902010001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "yuliantisrisutra@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "570ae023-e39a-4bd6-9b63-b34d2f0e9ea7",
+      "id_registrasi_mahasiswa_pddikti": "48ae2bb9-9d1a-437b-b44c-d127ab124a8c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 116848,
+        "id_mahasiswa": 80367,
+        "created_at": "2023-08-25 22:53:10"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1765,
+      "id_user": 20687,
+      "id_prodi": 235,
+      "nama": "Dr. Syahrul, S.Pi., M.Si.",
+      "nidn": "0016017306",
+      "nip": "197301162006041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "405d0b13-21ff-4e0c-a440-843123141e6d",
+      "pivot": {
+        "id_kelas_kuliah": 116848,
+        "id_dosen": 1765
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1766,
+      "id_user": 10399,
+      "id_prodi": 235,
+      "nama": "Dr. Fahrul, S.Pi., M.Si.",
+      "nidn": "0019047406",
+      "nip": "197404192006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45df60ce-91a0-4379-819f-46b8984c0a6c",
+      "pivot": {
+        "id_kelas_kuliah": 116848,
+        "id_dosen": 1766
+      }
+    }
+  ]
+}

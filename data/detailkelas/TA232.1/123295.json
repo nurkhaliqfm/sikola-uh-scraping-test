@@ -1,0 +1,29 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2636,
+  "idnumber_sikola": "46516.123295.47",
+  "shortname_sikola": "TA232-123295",
+  "kode_matkul": "23U02131302",
+  "nama_matkul": "Pemecahan Masalah",
+  "nama_kelas": "Pemecahan Masalah (MKPK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 886,
+      "id_user": 27053,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Arifin, M.T",
+      "nidn": "0020056703",
+      "nip": "196705201994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "227cf181-01b6-4b96-ae85-ccdd54caa855",
+      "pivot": {
+        "id_kelas_kuliah": 123295,
+        "id_dosen": 886
+      }
+    }
+  ]
+}

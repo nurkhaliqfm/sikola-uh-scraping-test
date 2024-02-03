@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>03 - Le média</text></name><questiontext format="html"><text><![CDATA[<p>Lisez le document. Répondez aux questions.</p><style type="text/css">p{font-family: Spectral; font-size: 16px; line-height: 2; letter-spacing: 2px;}
+ol 	
+	{font-family: Spectral; font-size: 16px; line-height: 1.5;}
+ul 	
+	{font-family: Spectral; font-size: 16px; line-height: 1.5;}
+</style>
+<p> </p>
+
+<p><iframe height="480" src="https://drive.google.com/file/d/1sPUG_LsR9aqxNfUck48PHfvu_oBVJzIi/preview" width="640"></iframe></p>
+
+<p> </p>
+
+<ol>
+	<li>Quel est le nom de la série ?</li>
+	<li>Quel sont le jour et l'horaire de sa diffusion ?</li>
+	<li>Sur quelle chaîne cette série est-elle diffusé ?</li>
+	<li>Comment s'appelle l'ctrice ?</li>
+	<li>Elle a quel âge ?</li>
+	<li>Elle a appris le violon dans quel lielu ?</li>
+	<li>Elle a commencé à jouer du violon à quel âge ?</li>
+	<li>Quand est-ce qu'elle joue du violon ?</li>
+	<li>Dans la série, elle joue quel rôle ?</li>
+	<li>Dans la série, comment s'appelle la cheffe d'orchestre ?</li>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>100.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_77699</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>03 - Le média</text></name><questiontext format="html"><text><![CDATA[<p>Voici l'extrait d'une émisison. Lisez les questions, écoutez l'extrait puis répondez aux questions.</p><p style="text-align: center;"><iframe height="100" src="https://drive.google.com/file/d/1VTLMc3sVQUc0UssPxsfowR8_bV00dl91/preview" width="300"></iframe></p>
+
+<ol style="font-family: Spectral; line-height: 2;">
+	<li>Comment s'appelle l'émission ? (Choisissez 1)
+	<ol type="a">
+		<li><em>Le téléphone sonne</em></li>
+		<li><em>Le smartphone</em></li>
+		<li><em>Au bout du fil</em></li>
+	</ol>
+	</li>
+	<li>Quel est le sujet de l'émission ?</li>
+	<li>Combien de personne sont invitées ?</li>
+	<li>Ils ont quel âge ?</li>
+	<li>Quel est le problème ?</li>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>50.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_77701</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

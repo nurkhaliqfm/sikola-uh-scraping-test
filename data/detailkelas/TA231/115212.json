@@ -1,0 +1,85 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "46523.115212.47",
+  "shortname_sikola": "TA231-115212",
+  "kode_matkul": "23U02130402",
+  "nama_matkul": "Pembelajaran aktif",
+  "nama_kelas": "Pembelajaran Aktif (MKPK)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139796,
+      "id_user": 41069,
+      "id_prodi": 47,
+      "angkatan": 2020,
+      "nama_mahasiswa": "VICRAM SETIAWAN",
+      "nim": "H021201031",
+      "jalan": "BTN Palu Permai, Donggala Kodi",
+      "rt": 3,
+      "rw": 5,
+      "dusun": "-",
+      "kode_pos": "94226",
+      "nisn": "0016840128",
+      "tempat_lahir": "PALU",
+      "tanggal_lahir": "2001-09-02",
+      "telepon": "-0",
+      "handphone": "087855452657",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Donggala Kodi",
+      "id_wilayah": "180000",
+      "nik": "7210140209010001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "vicramsetiawan2901@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b0b44bd5-5428-4582-96da-24055f7ad771",
+      "id_registrasi_mahasiswa_pddikti": "bb68d2e6-e143-4261-b3e0-8a6c2570019a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115212,
+        "id_mahasiswa": 139796,
+        "created_at": "2023-08-28 13:22:18"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 886,
+      "id_user": 27053,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Arifin, M.T",
+      "nidn": "0020056703",
+      "nip": "196705201994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "227cf181-01b6-4b96-ae85-ccdd54caa855",
+      "pivot": {
+        "id_kelas_kuliah": 115212,
+        "id_dosen": 886
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1434,
+      "id_user": 17475,
+      "id_prodi": 47,
+      "nama": "Dr. Sri Dewi Astuty, S.Si.,M.Si.",
+      "nidn": "0013057502",
+      "nip": "197505131999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3344b510-d213-4a67-af81-98ecef09978b",
+      "pivot": {
+        "id_kelas_kuliah": 115212,
+        "id_dosen": 1434
+      }
+    }
+  ]
+}

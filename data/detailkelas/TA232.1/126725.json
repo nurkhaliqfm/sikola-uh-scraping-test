@@ -1,0 +1,125 @@
+{
+  "id_prodi": 196,
+  "nama_prodi": "PROFESI INSINYUR",
+  "id_prodi_semester": 2763,
+  "idnumber_sikola": "36035.126725.196",
+  "shortname_sikola": "TA232-126725",
+  "kode_matkul": "18D01410504",
+  "nama_matkul": "Studi Kasus Keinsinyuran",
+  "nama_kelas": "Studi Kasus Keinsinyuran Kelas A - RPL",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1392,
+      "id_user": 11736,
+      "id_prodi": 13,
+      "nama": "Dr. Eng. Ir. Ilham Bakri, ST., M.Sc",
+      "nidn": "0029097501",
+      "nip": "197509291999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4d8274cc-122e-46af-aa5f-f7a06f63f717",
+      "pivot": {
+        "id_kelas_kuliah": 126725,
+        "id_dosen": 1392
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1655,
+      "id_user": 30013,
+      "id_prodi": 13,
+      "nama": "Dr.Eng. Ir. Muhammad Rusman, ST.,MT.",
+      "nidn": "0024107404",
+      "nip": "197410242003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bfe386a9-d692-4399-ac0f-dd515542867c",
+      "pivot": {
+        "id_kelas_kuliah": 126725,
+        "id_dosen": 1655
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1638,
+      "id_user": 23270,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Rustan Tarakka, ST., MT.",
+      "nidn": "0027087504",
+      "nip": "197508272005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9a917a55-9ea0-45ea-bd79-1fa2669f2a92",
+      "pivot": {
+        "id_kelas_kuliah": 126725,
+        "id_dosen": 1638
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1940,
+      "id_user": 11895,
+      "id_prodi": 10,
+      "nama": "Andi Subhan Mustari, ST.,MT",
+      "nidn": "0031057601",
+      "nip": "197605312005011004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "59f6c312-bda6-41ff-a9df-d922b4e90c2f",
+      "pivot": {
+        "id_kelas_kuliah": 126725,
+        "id_dosen": 1940
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1700,
+      "id_user": 16977,
+      "id_prodi": 17,
+      "nama": "Dr. Ikhlas Kitta, ST., MT.",
+      "nidn": "0014097603",
+      "nip": "197609142008011006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1718683-c9ac-4825-9fff-6baa5409f663",
+      "pivot": {
+        "id_kelas_kuliah": 126725,
+        "id_dosen": 1700
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1312,
+      "id_user": 32555,
+      "id_prodi": 12,
+      "nama": "Dr. Ir. Nasruddin, M.Si",
+      "nidn": "0017106101",
+      "nip": "196110171985031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "730852b4-de5f-444e-b328-f8c1d0f5b26c",
+      "pivot": {
+        "id_kelas_kuliah": 126725,
+        "id_dosen": 1312
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2502,
+      "id_user": 31596,
+      "id_prodi": 13,
+      "nama": "Ir. Nadzirah Ikasari, S, S.T., M.T.",
+      "nidn": "0929108901",
+      "nip": "198910292018092001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3fcccb09-0dcb-4dd6-be6c-697ac9eb9a5a",
+      "pivot": {
+        "id_kelas_kuliah": 126725,
+        "id_dosen": 2502
+      }
+    }
+  ]
+}

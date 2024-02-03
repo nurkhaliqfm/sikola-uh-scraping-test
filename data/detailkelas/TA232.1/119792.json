@@ -1,0 +1,156 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2743,
+  "idnumber_sikola": "37015.119792.175",
+  "shortname_sikola": "TA232-119792",
+  "kode_matkul": "19G01210903",
+  "nama_matkul": "Rekayasa Teknologi Budidaya Tanaman Perkebunan",
+  "nama_kelas": "Rekayasa Tekno. BD Tanaman Perkebunan (Kelas A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427372,
+      "id_user": 85895,
+      "id_prodi": 175,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD AKRAM",
+      "nim": "G012232005",
+      "jalan": "SAELE",
+      "rt": 2,
+      "rw": 3,
+      "dusun": "Saele",
+      "kode_pos": "92975",
+      "nisn": "-",
+      "tempat_lahir": "LUWU TIMUR",
+      "tanggal_lahir": "2000-04-21",
+      "telepon": "0",
+      "handphone": "085299371901",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "DESA ASANA",
+      "id_wilayah": "192601",
+      "nik": "7324072104020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 85895,
+      "kode_status": "A",
+      "email": "muhakram2104@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119792,
+        "id_mahasiswa": 427372,
+        "created_at": "2024-01-13 08:11:06"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427999,
+      "id_user": 86526,
+      "id_prodi": 175,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ARFINA SHALSABILA",
+      "nim": "G012232003",
+      "jalan": "PERINTIS KEMERDEKAAN 8",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0",
+      "tempat_lahir": "TAPPALE",
+      "tanggal_lahir": "2001-01-06",
+      "telepon": "0",
+      "handphone": "082339609683",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TAMALANREA JAYA",
+      "id_wilayah": "196012",
+      "nik": "7308064610010002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86526,
+      "kode_status": "A",
+      "email": "arfina.shalsabila@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119792,
+        "id_mahasiswa": 427999,
+        "created_at": "2024-01-14 17:36:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 853,
+      "id_user": 20937,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Yunus Musa, M.Sc.",
+      "nidn": "0020125401",
+      "nip": "195412201983031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d915e579-dcb2-4962-93a9-f162a1142693",
+      "pivot": {
+        "id_kelas_kuliah": 119792,
+        "id_dosen": 853
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 838,
+      "id_user": 15344,
+      "id_prodi": 152,
+      "nama": "Prof. Dr.  Ir. Nasaruddin, MS.",
+      "nidn": "0006015502",
+      "nip": "195501061983121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5453fffe-eb7d-4810-8917-096182f147ab",
+      "pivot": {
+        "id_kelas_kuliah": 119792,
+        "id_dosen": 838
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 832,
+      "id_user": 21644,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Rafiuddin, M.P.",
+      "nidn": "0029126402",
+      "nip": "196412291989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "51cfeb09-28b9-4463-98c1-e5d21d197bc8",
+      "pivot": {
+        "id_kelas_kuliah": 119792,
+        "id_dosen": 832
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1975,
+      "id_user": 22091,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Ifayanti Ridwan Saleh, S.P., MP.",
+      "nidn": "0907097401",
+      "nip": "197409072012122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3cde849f-7529-4092-85ef-f0424ebde729",
+      "pivot": {
+        "id_kelas_kuliah": 119792,
+        "id_dosen": 1975
+      }
+    }
+  ]
+}

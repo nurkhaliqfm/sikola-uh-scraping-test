@@ -1,0 +1,45 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2612,
+  "idnumber_sikola": "46576.128742.16",
+  "shortname_sikola": "TA232-128742",
+  "kode_matkul": "23D09141402",
+  "nama_matkul": "Pemodelan Distribusi Fluida",
+  "nama_kelas": "Pemodelan Distribusi Fluida Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1010,
+      "id_user": 34253,
+      "id_prodi": 16,
+      "nama": "Ir. Syerly Klara, MT.",
+      "nidn": "0001056402",
+      "nip": "196405011990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a16f0c89-66ca-4bd5-9c3a-863a98f6ffb5",
+      "pivot": {
+        "id_kelas_kuliah": 128742,
+        "id_dosen": 1010
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3446,
+      "id_user": 59698,
+      "id_prodi": 16,
+      "nama": "Balqis Shintarahayu, S.T., M.Sc",
+      "nidn": "8934520021",
+      "nip": "199509272021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "dce9b41e-e509-47c3-914b-8c8ea12078e3",
+      "pivot": {
+        "id_kelas_kuliah": 128742,
+        "id_dosen": 3446
+      }
+    }
+  ]
+}

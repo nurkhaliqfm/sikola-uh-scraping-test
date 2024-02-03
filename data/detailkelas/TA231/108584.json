@@ -1,0 +1,45 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "45122.108584.50",
+  "shortname_sikola": "TA231-108584",
+  "kode_matkul": "23H04130402",
+  "nama_matkul": "EVOLUSI",
+  "nama_kelas": "Evolusi (B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1400,
+      "id_user": 34177,
+      "id_prodi": 50,
+      "nama": "Dr. Eddyman, S.Si., M.Si.",
+      "nidn": "0010017002",
+      "nip": "197001101997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15f3c27a-7c51-4ab9-b1d2-5e22bcc9d365",
+      "pivot": {
+        "id_kelas_kuliah": 108584,
+        "id_dosen": 1400
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1573,
+      "id_user": 33082,
+      "id_prodi": 50,
+      "nama": "Dr.  Irma Andriani, S.Si.,M.Si.",
+      "nidn": "0009087101",
+      "nip": "197108091999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "021459e6-b6f7-4374-a472-0dbdaf294a26",
+      "pivot": {
+        "id_kelas_kuliah": 108584,
+        "id_dosen": 1573
+      }
+    }
+  ]
+}

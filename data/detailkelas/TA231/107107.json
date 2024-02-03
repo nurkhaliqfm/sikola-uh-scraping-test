@@ -1,0 +1,45 @@
+{
+  "id_prodi": 141,
+  "nama_prodi": "MKU  Eksakta",
+  "id_prodi_semester": 2483,
+  "idnumber_sikola": "44617.107107.141",
+  "shortname_sikola": "TA231-107107",
+  "kode_matkul": "23H01110802",
+  "nama_matkul": "Matematika Dasar",
+  "nama_kelas": "Matematika Dasar 00014",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2466,
+      "id_user": 21253,
+      "id_prodi": 202,
+      "nama": "Andi Muhammad Anwar, S.Si., M.Si",
+      "nidn": "0928129001",
+      "nip": "199012282018031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0c0ac1f1-385e-4260-9eba-b48e1ee220b2",
+      "pivot": {
+        "id_kelas_kuliah": 107107,
+        "id_dosen": 2466
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2048,
+      "id_user": 20165,
+      "id_prodi": 45,
+      "nama": "Dr. Muh. Nur, S.Si., M.Si.",
+      "nidn": "0029058502",
+      "nip": "198505292008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c8807b62-9b8d-48f0-aa78-d96e21c4ea3f",
+      "pivot": {
+        "id_kelas_kuliah": 107107,
+        "id_dosen": 2048
+      }
+    }
+  ]
+}

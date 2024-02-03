@@ -1,0 +1,77 @@
+{
+  "id_prodi": 167,
+  "nama_prodi": "TEKNIK ELEKTRO - S3",
+  "id_prodi_semester": 2504,
+  "idnumber_sikola": "34834.108231.167",
+  "shortname_sikola": "TA231-108231",
+  "kode_matkul": "18D05310904",
+  "nama_matkul": "TOPIK KHUSUS ELEKTRONIKA LANJUT",
+  "nama_kelas": "PILIHAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1609,
+      "id_user": 32004,
+      "id_prodi": 17,
+      "nama": "Prof. Dr.-Ing. Ir. Faizal Arya Samman, ST, MT, IPU, AseanEng, ACPE",
+      "nidn": "0005067507",
+      "nip": "197506052002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "06214b1e-7d41-4708-982d-94adb48684de",
+      "pivot": {
+        "id_kelas_kuliah": 108231,
+        "id_dosen": 1609
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1979,
+      "id_user": 15926,
+      "id_prodi": 17,
+      "nama": "Muh. Anshar, S.T., M.Sc(Research), Ph. D",
+      "nidn": "0017087713",
+      "nip": "197708172005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f091dc64-d02a-4427-aaf1-1b4ba2d7ba6d",
+      "pivot": {
+        "id_kelas_kuliah": 108231,
+        "id_dosen": 1979
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1659,
+      "id_user": 11683,
+      "id_prodi": 17,
+      "nama": "Dr. A. Ejah Umraeni Salam, ST., MT.",
+      "nidn": "0008097201",
+      "nip": "197209081997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "88086c3f-c6fa-4f38-a39f-9dd56f2be270",
+      "pivot": {
+        "id_kelas_kuliah": 108231,
+        "id_dosen": 1659
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1643,
+      "id_user": 9944,
+      "id_prodi": 17,
+      "nama": "Dr. Ir. Ingrid Nurtanio,  MT",
+      "nidn": "0013086103",
+      "nip": "196108131988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "33ae198b-6c19-49ff-95ba-1876909cb9a2",
+      "pivot": {
+        "id_kelas_kuliah": 108231,
+        "id_dosen": 1643
+      }
+    }
+  ]
+}

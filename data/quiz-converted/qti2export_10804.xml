@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>07 Le gérondif (2)</text></name><questiontext format="html"><text><![CDATA[<p>Transformez ces phrases, si possible, avec un gérondif.</p><style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<ol>
+	<li>On les a reconnus quand ils sont entrés.</li>
+	<li>Je me suis aperçu de mon erreur pendant que je lisais.</li>
+	<li>On ne doit pas téléphoner quand on conduit.</li>
+	<li>Il a fermé ma porte. Il a cassé la poignée.</li>
+	<li>C'est parce qu'elle a réfléchi qu'elle a compris ce que se passait.</li>
+	<li>Ils l'ont arrêté pour lui demander leur chemin.</li>
+	<li>Nous sommes sortis. Nous avons oublié les clés à l'intérieur.</li>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>70.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_134104</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

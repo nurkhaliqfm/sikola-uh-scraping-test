@@ -1,0 +1,85 @@
+{
+  "id_prodi": 92,
+  "nama_prodi": "ILMU KIMIA - S3",
+  "id_prodi_semester": 2668,
+  "idnumber_sikola": "37378.120237.92",
+  "shortname_sikola": "TA232-120237",
+  "kode_matkul": "18H01313903",
+  "nama_matkul": "Seminar Internasional 1",
+  "nama_kelas": "Seminar Internasional 1 (A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 418821,
+      "id_user": 80913,
+      "id_prodi": 92,
+      "angkatan": 2023,
+      "nama_mahasiswa": "LA ODE AGUS SALIM",
+      "nim": "H013231002",
+      "jalan": "BTN. FINDAYANI BLOK B NO. 4",
+      "rt": 9,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "93116",
+      "nisn": null,
+      "tempat_lahir": "KUPANG",
+      "tanggal_lahir": "1995-08-14",
+      "telepon": "082194352553",
+      "handphone": "082194352553",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Wundudopi",
+      "id_wilayah": "206004",
+      "nik": "7407011408950002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "agus.123742@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "31adb80b-575a-4889-a0de-ba3d8723e9b7",
+      "id_registrasi_mahasiswa_pddikti": "2b67e307-350c-428b-b1b7-ec5ae21da860",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120237,
+        "id_mahasiswa": 418821,
+        "created_at": "2024-01-22 08:25:57"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1522,
+      "id_user": 30923,
+      "id_prodi": 49,
+      "nama": "Prof. Dra. Paulina Taba,  M.Phil., Ph.D",
+      "nidn": "0015115701",
+      "nip": "195711151988102001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c9e6947-6bda-46fa-ae33-349e20ac755e",
+      "pivot": {
+        "id_kelas_kuliah": 120237,
+        "id_dosen": 1522
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1675,
+      "id_user": 33412,
+      "id_prodi": 49,
+      "nama": "Dr.  Muhammad Zakir, S.Si.,M.Si.",
+      "nidn": "0003117002",
+      "nip": "197011031999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd7a5a89-8f8e-4e3b-8a3d-ba988f63efa5",
+      "pivot": {
+        "id_kelas_kuliah": 120237,
+        "id_dosen": 1675
+      }
+    }
+  ]
+}

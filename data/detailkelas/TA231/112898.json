@@ -1,0 +1,52 @@
+{
+  "id_prodi": 20,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH KOTA - S1",
+  "id_prodi_semester": 2385,
+  "idnumber_sikola": "46549.112898.20",
+  "shortname_sikola": "TA231-112898",
+  "kode_matkul": "23U02132304",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 138840,
+      "id_user": 38748,
+      "id_prodi": 20,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NURUL MUTIA' SYAFIRAH",
+      "nim": "D101201064",
+      "jalan": "Jalan Rappokalling Raya 2 No. 11",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "-",
+      "kode_pos": "90216",
+      "nisn": "0021211551",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-12-23",
+      "telepon": "0",
+      "handphone": "6282114516548",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "tammua",
+      "id_wilayah": "190000",
+      "nik": "7271016312020002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nurulmutia02.nm@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "24f3a8c8-a5cd-4ab0-b0bf-efcc80a0e415",
+      "id_registrasi_mahasiswa_pddikti": "4d5999df-4c91-4706-a3d6-5126edb763ec",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112898,
+        "id_mahasiswa": 138840,
+        "created_at": "2023-08-04 18:26:38"
+      }
+    }
+  ],
+  "dosens": []
+}

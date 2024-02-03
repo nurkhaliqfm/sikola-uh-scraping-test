@@ -1,0 +1,117 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2640,
+  "idnumber_sikola": "19652.129869.51",
+  "shortname_sikola": "TA232-129869",
+  "kode_matkul": "214I1103",
+  "nama_matkul": "DASAR TEKNOLOGI HASIL TERNAK",
+  "nama_kelas": "Dasar Teknologi Hasil Ternak Kelas 2017-2020",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141976,
+      "id_user": 38526,
+      "id_prodi": 51,
+      "angkatan": 2020,
+      "nama_mahasiswa": "BASO SAIFUDDIN. M",
+      "nim": "I011201175",
+      "jalan": "Jl.Sungai siwa",
+      "rt": 3,
+      "rw": 2,
+      "dusun": "Jl.Sungai siwa",
+      "kode_pos": "90914",
+      "nisn": "0022463600",
+      "tempat_lahir": "Sengkang",
+      "tanggal_lahir": "2002-02-22",
+      "telepon": "000000",
+      "handphone": "6281527253270",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Siengkang",
+      "id_wilayah": "190802",
+      "nik": "7313062202020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "basosaifuddin.m@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d796040b-f94a-4580-b4a7-e0daa5400f99",
+      "id_registrasi_mahasiswa_pddikti": "e865595f-2265-4824-95e6-105541274e7f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129869,
+        "id_mahasiswa": 141976,
+        "created_at": "2024-02-02 11:01:56"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 709,
+      "id_user": 15739,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. drh. Ratmawati Malaka, M.Sc.",
+      "nidn": "0012076407",
+      "nip": "196407121989112002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "63a3c019-1692-4ac0-85c3-3577abb094f1",
+      "pivot": {
+        "id_kelas_kuliah": 129869,
+        "id_dosen": 709
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1381,
+      "id_user": 10149,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Hikmah, S.Pt., M.Si., IPU, ASEAN Eng.",
+      "nidn": "0019087104",
+      "nip": "197108191998021005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4fd73e2e-a743-4348-aafa-a0bf12d43cd6",
+      "pivot": {
+        "id_kelas_kuliah": 129869,
+        "id_dosen": 1381
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1831,
+      "id_user": 12963,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Nahariah, S.Pt.,MP., IPM.",
+      "nidn": "0015087413",
+      "nip": "197408152008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "effa4c01-8bc3-48cb-b8a0-4afb5c29e46b",
+      "pivot": {
+        "id_kelas_kuliah": 129869,
+        "id_dosen": 1831
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1688,
+      "id_user": 14953,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Muhammad Irfan Said, S.Pt., MP., IPM, ASEAN Eng.",
+      "nidn": "0005127404",
+      "nip": "197412052006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f947a3a8-2725-4be1-86b8-a0a0d88195fb",
+      "pivot": {
+        "id_kelas_kuliah": 129869,
+        "id_dosen": 1688
+      }
+    }
+  ]
+}

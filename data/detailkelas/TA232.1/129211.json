@@ -1,0 +1,109 @@
+{
+  "id_prodi": 74,
+  "nama_prodi": "PROG. PROFESI APOTEKER",
+  "id_prodi_semester": 2652,
+  "idnumber_sikola": "43183.129211.74",
+  "shortname_sikola": "TA232-129211",
+  "kode_matkul": "22N01410302",
+  "nama_matkul": "Swamedikasi",
+  "nama_kelas": "Swamedikasi D",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1296,
+      "id_user": 26517,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  Gemini Alam, M.Si.,Apt",
+      "nidn": "0031126414",
+      "nip": "196412311990021005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0d704b8b-4659-4407-b68b-0c0f03df835a",
+      "pivot": {
+        "id_kelas_kuliah": 129211,
+        "id_dosen": 1296
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1083,
+      "id_user": 21515,
+      "id_prodi": 73,
+      "nama": "Prof. Dr. Hj. Latifah Rahman, DESS., Apt.",
+      "nidn": "0015065708",
+      "nip": "195706151984032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1e2dd303-e298-4be9-aafd-97bd99c07054",
+      "pivot": {
+        "id_kelas_kuliah": 129211,
+        "id_dosen": 1083
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2059,
+      "id_user": 20387,
+      "id_prodi": 73,
+      "nama": "Muhammad Raihan, S.Si.,M.Sc.Stud., Apt.",
+      "nidn": "0028059001",
+      "nip": "199005282015041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9660f9ef-4af2-4df6-a18d-66a5fba9f0c7",
+      "pivot": {
+        "id_kelas_kuliah": 129211,
+        "id_dosen": 2059
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 752,
+      "id_user": 34045,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  Elly Wahyudin, DEA, Apt",
+      "nidn": "0014015601",
+      "nip": "195601141986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "30831778-9812-4c73-9ae2-94d75397e4db",
+      "pivot": {
+        "id_kelas_kuliah": 129211,
+        "id_dosen": 752
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2347,
+      "id_user": 34594,
+      "id_prodi": 73,
+      "nama": "Muh. Akbar Bahar, S.Si., M.Pharm.Sc.,Apt.",
+      "nidn": "0016058601",
+      "nip": "198605162009121005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f90ddd0d-3ef5-4074-a543-fbd9e4f37735",
+      "pivot": {
+        "id_kelas_kuliah": 129211,
+        "id_dosen": 2347
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1997,
+      "id_user": 17905,
+      "id_prodi": 73,
+      "nama": "Ismail, S.Si.,M.Si.,Apt.",
+      "nidn": "0005088504",
+      "nip": "198508052014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f5c88d3e-1ccf-4c9a-9fc2-5bef0a251473",
+      "pivot": {
+        "id_kelas_kuliah": 129211,
+        "id_dosen": 1997
+      }
+    }
+  ]
+}

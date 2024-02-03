@@ -1,0 +1,45 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2521.108160.5",
+  "shortname_sikola": "TA231-108160",
+  "kode_matkul": "18B01148302",
+  "nama_matkul": "HUKUM KEKELUARGAAN & KEWARISAN ADAT\r\n",
+  "nama_kelas": "HUKUM KEKELUARGAAN & KEWARISAN ADAT",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1377,
+      "id_user": 27672,
+      "id_prodi": 5,
+      "nama": "Dr. Kahar Lahae, S.H., M.Hum.",
+      "nidn": "0031126603",
+      "nip": "196612311990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9ea7702-44d7-46cc-a613-3df741381bb0",
+      "pivot": {
+        "id_kelas_kuliah": 108160,
+        "id_dosen": 1377
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1368,
+      "id_user": 32715,
+      "id_prodi": 5,
+      "nama": "Dr. Sri Susyanti Nur, SH., MH.",
+      "nidn": "0023116401",
+      "nip": "196411231990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0eeb229e-07c3-4b1b-a1a6-b95981ed0b51",
+      "pivot": {
+        "id_kelas_kuliah": 108160,
+        "id_dosen": 1368
+      }
+    }
+  ]
+}

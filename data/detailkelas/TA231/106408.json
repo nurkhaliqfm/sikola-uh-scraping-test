@@ -1,0 +1,29 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2461,
+  "idnumber_sikola": "29988.106408.119",
+  "shortname_sikola": "TA231-106408",
+  "kode_matkul": "0503C20501",
+  "nama_matkul": "BACA PUSTAKA",
+  "nama_kelas": "Baca Pustaka",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2341,
+      "id_user": 28329,
+      "id_prodi": 6,
+      "nama": "Dr. dr. St. Aizah Lawang, M.Kes., Sp.A(K)",
+      "nidn": "0021037413",
+      "nip": "197403212008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "707a9620-dda9-4cce-8c83-44be8cd54674",
+      "pivot": {
+        "id_kelas_kuliah": 106408,
+        "id_dosen": 2341
+      }
+    }
+  ]
+}

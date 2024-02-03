@@ -1,0 +1,69 @@
+{
+  "id_prodi": 228,
+  "nama_prodi": "PPDS ILMU BEDAH (Sp2)",
+  "id_prodi_semester": 2561,
+  "idnumber_sikola": "42764.105127.228",
+  "shortname_sikola": "TA231-105127",
+  "kode_matkul": "21C02822102",
+  "nama_matkul": "Tindakan Kemoterapi Keganasan Hati, Saluran Empedu dan Pankreas",
+  "nama_kelas": "Tindakan Kemoterapi Keganasan Hati, Saluran Empedu dan Pankreas 2023/2024",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 340964,
+      "id_user": 59234,
+      "id_prodi": 228,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ADRIAN PARDOMUAN PURBA",
+      "nim": "C028212003",
+      "jalan": "Bumi Tamalanrea Permai, Tamalanrea Mas M1/2",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1978-11-25",
+      "telepon": "0",
+      "handphone": "081243440509",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "3674052511780003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "purba.adrian@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "de47f42a-6cc0-47f6-8a3d-8d34691f34a4",
+      "id_registrasi_mahasiswa_pddikti": "7976a2ec-18ee-4f9e-ace3-f81f1228b7f9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105127,
+        "id_mahasiswa": 340964,
+        "created_at": "2023-08-06 12:02:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3091,
+      "id_user": 57851,
+      "id_prodi": 115,
+      "nama": "Dr. dr. Ronald E. Lusikooy, SpB-KBD",
+      "nidn": "8888040017",
+      "nip": "196304242018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9af2a6de-f725-4d0d-a55a-63dbe904a2c8",
+      "pivot": {
+        "id_kelas_kuliah": 105127,
+        "id_dosen": 3091
+      }
+    }
+  ]
+}

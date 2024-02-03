@@ -1,0 +1,61 @@
+{
+  "id_prodi": 73,
+  "nama_prodi": "FARMASI - S1",
+  "id_prodi_semester": 2651,
+  "idnumber_sikola": "37824.121313.73",
+  "shortname_sikola": "TA232-121313",
+  "kode_matkul": "20N01132702",
+  "nama_matkul": "Pengembangan Teknologi Farmasetika",
+  "nama_kelas": "Pengembangan Teknologi Farmasetika A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1083,
+      "id_user": 21515,
+      "id_prodi": 73,
+      "nama": "Prof. Dr. Hj. Latifah Rahman, DESS., Apt.",
+      "nidn": "0015065708",
+      "nip": "195706151984032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1e2dd303-e298-4be9-aafd-97bd99c07054",
+      "pivot": {
+        "id_kelas_kuliah": 121313,
+        "id_dosen": 1083
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2377,
+      "id_user": 19913,
+      "id_prodi": 73,
+      "nama": "Prof. Andi Dian Permana, S.Si., M.Si., Ph.D., Apt",
+      "nidn": "0005028901",
+      "nip": "198902052012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "de7360f7-190f-42b5-be5e-ece99156a25f",
+      "pivot": {
+        "id_kelas_kuliah": 121313,
+        "id_dosen": 2377
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2367,
+      "id_user": 48078,
+      "id_prodi": 73,
+      "nama": "Nurhasni Hasan, S.Si., M.Si., M.Pharm.Sc., Apt., Ph.D",
+      "nidn": "0016018601",
+      "nip": "198601162010122009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "de60febc-9b50-485d-ba7e-0f35891495f3",
+      "pivot": {
+        "id_kelas_kuliah": 121313,
+        "id_dosen": 2367
+      }
+    }
+  ]
+}

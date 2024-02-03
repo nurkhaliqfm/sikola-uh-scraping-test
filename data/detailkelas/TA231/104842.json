@@ -1,0 +1,172 @@
+{
+  "id_prodi": 217,
+  "nama_prodi": "KEDOKTERAN GIGI - S2",
+  "id_prodi_semester": 2551,
+  "idnumber_sikola": "39519.104842.217",
+  "shortname_sikola": "TA231-104842",
+  "kode_matkul": "20J08211902",
+  "nama_matkul": "Nanomaterials dan aplikasi",
+  "nama_kelas": "NANOMATERIAL DAN APLIKASI",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 384961,
+      "id_user": 71742,
+      "id_prodi": 217,
+      "angkatan": 2022,
+      "nama_mahasiswa": "KURNIA FATWATI",
+      "nim": "J012222001",
+      "jalan": "JALAN RAYA STAGEN KM 10, KECAMATAN PULAU LAUT UTARA, KABUPATEN KOTABARU, KALIMANTAN SELATAN",
+      "rt": 7,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "72114",
+      "nisn": "9976973829",
+      "tempat_lahir": "KOTABARU",
+      "tanggal_lahir": "1997-03-27",
+      "telepon": "0",
+      "handphone": "085251398327",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "STAGEN",
+      "id_wilayah": "150906",
+      "nik": "6302066703970002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "kurniaafatwatii@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "6ce18c82-53c5-4bce-8095-811e30f2e341",
+      "id_registrasi_mahasiswa_pddikti": "969a8e9e-417f-446f-918a-f0b955ed0374",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104842,
+        "id_mahasiswa": 384961,
+        "created_at": "2023-08-02 09:43:07"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 384949,
+      "id_user": 71730,
+      "id_prodi": 217,
+      "angkatan": 2022,
+      "nama_mahasiswa": "WILDANUL JIHAD",
+      "nim": "J012222004",
+      "jalan": "JL. TUBARANIA LIMBUNG",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "92152",
+      "nisn": "None",
+      "tempat_lahir": "LIMBUNG",
+      "tanggal_lahir": "1999-07-13",
+      "telepon": "0",
+      "handphone": "085845708579",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "LIMBUNG",
+      "id_wilayah": "190302",
+      "nik": "7306021307990007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Wildanuljihad99@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "febe562d-021f-47c5-b67e-1c16333b4331",
+      "id_registrasi_mahasiswa_pddikti": "4b81e991-71e5-4ec2-b403-9e9b8ab51aa4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 104842,
+        "id_mahasiswa": 384949,
+        "created_at": "2023-08-03 12:47:58"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1908,
+      "id_user": 30073,
+      "id_prodi": 55,
+      "nama": "drg. Lenni Indriyani Hatta, SKG.,M.Kes.",
+      "nidn": "0013057604",
+      "nip": "197605132005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "03fc6626-0132-4a2a-9f2b-c5fef8fd91fd",
+      "pivot": {
+        "id_kelas_kuliah": 104842,
+        "id_dosen": 1908
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1179,
+      "id_user": 35537,
+      "id_prodi": 55,
+      "nama": "Prof. Dr. drg. Sri Oktawati, Sp.Perio.",
+      "nidn": "0003106401",
+      "nip": "196410031990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "152df927-936a-4272-a364-aaab0f4c30d0",
+      "pivot": {
+        "id_kelas_kuliah": 104842,
+        "id_dosen": 1179
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1063,
+      "id_user": 34506,
+      "id_prodi": 55,
+      "nama": "Prof. Dr. Edy Machmud, Sp.Prost",
+      "nidn": "0014116312",
+      "nip": "196311041994011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a0d1ceb8-144c-412f-a78a-9db04b86ba63",
+      "pivot": {
+        "id_kelas_kuliah": 104842,
+        "id_dosen": 1063
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1571,
+      "id_user": 36795,
+      "id_prodi": 55,
+      "nama": "Dr. drg. Aries Chandra Trilaksana, M.Kes.,Sp.KG.( K )",
+      "nidn": "0027037608",
+      "nip": "197603272002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eec0f033-63b7-49b1-8245-870eced505e7",
+      "pivot": {
+        "id_kelas_kuliah": 104842,
+        "id_dosen": 1571
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1189,
+      "id_user": 23022,
+      "id_prodi": 55,
+      "nama": "Prof. Dr. drg. Asmawati, M.Kes.",
+      "nidn": "0028106806",
+      "nip": "196810281998022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3ea75f0c-af2a-425a-a3ce-24459534caa1",
+      "pivot": {
+        "id_kelas_kuliah": 104842,
+        "id_dosen": 1189
+      }
+    }
+  ]
+}

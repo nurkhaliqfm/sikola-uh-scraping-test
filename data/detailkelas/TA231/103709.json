@@ -1,0 +1,172 @@
+{
+  "id_prodi": 227,
+  "nama_prodi": "PPDS ANESTESIOLOGI  DAN TERAPI (Sp2)",
+  "id_prodi_semester": 2560,
+  "idnumber_sikola": "39964.103709.227",
+  "shortname_sikola": "TA231-103709",
+  "kode_matkul": "20C01821604",
+  "nama_matkul": "Nyeri pada Populasi Khusus",
+  "nama_kelas": "Nyeri pada Populasi Khusus - KMN 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 340730,
+      "id_user": 58433,
+      "id_prodi": 227,
+      "angkatan": 2021,
+      "nama_mahasiswa": "WALDEMAR P. SIAHAAN",
+      "nim": "C018212004",
+      "jalan": "A.A. MARAMIS",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "95256",
+      "nisn": "-",
+      "tempat_lahir": "BANDUNG",
+      "tanggal_lahir": "1981-02-24",
+      "telepon": "0",
+      "handphone": "081257751083",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PANIKI BAWAH",
+      "id_wilayah": "176004",
+      "nik": "7171092402810002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "waldemarsiahaan@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9a1154d8-1cef-4e3e-91b5-5d98d4ecf02b",
+      "id_registrasi_mahasiswa_pddikti": "2ae5292b-f211-4596-836b-9107c41debba",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103709,
+        "id_mahasiswa": 340730,
+        "created_at": "2023-07-31 12:33:31"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 340331,
+      "id_user": 58657,
+      "id_prodi": 227,
+      "angkatan": 2021,
+      "nama_mahasiswa": "AUNUN ROFIQ",
+      "nim": "C018212002",
+      "jalan": "JL.DIPONEGORO, PERUM GRIYA SYIFA ALAMANDA BLOK F NO.23",
+      "rt": 3,
+      "rw": 10,
+      "dusun": null,
+      "kode_pos": "53181",
+      "nisn": null,
+      "tempat_lahir": "KENDAL",
+      "tanggal_lahir": "1979-12-05",
+      "telepon": "02816512509",
+      "handphone": "081329282130",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "SOKARAJA KULON",
+      "id_wilayah": "030223",
+      "nik": "3305120512790003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aununrofiq92@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ee5d492c-52e1-4777-880a-7d3caf1a5b04",
+      "id_registrasi_mahasiswa_pddikti": "992561da-2897-4729-b23b-43887b1270b1",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103709,
+        "id_mahasiswa": 340331,
+        "created_at": "2023-07-31 22:31:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1797,
+      "id_user": 34334,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Andi Muhammad Takdir Musba, Sp.An., KMN",
+      "nidn": "0031107406",
+      "nip": "197410312008011009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1108270b-cb43-4eb1-a26b-3b9dd8178080",
+      "pivot": {
+        "id_kelas_kuliah": 103709,
+        "id_dosen": 1797
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2640,
+      "id_user": 34603,
+      "id_prodi": 128,
+      "nama": "dr. Alamsyah A. A. Husain, Sp.An-KMN",
+      "nidn": "8829520016",
+      "nip": "196809272000121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60eb3ee6-de7f-4ae7-b541-c2ffccf91147",
+      "pivot": {
+        "id_kelas_kuliah": 103709,
+        "id_dosen": 2640
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3346,
+      "id_user": 37389,
+      "id_prodi": 128,
+      "nama": "Dr. Charles Wijaya Tan, M.Kes, Sp.An-KMN",
+      "nidn": null,
+      "nip": "7371062411780001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103709,
+        "id_dosen": 3346
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2646,
+      "id_user": 73871,
+      "id_prodi": 128,
+      "nama": "dr. Madonna D. Datu, Sp.An",
+      "nidn": "8897910016",
+      "nip": "197605172018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f38371e0-0ff4-4ca8-932a-8da1f3a536e0",
+      "pivot": {
+        "id_kelas_kuliah": 103709,
+        "id_dosen": 2646
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 801,
+      "id_user": 34596,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Muhammad Ramli Achmad, Sp.An (K)",
+      "nidn": "0023035904",
+      "nip": "195903231987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22cf7408-bcd5-4f8a-bb11-cfc789976f0e",
+      "pivot": {
+        "id_kelas_kuliah": 103709,
+        "id_dosen": 801
+      }
+    }
+  ]
+}

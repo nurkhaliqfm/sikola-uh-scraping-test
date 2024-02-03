@@ -1,0 +1,61 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2480,
+  "idnumber_sikola": "31924.112139.138",
+  "shortname_sikola": "TA231-112139",
+  "kode_matkul": "19L06213603",
+  "nama_matkul": "Kontrol dan Pemeriksaan Kualitas Hasil Perikanan",
+  "nama_kelas": "Kontrol dan Pemeriksaan Kualitas Hasil Perikanan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 900,
+      "id_user": 24123,
+      "id_prodi": 235,
+      "nama": "Prof. Dr. Ir. Metusalach, M.Sc.",
+      "nidn": "0025056002",
+      "nip": "196005251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5efa67f5-93cd-419d-ad65-4fc29782cf3e",
+      "pivot": {
+        "id_kelas_kuliah": 112139,
+        "id_dosen": 900
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1763,
+      "id_user": 21087,
+      "id_prodi": 235,
+      "nama": "Dr. Nursinah Amir, S.Pi., MP.",
+      "nidn": "0015117904",
+      "nip": "197911152006042030",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5245705b-cdb7-4031-a378-c23c8ba06f9f",
+      "pivot": {
+        "id_kelas_kuliah": 112139,
+        "id_dosen": 1763
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2305,
+      "id_user": 27413,
+      "id_prodi": 69,
+      "nama": "Kasmiati, STP., MP., Ph.D.",
+      "nidn": "0016087405",
+      "nip": "197408162003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e97b8dc3-6500-4ffb-be8c-7ef1f15090ba",
+      "pivot": {
+        "id_kelas_kuliah": 112139,
+        "id_dosen": 2305
+      }
+    }
+  ]
+}

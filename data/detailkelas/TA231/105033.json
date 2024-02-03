@@ -1,0 +1,77 @@
+{
+  "id_prodi": 95,
+  "nama_prodi": "ILMU HUKUM - S2",
+  "id_prodi_semester": 2440,
+  "idnumber_sikola": "27607.105033.95",
+  "shortname_sikola": "TA231-105033",
+  "kode_matkul": "18B01226102",
+  "nama_matkul": "Hukum  Internasional  dan  HAM  \r\n",
+  "nama_kelas": "Hukum Internasional dan HAM (Mk. Pilihan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 837,
+      "id_user": 34234,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Abdul Maasba Magassing, SH., MH.",
+      "nidn": "0003085503",
+      "nip": "195508031984031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d47965d4-ac8d-4826-a58f-2b9bb2e34503",
+      "pivot": {
+        "id_kelas_kuliah": 105033,
+        "id_dosen": 837
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3601,
+      "id_user": null,
+      "id_prodi": 5,
+      "nama": "Stephen Allen Rosenbaum",
+      "nidn": null,
+      "nip": "505545691",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105033,
+        "id_dosen": 3601
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1613,
+      "id_user": 34285,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Iin Karita Sakharina, SH., MA.",
+      "nidn": "0020127701",
+      "nip": "197701202001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9fd24e70-fe6d-45a0-8c14-248053d946bb",
+      "pivot": {
+        "id_kelas_kuliah": 105033,
+        "id_dosen": 1613
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1652,
+      "id_user": 44539,
+      "id_prodi": 5,
+      "nama": "Birkah Latif, SH.,MH.,LLM.",
+      "nidn": "0008098005",
+      "nip": "198009082005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c49e773c-025e-413e-8490-7fa52d44c781",
+      "pivot": {
+        "id_kelas_kuliah": 105033,
+        "id_dosen": 1652
+      }
+    }
+  ]
+}

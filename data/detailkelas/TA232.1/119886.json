@@ -1,0 +1,77 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43229.119886.78",
+  "shortname_sikola": "TA232-119886",
+  "kode_matkul": "22I02212603",
+  "nama_matkul": "Keamanan Pangan Hasil Ternak (HCCP)",
+  "nama_kelas": "Keamanan Pangan Hasil Ternak (HCCP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 709,
+      "id_user": 15739,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. drh. Ratmawati Malaka, M.Sc.",
+      "nidn": "0012076407",
+      "nip": "196407121989112002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "63a3c019-1692-4ac0-85c3-3577abb094f1",
+      "pivot": {
+        "id_kelas_kuliah": 119886,
+        "id_dosen": 709
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1405,
+      "id_user": 16905,
+      "id_prodi": 51,
+      "nama": "Dr. Wahniyathi, S.Pt.,M.Si.",
+      "nidn": "0016047001",
+      "nip": "197004161995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "03b95f3d-51b2-4623-bc89-1792dec68877",
+      "pivot": {
+        "id_kelas_kuliah": 119886,
+        "id_dosen": 1405
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1946,
+      "id_user": 25638,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Fatma, S.Pt., MP.",
+      "nidn": "0013087501",
+      "nip": "197508132002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "39d05eb4-ced8-404c-9d93-b68b7c032cf9",
+      "pivot": {
+        "id_kelas_kuliah": 119886,
+        "id_dosen": 1946
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1831,
+      "id_user": 12963,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Nahariah, S.Pt.,MP., IPM.",
+      "nidn": "0015087413",
+      "nip": "197408152008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "effa4c01-8bc3-48cb-b8a0-4afb5c29e46b",
+      "pivot": {
+        "id_kelas_kuliah": 119886,
+        "id_dosen": 1831
+      }
+    }
+  ]
+}

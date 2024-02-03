@@ -1,0 +1,101 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2471,
+  "idnumber_sikola": "31242.105357.129",
+  "shortname_sikola": "TA231-105357",
+  "kode_matkul": "17C14540102",
+  "nama_matkul": "Hand 3",
+  "nama_kelas": "Hand 3_2017",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 103327,
+      "id_user": 25948,
+      "id_prodi": 129,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Luky Tandio Putra",
+      "nim": "C145191001",
+      "jalan": "Babatan pantai 6/12",
+      "rt": 2,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "0",
+      "nisn": null,
+      "tempat_lahir": "Bangkalan",
+      "tanggal_lahir": "1991-03-11",
+      "telepon": "0",
+      "handphone": "6282290171778",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Dukuh sukorejo",
+      "id_wilayah": "056009",
+      "nik": "3578261103910002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "luky.tandio@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "159a6325-494f-47c5-9d11-9d6f52133b85",
+      "id_registrasi_mahasiswa_pddikti": "15b7ad7b-d46e-4c65-8a59-11d89e6309c7",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105357,
+        "id_mahasiswa": 103327,
+        "created_at": "2023-08-04 22:54:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2691,
+      "id_user": 45179,
+      "id_prodi": 129,
+      "nama": "dr. M. Ruksal Saleh, Ph.D., Sp.OT (K)",
+      "nidn": null,
+      "nip": "196404142018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105357,
+        "id_dosen": 2691
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2699,
+      "id_user": 74177,
+      "id_prodi": 129,
+      "nama": "dr. Ira Nong, M.Kes., Sp.OT",
+      "nidn": "8929820021",
+      "nip": "198308102021116001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50b284fb-7cfe-4101-8090-7c240bae3497",
+      "pivot": {
+        "id_kelas_kuliah": 105357,
+        "id_dosen": 2699
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2696,
+      "id_user": null,
+      "id_prodi": 129,
+      "nama": "dr. Andi Dhedie Prasatia Sam, M.Kes., Sp.OT",
+      "nidn": null,
+      "nip": "7371131708840010'",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105357,
+        "id_dosen": 2696
+      }
+    }
+  ]
+}

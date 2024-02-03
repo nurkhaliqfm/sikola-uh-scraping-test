@@ -1,0 +1,61 @@
+{
+  "id_prodi": 46,
+  "nama_prodi": "STATISTIKA - S1",
+  "id_prodi_semester": 2404,
+  "idnumber_sikola": "45275.108337.46",
+  "shortname_sikola": "TA231-108337",
+  "kode_matkul": "23H05130603",
+  "nama_matkul": "Analisis Survival",
+  "nama_kelas": "Analisis Survival",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1672,
+      "id_user": 10408,
+      "id_prodi": 46,
+      "nama": "Sri Astuti Thamrin, S.Si.,M.Stat., Ph. D",
+      "nidn": "0013077405",
+      "nip": "197407131999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8a481c1b-c798-4382-8fd3-037515f23db2",
+      "pivot": {
+        "id_kelas_kuliah": 108337,
+        "id_dosen": 1672
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3948,
+      "id_user": 72740,
+      "id_prodi": 46,
+      "nama": "A. Muthiah Nur Angriany, S.Si., M.Si",
+      "nidn": null,
+      "nip": "7371144906970001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 108337,
+        "id_dosen": 3948
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3949,
+      "id_user": 72741,
+      "id_prodi": 46,
+      "nama": "Andi Isna Yunita, S.Si., M.Si",
+      "nidn": null,
+      "nip": "7314055706980001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 108337,
+        "id_dosen": 3949
+      }
+    }
+  ]
+}

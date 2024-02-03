@@ -1,0 +1,188 @@
+{
+  "id_prodi": 147,
+  "nama_prodi": "PROFESI DOKTER",
+  "id_prodi_semester": 2487,
+  "idnumber_sikola": "32860.117085.147",
+  "shortname_sikola": "TA231-117085",
+  "kode_matkul": "600C1135",
+  "nama_matkul": "ILMU BEDAH",
+  "nama_kelas": "ILMU BEDAH PERIODE GABUNGAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 341981,
+      "id_user": 60101,
+      "id_prodi": 147,
+      "angkatan": 2021,
+      "nama_mahasiswa": "SAHRUL FAJAR PERDANA S",
+      "nim": "C014212010",
+      "jalan": "PERINTIS KEMERDEKAAN 3",
+      "rt": 1,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": null,
+      "tempat_lahir": "PANGKAJENE",
+      "tanggal_lahir": "1998-08-03",
+      "telepon": "0821144411252",
+      "handphone": "082397001252",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Tamalanrea indah",
+      "id_wilayah": "196012",
+      "nik": "7314070308980005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "sahrulfajarps@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a2179d58-165a-4f49-b4b1-5d9d66238bc8",
+      "id_registrasi_mahasiswa_pddikti": "b3308c21-29d0-4d54-9756-c3dd63534b21",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_mahasiswa": 341981,
+        "created_at": "2023-11-30 15:03:46"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 344836,
+      "id_user": 68217,
+      "id_prodi": 147,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ANDI FAIZ HARUN",
+      "nim": "C014212222",
+      "jalan": "Jln. Flamboyan NTI DF/26",
+      "rt": 2,
+      "rw": 2,
+      "dusun": "-",
+      "kode_pos": "90862",
+      "nisn": "0001716613",
+      "tempat_lahir": "PARE-PARE",
+      "tanggal_lahir": "2000-01-02",
+      "telepon": "0",
+      "handphone": "082217432677",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Tettikenrarae",
+      "id_wilayah": "190901",
+      "nik": "7312010201000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fais88c@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "40fb99de-d667-4a1a-940e-03b5ce3799a5",
+      "id_registrasi_mahasiswa_pddikti": "c4a62662-7010-47d8-8678-b0d025ce506b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_mahasiswa": 344836,
+        "created_at": "2024-01-16 11:15:05"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3116,
+      "id_user": 85526,
+      "id_prodi": 115,
+      "nama": "dr. Elridho Sampepajung, SpB.Subsp.Onk.(K).",
+      "nidn": null,
+      "nip": "3578102001810013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_dosen": 3116
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2405,
+      "id_user": 33832,
+      "id_prodi": 6,
+      "nama": "dr. M. Asykar A. Palinrungi, Sp.U(K)",
+      "nidn": "0014127405",
+      "nip": "197412142002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ed926ed-00a0-4600-8e9a-bd9234654b60",
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_dosen": 2405
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2445,
+      "id_user": 37494,
+      "id_prodi": 115,
+      "nama": "dr. KHOIRUL KHOLIS, Sp.U",
+      "nidn": "8881120016",
+      "nip": "197207112018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a3096f91-e780-43bf-a9e1-7aaf1d3cbb2a",
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_dosen": 2445
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2444,
+      "id_user": 37488,
+      "id_prodi": 115,
+      "nama": "Dr. dr. Syakri Syahrir, Sp.U(K)",
+      "nidn": "8823120016",
+      "nip": "197501072018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0addea4e-23b5-4de5-91c0-b9ea9db3ead3",
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_dosen": 2444
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1869,
+      "id_user": 37403,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Syarif, Sp.U(K)",
+      "nidn": "0010088104",
+      "nip": "198108102009121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9552df4f-65d0-40f3-a896-f631a9be86c3",
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_dosen": 1869
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3715,
+      "id_user": 60505,
+      "id_prodi": 115,
+      "nama": "dr. Abdul Azis, Sp.U(K)",
+      "nidn": "0017057710",
+      "nip": "197705172006041009",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "e55e25d3-f366-4798-960e-7dfce843fdfa",
+      "pivot": {
+        "id_kelas_kuliah": 117085,
+        "id_dosen": 3715
+      }
+    }
+  ]
+}

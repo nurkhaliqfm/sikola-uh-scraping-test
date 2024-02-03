@@ -1,0 +1,45 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36882.110660.176",
+  "shortname_sikola": "TA231-110660",
+  "kode_matkul": "19G05213402",
+  "nama_matkul": "Riset Operasi Agroindustri",
+  "nama_kelas": "Riset Operasi Agroindustri (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1210,
+      "id_user": 23509,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Junaedi Muhidong, M.Sc.",
+      "nidn": "0025115712",
+      "nip": "196001011985031014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6e82961d-915e-49c9-b1cb-a7691035ca48",
+      "pivot": {
+        "id_kelas_kuliah": 110660,
+        "id_dosen": 1210
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 110660,
+        "id_dosen": 1038
+      }
+    }
+  ]
+}

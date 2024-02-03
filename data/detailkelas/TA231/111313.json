@@ -1,0 +1,45 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "45408.111313.19",
+  "shortname_sikola": "TA231-111313",
+  "kode_matkul": "23D05110602",
+  "nama_matkul": "Matematika Teknik",
+  "nama_kelas": "Engineering Mathematics",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1670,
+      "id_user": 18194,
+      "id_prodi": 19,
+      "nama": "Dr. Imriyanti, ST., MT.",
+      "nidn": "0008027304",
+      "nip": "197302082006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f618ce8-941f-4871-b850-de9b4ffd1281",
+      "pivot": {
+        "id_kelas_kuliah": 111313,
+        "id_dosen": 1670
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2004,
+      "id_user": 19488,
+      "id_prodi": 19,
+      "nama": "Pratiwi Mushar, S.T., M.T.",
+      "nidn": "0019018601",
+      "nip": "198601192014042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c9ebe46c-8b94-4b09-8357-b5bd04cf4e85",
+      "pivot": {
+        "id_kelas_kuliah": 111313,
+        "id_dosen": 2004
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2425,
+  "idnumber_sikola": "43220.102892.78",
+  "shortname_sikola": "TA231-102892",
+  "kode_matkul": "22I02211703",
+  "nama_matkul": "Ilmu dan Teknologi Nutrisi Ternak Ruminansia",
+  "nama_kelas": "Ilmu dan teknologi Nutrisi Ternak Ruminansia",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 747,
+      "id_user": 27695,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Ismartoyo, M.Agr.S.",
+      "nidn": "0016025502",
+      "nip": "195512161981031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "85056ddd-4bf6-4dbf-8617-95a73be24134",
+      "pivot": {
+        "id_kelas_kuliah": 102892,
+        "id_dosen": 747
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 972,
+      "id_user": 74,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Asmuddin Natsir, M.Sc.",
+      "nidn": "0017095902",
+      "nip": "195909171985031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "43eb80f2-0e2d-40ee-87c1-9756e2d9d1ce",
+      "pivot": {
+        "id_kelas_kuliah": 102892,
+        "id_dosen": 972
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1117,
+      "id_user": 15191,
+      "id_prodi": 51,
+      "nama": "Dr. Ir.  Syahriani, M.Si.",
+      "nidn": "0012116503",
+      "nip": "196511121990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "603b95b7-c194-4d6b-badc-d90c3fb10143",
+      "pivot": {
+        "id_kelas_kuliah": 102892,
+        "id_dosen": 1117
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 897,
+      "id_user": 15735,
+      "id_prodi": 51,
+      "nama": "Dr. Ir Rohmiyatul Islamiyati, MP.",
+      "nidn": "0019086505",
+      "nip": "196508191990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6a679f5-623c-4587-bb34-e30f98fbaa24",
+      "pivot": {
+        "id_kelas_kuliah": 102892,
+        "id_dosen": 897
+      }
+    }
+  ]
+}

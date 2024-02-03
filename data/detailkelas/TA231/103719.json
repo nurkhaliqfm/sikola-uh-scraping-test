@@ -1,0 +1,243 @@
+{
+  "id_prodi": 227,
+  "nama_prodi": "PPDS ANESTESIOLOGI  DAN TERAPI (Sp2)",
+  "id_prodi_semester": 2560,
+  "idnumber_sikola": "39973.103719.227",
+  "shortname_sikola": "TA231-103719",
+  "kode_matkul": "20C01830510",
+  "nama_matkul": "Hasil Penelitian dan Publikasi",
+  "nama_kelas": "Hasil Penelitian dan Publikasi - KMN 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 160383,
+      "id_user": 57083,
+      "id_prodi": 227,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ALAUDDIN",
+      "nim": "C018211005",
+      "jalan": "TOMAKAKA, LEBANI  , BELOPA UTARA",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Sagena",
+      "kode_pos": "91994",
+      "nisn": "1",
+      "tempat_lahir": "PAREPARE",
+      "tanggal_lahir": "1979-12-16",
+      "telepon": "0",
+      "handphone": "08114612414",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA LEBANI",
+      "id_wilayah": "191703",
+      "nik": "7371061612790003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ala.anest@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e79ed5c2-0e87-4474-8da3-55fade872ec7",
+      "id_registrasi_mahasiswa_pddikti": "bc5b9755-a31d-43f9-b99c-a93ca0271b44",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_mahasiswa": 160383,
+        "created_at": "2023-08-07 14:42:01"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 161066,
+      "id_user": 57816,
+      "id_prodi": 227,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ACEP SUDARMAN",
+      "nim": "C018211004",
+      "jalan": "Komp. PEPABRI Jl. Kakatua no. 36\nKab. Bandung",
+      "rt": 3,
+      "rw": 11,
+      "dusun": "0",
+      "kode_pos": "40218",
+      "nisn": "C018211004",
+      "tempat_lahir": "Bandung",
+      "tanggal_lahir": "1963-05-30",
+      "telepon": "0",
+      "handphone": "08179210133",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Marga Asih",
+      "id_wilayah": "280133",
+      "nik": "3204103005630001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "acep_anestesi@yahoo.co.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "37b91f2e-b7ed-41b7-bc46-a2bb8f644c87",
+      "id_registrasi_mahasiswa_pddikti": "206e1f3d-ddeb-4498-83d3-0c4d09399b40",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_mahasiswa": 161066,
+        "created_at": "2023-08-07 15:10:40"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 160772,
+      "id_user": 57506,
+      "id_prodi": 227,
+      "angkatan": 2021,
+      "nama_mahasiswa": "FARHAN ALI RAHMAN",
+      "nim": "C018211002",
+      "jalan": "Jln. Palapa Atau Jln. Kemuning No.8, RT. 09, RW 03, Kelurahan Opas Indah, Kec. Taman Sari, Kota Pangkalpinang, 33121",
+      "rt": 9,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "33121",
+      "nisn": "0078815990",
+      "tempat_lahir": "SURAKARTA",
+      "tanggal_lahir": "1983-05-01",
+      "telepon": "081325750005",
+      "handphone": "081802731010",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "OPAS INDAH",
+      "id_wilayah": "016206",
+      "nik": "3471100105830001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "farhanalirahman@yahoo.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e4bbb67d-1cc0-4324-88e6-a59ecae08901",
+      "id_registrasi_mahasiswa_pddikti": "dc4027b5-9323-48a3-8c39-47705a154984",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_mahasiswa": 160772,
+        "created_at": "2023-08-07 15:37:07"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 801,
+      "id_user": 34596,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Muhammad Ramli Achmad, Sp.An (K)",
+      "nidn": "0023035904",
+      "nip": "195903231987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22cf7408-bcd5-4f8a-bb11-cfc789976f0e",
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_dosen": 801
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1797,
+      "id_user": 34334,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Andi Muhammad Takdir Musba, Sp.An., KMN",
+      "nidn": "0031107406",
+      "nip": "197410312008011009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1108270b-cb43-4eb1-a26b-3b9dd8178080",
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_dosen": 1797
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2640,
+      "id_user": 34603,
+      "id_prodi": 128,
+      "nama": "dr. Alamsyah A. A. Husain, Sp.An-KMN",
+      "nidn": "8829520016",
+      "nip": "196809272000121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60eb3ee6-de7f-4ae7-b541-c2ffccf91147",
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_dosen": 2640
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1802,
+      "id_user": 34595,
+      "id_prodi": 6,
+      "nama": "dr.  Nur Surya Wirawan, Sp.An., KMN",
+      "nidn": "0022048204",
+      "nip": "198204222008011007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c9205e4d-c574-4e57-972b-811974f0527e",
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_dosen": 1802
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1500,
+      "id_user": 34599,
+      "id_prodi": 6,
+      "nama": "dr.  Syafruddin Gaus, Ph.D.,Sp.An.",
+      "nidn": "0019106302",
+      "nip": "196310191996011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f0d48fc1-d1ab-401d-9688-56ef8a8eb963",
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_dosen": 1500
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2641,
+      "id_user": 34604,
+      "id_prodi": 128,
+      "nama": "dr. Ratnawati, Sp.An-KMN",
+      "nidn": "8835910016",
+      "nip": "197205112001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "70d04e0c-0707-4d73-9654-97925894a86b",
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_dosen": 2641
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3346,
+      "id_user": 37389,
+      "id_prodi": 128,
+      "nama": "Dr. Charles Wijaya Tan, M.Kes, Sp.An-KMN",
+      "nidn": null,
+      "nip": "7371062411780001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103719,
+        "id_dosen": 3346
+      }
+    }
+  ]
+}

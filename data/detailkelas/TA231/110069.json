@@ -1,0 +1,61 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "43324.110069.76",
+  "shortname_sikola": "TA231-110069",
+  "kode_matkul": "18P01315903",
+  "nama_matkul": "Ekologi Padang Rumput Tropis Lanjut",
+  "nama_kelas": "Ekologi Padang Rumput Tropis Lanjut (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 679,
+      "id_user": 24389,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Syamsuddin Hasan, M.Sc.",
+      "nidn": "8906860023",
+      "nip": "195209231979031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "08b17256-209c-4d1c-bce7-4c4af72748e3",
+      "pivot": {
+        "id_kelas_kuliah": 110069,
+        "id_dosen": 679
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 879,
+      "id_user": 32716,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Wempie, M.Sc.",
+      "nidn": "0003056403",
+      "nip": "196405031990031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "dc720231-cdb4-4d24-9d3e-75bff1852c3e",
+      "pivot": {
+        "id_kelas_kuliah": 110069,
+        "id_dosen": 879
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1239,
+      "id_user": 15540,
+      "id_prodi": 51,
+      "nama": "Dr. Rinduwati, S.Pt.,MP.",
+      "nidn": "0016057102",
+      "nip": "197105161995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ffa03f7-0ed9-4afd-849c-96d879d149bb",
+      "pivot": {
+        "id_kelas_kuliah": 110069,
+        "id_dosen": 1239
+      }
+    }
+  ]
+}

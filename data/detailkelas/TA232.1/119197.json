@@ -1,0 +1,93 @@
+{
+  "id_prodi": 48,
+  "nama_prodi": "GEOFISIKA - S1",
+  "id_prodi_semester": 2637,
+  "idnumber_sikola": "46543.119197.48",
+  "shortname_sikola": "TA232-119197",
+  "kode_matkul": "23U02132806",
+  "nama_matkul": "Studi/Proyek Independen",
+  "nama_kelas": "STUDI/PROYEK INDEPENDEN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1480,
+      "id_user": 15273,
+      "id_prodi": 48,
+      "nama": "Drs. Erfan, M.Si.",
+      "nidn": "0003096711",
+      "nip": "196709032001121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "40395a80-d431-464e-80f4-d75fc3d4de5c",
+      "pivot": {
+        "id_kelas_kuliah": 119197,
+        "id_dosen": 1480
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 829,
+      "id_user": 13547,
+      "id_prodi": 48,
+      "nama": "Prof. Dr. Ir. Muh. Altin Massinai, MT., Surv.",
+      "nidn": "0016066414",
+      "nip": "196406161989031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "512c3a9b-cfac-41bd-b430-ee85fb8d3628",
+      "pivot": {
+        "id_kelas_kuliah": 119197,
+        "id_dosen": 829
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1111,
+      "id_user": 19772,
+      "id_prodi": 48,
+      "nama": "Dr.  Sakka, M.Si.",
+      "nidn": "0025106401",
+      "nip": "196410251991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a344fa7a-9733-4b3a-8881-d58ea6a471a4",
+      "pivot": {
+        "id_kelas_kuliah": 119197,
+        "id_dosen": 1111
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3538,
+      "id_user": 59423,
+      "id_prodi": 48,
+      "nama": "Aswar Syafnur, S.Si., M.Eng",
+      "nidn": "8919820021",
+      "nip": "199312152021115001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "c1590f63-4d5b-43da-9bbd-fd9677453b9f",
+      "pivot": {
+        "id_kelas_kuliah": 119197,
+        "id_dosen": 3538
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4080,
+      "id_user": 74192,
+      "id_prodi": 48,
+      "nama": "Andika, S.Si., M.Si.",
+      "nidn": null,
+      "nip": "7306062804970003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 119197,
+        "id_dosen": 4080
+      }
+    }
+  ]
+}

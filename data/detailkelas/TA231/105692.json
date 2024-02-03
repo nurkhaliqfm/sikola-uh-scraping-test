@@ -1,0 +1,77 @@
+{
+  "id_prodi": 218,
+  "nama_prodi": "TEKNOLOGI PRODUKSI TERNAK - D4",
+  "id_prodi_semester": 2552,
+  "idnumber_sikola": "44244.105692.218",
+  "shortname_sikola": "TA231-105692",
+  "kode_matkul": "22V0271043",
+  "nama_matkul": "PRAKTEK BUDIDAYA TERNAK PERAH",
+  "nama_kelas": "Praktek Budidaya Ternak Perah",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3381,
+      "id_user": 57969,
+      "id_prodi": 218,
+      "nama": "Hasrin, S.Pt., M.Si",
+      "nidn": "8949020021",
+      "nip": "199210252021015001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "cea1343a-573c-4a76-ab6a-040010b03906",
+      "pivot": {
+        "id_kelas_kuliah": 105692,
+        "id_dosen": 3381
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2312,
+      "id_user": 32843,
+      "id_prodi": 51,
+      "nama": "Dr. Sutomo, S.Pt., M.Si.",
+      "nidn": "0029037603",
+      "nip": "197603282002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4039bb3f-1cf9-4d17-875d-16cff97f450e",
+      "pivot": {
+        "id_kelas_kuliah": 105692,
+        "id_dosen": 2312
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3377,
+      "id_user": 57272,
+      "id_prodi": 218,
+      "nama": "drh. Sri Helda Wulandari",
+      "nidn": null,
+      "nip": "7314074501910003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105692,
+        "id_dosen": 3377
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3856,
+      "id_user": 85318,
+      "id_prodi": 51,
+      "nama": "Hasman, S.Pt., M.Si",
+      "nidn": "8982270023",
+      "nip": "7316102404930003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "a7e85b06-3a23-4e8d-b6be-1badbe919468",
+      "pivot": {
+        "id_kelas_kuliah": 105692,
+        "id_dosen": 3856
+      }
+    }
+  ]
+}

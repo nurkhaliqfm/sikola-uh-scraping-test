@@ -1,0 +1,45 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2427,
+  "idnumber_sikola": "43326.108236.80",
+  "shortname_sikola": "TA231-108236",
+  "kode_matkul": "18P02216202",
+  "nama_matkul": "Perencanaan dan Pengelolaan Pariwisata (WP)",
+  "nama_kelas": "Perencanaan dan Pengelolaan Pariwisata (PPW/Pariwisata Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1426,
+      "id_user": 13996,
+      "id_prodi": 33,
+      "nama": "Prof. Dr. Muhammad Hasyim, M.Si.",
+      "nidn": "0028106701",
+      "nip": "196710281994031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "93186a26-2256-4f9a-a370-42d8289f97d0",
+      "pivot": {
+        "id_kelas_kuliah": 108236,
+        "id_dosen": 1426
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1980,
+      "id_user": 13068,
+      "id_prodi": 36,
+      "nama": "Dr. Yadi Mulyadi, S.S., MA.",
+      "nidn": "0019038004",
+      "nip": "198003192006041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e259bb66-0562-4d0a-9d4c-7e8ee21e6493",
+      "pivot": {
+        "id_kelas_kuliah": 108236,
+        "id_dosen": 1980
+      }
+    }
+  ]
+}

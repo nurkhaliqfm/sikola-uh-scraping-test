@@ -1,0 +1,101 @@
+{
+  "id_prodi": 133,
+  "nama_prodi": "TEKNIK PERENCANAAN PRASARANA - S2",
+  "id_prodi_semester": 2706,
+  "idnumber_sikola": "31545.127908.133",
+  "shortname_sikola": "TA232-127908",
+  "kode_matkul": "18P08210802",
+  "nama_matkul": "Filsafat Ilmu\r\n",
+  "nama_kelas": "Filsafat Ilmu (W) (TPP-Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427638,
+      "id_user": 86164,
+      "id_prodi": 133,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ASYHARI RANGKUTI",
+      "nim": "P082232002",
+      "jalan": "BTN MINASA UPA BLOK L9 NO.11",
+      "rt": 8,
+      "rw": 1,
+      "dusun": "GUNUNG SARI",
+      "kode_pos": "90221",
+      "nisn": "0942019233",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1987-06-20",
+      "telepon": "0",
+      "handphone": "082293283094",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "GUNUNG SARI",
+      "id_wilayah": "196013",
+      "nik": "7371092006870004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86164,
+      "kode_status": "A",
+      "email": "aryaqeelaa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127908,
+        "id_mahasiswa": 427638,
+        "created_at": "2024-01-11 14:15:24"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 705,
+      "id_user": 32364,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ing Herman Parung, M.Eng.",
+      "nidn": "0029076202",
+      "nip": "196207291987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8d4698bc-3ea9-43d4-b60b-31f62a041dc5",
+      "pivot": {
+        "id_kelas_kuliah": 127908,
+        "id_dosen": 705
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2116,
+      "id_user": 34495,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  H.M. Tahir Kasnawi, SU.",
+      "nidn": "8835433420",
+      "nip": "194809131978031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "091b6e95-af07-49b2-b7ba-2c841a5407b8",
+      "pivot": {
+        "id_kelas_kuliah": 127908,
+        "id_dosen": 2116
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 127908,
+        "id_dosen": 1476
+      }
+    }
+  ]
+}

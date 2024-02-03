@@ -1,0 +1,77 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43225.119153.78",
+  "shortname_sikola": "TA232-119153",
+  "kode_matkul": "22I02212203",
+  "nama_matkul": "Ilmu dan Teknologi Pengolahan Hasil Ternak",
+  "nama_kelas": "Ilmu dan Teknologi Pengolahan Hasil Ternak",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 709,
+      "id_user": 15739,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. drh. Ratmawati Malaka, M.Sc.",
+      "nidn": "0012076407",
+      "nip": "196407121989112002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "63a3c019-1692-4ac0-85c3-3577abb094f1",
+      "pivot": {
+        "id_kelas_kuliah": 119153,
+        "id_dosen": 709
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1381,
+      "id_user": 10149,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Hikmah, S.Pt., M.Si., IPU, ASEAN Eng.",
+      "nidn": "0019087104",
+      "nip": "197108191998021005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4fd73e2e-a743-4348-aafa-a0bf12d43cd6",
+      "pivot": {
+        "id_kelas_kuliah": 119153,
+        "id_dosen": 1381
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1688,
+      "id_user": 14953,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Muhammad Irfan Said, S.Pt., MP., IPM, ASEAN Eng.",
+      "nidn": "0005127404",
+      "nip": "197412052006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f947a3a8-2725-4be1-86b8-a0a0d88195fb",
+      "pivot": {
+        "id_kelas_kuliah": 119153,
+        "id_dosen": 1688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1831,
+      "id_user": 12963,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Nahariah, S.Pt.,MP., IPM.",
+      "nidn": "0015087413",
+      "nip": "197408152008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "effa4c01-8bc3-48cb-b8a0-4afb5c29e46b",
+      "pivot": {
+        "id_kelas_kuliah": 119153,
+        "id_dosen": 1831
+      }
+    }
+  ]
+}

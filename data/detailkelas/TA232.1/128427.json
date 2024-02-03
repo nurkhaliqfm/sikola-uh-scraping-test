@@ -1,0 +1,45 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "48778.128427.17",
+  "shortname_sikola": "TA232-128427",
+  "kode_matkul": "499U004",
+  "nama_matkul": "Kuliah Kerja Nyata",
+  "nama_kelas": "Kuliah Kerja Nyata / Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1411,
+      "id_user": 12582,
+      "id_prodi": 17,
+      "nama": "Dr. Eng. Ir. Dewiani, MT.",
+      "nidn": "0026106904",
+      "nip": "196910261994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a412f61-9ddd-4d25-a231-cb8a93934a9a",
+      "pivot": {
+        "id_kelas_kuliah": 128427,
+        "id_dosen": 1411
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1700,
+      "id_user": 16977,
+      "id_prodi": 17,
+      "nama": "Dr. Ikhlas Kitta, ST., MT.",
+      "nidn": "0014097603",
+      "nip": "197609142008011006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1718683-c9ac-4825-9fff-6baa5409f663",
+      "pivot": {
+        "id_kelas_kuliah": 128427,
+        "id_dosen": 1700
+      }
+    }
+  ]
+}

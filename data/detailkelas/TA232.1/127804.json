@@ -1,0 +1,45 @@
+{
+  "id_prodi": 171,
+  "nama_prodi": "ILMU KEBIDANAN - S2",
+  "id_prodi_semester": 2739,
+  "idnumber_sikola": "35043.127804.171",
+  "shortname_sikola": "TA232-127804",
+  "kode_matkul": "18P10210702",
+  "nama_matkul": "Psikologi Kehamilan, Persalinan dan Nifas\r\n",
+  "nama_kelas": "Psikologi Kehamilan, Persalinan, dan Nifas (P) Kelas B (Kebidanan Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1125,
+      "id_user": 23223,
+      "id_prodi": 9,
+      "nama": "Prof. Dr. Muh. Tamar, M.Psi.",
+      "nidn": "0031126448",
+      "nip": "196412311990021004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9e8bf096-ddd8-45fd-b220-4bb8f5d126c5",
+      "pivot": {
+        "id_kelas_kuliah": 127804,
+        "id_dosen": 1125
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1433,
+      "id_user": 34512,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Saidah Syamsuddin,  Sp.Kj",
+      "nidn": "0014017005",
+      "nip": "197001142001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb261ce6-3307-44a0-88c9-eb19eededbb5",
+      "pivot": {
+        "id_kelas_kuliah": 127804,
+        "id_dosen": 1433
+      }
+    }
+  ]
+}

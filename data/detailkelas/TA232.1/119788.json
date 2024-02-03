@@ -1,0 +1,77 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2743,
+  "idnumber_sikola": "37013.119788.175",
+  "shortname_sikola": "TA232-119788",
+  "kode_matkul": "19G01210703",
+  "nama_matkul": "Rekayasa Teknologi Budidaya Tanaman Pangan",
+  "nama_kelas": "Rekayasa Tek.Budidaya Tanaman Pangan (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1300,
+      "id_user": 22661,
+      "id_prodi": 152,
+      "nama": "Dr. Ir.  Muh. Riadi, MP.",
+      "nidn": "0005096403",
+      "nip": "196409051989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "01310d25-ce09-4208-a207-e8a8c939c484",
+      "pivot": {
+        "id_kelas_kuliah": 119788,
+        "id_dosen": 1300
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1343,
+      "id_user": 22931,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Amir, M.Si.",
+      "nidn": "0003115903",
+      "nip": "195911031991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7dbb33af-f155-4f16-8daf-59f86c946756",
+      "pivot": {
+        "id_kelas_kuliah": 119788,
+        "id_dosen": 1343
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 961,
+      "id_user": 21539,
+      "id_prodi": 152,
+      "nama": "Dr. Ir.  Syatrianty Andi Syaiful, MS.",
+      "nidn": "0024036202",
+      "nip": "196203241987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "431837c8-74d9-4d2e-8801-800e2c682112",
+      "pivot": {
+        "id_kelas_kuliah": 119788,
+        "id_dosen": 961
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3587,
+      "id_user": 74064,
+      "id_prodi": 152,
+      "nama": "Dr. Muhammad Azrai, Sp., MP.",
+      "nidn": "0020017204",
+      "nip": "197201201999031002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "00dd63a1-4b17-4388-b98d-4583795e70c7",
+      "pivot": {
+        "id_kelas_kuliah": 119788,
+        "id_dosen": 3587
+      }
+    }
+  ]
+}

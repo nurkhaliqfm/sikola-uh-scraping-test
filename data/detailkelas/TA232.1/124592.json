@@ -1,0 +1,69 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2769,
+  "idnumber_sikola": "46549.124592.202",
+  "shortname_sikola": "TA232-124592",
+  "kode_matkul": "23U02132304",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 153848,
+      "id_user": 50146,
+      "id_prodi": 202,
+      "angkatan": 2021,
+      "nama_mahasiswa": "GIAR AGRIANI TANDIAMA",
+      "nim": "H081211039",
+      "jalan": "JLN. LASKTIA RAJA LEBANG KM 4 KOTA PALOPO PROV. SULAWESI SELATAN 91923",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "Lebang",
+      "kode_pos": "91923",
+      "nisn": "0042378448",
+      "tempat_lahir": "TABAH",
+      "tanggal_lahir": "2004-06-07",
+      "telepon": "0",
+      "handphone": "081348909270",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "LEBANG",
+      "id_wilayah": "196206",
+      "nik": "7318054706040001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "giaragriani0@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d5032c84-135b-4f85-b318-e8504ecffe81",
+      "id_registrasi_mahasiswa_pddikti": "3f9febed-8bf7-46bf-a0db-e14e754d14c1",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124592,
+        "id_mahasiswa": 153848,
+        "created_at": "2024-01-29 09:14:28"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1126,
+      "id_user": 19035,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Hasmawati, M.Si.",
+      "nidn": "0031126416",
+      "nip": "196412311990032007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "07ad2c06-739d-4d1e-b9f0-377799685d11",
+      "pivot": {
+        "id_kelas_kuliah": 124592,
+        "id_dosen": 1126
+      }
+    }
+  ]
+}

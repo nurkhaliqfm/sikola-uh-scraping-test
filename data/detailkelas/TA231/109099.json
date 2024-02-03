@@ -1,0 +1,45 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2538,
+  "idnumber_sikola": "45398.109099.202",
+  "shortname_sikola": "TA231-109099",
+  "kode_matkul": "23H08120203",
+  "nama_matkul": "Metode Statistika",
+  "nama_kelas": "Metode Statistika",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3193,
+      "id_user": 45060,
+      "id_prodi": 45,
+      "nama": "Nur Rohmah Oktaviani Putri, S.Si., M.Si",
+      "nidn": "8999600020",
+      "nip": "199210062020016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be2c29e1-dda3-4cc9-92f4-68de9d2669bb",
+      "pivot": {
+        "id_kelas_kuliah": 109099,
+        "id_dosen": 3193
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2466,
+      "id_user": 21253,
+      "id_prodi": 202,
+      "nama": "Andi Muhammad Anwar, S.Si., M.Si",
+      "nidn": "0928129001",
+      "nip": "199012282018031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0c0ac1f1-385e-4260-9eba-b48e1ee220b2",
+      "pivot": {
+        "id_kelas_kuliah": 109099,
+        "id_dosen": 2466
+      }
+    }
+  ]
+}

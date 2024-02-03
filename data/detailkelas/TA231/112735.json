@@ -1,0 +1,45 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2386,
+  "idnumber_sikola": "47967.112735.21",
+  "shortname_sikola": "TA231-112735",
+  "kode_matkul": "23D06131702",
+  "nama_matkul": "Hidrodinamika Pantai",
+  "nama_kelas": "Hidrodinamika Pantai",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1469,
+      "id_user": 13038,
+      "id_prodi": 21,
+      "nama": "Dr. Ir. Haerani Sirajuddin, M.T.",
+      "nidn": "0019116701",
+      "nip": "196711191998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fa52c8b-c8fc-432b-95e6-c7707dc470ed",
+      "pivot": {
+        "id_kelas_kuliah": 112735,
+        "id_dosen": 1469
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1257,
+      "id_user": 22098,
+      "id_prodi": 21,
+      "nama": "Dr. Sultan, ST., MT.",
+      "nidn": "0007057009",
+      "nip": "197007051997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22f1b4fc-a227-462b-9549-139d969cfb19",
+      "pivot": {
+        "id_kelas_kuliah": 112735,
+        "id_dosen": 1257
+      }
+    }
+  ]
+}

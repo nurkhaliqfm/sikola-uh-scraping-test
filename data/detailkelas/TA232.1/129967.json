@@ -1,0 +1,52 @@
+{
+  "id_prodi": 6,
+  "nama_prodi": "PENDIDIKAN DOKTER - S1",
+  "id_prodi_semester": 2603,
+  "idnumber_sikola": "37921.129967.6",
+  "shortname_sikola": "TA232-129967",
+  "kode_matkul": "20C01140403",
+  "nama_matkul": "Keterampilan Klinik 6",
+  "nama_kelas": "CSL 6_Kelas Mengulang",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142323,
+      "id_user": 39716,
+      "id_prodi": 6,
+      "angkatan": 2020,
+      "nama_mahasiswa": "LEONPATRA TANGKEALLO",
+      "nim": "C011201048",
+      "jalan": "Perumahan Telkomas, Jl. Telepon V Blok B3 No. 171",
+      "rt": 4,
+      "rw": 2,
+      "dusun": "-",
+      "kode_pos": "90241",
+      "nisn": "0023437138",
+      "tempat_lahir": "Merauke",
+      "tanggal_lahir": "2002-12-01",
+      "telepon": "0",
+      "handphone": "6285244910053",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Berua",
+      "id_wilayah": "196011",
+      "nik": "9101010112020004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "leonpatra93@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5f06da30-9f82-471c-b645-37560b96089d",
+      "id_registrasi_mahasiswa_pddikti": "3024581b-e5b5-4e35-a992-0ff626fb131b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129967,
+        "id_mahasiswa": 142323,
+        "created_at": "2024-01-31 23:50:37"
+      }
+    }
+  ],
+  "dosens": []
+}

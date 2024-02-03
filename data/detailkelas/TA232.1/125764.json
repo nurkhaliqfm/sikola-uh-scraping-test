@@ -1,0 +1,61 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2733,
+  "idnumber_sikola": "34730.125764.165",
+  "shortname_sikola": "TA232-125764",
+  "kode_matkul": "18D02320103",
+  "nama_matkul": "SEMINAR INTERNASIONAL",
+  "nama_kelas": "SEMINAR INTERNASIONAL (meldawaty Artayani))",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1581,
+      "id_user": 20337,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Asniawaty, ST., MT.",
+      "nidn": "0025097103",
+      "nip": "197109251999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "84165af9-44e5-440c-86d6-565a2078e2df",
+      "pivot": {
+        "id_kelas_kuliah": 125764,
+        "id_dosen": 1581
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1227,
+      "id_user": 17220,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Rosady Mulyadi, ST., MT.",
+      "nidn": "0010087001",
+      "nip": "197008101998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c5ca569-9daf-42b2-863d-dbaa2c1e7189",
+      "pivot": {
+        "id_kelas_kuliah": 125764,
+        "id_dosen": 1227
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1230,
+      "id_user": 16366,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Nurul Jamala B, MT.",
+      "nidn": "0004096407",
+      "nip": "196409041994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8e2445f0-50bf-481f-902f-009d11107045",
+      "pivot": {
+        "id_kelas_kuliah": 125764,
+        "id_dosen": 1230
+      }
+    }
+  ]
+}

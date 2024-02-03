@@ -1,0 +1,77 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "19714.114879.51",
+  "shortname_sikola": "TA231-114879",
+  "kode_matkul": "410I3102",
+  "nama_matkul": "EKONOMI KOPERASI DAN UMKM",
+  "nama_kelas": "Ekonomi Koperasi dan UMKM",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1510,
+      "id_user": 31961,
+      "id_prodi": 51,
+      "nama": "Ir.  Amrullah, M.Pi",
+      "nidn": "0031125810",
+      "nip": "195812311985031027",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "adfa5507-886c-4bb6-94f3-4b4517bf94ab",
+      "pivot": {
+        "id_kelas_kuliah": 114879,
+        "id_dosen": 1510
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1516,
+      "id_user": 16485,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Palmarudi M, SU.",
+      "nidn": "0022126003",
+      "nip": "196012221991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fccee74c-b084-4e14-87c9-e9ad70abb562",
+      "pivot": {
+        "id_kelas_kuliah": 114879,
+        "id_dosen": 1516
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1155,
+      "id_user": 31242,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Sitti Nurani Sirajuddin, S.Pt., M.Si.",
+      "nidn": "0021047114",
+      "nip": "197104211997022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b76b9994-20b4-4f8d-913d-089e1b2096e9",
+      "pivot": {
+        "id_kelas_kuliah": 114879,
+        "id_dosen": 1155
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1458,
+      "id_user": 22874,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Aslina Asnawi, S.Pt., M.Si., IPM, ASEAN Eng.",
+      "nidn": "0018077601",
+      "nip": "197508062001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "26287a6e-586b-4187-ac68-9ad368aa41f1",
+      "pivot": {
+        "id_kelas_kuliah": 114879,
+        "id_dosen": 1458
+      }
+    }
+  ]
+}

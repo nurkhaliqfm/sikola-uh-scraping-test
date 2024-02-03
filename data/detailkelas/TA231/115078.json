@@ -1,0 +1,165 @@
+{
+  "id_prodi": 164,
+  "nama_prodi": "PROFESI DOKTER HEWAN",
+  "id_prodi_semester": 2501,
+  "idnumber_sikola": "34661.115078.164",
+  "shortname_sikola": "TA231-115078",
+  "kode_matkul": "109O2132",
+  "nama_matkul": "Magang Kerumahsakitan",
+  "nama_kelas": "Magang kerumahsakitan angk. 11",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 354967,
+      "id_user": 69499,
+      "id_prodi": 164,
+      "angkatan": 2022,
+      "nama_mahasiswa": "HAYANI",
+      "nim": "C024221006",
+      "jalan": "SALONGGE DESA KENDENAN KEC. BARAKA KAB. ENREKANG",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Salongge",
+      "kode_pos": "91753",
+      "nisn": "C031181004",
+      "tempat_lahir": "SALONGGE",
+      "tanggal_lahir": "1999-12-29",
+      "telepon": "085348843537",
+      "handphone": "085348843537",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Kendenan",
+      "id_wilayah": "196012",
+      "nik": "7316036912990001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "hayanikasiran@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7579eda0-4184-46f4-b5a0-c1beecba27b5",
+      "id_registrasi_mahasiswa_pddikti": "26f8a4d6-5a7d-4048-99ca-a125dc18a7a4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_mahasiswa": 354967,
+        "created_at": "2023-11-27 16:03:49"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2506,
+      "id_user": 33994,
+      "id_prodi": 146,
+      "nama": "Wa Ode Santa Monica",
+      "nidn": "0025068905",
+      "nip": "198906252019032015",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ec217e39-adf6-4d8c-ae5d-493dd6d69c98",
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_dosen": 2506
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3475,
+      "id_user": 45620,
+      "id_prodi": 146,
+      "nama": "Drh. Dian Fatmawati, S.KH",
+      "nidn": "8982840022",
+      "nip": "199212032022056001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "5a090c58-24ee-419a-8cf3-29d2f3395f5e",
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_dosen": 3475
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3476,
+      "id_user": 45622,
+      "id_prodi": 146,
+      "nama": "Drh. Musdalifah, S.KH",
+      "nidn": null,
+      "nip": "7315125908930001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_dosen": 3476
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3224,
+      "id_user": 87706,
+      "id_prodi": 146,
+      "nama": "Drh. Anak Agung Putu Joniwahyuda, M.Si.",
+      "nidn": "0007026805",
+      "nip": "196802071999031003",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "8f3ea70d-c05e-4763-ae4a-083f6639d84b",
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_dosen": 3224
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4085,
+      "id_user": 85287,
+      "id_prodi": 146,
+      "nama": "drh. Andi Tri Julyana Eka Astuty, M.Sc.",
+      "nidn": null,
+      "nip": "7313087007870003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_dosen": 4085
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3474,
+      "id_user": 71656,
+      "id_prodi": 146,
+      "nama": "Drh. Muhammad Zulfadhillah Sinusi, S.KH",
+      "nidn": "8945840022",
+      "nip": "199310232022055001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "081ef724-0df6-41d8-a2ed-fb871632ae1c",
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_dosen": 3474
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4086,
+      "id_user": 85285,
+      "id_prodi": 146,
+      "nama": "drh. Irwan Ismail, M.Si.",
+      "nidn": null,
+      "nip": "7304021012930003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 115078,
+        "id_dosen": 4086
+      }
+    }
+  ]
+}

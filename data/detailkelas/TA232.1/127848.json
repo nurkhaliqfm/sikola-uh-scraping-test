@@ -1,0 +1,29 @@
+{
+  "id_prodi": 100,
+  "nama_prodi": "MANAJEMEN PERKOTAAN - S2",
+  "id_prodi_semester": 2676,
+  "idnumber_sikola": "27859.127848.100",
+  "shortname_sikola": "TA232-127848",
+  "kode_matkul": "18P05210702",
+  "nama_matkul": "Manajemen Transportasi Perkotaan (P)",
+  "nama_kelas": "Manajemen Transportasi Perkotaan (P) (MAP_Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 678,
+      "id_user": 34185,
+      "id_prodi": 20,
+      "nama": "Prof. Dr.-Ing. Muhammad Yamin Jinca, ,MS.Tr.",
+      "nidn": "",
+      "nip": "195312211981031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 127848,
+        "id_dosen": 678
+      }
+    }
+  ]
+}

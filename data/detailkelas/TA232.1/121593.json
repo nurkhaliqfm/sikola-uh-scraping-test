@@ -1,0 +1,45 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "45573.121593.19",
+  "shortname_sikola": "TA232-121593",
+  "kode_matkul": "23D05121703",
+  "nama_matkul": "Kesehatan dan Keselamatan Kerja (K3)",
+  "nama_kelas": "Occupational Health and Safety",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1670,
+      "id_user": 18194,
+      "id_prodi": 19,
+      "nama": "Dr. Imriyanti, ST., MT.",
+      "nidn": "0008027304",
+      "nip": "197302082006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f618ce8-941f-4871-b850-de9b4ffd1281",
+      "pivot": {
+        "id_kelas_kuliah": 121593,
+        "id_dosen": 1670
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2435,
+      "id_user": 31657,
+      "id_prodi": null,
+      "nama": "Yusaumi Ramadhanti Fitri Taufik, S.T., M.Ds.",
+      "nidn": "8835270018",
+      "nip": "199204022018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "61af7469-917b-4efb-bd97-c52ebb5a67d9",
+      "pivot": {
+        "id_kelas_kuliah": 121593,
+        "id_dosen": 2435
+      }
+    }
+  ]
+}

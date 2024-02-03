@@ -1,0 +1,45 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36850.110658.176",
+  "shortname_sikola": "TA231-110658",
+  "kode_matkul": "19G05211802",
+  "nama_matkul": "Teknologi Pengolahan Limbah Agroindustri",
+  "nama_kelas": "Teknologi Pengolahan Limbah Agroindustri (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1104,
+      "id_user": 34125,
+      "id_prodi": 154,
+      "nama": "Dr. Ir. Rindam Latief, MS.",
+      "nidn": "0002036402",
+      "nip": "196403021989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9e28dc9b-6e1e-4aee-8159-ec9233411998",
+      "pivot": {
+        "id_kelas_kuliah": 110658,
+        "id_dosen": 1104
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1532,
+      "id_user": 19872,
+      "id_prodi": 155,
+      "nama": "Dr. Ir.  Mahmud, MP.",
+      "nidn": "0003067005",
+      "nip": "197006031994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8bfed169-61f9-43f9-8938-12f93d05c127",
+      "pivot": {
+        "id_kelas_kuliah": 110658,
+        "id_dosen": 1532
+      }
+    }
+  ]
+}

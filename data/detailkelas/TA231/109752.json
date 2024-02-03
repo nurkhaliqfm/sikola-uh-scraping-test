@@ -1,0 +1,45 @@
+{
+  "id_prodi": 157,
+  "nama_prodi": "KETEKNIKAN PERTANIAN - S2",
+  "id_prodi_semester": 2494,
+  "idnumber_sikola": "36937.109752.157",
+  "shortname_sikola": "TA231-109752",
+  "kode_matkul": "19G04211803",
+  "nama_matkul": "Teknik Pengolahan Hasil Pertanian Lanjut",
+  "nama_kelas": "Teknik Pengolahan Hsl Pertanian Lanjut (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 109752,
+        "id_dosen": 1038
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1886,
+      "id_user": 26606,
+      "id_prodi": 155,
+      "nama": "Dr.rer.nat. Olly Sanny Hutabarat, STP.,M.Si.",
+      "nidn": "0013057902",
+      "nip": "197905132009122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b7c0347-02c4-4c45-86c7-de9a861b00fc",
+      "pivot": {
+        "id_kelas_kuliah": 109752,
+        "id_dosen": 1886
+      }
+    }
+  ]
+}

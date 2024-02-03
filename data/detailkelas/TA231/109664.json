@@ -1,0 +1,61 @@
+{
+  "id_prodi": 125,
+  "nama_prodi": "PPDS ILMU KEDOKTERAN JIWA - PSIKIATRI",
+  "id_prodi_semester": 2467,
+  "idnumber_sikola": "38892.109664.125",
+  "shortname_sikola": "TA231-109664",
+  "kode_matkul": "20C06540607",
+  "nama_matkul": "UJIAN AKHIR KETERAMPILAN KLINIK",
+  "nama_kelas": "KELAS G - UJIAN AKHIR KETERAMPILAN KLINIK 20231",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1433,
+      "id_user": 34512,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Saidah Syamsuddin,  Sp.Kj",
+      "nidn": "0014017005",
+      "nip": "197001142001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb261ce6-3307-44a0-88c9-eb19eededbb5",
+      "pivot": {
+        "id_kelas_kuliah": 109664,
+        "id_dosen": 1433
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1895,
+      "id_user": 34513,
+      "id_prodi": 6,
+      "nama": "dr.  Erlyn Limoa, S. Ked, SpKJ.,Ph.D",
+      "nidn": "0017117705",
+      "nip": "197711172009122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3227b945-629f-474b-992b-d1206c6ef56f",
+      "pivot": {
+        "id_kelas_kuliah": 109664,
+        "id_dosen": 1895
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3137,
+      "id_user": 34112,
+      "id_prodi": 125,
+      "nama": "dr Rinvil Renaldi, M.Kes., Sp.KJ(K)",
+      "nidn": "0006048208",
+      "nip": "198204062008041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b868c72f-b23d-4b90-8b34-f455b767fe45",
+      "pivot": {
+        "id_kelas_kuliah": 109664,
+        "id_dosen": 3137
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 162,
+  "nama_prodi": "GEOFISIKA - S2",
+  "id_prodi_semester": 2499,
+  "idnumber_sikola": "39765.105980.162",
+  "shortname_sikola": "TA231-105980",
+  "kode_matkul": "18H04210802",
+  "nama_matkul": "Pengelolaan Wilayah Pesisir dan Laut Terpadu",
+  "nama_kelas": "Pengelolaan Wilayah Pesisir Dan Laut Terpadu",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1402,
+      "id_user": 31487,
+      "id_prodi": 48,
+      "nama": "Dr. Eng. Amiruddin, S.Si., M.Si.",
+      "nidn": "0015057201",
+      "nip": "197205151997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "da33060f-14ba-4511-85a3-9b68d9a999d4",
+      "pivot": {
+        "id_kelas_kuliah": 105980,
+        "id_dosen": 1402
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1550,
+      "id_user": 32506,
+      "id_prodi": 48,
+      "nama": "Dr.  Muhammad Alimuddin, Eng.",
+      "nidn": "0029096705",
+      "nip": "196709291993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6ab8f88c-84ab-4393-a290-bca8191ce5f5",
+      "pivot": {
+        "id_kelas_kuliah": 105980,
+        "id_dosen": 1550
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2512,
+  "idnumber_sikola": "37037.106817.175",
+  "shortname_sikola": "TA231-106817",
+  "kode_matkul": "19G01213102",
+  "nama_matkul": "Manajemen Air Irigasi",
+  "nama_kelas": "Manajemen Air Irigasi (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1078,
+      "id_user": 23544,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Dorothea Agnes Rampisela, M.Sc.",
+      "nidn": "0017015701",
+      "nip": "195701171983032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1857c589-d52e-40f7-b85f-1619e13b214e",
+      "pivot": {
+        "id_kelas_kuliah": 106817,
+        "id_dosen": 1078
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1843,
+      "id_user": 9793,
+      "id_prodi": 152,
+      "nama": "Ir. Sartika Laban, SP., MP., Ph.D.",
+      "nidn": "0028108204",
+      "nip": "198210282008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7817e992-311f-4dd5-9310-9dbd9b5d64a6",
+      "pivot": {
+        "id_kelas_kuliah": 106817,
+        "id_dosen": 1843
+      }
+    }
+  ]
+}

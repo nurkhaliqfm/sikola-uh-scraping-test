@@ -1,0 +1,52 @@
+{
+  "id_prodi": 30,
+  "nama_prodi": "ANTROPOLOGI SOSIAL - S1",
+  "id_prodi_semester": 2394,
+  "idnumber_sikola": "45782.116531.30",
+  "shortname_sikola": "TA231-116531",
+  "kode_matkul": "23E05110102",
+  "nama_matkul": "Pengantar Ilmu Pemerintahan",
+  "nama_kelas": "pengantar Ilmu Pemerintahan G",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 417162,
+      "id_user": 78149,
+      "id_prodi": 30,
+      "angkatan": 2023,
+      "nama_mahasiswa": "KARIMA ZASKIA MA'MUN NONCI",
+      "nim": "E071231042",
+      "jalan": "BTN PAROPO BLOK C/18 JL. TAMAN MAKAM PAHLAWAN   KOTA MAKASSAR  PROV. SULAWESI SELATAN 90233",
+      "rt": 3,
+      "rw": 2,
+      "dusun": "paropo",
+      "kode_pos": "90233",
+      "nisn": "0055596847",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2005-09-02",
+      "telepon": "0",
+      "handphone": "0895613732016",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "paropo",
+      "id_wilayah": "196010",
+      "nik": "7371094209050005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "kharimazsss@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "87244e16-e787-4a3e-9601-d18627bf67b2",
+      "id_registrasi_mahasiswa_pddikti": "5b8bb689-178e-483d-a5fb-7c1d0686da1e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 116531,
+        "id_mahasiswa": 417162,
+        "created_at": "2023-08-19 09:34:20"
+      }
+    }
+  ],
+  "dosens": []
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2512,
+  "idnumber_sikola": "37022.106751.175",
+  "shortname_sikola": "TA231-106751",
+  "kode_matkul": "19G01211602",
+  "nama_matkul": "Pemodelan Produksi Tanaman",
+  "nama_kelas": "Pemodelan Produksi Tanaman (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1004,
+      "id_user": 16816,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Kaimuddin, M.Si.",
+      "nidn": "0012056001",
+      "nip": "196005121989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "53f7d302-a492-4027-b4ec-a9a7e4bc8f3c",
+      "pivot": {
+        "id_kelas_kuliah": 106751,
+        "id_dosen": 1004
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 958,
+      "id_user": 26868,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Rusnadi Padjung, M.Sc.",
+      "nidn": "0022026009",
+      "nip": "196002221985031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57befb49-36b5-4f20-9dca-884468924bf1",
+      "pivot": {
+        "id_kelas_kuliah": 106751,
+        "id_dosen": 958
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1975,
+      "id_user": 22091,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Ifayanti Ridwan Saleh, S.P., MP.",
+      "nidn": "0907097401",
+      "nip": "197409072012122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3cde849f-7529-4092-85ef-f0424ebde729",
+      "pivot": {
+        "id_kelas_kuliah": 106751,
+        "id_dosen": 1975
+      }
+    }
+  ]
+}

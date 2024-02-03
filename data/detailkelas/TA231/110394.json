@@ -1,0 +1,85 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46580.110394.16",
+  "shortname_sikola": "TA231-110394",
+  "kode_matkul": "23D09141702",
+  "nama_matkul": "Manajemen Energi",
+  "nama_kelas": "Manajemen Energi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 138801,
+      "id_user": 44319,
+      "id_prodi": 16,
+      "angkatan": 2020,
+      "nama_mahasiswa": "AURELIA NARESWARI UTAMI",
+      "nim": "D091201039",
+      "jalan": "JL. KAMPUS UVRI I BUKIT TEKNOLOGI",
+      "rt": 1,
+      "rw": 9,
+      "dusun": null,
+      "kode_pos": "90234",
+      "nisn": "0023491020",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-09-02",
+      "telepon": "0",
+      "handphone": "0895339151248",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "ANTANG",
+      "id_wilayah": "196014",
+      "nik": "7371124209020008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "tamiaurel29@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d6523d50-45cd-440c-9060-51a68c3e2abc",
+      "id_registrasi_mahasiswa_pddikti": "ae26152a-a5f7-4f67-bc4c-a9bd5c0b126e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110394,
+        "id_mahasiswa": 138801,
+        "created_at": "2023-08-11 22:46:27"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1596,
+      "id_user": 33707,
+      "id_prodi": 16,
+      "nama": "Surya Hariyanto, ST.,MT.",
+      "nidn": "0002077110",
+      "nip": "197107022000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a6ac0969-bb75-4a64-8f59-570a240d6890",
+      "pivot": {
+        "id_kelas_kuliah": 110394,
+        "id_dosen": 1596
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3446,
+      "id_user": 59698,
+      "id_prodi": 16,
+      "nama": "Balqis Shintarahayu, S.T., M.Sc",
+      "nidn": "8934520021",
+      "nip": "199509272021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "dce9b41e-e509-47c3-914b-8c8ea12078e3",
+      "pivot": {
+        "id_kelas_kuliah": 110394,
+        "id_dosen": 3446
+      }
+    }
+  ]
+}

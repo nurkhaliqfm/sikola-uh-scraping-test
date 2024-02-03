@@ -1,0 +1,85 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2636,
+  "idnumber_sikola": "44066.122310.47",
+  "shortname_sikola": "TA232-122310",
+  "kode_matkul": "23H02130403",
+  "nama_matkul": "METODE NUMERIK",
+  "nama_kelas": "Metode Numerik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139776,
+      "id_user": 39269,
+      "id_prodi": 47,
+      "angkatan": 2020,
+      "nama_mahasiswa": "SAHRUL ARDIANSYAH",
+      "nim": "H021201001",
+      "jalan": "TINGGI MONCONG",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "BUKI-BUKI SELATAN",
+      "kode_pos": "92852",
+      "nisn": "0014911751",
+      "tempat_lahir": "SELAYAR",
+      "tanggal_lahir": "2001-10-20",
+      "telepon": "0",
+      "handphone": "6282189168552",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BONEA TIMUR",
+      "id_wilayah": "191306",
+      "nik": "7301042010010003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ulyangsaputra501@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3fd4f2bc-7034-4a13-bb51-6f6964726b6a",
+      "id_registrasi_mahasiswa_pddikti": "3c06b8f6-5c3e-4951-b10c-2309131584fa",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122310,
+        "id_mahasiswa": 139776,
+        "created_at": "2024-01-28 13:08:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1221,
+      "id_user": 32602,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Tasrief Surungan, M.Sc.",
+      "nidn": "0022026702",
+      "nip": "196702221992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7372928c-3c3c-4936-b3e9-620071f131be",
+      "pivot": {
+        "id_kelas_kuliah": 122310,
+        "id_dosen": 1221
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1048,
+      "id_user": 28999,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. rer-nat Wira Bahari Nurdin",
+      "nidn": "0023096702",
+      "nip": "196709231991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d7c1ff6d-4119-4b3e-a690-c4cc28362f72",
+      "pivot": {
+        "id_kelas_kuliah": 122310,
+        "id_dosen": 1048
+      }
+    }
+  ]
+}

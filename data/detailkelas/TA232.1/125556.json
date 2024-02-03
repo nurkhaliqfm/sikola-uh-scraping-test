@@ -1,0 +1,101 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26270.125556.80",
+  "shortname_sikola": "TA232-125556",
+  "kode_matkul": "18P02211002",
+  "nama_matkul": "Teori Dan Paradigma Pembangunan\r\n",
+  "nama_kelas": "Teori dan Paradigma Pembangunan (PPW/MP)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427755,
+      "id_user": 86282,
+      "id_prodi": 80,
+      "angkatan": 2023,
+      "nama_mahasiswa": "A. TENRI ANGKUMALA",
+      "nim": "P022232003",
+      "jalan": "DG. TATA RAYA NO. 2",
+      "rt": 2,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90024",
+      "nisn": "9997574352",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1999-01-16",
+      "telepon": "0",
+      "handphone": "082213517507",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BALANG BARU",
+      "id_wilayah": "196003",
+      "nik": "7602015605990003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86282,
+      "kode_status": "A",
+      "email": "tenri.angkumala@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125556,
+        "id_mahasiswa": 427755,
+        "created_at": "2024-01-28 11:28:33"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 708,
+      "id_user": 25455,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir.  Darmawan, M.Sc.",
+      "nidn": "0006066301",
+      "nip": "196306061988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4986613c-e075-4352-b8fb-b986f2715bb0",
+      "pivot": {
+        "id_kelas_kuliah": 125556,
+        "id_dosen": 708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1222,
+      "id_user": 20631,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Mujahidin, M.TDev.",
+      "nidn": "0031126607",
+      "nip": "196612311994121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ee45c4fb-b863-4721-a026-201a441013aa",
+      "pivot": {
+        "id_kelas_kuliah": 125556,
+        "id_dosen": 1222
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2519,
+      "id_user": 11866,
+      "id_prodi": 80,
+      "nama": "Dr. Kurniaty, S.E., M.Si",
+      "nidn": "0901058005",
+      "nip": "198005012019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87653b30-453f-44d8-a24c-9bd90c2d18ec",
+      "pivot": {
+        "id_kelas_kuliah": 125556,
+        "id_dosen": 2519
+      }
+    }
+  ]
+}

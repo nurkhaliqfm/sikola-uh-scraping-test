@@ -1,0 +1,69 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "43318.127216.173",
+  "shortname_sikola": "TA232-127216",
+  "kode_matkul": "18K01330404",
+  "nama_matkul": "Seminar Hasil",
+  "nama_kelas": "Seminar Hasil (By Riset)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 155408,
+      "id_user": 51798,
+      "id_prodi": 173,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MISROH MULIANINGSIH",
+      "nim": "K013211040",
+      "jalan": "FLAMBOYAN",
+      "rt": 5,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "83117",
+      "nisn": null,
+      "tempat_lahir": "PRESAK",
+      "tanggal_lahir": "1976-08-18",
+      "telepon": "0",
+      "handphone": "081904100613",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "PAGUTAN",
+      "id_wilayah": "150111",
+      "nik": "5201035808760001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "misroh.yarsi@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8c67168a-9b25-49b5-bfb5-5a862094a068",
+      "id_registrasi_mahasiswa_pddikti": "b221f183-d119-42ab-8bdd-14b9679b6b0c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127216,
+        "id_mahasiswa": 155408,
+        "created_at": "2024-01-27 14:34:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1463,
+      "id_user": 27689,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. Aminuddin Syam, SKM., M.Kes., M.Med.Ed",
+      "nidn": "0017066701",
+      "nip": "196706171999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff920b2f-d2de-48c3-a4d1-69c2b987c930",
+      "pivot": {
+        "id_kelas_kuliah": 127216,
+        "id_dosen": 1463
+      }
+    }
+  ]
+}

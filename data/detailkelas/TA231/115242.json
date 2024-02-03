@@ -1,0 +1,45 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "46545.115242.47",
+  "shortname_sikola": "TA231-115242",
+  "kode_matkul": "23U02132509",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja (MKPK)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 886,
+      "id_user": 27053,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Arifin, M.T",
+      "nidn": "0020056703",
+      "nip": "196705201994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "227cf181-01b6-4b96-ae85-ccdd54caa855",
+      "pivot": {
+        "id_kelas_kuliah": 115242,
+        "id_dosen": 886
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1434,
+      "id_user": 17475,
+      "id_prodi": 47,
+      "nama": "Dr. Sri Dewi Astuty, S.Si.,M.Si.",
+      "nidn": "0013057502",
+      "nip": "197505131999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3344b510-d213-4a67-af81-98ecef09978b",
+      "pivot": {
+        "id_kelas_kuliah": 115242,
+        "id_dosen": 1434
+      }
+    }
+  ]
+}

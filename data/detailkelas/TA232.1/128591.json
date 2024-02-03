@@ -1,0 +1,61 @@
+{
+  "id_prodi": 73,
+  "nama_prodi": "FARMASI - S1",
+  "id_prodi_semester": 2651,
+  "idnumber_sikola": "37764.128591.73",
+  "shortname_sikola": "TA232-128591",
+  "kode_matkul": "20N01111802",
+  "nama_matkul": "Kimia Fisika",
+  "nama_kelas": "Kimia Fisika",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1724,
+      "id_user": 34448,
+      "id_prodi": 73,
+      "nama": "Prof. Yusnita Rifai, S.Si., M.Pharm., Ph.D., Apt",
+      "nidn": "0017117505",
+      "nip": "197511172000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9af50174-cce5-4fd9-b540-fe13a3a4c340",
+      "pivot": {
+        "id_kelas_kuliah": 128591,
+        "id_dosen": 1724
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2199,
+      "id_user": null,
+      "id_prodi": 73,
+      "nama": "Drs. Muzakkir Rewa, M.Si. Apt.",
+      "nidn": "9901000002",
+      "nip": "195108071981031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d8d25da-c579-4400-9fda-0cd1ff2a9248",
+      "pivot": {
+        "id_kelas_kuliah": 128591,
+        "id_dosen": 2199
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2376,
+      "id_user": 71642,
+      "id_prodi": 73,
+      "nama": "Andi Affandi, S.Si., M.Sc., Apt",
+      "nidn": "0012018801",
+      "nip": "198801122012121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "77b64a63-fdc2-4b53-aaa7-896f22162587",
+      "pivot": {
+        "id_kelas_kuliah": 128591,
+        "id_dosen": 2376
+      }
+    }
+  ]
+}

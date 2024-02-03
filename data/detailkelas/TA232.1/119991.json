@@ -1,0 +1,85 @@
+{
+  "id_prodi": 163,
+  "nama_prodi": "FISIKA - S2",
+  "id_prodi_semester": 2731,
+  "idnumber_sikola": "40519.119991.163",
+  "shortname_sikola": "TA232-119991",
+  "kode_matkul": "19H03221102",
+  "nama_matkul": "INSTRUMENTASI SERAT OPTIK",
+  "nama_kelas": "INSTRUMENTASI SERAT OPTIK",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427972,
+      "id_user": 86499,
+      "id_prodi": 163,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SUSI SUSANTI ",
+      "nim": "H032232002",
+      "jalan": "JL. SANNALETANG, DESA LASSA-LASSA",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Mattirobaji",
+      "kode_pos": "92176",
+      "nisn": "0",
+      "tempat_lahir": "LASSA-LASSA",
+      "tanggal_lahir": "1998-09-10",
+      "telepon": "0",
+      "handphone": "082248255866",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "LASSA-LASSA",
+      "id_wilayah": "190314",
+      "nik": "7306155009980008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86499,
+      "kode_status": "A",
+      "email": "susisusanti100998@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119991,
+        "id_mahasiswa": 427972,
+        "created_at": "2024-02-01 22:43:04"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 886,
+      "id_user": 27053,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Arifin, M.T",
+      "nidn": "0020056703",
+      "nip": "196705201994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "227cf181-01b6-4b96-ae85-ccdd54caa855",
+      "pivot": {
+        "id_kelas_kuliah": 119991,
+        "id_dosen": 886
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1030,
+      "id_user": 20531,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Bualkar Abdullah, M.Eng.Sc.",
+      "nidn": "0005015503",
+      "nip": "195501051978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b4a0d843-353b-40a6-a961-8ed276b658aa",
+      "pivot": {
+        "id_kelas_kuliah": 119991,
+        "id_dosen": 1030
+      }
+    }
+  ]
+}

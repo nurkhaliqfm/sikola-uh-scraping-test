@@ -1,0 +1,85 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46577.110386.16",
+  "shortname_sikola": "TA231-110386",
+  "kode_matkul": "23D09141502",
+  "nama_matkul": "Sistem Instalasi Bangunan Laut",
+  "nama_kelas": "Sistem Instalasi Bangunan Laut",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 136186,
+      "id_user": 35843,
+      "id_prodi": 16,
+      "angkatan": 2020,
+      "nama_mahasiswa": "IKSAN ISKANDAR",
+      "nim": "D091201068",
+      "jalan": "jl. Permata Sudiang Raya blok f9/1",
+      "rt": 2,
+      "rw": 12,
+      "dusun": "-",
+      "kode_pos": "90242",
+      "nisn": "0020416734",
+      "tempat_lahir": "TARAKAN",
+      "tanggal_lahir": "2002-05-26",
+      "telepon": "081342670205",
+      "handphone": "085256487616",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Laikang",
+      "id_wilayah": "196011",
+      "nik": "6473022605020003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "iksanskndr@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0ce5120c-a56c-4bec-b550-b88ad05b2e7e",
+      "id_registrasi_mahasiswa_pddikti": "4517b0b4-f571-4807-a5cf-2f99d11501c4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110386,
+        "id_mahasiswa": 136186,
+        "created_at": "2023-08-04 19:43:39"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1010,
+      "id_user": 34253,
+      "id_prodi": 16,
+      "nama": "Ir. Syerly Klara, MT.",
+      "nidn": "0001056402",
+      "nip": "196405011990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a16f0c89-66ca-4bd5-9c3a-863a98f6ffb5",
+      "pivot": {
+        "id_kelas_kuliah": 110386,
+        "id_dosen": 1010
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1623,
+      "id_user": 60672,
+      "id_prodi": 16,
+      "nama": "Andi Husni Sitepu, ST.,MT.",
+      "nidn": "0017027704",
+      "nip": "197702172001121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ab41e2a-c708-4a1c-99c8-4964e1d403c3",
+      "pivot": {
+        "id_kelas_kuliah": 110386,
+        "id_dosen": 1623
+      }
+    }
+  ]
+}

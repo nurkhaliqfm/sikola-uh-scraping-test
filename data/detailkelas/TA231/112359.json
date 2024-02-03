@@ -1,0 +1,45 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "19696.112359.51",
+  "shortname_sikola": "TA231-112359",
+  "kode_matkul": "352I1102",
+  "nama_matkul": "ILMU TILIK TERNAK",
+  "nama_kelas": "Ilmu Tilik Ternak",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 748,
+      "id_user": 25832,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Sudirman Baco, M.Sc.",
+      "nidn": "0031126449",
+      "nip": "196412311989031025",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "29db2047-00e6-40a8-9b8c-9c30ae45ade8",
+      "pivot": {
+        "id_kelas_kuliah": 112359,
+        "id_dosen": 748
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1488,
+      "id_user": 14750,
+      "id_prodi": 51,
+      "nama": "Prof.Dr.Ir Raden Roro Sri R.A.Bugiwati, M.Sc.",
+      "nidn": "0025046801",
+      "nip": "196804251994032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b49dd56f-20f7-4412-adab-648569fd3222",
+      "pivot": {
+        "id_kelas_kuliah": 112359,
+        "id_dosen": 1488
+      }
+    }
+  ]
+}

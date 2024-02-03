@@ -1,0 +1,117 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26103.127233.79",
+  "shortname_sikola": "TA232-127233",
+  "kode_matkul": "19L08310203",
+  "nama_matkul": "Penulisan Ilmiah dan Etika Akademik",
+  "nama_kelas": "Penulisan Ilmiah dan Etika Akademik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427815,
+      "id_user": 86342,
+      "id_prodi": 79,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUSLIMIN  S.",
+      "nim": "L013232001",
+      "jalan": "JLN. KEBUN SAYUR NO.7 KOTA PAREPARE",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "91131",
+      "nisn": null,
+      "tempat_lahir": "PAREPARE",
+      "tanggal_lahir": "1969-09-04",
+      "telepon": "0",
+      "handphone": "081242100775",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "BUKIT INDAH",
+      "id_wilayah": "020819",
+      "nik": "7372040409690001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86342,
+      "kode_status": "A",
+      "email": "musliminsyarif2@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127233,
+        "id_mahasiswa": 427815,
+        "created_at": "2024-01-29 17:10:34"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1181,
+      "id_user": 10979,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Rohani AR, M.Si.",
+      "nidn": "0013096901",
+      "nip": "196909131993032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "25f45a97-69c0-4ddb-94f0-ec88c59e7691",
+      "pivot": {
+        "id_kelas_kuliah": 127233,
+        "id_dosen": 1181
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1223,
+      "id_user": 30983,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Jamaluddin Jompa, M.Sc.",
+      "nidn": "0008036705",
+      "nip": "196703081990031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d745ab40-59a0-4cae-933c-6360cabfd9bf",
+      "pivot": {
+        "id_kelas_kuliah": 127233,
+        "id_dosen": 1223
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 900,
+      "id_user": 24123,
+      "id_prodi": 235,
+      "nama": "Prof. Dr. Ir. Metusalach, M.Sc.",
+      "nidn": "0025056002",
+      "nip": "196005251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5efa67f5-93cd-419d-ad65-4fc29782cf3e",
+      "pivot": {
+        "id_kelas_kuliah": 127233,
+        "id_dosen": 900
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1444,
+      "id_user": 22692,
+      "id_prodi": 69,
+      "nama": "Prof. Mukti Zainuddin, S.Pi., M.Sc., Ph.D",
+      "nidn": "0003077101",
+      "nip": "197107031997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4cdd22ad-491a-4927-9d95-9dae4788fdf0",
+      "pivot": {
+        "id_kelas_kuliah": 127233,
+        "id_dosen": 1444
+      }
+    }
+  ]
+}

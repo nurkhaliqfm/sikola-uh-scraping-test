@@ -1,0 +1,61 @@
+{
+  "id_prodi": 70,
+  "nama_prodi": "AGROBISNIS PERIKANAN - S1",
+  "id_prodi_semester": 2418,
+  "idnumber_sikola": "46730.112240.70",
+  "shortname_sikola": "TA231-112240",
+  "kode_matkul": "23L04131303",
+  "nama_matkul": "Ekonomi Usaha Perikanan",
+  "nama_kelas": "Ekonomi Usaha Perikanan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 794,
+      "id_user": 28188,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Aris, M.Si.",
+      "nidn": "0025046202",
+      "nip": "196204251990031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55b2ea46-51e8-4719-b42e-1f79aa4ecc4a",
+      "pivot": {
+        "id_kelas_kuliah": 112240,
+        "id_dosen": 794
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1142,
+      "id_user": 23910,
+      "id_prodi": 70,
+      "nama": "Dr. Sri Suro Adhawati, SE., M.Si.",
+      "nidn": "0017046413",
+      "nip": "196404171991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb85900e-3317-4fe4-8bc3-659e0a1e6aa6",
+      "pivot": {
+        "id_kelas_kuliah": 112240,
+        "id_dosen": 1142
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1907,
+      "id_user": 23980,
+      "id_prodi": 70,
+      "nama": "M. Chasyim Hasani., S.Pi., M.Si",
+      "nidn": "0012047101",
+      "nip": "197104121999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "31403f9b-564c-4828-95b8-830268b80595",
+      "pivot": {
+        "id_kelas_kuliah": 112240,
+        "id_dosen": 1907
+      }
+    }
+  ]
+}

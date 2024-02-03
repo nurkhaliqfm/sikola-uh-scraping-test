@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "25795.110052.76",
+  "shortname_sikola": "TA231-110052",
+  "kode_matkul": "18P01311803",
+  "nama_matkul": "Permodelan dan Simulasi dalam Keteknikan Pertanian",
+  "nama_kelas": "Pemodelan dan Simulasi dalam Keteknikan Pertanian (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1210,
+      "id_user": 23509,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Junaedi Muhidong, M.Sc.",
+      "nidn": "0025115712",
+      "nip": "196001011985031014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6e82961d-915e-49c9-b1cb-a7691035ca48",
+      "pivot": {
+        "id_kelas_kuliah": 110052,
+        "id_dosen": 1210
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 958,
+      "id_user": 26868,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Rusnadi Padjung, M.Sc.",
+      "nidn": "0022026009",
+      "nip": "196002221985031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57befb49-36b5-4f20-9dca-884468924bf1",
+      "pivot": {
+        "id_kelas_kuliah": 110052,
+        "id_dosen": 958
+      }
+    }
+  ]
+}

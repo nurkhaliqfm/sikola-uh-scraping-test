@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "42876.127608.76",
+  "shortname_sikola": "TA232-127608",
+  "kode_matkul": "18P01315403",
+  "nama_matkul": "Teknologi Pakan Lanjut",
+  "nama_kelas": "Teknologi Pakan Lanjut (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 972,
+      "id_user": 74,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Asmuddin Natsir, M.Sc.",
+      "nidn": "0017095902",
+      "nip": "195909171985031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "43eb80f2-0e2d-40ee-87c1-9756e2d9d1ce",
+      "pivot": {
+        "id_kelas_kuliah": 127608,
+        "id_dosen": 972
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 843,
+      "id_user": 14610,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Jasmal Ahmari Syamsu, M.Si., IPU., ASEAN Eng",
+      "nidn": "0005116901",
+      "nip": "196811051993011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "91352c8c-6353-47fa-9666-adc6e67381d8",
+      "pivot": {
+        "id_kelas_kuliah": 127608,
+        "id_dosen": 843
+      }
+    }
+  ]
+}

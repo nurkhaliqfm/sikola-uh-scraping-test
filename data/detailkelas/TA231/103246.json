@@ -1,0 +1,149 @@
+{
+  "id_prodi": 229,
+  "nama_prodi": "PPDS ILMU PENYAKIT DALAM (Sp2)",
+  "id_prodi_semester": 2562,
+  "idnumber_sikola": "42773.103246.229",
+  "shortname_sikola": "TA231-103246",
+  "kode_matkul": "20C03830305",
+  "nama_matkul": "Keterampilan Klinis dan Intervensi bidang Hepatologi",
+  "nama_kelas": "Keterampilan Klinis dan Intervensi bidang Hepatologi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 155748,
+      "id_user": 52160,
+      "id_prodi": 229,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MUHAMMAD RANU SHAR",
+      "nim": "C038211001",
+      "jalan": "AL-KHARISMI NO.68",
+      "rt": 4,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "C03821101",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1983-12-09",
+      "telepon": "0411587669",
+      "handphone": "081342593349",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "TAMALANREA JAYA",
+      "id_wilayah": "196012",
+      "nik": "7371140912830001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ranumedic@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5ab4a3e7-7b2d-42e7-bcd6-463d5a41c895",
+      "id_registrasi_mahasiswa_pddikti": "de552d63-30e6-48b7-8c50-e3fb74267984",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103246,
+        "id_mahasiswa": 155748,
+        "created_at": "2023-07-27 13:22:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3152,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "Dr. dr. A. Muh. Luthfi, Sp.PD., K-GEH",
+      "nidn": null,
+      "nip": "197012022005021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103246,
+        "id_dosen": 3152
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1785,
+      "id_user": 37517,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Fardhah Akil, SpPD, K-GEH",
+      "nidn": "0021127404",
+      "nip": "197412212006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1c36a0d-197b-4546-9653-128b0f84c0ca",
+      "pivot": {
+        "id_kelas_kuliah": 103246,
+        "id_dosen": 1785
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3157,
+      "id_user": 37628,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Nu'man AS Daud, Sp.PD., K-GEH",
+      "nidn": null,
+      "nip": "197112142018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103246,
+        "id_dosen": 3157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1733,
+      "id_user": 37521,
+      "id_prodi": 6,
+      "nama": "dr.  Rini Rahmawarni, Sp.PD., KGEH., MARS.",
+      "nidn": "0006067504",
+      "nip": "197506062002122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cb22fade-63e3-4d5c-90ac-38a6f632a81a",
+      "pivot": {
+        "id_kelas_kuliah": 103246,
+        "id_dosen": 1733
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3165,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "dr. Susanto Hendra Kusuma, SpPD., K-GEH",
+      "nidn": null,
+      "nip": "737109131180000",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103246,
+        "id_dosen": 3165
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3166,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "dr. Amelia Rifai, SpPD, K-GEH",
+      "nidn": null,
+      "nip": "7371094501830005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103246,
+        "id_dosen": 3166
+      }
+    }
+  ]
+}

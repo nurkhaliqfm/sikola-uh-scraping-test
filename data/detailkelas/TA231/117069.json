@@ -1,0 +1,61 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2432,
+  "idnumber_sikola": "26807.117069.86",
+  "shortname_sikola": "TA231-117069",
+  "kode_matkul": "18B01310602",
+  "nama_matkul": "HUKUM PERDATA KONTEMPORER\r\n",
+  "nama_kelas": "KLS A  MAKASSAR SEM II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 896,
+      "id_user": 34097,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Farida Patittingi, S.H., M.Hum.",
+      "nidn": "0031126724",
+      "nip": "196712311991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ccf669e-87e0-4958-b39d-90be5c469ac2",
+      "pivot": {
+        "id_kelas_kuliah": 117069,
+        "id_dosen": 896
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1109,
+      "id_user": 34246,
+      "id_prodi": 5,
+      "nama": "Dr. Nurfaidah Said, SH., M.Hum., M.Si.",
+      "nidn": "0021066003",
+      "nip": "196006211986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cde95cd3-e118-47c3-899f-7a69d6555bab",
+      "pivot": {
+        "id_kelas_kuliah": 117069,
+        "id_dosen": 1109
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1377,
+      "id_user": 27672,
+      "id_prodi": 5,
+      "nama": "Dr. Kahar Lahae, S.H., M.Hum.",
+      "nidn": "0031126603",
+      "nip": "196612311990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9ea7702-44d7-46cc-a613-3df741381bb0",
+      "pivot": {
+        "id_kelas_kuliah": 117069,
+        "id_dosen": 1377
+      }
+    }
+  ]
+}

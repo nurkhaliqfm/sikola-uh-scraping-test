@@ -1,0 +1,61 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34734.113611.165",
+  "shortname_sikola": "TA231-113611",
+  "kode_matkul": "18D02330302",
+  "nama_matkul": "UJIAN PROMOSI",
+  "nama_kelas": "UJIAN PROMOSI (MARWATY)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 113611,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 113611,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 113611,
+        "id_dosen": 1454
+      }
+    }
+  ]
+}

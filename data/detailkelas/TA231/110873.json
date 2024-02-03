@@ -1,0 +1,45 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2369,
+  "idnumber_sikola": "48399.110873.2",
+  "shortname_sikola": "TA231-110873",
+  "kode_matkul": "23A02110203",
+  "nama_matkul": "Pengantar Bisnis",
+  "nama_kelas": "PENGANTAR BISNIS KELAS F",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1261,
+      "id_user": 17087,
+      "id_prodi": 2,
+      "nama": "Prof. Dr. Nuraeni Kadir, S.E., M.Si.",
+      "nidn": "0015035602",
+      "nip": "195603151992032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c086ca04-68b5-4122-a0b1-7fcc89b5e423",
+      "pivot": {
+        "id_kelas_kuliah": 110873,
+        "id_dosen": 1261
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2054,
+      "id_user": 10056,
+      "id_prodi": 2,
+      "nama": "Insany Fitri Nurqamar, S.E., M.M",
+      "nidn": "0905128801",
+      "nip": "198812052015042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "993d8d77-a466-4c8f-a6a1-84aa765520c2",
+      "pivot": {
+        "id_kelas_kuliah": 110873,
+        "id_dosen": 2054
+      }
+    }
+  ]
+}

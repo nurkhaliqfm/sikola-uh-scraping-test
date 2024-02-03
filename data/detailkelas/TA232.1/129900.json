@@ -1,0 +1,133 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2640,
+  "idnumber_sikola": "19701.129900.51",
+  "shortname_sikola": "TA232-129900",
+  "kode_matkul": "346I003",
+  "nama_matkul": "FARM ENGINEERING",
+  "nama_kelas": "Farm Enginering Kelas 2017 - 2020",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 140061,
+      "id_user": 40737,
+      "id_prodi": 51,
+      "angkatan": 2020,
+      "nama_mahasiswa": "IBNU HATTAB",
+      "nim": "I011201085",
+      "jalan": "Jl. Poros malua-kalosi",
+      "rt": 2,
+      "rw": 1,
+      "dusun": "Pana dara",
+      "kode_pos": "91756",
+      "nisn": "0016037378",
+      "tempat_lahir": "MALUA",
+      "tanggal_lahir": "2001-07-08",
+      "telepon": "081340795844",
+      "handphone": "6281795844",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kelurahan malua",
+      "id_wilayah": "190000",
+      "nik": "731609080701001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 40737,
+      "kode_status": "A",
+      "email": "hattabh218@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "cf2043aa-0515-462a-beb5-d95283b51984",
+      "id_registrasi_mahasiswa_pddikti": "0b1208d2-9436-493c-9f16-ac01d04747f7",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129900,
+        "id_mahasiswa": 140061,
+        "created_at": "2024-01-27 23:12:37"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 761,
+      "id_user": 32334,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Lellah Rahim, M.Sc., IPU, ASEAN Eng.",
+      "nidn": "0001056304",
+      "nip": "196305011988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ba174734-2be4-4d1f-aabb-4a799fa07cce",
+      "pivot": {
+        "id_kelas_kuliah": 129900,
+        "id_dosen": 761
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1057,
+      "id_user": 15170,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Muhammad Yusuf, S.Pt., IPU",
+      "nidn": "0025077002",
+      "nip": "197007251999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc785c44-38a1-43a3-b473-00ee14901af2",
+      "pivot": {
+        "id_kelas_kuliah": 129900,
+        "id_dosen": 1057
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2096,
+      "id_user": 21792,
+      "id_prodi": 51,
+      "nama": "Dr. Agr. Ir. Renny Fatmyah Utamy, S. Pt., M. Agr., IPM",
+      "nidn": "0020017203",
+      "nip": "197201201998032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ce6264a3-4815-4fc5-89d6-dc1cdb9b72ed",
+      "pivot": {
+        "id_kelas_kuliah": 129900,
+        "id_dosen": 2096
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1948,
+      "id_user": 19313,
+      "id_prodi": 51,
+      "nama": "Dr.  Muhammad Ihsan Andi Dagong, S.Pt., M.Si",
+      "nidn": "0026057708",
+      "nip": "197705262002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ced07ead-9593-49dd-a349-93bbdb8666df",
+      "pivot": {
+        "id_kelas_kuliah": 129900,
+        "id_dosen": 1948
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1405,
+      "id_user": 16905,
+      "id_prodi": 51,
+      "nama": "Dr. Wahniyathi, S.Pt.,M.Si.",
+      "nidn": "0016047001",
+      "nip": "197004161995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "03b95f3d-51b2-4623-bc89-1792dec68877",
+      "pivot": {
+        "id_kelas_kuliah": 129900,
+        "id_dosen": 1405
+      }
+    }
+  ]
+}

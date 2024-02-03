@@ -1,0 +1,77 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26119.127390.79",
+  "shortname_sikola": "TA232-127390",
+  "kode_matkul": "19L08311803",
+  "nama_matkul": "Model dan Strategi Pengembangan Daerah Pengangkapan Ikan Berkelanjutan",
+  "nama_kelas": "Model dan Strategi Pengembangan Daerah Penangkapan Ikan Berkelanjutan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 797,
+      "id_user": 12101,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Musbir, M.Sc.",
+      "nidn": "0008106510",
+      "nip": "196508101989111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b6e35324-0f63-4c95-8166-15bcdc6aae88",
+      "pivot": {
+        "id_kelas_kuliah": 127390,
+        "id_dosen": 797
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1393,
+      "id_user": 21748,
+      "id_prodi": 69,
+      "nama": "Dr. Ir. Alfa Filep Petrus Nelwan, M.Si.",
+      "nidn": "0015016602",
+      "nip": "196601151995031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "acd6c77f-29eb-4579-a033-4f5e7f37ea14",
+      "pivot": {
+        "id_kelas_kuliah": 127390,
+        "id_dosen": 1393
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1191,
+      "id_user": 14397,
+      "id_prodi": 69,
+      "nama": "Dr. Ir. Faisal Amir, M.Si.",
+      "nidn": "0030086309",
+      "nip": "196308301989031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be222c1e-d414-4a5f-9fc8-9faef21dc919",
+      "pivot": {
+        "id_kelas_kuliah": 127390,
+        "id_dosen": 1191
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3778,
+      "id_user": 60692,
+      "id_prodi": 69,
+      "nama": "Dr. Rachmat Hidayat, S.Pi",
+      "nidn": "0019129304",
+      "nip": "199312192022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "5c875a07-e36e-489a-89eb-a8789937fdae",
+      "pivot": {
+        "id_kelas_kuliah": 127390,
+        "id_dosen": 3778
+      }
+    }
+  ]
+}

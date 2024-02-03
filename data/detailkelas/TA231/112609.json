@@ -1,0 +1,61 @@
+{
+  "id_prodi": 13,
+  "nama_prodi": "TEKNIK INDUSTRI - S1",
+  "id_prodi_semester": 2378,
+  "idnumber_sikola": "47623.112609.13",
+  "shortname_sikola": "TA231-112609",
+  "kode_matkul": "23D07141802",
+  "nama_matkul": "Manufaktur Ramping dan Implementasi",
+  "nama_kelas": "Manufaktur Ramping dan Implementasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1945,
+      "id_user": 24712,
+      "id_prodi": 13,
+      "nama": "Dr .Ir. Saiful, ST., MT",
+      "nidn": "0006068103",
+      "nip": "198106062006041004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "282cff74-8f25-45a4-8dc2-71a0e8adedd2",
+      "pivot": {
+        "id_kelas_kuliah": 112609,
+        "id_dosen": 1945
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3841,
+      "id_user": 74121,
+      "id_prodi": 13,
+      "nama": "Diniary Ikasari Syamsul, S.T., MT.",
+      "nidn": "8962750022",
+      "nip": "199412012022086001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "5d41eed2-eac6-4211-b4d4-ad3bf31a94dc",
+      "pivot": {
+        "id_kelas_kuliah": 112609,
+        "id_dosen": 3841
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2566,
+      "id_user": 28615,
+      "id_prodi": 13,
+      "nama": "A. Besse Riyani Indah, S.T., M.T.",
+      "nidn": "0001128908",
+      "nip": "198912012019032013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "26865c6b-e165-4e8c-bd8e-3b163742521b",
+      "pivot": {
+        "id_kelas_kuliah": 112609,
+        "id_dosen": 2566
+      }
+    }
+  ]
+}

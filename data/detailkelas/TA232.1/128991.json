@@ -1,0 +1,45 @@
+{
+  "id_prodi": 110,
+  "nama_prodi": "MAGISTER MANAJEMEN - S2",
+  "id_prodi_semester": 2685,
+  "idnumber_sikola": "44338.128991.110",
+  "shortname_sikola": "TA232-128991",
+  "kode_matkul": "23A01210303",
+  "nama_matkul": "BUSINESS REASEARCH",
+  "nama_kelas": "Kelas B4",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 920,
+      "id_user": 15903,
+      "id_prodi": 2,
+      "nama": "Prof. Dr. Maat Pono, S.E., M.Si.",
+      "nidn": "0022075804",
+      "nip": "195807221986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ecddbddf-e453-4035-bcac-a31cbbd87e61",
+      "pivot": {
+        "id_kelas_kuliah": 128991,
+        "id_dosen": 920
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1899,
+      "id_user": 35169,
+      "id_prodi": 2,
+      "nama": "Nur Alamzah, SE.,M.Si.",
+      "nidn": "0020127510",
+      "nip": "197512202009121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4072447d-8b0d-4f5f-b023-4f8572b3ad34",
+      "pivot": {
+        "id_kelas_kuliah": 128991,
+        "id_dosen": 1899
+      }
+    }
+  ]
+}

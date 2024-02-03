@@ -1,0 +1,85 @@
+{
+  "id_prodi": 14,
+  "nama_prodi": "TEKNIK PERKAPALAN - S1",
+  "id_prodi_semester": 2379,
+  "idnumber_sikola": "47752.114209.14",
+  "shortname_sikola": "TA231-114209",
+  "kode_matkul": "23D03121902",
+  "nama_matkul": "Kapal Perikanan",
+  "nama_kelas": "Kapal Perikanan Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 138629,
+      "id_user": 40454,
+      "id_prodi": 14,
+      "angkatan": 2020,
+      "nama_mahasiswa": "GETSEMANI TULAK",
+      "nim": "D031201050",
+      "jalan": "Jalan ichwan",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Marampa",
+      "kode_pos": "91811",
+      "nisn": "0031738752",
+      "tempat_lahir": "MAKALE",
+      "tanggal_lahir": "2003-04-10",
+      "telepon": "08114214837",
+      "handphone": "6282192526129",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Ariang",
+      "id_wilayah": "190000",
+      "nik": "7318051004030002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "getsitulak.10@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8311e3f4-12ed-4512-a734-fa107c1bca96",
+      "id_registrasi_mahasiswa_pddikti": "00a5eeba-522a-4986-a419-4439da0c2863",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114209,
+        "id_mahasiswa": 138629,
+        "created_at": "2023-08-12 03:07:52"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1360,
+      "id_user": 31997,
+      "id_prodi": 14,
+      "nama": "Ir. Lukman Bochary, MT.",
+      "nidn": "9990202359",
+      "nip": "195611271988031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "217cb68a-ba82-4022-a017-60b30a22351f",
+      "pivot": {
+        "id_kelas_kuliah": 114209,
+        "id_dosen": 1360
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1579,
+      "id_user": 33555,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Eng Suandar Baso, S.T., MT.",
+      "nidn": "0006027301",
+      "nip": "197302062000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cdbebdf1-79ac-43e9-b3f0-4daeb0f4267a",
+      "pivot": {
+        "id_kelas_kuliah": 114209,
+        "id_dosen": 1579
+      }
+    }
+  ]
+}

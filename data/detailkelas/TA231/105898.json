@@ -1,0 +1,45 @@
+{
+  "id_prodi": 163,
+  "nama_prodi": "FISIKA - S2",
+  "id_prodi_semester": 2500,
+  "idnumber_sikola": "40467.105898.163",
+  "shortname_sikola": "TA231-105898",
+  "kode_matkul": "19H03210403",
+  "nama_matkul": "MEKANIKA KUANTUM LANJUTAN",
+  "nama_kelas": "Mekanika Kuantum Lanjutan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1221,
+      "id_user": 32602,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Tasrief Surungan, M.Sc.",
+      "nidn": "0022026702",
+      "nip": "196702221992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7372928c-3c3c-4936-b3e9-620071f131be",
+      "pivot": {
+        "id_kelas_kuliah": 105898,
+        "id_dosen": 1221
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1048,
+      "id_user": 28999,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. rer-nat Wira Bahari Nurdin",
+      "nidn": "0023096702",
+      "nip": "196709231991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d7c1ff6d-4119-4b3e-a690-c4cc28362f72",
+      "pivot": {
+        "id_kelas_kuliah": 105898,
+        "id_dosen": 1048
+      }
+    }
+  ]
+}

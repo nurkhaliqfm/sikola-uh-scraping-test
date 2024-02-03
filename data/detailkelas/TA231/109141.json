@@ -1,0 +1,45 @@
+{
+  "id_prodi": 48,
+  "nama_prodi": "GEOFISIKA - S1",
+  "id_prodi_semester": 2406,
+  "idnumber_sikola": "45688.109141.48",
+  "shortname_sikola": "TA231-109141",
+  "kode_matkul": "23H06130402",
+  "nama_matkul": "Kecerdasan Buatan dalam Geofisika",
+  "nama_kelas": "KECERDASAN BUATAN DALAM GEOFISIKA (B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1550,
+      "id_user": 32506,
+      "id_prodi": 48,
+      "nama": "Dr.  Muhammad Alimuddin, Eng.",
+      "nidn": "0029096705",
+      "nip": "196709291993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6ab8f88c-84ab-4393-a290-bca8191ce5f5",
+      "pivot": {
+        "id_kelas_kuliah": 109141,
+        "id_dosen": 1550
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3539,
+      "id_user": 73279,
+      "id_prodi": 48,
+      "nama": "Dr. Muhammad Taufiq Rafi",
+      "nidn": "8919160022",
+      "nip": "199502072022115001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d7fab3c-49ad-4a1f-956b-a3f56ef70040",
+      "pivot": {
+        "id_kelas_kuliah": 109141,
+        "id_dosen": 3539
+      }
+    }
+  ]
+}

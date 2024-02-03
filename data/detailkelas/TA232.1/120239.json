@@ -1,0 +1,29 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2719,
+  "idnumber_sikola": "45721.120239.148",
+  "shortname_sikola": "TA232-120239",
+  "kode_matkul": "23R01410803",
+  "nama_matkul": "Praktik Profesi Keperawatan Komunitas",
+  "nama_kelas": "Kep. Komunitas Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1964,
+      "id_user": 85348,
+      "id_prodi": 8,
+      "nama": "Nuurhidayat Jafar, S.Kep.,Ns.,M.Kep",
+      "nidn": "0018098403",
+      "nip": "198409182012121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1ff3f7f-3c3e-41bf-9117-8b74d2962779",
+      "pivot": {
+        "id_kelas_kuliah": 120239,
+        "id_dosen": 1964
+      }
+    }
+  ]
+}

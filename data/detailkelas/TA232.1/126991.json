@@ -1,0 +1,101 @@
+{
+  "id_prodi": 124,
+  "nama_prodi": "PPDS ILMU RADIOLOGI",
+  "id_prodi_semester": 2697,
+  "idnumber_sikola": "30636.126991.124",
+  "shortname_sikola": "TA232-126991",
+  "kode_matkul": "19C12520702",
+  "nama_matkul": "Radiologi Sistem Gastrointestinal (3) \r\n",
+  "nama_kelas": "Gastro2_2019_20232",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 102875,
+      "id_user": 8839,
+      "id_prodi": 124,
+      "angkatan": 2019,
+      "nama_mahasiswa": "dr. Muhammad Irfansyah Ramadhan",
+      "nim": "C125191010",
+      "jalan": "jl. A. P. Pettarani Blok E 23. No.17",
+      "rt": 4,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "C125191010",
+      "tempat_lahir": "makassar",
+      "tanggal_lahir": "1983-01-04",
+      "telepon": "082291967532",
+      "handphone": "082291967532",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "tidung",
+      "id_wilayah": "196013",
+      "nik": "7371130401830007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "irvan037@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c1836c3d-8106-4df3-ba18-84b8fb559ca7",
+      "id_registrasi_mahasiswa_pddikti": "b6b23b54-c939-41d2-b6b0-4b4b9cffe913",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126991,
+        "id_mahasiswa": 102875,
+        "created_at": "2024-01-25 15:27:54"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 785,
+      "id_user": 35228,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Bachtiar Murtala, Sp.Rad(K)",
+      "nidn": "0003076102",
+      "nip": "196107031989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ddde6570-a146-4028-8d63-520c9b4d6213",
+      "pivot": {
+        "id_kelas_kuliah": 126991,
+        "id_dosen": 785
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2947,
+      "id_user": null,
+      "id_prodi": 124,
+      "nama": "dr. Isdiana Kaelan, Sp.Rad",
+      "nidn": null,
+      "nip": "195909291987032008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126991,
+        "id_dosen": 2947
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2578,
+      "id_user": 74176,
+      "id_prodi": 6,
+      "nama": "dr. Isriyah, M.Kes., Sp.Rad (K)",
+      "nidn": "8899890019",
+      "nip": "197510092019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "84c039d4-ba62-4dd2-b841-c2d3fcc4d33c",
+      "pivot": {
+        "id_kelas_kuliah": 126991,
+        "id_dosen": 2578
+      }
+    }
+  ]
+}

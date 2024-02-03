@@ -1,0 +1,45 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2611,
+  "idnumber_sikola": "47366.121935.15",
+  "shortname_sikola": "TA232-121935",
+  "kode_matkul": "23D08131902",
+  "nama_matkul": "Analisa Transpor Sedimen",
+  "nama_kelas": "Analisa Transport Sedimen A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1391,
+      "id_user": 16416,
+      "id_prodi": 15,
+      "nama": "Dr. Taufiqur Rachman, ST., MT.",
+      "nidn": "0002086903",
+      "nip": "196908021997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "245326fb-1aa3-4450-bd80-7f9461b15a32",
+      "pivot": {
+        "id_kelas_kuliah": 121935,
+        "id_dosen": 1391
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1592,
+      "id_user": 28475,
+      "id_prodi": 15,
+      "nama": "Dr.  Hasdinar Umar, ST.,MT.",
+      "nidn": "0028047806",
+      "nip": "197804282003122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b12d581-777c-4ea0-84b8-79eefc87a8a5",
+      "pivot": {
+        "id_kelas_kuliah": 121935,
+        "id_dosen": 1592
+      }
+    }
+  ]
+}

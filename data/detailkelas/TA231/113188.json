@@ -1,0 +1,45 @@
+{
+  "id_prodi": 2,
+  "nama_prodi": "MANAJEMEN - S1",
+  "id_prodi_semester": 2369,
+  "idnumber_sikola": "48399.113188.2",
+  "shortname_sikola": "TA231-113188",
+  "kode_matkul": "23A02110203",
+  "nama_matkul": "Pengantar Bisnis",
+  "nama_kelas": "PENGANTAR BISNIS KELAS P",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1006,
+      "id_user": 18851,
+      "id_prodi": 2,
+      "nama": "Prof. Dra.  Dian Anggraece Sigit Parawansa., M.Si., Ph.D",
+      "nidn": "0005046202",
+      "nip": "196204051987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0ae3c48d-7880-428c-9747-59fc29bfdd86",
+      "pivot": {
+        "id_kelas_kuliah": 113188,
+        "id_dosen": 1006
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1594,
+      "id_user": 20078,
+      "id_prodi": 2,
+      "nama": "Dr. Wardhani Hakim, SE., M.Si.",
+      "nidn": "0025057201",
+      "nip": "197205251997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e39c5ab-d79d-43f4-b787-c74f3f357c85",
+      "pivot": {
+        "id_kelas_kuliah": 113188,
+        "id_dosen": 1594
+      }
+    }
+  ]
+}

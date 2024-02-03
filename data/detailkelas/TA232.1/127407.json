@@ -1,0 +1,61 @@
+{
+  "id_prodi": 79,
+  "nama_prodi": "ILMU PERIKANAN - S3",
+  "id_prodi_semester": 2657,
+  "idnumber_sikola": "26124.127407.79",
+  "shortname_sikola": "TA232-127407",
+  "kode_matkul": "19L08312503",
+  "nama_matkul": "Valuasi Ekonomi Lingkungan Perikanan",
+  "nama_kelas": "Valuasi Ekonomi Lingkungan Perikanan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 794,
+      "id_user": 28188,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Aris, M.Si.",
+      "nidn": "0025046202",
+      "nip": "196204251990031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "55b2ea46-51e8-4719-b42e-1f79aa4ecc4a",
+      "pivot": {
+        "id_kelas_kuliah": 127407,
+        "id_dosen": 794
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 856,
+      "id_user": 17543,
+      "id_prodi": 70,
+      "nama": "Prof. Dr. Ir. Sutinah, M.Si.",
+      "nidn": "0023036102",
+      "nip": "196103231986012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09c3b677-5f5e-4d37-8ded-056961e05d1f",
+      "pivot": {
+        "id_kelas_kuliah": 127407,
+        "id_dosen": 856
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1662,
+      "id_user": 60881,
+      "id_prodi": 70,
+      "nama": "Dr. Andi Adri Arief, S.Pi.,M.Si.",
+      "nidn": "0022047103",
+      "nip": "197104222005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2daf482c-c69e-4121-8f59-6e48ecab0bf9",
+      "pivot": {
+        "id_kelas_kuliah": 127407,
+        "id_dosen": 1662
+      }
+    }
+  ]
+}

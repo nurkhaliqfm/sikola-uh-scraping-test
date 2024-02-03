@@ -1,0 +1,77 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "35206.124049.173",
+  "shortname_sikola": "TA232-124049",
+  "kode_matkul": "18K01311502",
+  "nama_matkul": "Kajian Lanjut Kesehatan Ibu dan Anak",
+  "nama_kelas": "Kajian Lanjut Kesehatan Ibu dan Anak (Kelas Papua)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 766,
+      "id_user": 32936,
+      "id_prodi": 65,
+      "nama": "Prof. dr.  Veni Hadju, Ph.D.",
+      "nidn": "0018036202",
+      "nip": "196203181988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "85298902-a079-40b6-a8b6-150de3c00f2f",
+      "pivot": {
+        "id_kelas_kuliah": 124049,
+        "id_dosen": 766
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 905,
+      "id_user": 31965,
+      "id_prodi": 57,
+      "nama": "Prof. Dr Tahir Abdullah, MSPH.",
+      "nidn": "8933540022",
+      "nip": "195001261975031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3a6649be-2d7f-4566-b16f-ddee95984934",
+      "pivot": {
+        "id_kelas_kuliah": 124049,
+        "id_dosen": 905
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1232,
+      "id_user": 29658,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. dr. Citrakesumasari, M.Kes., Sp.GK",
+      "nidn": "0018036301",
+      "nip": "196303181992022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fb84bff7-5026-4afb-b5a2-72b9270d0add",
+      "pivot": {
+        "id_kelas_kuliah": 124049,
+        "id_dosen": 1232
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1624,
+      "id_user": 11346,
+      "id_prodi": 57,
+      "nama": "Dr. Apik Indarty Moedjiono, SKM.,M.Si.",
+      "nidn": "0019047702",
+      "nip": "197704192002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "534d1dd3-3989-4eda-b8cf-553ddef9e364",
+      "pivot": {
+        "id_kelas_kuliah": 124049,
+        "id_dosen": 1624
+      }
+    }
+  ]
+}

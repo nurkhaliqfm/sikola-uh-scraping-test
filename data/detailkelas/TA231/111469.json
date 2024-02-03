@@ -1,0 +1,85 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2376,
+  "idnumber_sikola": "46473.111469.11",
+  "shortname_sikola": "TA231-111469",
+  "kode_matkul": "23D13130203",
+  "nama_matkul": "Kebisingan dan Getaran",
+  "nama_kelas": "Kebisingan dan Getaran",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 27605,
+      "id_user": 22741,
+      "id_prodi": 11,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Moh. Asykharil Satriawan",
+      "nim": "D131191010",
+      "jalan": "kec. Nambo Kab. Banggai Prov. Sulawesi Tengah",
+      "rt": 2,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "94760",
+      "nisn": "0016307214",
+      "tempat_lahir": "Luwuk",
+      "tanggal_lahir": "2001-02-22",
+      "telepon": "0",
+      "handphone": "6282217622798",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Koyoan",
+      "id_wilayah": "180418",
+      "nik": "7201042202010002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "asykharil33@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d203959f-60a9-43ac-87ad-459dea7bb8d8",
+      "id_registrasi_mahasiswa_pddikti": "99ce522d-610e-49b1-abbb-cbf4cbc195c7",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111469,
+        "id_mahasiswa": 27605,
+        "created_at": "2023-08-04 04:54:30"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1441,
+      "id_user": 30061,
+      "id_prodi": 11,
+      "nama": "Dr. Eng. Muralia Hustim, ST., MT.",
+      "nidn": "0024047205",
+      "nip": "197204242000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "795719fa-e784-4775-9591-0f1817815746",
+      "pivot": {
+        "id_kelas_kuliah": 111469,
+        "id_dosen": 1441
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3450,
+      "id_user": 57932,
+      "id_prodi": 11,
+      "nama": "Nurul Masyiah Rani Harusi, S.T., M.Eng",
+      "nidn": "0015019501",
+      "nip": "199501152021074001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "cb29b76b-7d53-4514-82df-a16949c500f5",
+      "pivot": {
+        "id_kelas_kuliah": 111469,
+        "id_dosen": 3450
+      }
+    }
+  ]
+}

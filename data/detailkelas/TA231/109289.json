@@ -1,0 +1,29 @@
+{
+  "id_prodi": 100,
+  "nama_prodi": "MANAJEMEN PERKOTAAN - S2",
+  "id_prodi_semester": 2445,
+  "idnumber_sikola": "27858.109289.100",
+  "shortname_sikola": "TA231-109289",
+  "kode_matkul": "18P05210602",
+  "nama_matkul": "Perkotaan Layak Huni (P)\r\n\r\n",
+  "nama_kelas": "Perkotaan Layak Huni (P) (MAP_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1246,
+      "id_user": 34440,
+      "id_prodi": 20,
+      "nama": "Dr. Ir. Arifuddin, MT.",
+      "nidn": "0004056303",
+      "nip": "196305041995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "620376ed-1c10-4ebd-b2de-fcfb49cfd6cc",
+      "pivot": {
+        "id_kelas_kuliah": 109289,
+        "id_dosen": 1246
+      }
+    }
+  ]
+}

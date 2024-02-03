@@ -1,0 +1,61 @@
+{
+  "id_prodi": 253,
+  "nama_prodi": "ILMU LINGKUNGAN - S3",
+  "id_prodi_semester": 2814,
+  "idnumber_sikola": "43024.128488.253",
+  "shortname_sikola": "TA232-128488",
+  "kode_matkul": "22P03310603",
+  "nama_matkul": "Permasalahan dan Teknologi Abiotik Lingkungan Tropis",
+  "nama_kelas": "Permasalahan dan Teknologi Abiotik Lingkungan Tropis",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 983,
+      "id_user": 18347,
+      "id_prodi": 66,
+      "nama": "Dr. Ir.  Muhammad Farid Samawi, M.Si.",
+      "nidn": "0010086501",
+      "nip": "196508101991031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0fd6d560-4492-4612-a49e-cb1d0aa0a823",
+      "pivot": {
+        "id_kelas_kuliah": 128488,
+        "id_dosen": 983
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 128488,
+        "id_dosen": 779
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3900,
+      "id_user": null,
+      "id_prodi": 255,
+      "nama": "Dr. Ir. Amir Yassi, M.Si",
+      "nidn": null,
+      "nip": "7371140311590001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128488,
+        "id_dosen": 3900
+      }
+    }
+  ]
+}

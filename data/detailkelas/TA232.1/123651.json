@@ -1,0 +1,61 @@
+{
+  "id_prodi": 73,
+  "nama_prodi": "FARMASI - S1",
+  "id_prodi_semester": 2651,
+  "idnumber_sikola": "37765.123651.73",
+  "shortname_sikola": "TA232-123651",
+  "kode_matkul": "20N01111902",
+  "nama_matkul": "Tumbuhan Racun dan Pestisida",
+  "nama_kelas": "Tumbuhan Racun dan Pestisida C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1509,
+      "id_user": 17844,
+      "id_prodi": 73,
+      "nama": "Prof. Subehan,  S.Si., M.Pharm.,Sc.,Ph.D, Apt",
+      "nidn": "0025097508",
+      "nip": "197509252001121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "83e91721-cda2-4ea7-9c9c-0a851624b4c7",
+      "pivot": {
+        "id_kelas_kuliah": 123651,
+        "id_dosen": 1509
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2059,
+      "id_user": 20387,
+      "id_prodi": 73,
+      "nama": "Muhammad Raihan, S.Si.,M.Sc.Stud., Apt.",
+      "nidn": "0028059001",
+      "nip": "199005282015041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9660f9ef-4af2-4df6-a18d-66a5fba9f0c7",
+      "pivot": {
+        "id_kelas_kuliah": 123651,
+        "id_dosen": 2059
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3824,
+      "id_user": 69478,
+      "id_prodi": 73,
+      "nama": "Dr Ayun Dwi Astuti, S.Si., Apt.",
+      "nidn": "0031039309",
+      "nip": "199303312022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "c9616cb7-9339-4829-91bb-b177968ba363",
+      "pivot": {
+        "id_kelas_kuliah": 123651,
+        "id_dosen": 3824
+      }
+    }
+  ]
+}

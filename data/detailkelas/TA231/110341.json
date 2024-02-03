@@ -1,0 +1,45 @@
+{
+  "id_prodi": 219,
+  "nama_prodi": "TEKNOLOGI PRODUKSI TANAMAN PANGAN - D4",
+  "id_prodi_semester": 2553,
+  "idnumber_sikola": "44634.110341.219",
+  "shortname_sikola": "TA231-110341",
+  "kode_matkul": "23U01110202",
+  "nama_matkul": "Pendidikan Agama Khatolik",
+  "nama_kelas": "Pendidikan Agama Khatolik, Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2780,
+      "id_user": 34135,
+      "id_prodi": 142,
+      "nama": "Junarto Timbang,SS Bth,M.Hum",
+      "nidn": null,
+      "nip": "340121301840008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110341,
+        "id_dosen": 2780
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3119,
+      "id_user": 34134,
+      "id_prodi": 142,
+      "nama": "Daud Demmadika, S.Ag",
+      "nidn": null,
+      "nip": "150314516",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110341,
+        "id_dosen": 3119
+      }
+    }
+  ]
+}

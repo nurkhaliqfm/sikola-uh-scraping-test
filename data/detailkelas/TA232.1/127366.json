@@ -1,0 +1,61 @@
+{
+  "id_prodi": 120,
+  "nama_prodi": "PPDS ILMU PENYAKIT THT",
+  "id_prodi_semester": 2693,
+  "idnumber_sikola": "30205.127366.120",
+  "shortname_sikola": "TA232-127366",
+  "kode_matkul": "0117C20603",
+  "nama_matkul": "Rinologi I",
+  "nama_kelas": "Rinologi I, Kelas B, 20232 (Semester 1)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1679,
+      "id_user": 37442,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Muh. Fadjar Perkasa, Sp.THT.",
+      "nidn": "0003037109",
+      "nip": "197103032005021005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "adf8f795-aba2-488f-a24b-d8020d546d99",
+      "pivot": {
+        "id_kelas_kuliah": 127366,
+        "id_dosen": 1679
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 923,
+      "id_user": 34590,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr.  Abd. Qadar Punagi, Sp.THT-KL(K)FICS",
+      "nidn": "0016026302",
+      "nip": "196302161989101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "dcb4465b-b354-4a45-a1aa-a4b3c8e2d988",
+      "pivot": {
+        "id_kelas_kuliah": 127366,
+        "id_dosen": 923
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2629,
+      "id_user": 34938,
+      "id_prodi": 120,
+      "nama": "dr. Azmi Mir'ah Zakiah,M.Kes,Sp.T.H.T.K.L(K)",
+      "nidn": null,
+      "nip": "197812072018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 127366,
+        "id_dosen": 2629
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 174,
+  "nama_prodi": "ILMU POLITIK - S2",
+  "id_prodi_semester": 2742,
+  "idnumber_sikola": "43012.122571.174",
+  "shortname_sikola": "TA232-122571",
+  "kode_matkul": "22E05211103",
+  "nama_matkul": "Perbandingan Sistem Pemilu",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1002,
+      "id_user": 10701,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Armin, M.Si.",
+      "nidn": "0009116508",
+      "nip": "196511091991031008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8c4fcacf-e9ad-4e0e-8986-0a788f7868ba",
+      "pivot": {
+        "id_kelas_kuliah": 122571,
+        "id_dosen": 1002
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1195,
+      "id_user": 11008,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Muhammad, SIP., M.Si.",
+      "nidn": "0017097106",
+      "nip": "197109171997031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0bd2c83f-51de-4db4-977c-822c9615ba78",
+      "pivot": {
+        "id_kelas_kuliah": 122571,
+        "id_dosen": 1195
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1852,
+      "id_user": 11465,
+      "id_prodi": 24,
+      "nama": "Dr. Sakinah Nadir, SIP.,M.Si.",
+      "nidn": "0018127905",
+      "nip": "197912182008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e144346e-dad8-4df1-b131-e605ae1ed75b",
+      "pivot": {
+        "id_kelas_kuliah": 122571,
+        "id_dosen": 1852
+      }
+    }
+  ]
+}

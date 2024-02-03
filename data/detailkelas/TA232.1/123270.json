@@ -1,0 +1,45 @@
+{
+  "id_prodi": 266,
+  "nama_prodi": "PARAMEDIK VETERINER - D4",
+  "id_prodi_semester": 2825,
+  "idnumber_sikola": "44641.123270.266",
+  "shortname_sikola": "TA232-123270",
+  "kode_matkul": "23U01110902",
+  "nama_matkul": "Bahasa Indonesia",
+  "nama_kelas": "Bahasa Indonesia",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1071,
+      "id_user": 13519,
+      "id_prodi": 28,
+      "nama": "Dr. Drs. Kahar, M.Hum.",
+      "nidn": "0010105915",
+      "nip": "195910101985031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3dfc6388-facb-4c7b-8ef4-6d8378759a09",
+      "pivot": {
+        "id_kelas_kuliah": 123270,
+        "id_dosen": 1071
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3067,
+      "id_user": 36613,
+      "id_prodi": 31,
+      "nama": "Indarwati, S.S., M.Hum",
+      "nidn": null,
+      "nip": "7306085001850016",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123270,
+        "id_dosen": 3067
+      }
+    }
+  ]
+}

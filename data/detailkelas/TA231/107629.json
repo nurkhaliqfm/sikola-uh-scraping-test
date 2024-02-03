@@ -1,0 +1,61 @@
+{
+  "id_prodi": 190,
+  "nama_prodi": "SOSIOLOGI - S3",
+  "id_prodi_semester": 2526,
+  "idnumber_sikola": "35849.107629.190",
+  "shortname_sikola": "TA231-107629",
+  "kode_matkul": "20E04310403",
+  "nama_matkul": "PERENCANAAN PEMBANGUNAN SOSIAL",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2116,
+      "id_user": 34495,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  H.M. Tahir Kasnawi, SU.",
+      "nidn": "8835433420",
+      "nip": "194809131978031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "091b6e95-af07-49b2-b7ba-2c841a5407b8",
+      "pivot": {
+        "id_kelas_kuliah": 107629,
+        "id_dosen": 2116
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 894,
+      "id_user": 22532,
+      "id_prodi": 29,
+      "nama": "Prof. Hasbi Marissangan, M.Si., Ph.D",
+      "nidn": "0027086310",
+      "nip": "196308271991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a48975e9-b875-4ec3-bafa-7df1a688ae05",
+      "pivot": {
+        "id_kelas_kuliah": 107629,
+        "id_dosen": 894
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2917,
+      "id_user": 60726,
+      "id_prodi": 29,
+      "nama": "Dr. Sawedi Muhammad, M.Sc",
+      "nidn": "0008097104",
+      "nip": "197109082022043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cdc7827b-a019-404c-9271-85536567731f",
+      "pivot": {
+        "id_kelas_kuliah": 107629,
+        "id_dosen": 2917
+      }
+    }
+  ]
+}

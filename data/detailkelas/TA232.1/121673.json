@@ -1,0 +1,140 @@
+{
+  "id_prodi": 81,
+  "nama_prodi": "ILMU KEDOKTERAN - S3",
+  "id_prodi_semester": 2659,
+  "idnumber_sikola": "38044.121673.81",
+  "shortname_sikola": "TA232-121673",
+  "kode_matkul": "20C01320603",
+  "nama_matkul": "Tropical Medicine",
+  "nama_kelas": "Tropical Medicine",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 414638,
+      "id_user": 79193,
+      "id_prodi": 81,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANDI NILAWATI",
+      "nim": "C013231015",
+      "jalan": "RSI FAISAL IX NOMOR 24",
+      "rt": 3,
+      "rw": 2,
+      "dusun": "-",
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1978-03-01",
+      "telepon": "0",
+      "handphone": "085397867910",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Banta-bantaeng",
+      "id_wilayah": "196013",
+      "nik": "7371134103780009",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nilamahmuddin@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "fb2669e1-52ca-4512-860a-ca8f80d7b48f",
+      "id_registrasi_mahasiswa_pddikti": "73af6f0a-57de-4f76-8925-160861b931b6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121673,
+        "id_mahasiswa": 414638,
+        "created_at": "2024-01-31 06:15:58"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 414644,
+      "id_user": 76390,
+      "id_prodi": 81,
+      "angkatan": 2023,
+      "nama_mahasiswa": "GREGORIUS ADISTA ENRICO ASTAWA",
+      "nim": "C013231021",
+      "jalan": "JLN. AYAPO NO.16",
+      "rt": 2,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "99351",
+      "nisn": null,
+      "tempat_lahir": "JAYAPURA",
+      "tanggal_lahir": "1988-05-05",
+      "telepon": "09675187197",
+      "handphone": "082155525553",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "KOTA BARU",
+      "id_wilayah": "256002",
+      "nik": "3273130505880002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "gregoriusenrico@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "06d8f366-27b2-4c49-8f50-3dda74426a40",
+      "id_registrasi_mahasiswa_pddikti": "3ed77e0b-50bb-47e3-952b-ac965a086e36",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 121673,
+        "id_mahasiswa": 414644,
+        "created_at": "2024-02-02 08:11:04"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1527,
+      "id_user": 59930,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Syafruddin, Ph.D.",
+      "nidn": "0015066001",
+      "nip": "196005161986011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1b012be2-1445-4a21-b601-0f9f3101cb2b",
+      "pivot": {
+        "id_kelas_kuliah": 121673,
+        "id_dosen": 1527
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1818,
+      "id_user": 37670,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Risna, Sp.PD.",
+      "nidn": "0017057505",
+      "nip": "197505172008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8b7b51aa-2c9b-46dd-94e6-3b51457a2295",
+      "pivot": {
+        "id_kelas_kuliah": 121673,
+        "id_dosen": 1818
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1809,
+      "id_user": 34316,
+      "id_prodi": 6,
+      "nama": "dr.  Yenni Yusuf, MInfectDis.",
+      "nidn": "0009028204",
+      "nip": "198202092008012011",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7098cac7-af5b-4477-bfc0-ee24c6824a12",
+      "pivot": {
+        "id_kelas_kuliah": 121673,
+        "id_dosen": 1809
+      }
+    }
+  ]
+}

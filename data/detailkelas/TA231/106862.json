@@ -1,0 +1,61 @@
+{
+  "id_prodi": 176,
+  "nama_prodi": "TEKNIK AGROINDUSTRI - S2",
+  "id_prodi_semester": 2513,
+  "idnumber_sikola": "36874.106862.176",
+  "shortname_sikola": "TA231-106862",
+  "kode_matkul": "19G05212602",
+  "nama_matkul": "Analisis Sistem Agroindustri",
+  "nama_kelas": "Analisis Sistem Agroindustri (Kelas A)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1446,
+      "id_user": 31475,
+      "id_prodi": 155,
+      "nama": "Dr. Ir. Abdul Waris, MT.",
+      "nidn": "0011016003",
+      "nip": "196011011989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3133247b-732f-4da3-86f2-3e6adc83a572",
+      "pivot": {
+        "id_kelas_kuliah": 106862,
+        "id_dosen": 1446
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1532,
+      "id_user": 19872,
+      "id_prodi": 155,
+      "nama": "Dr. Ir.  Mahmud, MP.",
+      "nidn": "0003067005",
+      "nip": "197006031994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8bfed169-61f9-43f9-8938-12f93d05c127",
+      "pivot": {
+        "id_kelas_kuliah": 106862,
+        "id_dosen": 1532
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 992,
+      "id_user": 28654,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Sitti Nur Faridah, MP.",
+      "nidn": "0007106801",
+      "nip": "196810071993032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d218707-f799-46d7-bcb4-42d5af370bfb",
+      "pivot": {
+        "id_kelas_kuliah": 106862,
+        "id_dosen": 992
+      }
+    }
+  ]
+}

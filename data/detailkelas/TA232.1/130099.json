@@ -1,0 +1,45 @@
+{
+  "id_prodi": 166,
+  "nama_prodi": "TEKNOLOGI KEBUMIAN DAN LINGKUNGAN - S3",
+  "id_prodi_semester": 2734,
+  "idnumber_sikola": "34770.130099.166",
+  "shortname_sikola": "TA232-130099",
+  "kode_matkul": "18D03310801",
+  "nama_matkul": "SEMINAR  KEMAJIAN 1",
+  "nama_kelas": "SEMINAR KEMAJUAN 1 (Jalur Riset)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 773,
+      "id_user": 13028,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. rer.nat. Ir. A.M. Imran",
+      "nidn": "0005066302",
+      "nip": "196306051989031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a02d49ae-815b-42f2-9a45-b360071f22be",
+      "pivot": {
+        "id_kelas_kuliah": 130099,
+        "id_dosen": 773
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 130099,
+        "id_dosen": 1268
+      }
+    }
+  ]
+}

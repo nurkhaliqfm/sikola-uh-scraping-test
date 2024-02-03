@@ -1,0 +1,52 @@
+{
+  "id_prodi": 230,
+  "nama_prodi": "KONSERVASI HUTAN - S1",
+  "id_prodi_semester": 2794,
+  "idnumber_sikola": "46663.129119.230",
+  "shortname_sikola": "TA232-129119",
+  "kode_matkul": "23M01110803",
+  "nama_matkul": "Geologi dan Ilmu Tanah Hutan",
+  "nama_kelas": "Geologi dan Ilmu Tanah Hutan (B)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421443,
+      "id_user": 81470,
+      "id_prodi": 230,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RARA MUTHMAINNAH",
+      "nim": "M031231061",
+      "jalan": "JLN.TENTARA PELAJAR LR.187 NO.15  KOTA MAKASSAR  PROV. SULAWESI SELATAN 90173",
+      "rt": 3,
+      "rw": 4,
+      "dusun": null,
+      "kode_pos": "90173",
+      "nisn": "0048328328",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-04-16",
+      "telepon": "0",
+      "handphone": "081350803846",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Mampu",
+      "id_wilayah": "196006",
+      "nik": "7371055604090002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rara.mutmainnah16@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d8da70d4-d61d-4b4b-861d-6ecbabec4f2d",
+      "id_registrasi_mahasiswa_pddikti": "2b4b4112-a0f1-4195-9656-2ced10469fcc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129119,
+        "id_mahasiswa": 421443,
+        "created_at": "2024-01-31 15:04:04"
+      }
+    }
+  ],
+  "dosens": []
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 100,
+  "nama_prodi": "MANAJEMEN PERKOTAAN - S2",
+  "id_prodi_semester": 2445,
+  "idnumber_sikola": "27853.109284.100",
+  "shortname_sikola": "TA231-109284",
+  "kode_matkul": "18P05210103",
+  "nama_matkul": "Metodologi Penelitian dan Filsafat Ilmu (W)",
+  "nama_kelas": "Metodologi Penelitian dan Filsafat Ilmu (W) (MAP_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2117,
+      "id_user": 34484,
+      "id_prodi": 215,
+      "nama": "Prof. Dr. Ir. Slamet Tri Sutomo, MS.",
+      "nidn": "8928800020",
+      "nip": "8928800020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "23c0f61b-2a6f-4520-a90c-d65beca17205",
+      "pivot": {
+        "id_kelas_kuliah": 109284,
+        "id_dosen": 2117
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1752,
+      "id_user": 32969,
+      "id_prodi": 20,
+      "nama": "Mukti Ali, S.T., M.T., Ph.D",
+      "nidn": "0011127405",
+      "nip": "197412112005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5b986d1-c434-4a1d-b26c-1522dcf34f9e",
+      "pivot": {
+        "id_kelas_kuliah": 109284,
+        "id_dosen": 1752
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3679,
+      "id_user": null,
+      "id_prodi": 100,
+      "nama": "Dr. Ir. Sudirman Nganro, MSP",
+      "nidn": null,
+      "nip": "7602012811750002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109284,
+        "id_dosen": 3679
+      }
+    }
+  ]
+}

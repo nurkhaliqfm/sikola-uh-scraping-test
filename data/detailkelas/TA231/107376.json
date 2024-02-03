@@ -1,0 +1,61 @@
+{
+  "id_prodi": 215,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH DAN KOTA - S2",
+  "id_prodi_semester": 2549,
+  "idnumber_sikola": "38116.107376.215",
+  "shortname_sikola": "TA231-107376",
+  "kode_matkul": "20D10210602",
+  "nama_matkul": "Perencanaan Wisata",
+  "nama_kelas": "Perencanaan Wisata",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2023,
+      "id_user": 31625,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Ihsan, ST., MT.",
+      "nidn": "0019027105",
+      "nip": "197102191999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "236fd42c-c018-457c-a841-8218fcf4ad1d",
+      "pivot": {
+        "id_kelas_kuliah": 107376,
+        "id_dosen": 2023
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1836,
+      "id_user": 9333,
+      "id_prodi": 20,
+      "nama": "Dr. Eng. Abdul Rachman Rasyid, ST., M.Si.",
+      "nidn": "0006107409",
+      "nip": "197410062008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24941d81-8e40-4121-8cd6-448f8b0762b8",
+      "pivot": {
+        "id_kelas_kuliah": 107376,
+        "id_dosen": 1836
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2317,
+      "id_user": 45075,
+      "id_prodi": 20,
+      "nama": "Marly Valenti Patandianan, ST., MT., Ph.D",
+      "nidn": "0028037304",
+      "nip": "197303282006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e6a01767-e484-4725-92b0-f5252d5dedde",
+      "pivot": {
+        "id_kelas_kuliah": 107376,
+        "id_dosen": 2317
+      }
+    }
+  ]
+}

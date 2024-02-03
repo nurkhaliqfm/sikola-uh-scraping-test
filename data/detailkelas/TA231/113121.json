@@ -1,0 +1,101 @@
+{
+  "id_prodi": 166,
+  "nama_prodi": "TEKNOLOGI KEBUMIAN DAN LINGKUNGAN - S3",
+  "id_prodi_semester": 2503,
+  "idnumber_sikola": "34765.113121.166",
+  "shortname_sikola": "TA231-113121",
+  "kode_matkul": "18D03310303",
+  "nama_matkul": "PENUNJANG DISERTASI 1",
+  "nama_kelas": "PENUNJANG DISERTASI 1  / Yanni Kelas B",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 385662,
+      "id_user": 72336,
+      "id_prodi": 166,
+      "angkatan": 2022,
+      "nama_mahasiswa": "YANNY",
+      "nim": "D033222002",
+      "jalan": "Lorong Pantai Fitu View Pemandangan Uang Seribu No.10-11",
+      "rt": 2,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "97718",
+      "nisn": null,
+      "tempat_lahir": "Samarinda",
+      "tanggal_lahir": "1983-04-10",
+      "telepon": "09216209090",
+      "handphone": "085398522485",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Kel. Fitu",
+      "id_wilayah": "276002",
+      "nik": "6474015004830008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "yanny.st@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "037d1e42-71b3-4764-bed3-406a857eea5d",
+      "id_registrasi_mahasiswa_pddikti": "35ac2844-0ff6-4e22-a97d-fc08af062b68",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113121,
+        "id_mahasiswa": 385662,
+        "created_at": "2023-08-04 15:10:07"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1682,
+      "id_user": 28267,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Eng. Adi Maulana, ST., M.Phil.",
+      "nidn": "0028048002",
+      "nip": "198004282005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "df8b487e-bb0b-4f4f-836f-72db6b730210",
+      "pivot": {
+        "id_kelas_kuliah": 113121,
+        "id_dosen": 1682
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1329,
+      "id_user": 27414,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Musri, M.T.",
+      "nidn": "0031126344",
+      "nip": "196112311989031019",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff3ac60f-8349-40e0-a1bd-2f9d6484dfaa",
+      "pivot": {
+        "id_kelas_kuliah": 113121,
+        "id_dosen": 1329
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 113121,
+        "id_dosen": 1268
+      }
+    }
+  ]
+}

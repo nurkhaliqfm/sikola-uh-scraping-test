@@ -1,0 +1,45 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26259.125591.80",
+  "shortname_sikola": "TA232-125591",
+  "kode_matkul": "18P02212802",
+  "nama_matkul": "Strategi Pembangunan Wilayah \r\n",
+  "nama_kelas": "Strategi Pembangunan Wilayah (P) (PPW)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2166,
+      "id_user": 34530,
+      "id_prodi": 27,
+      "nama": "Prof. Dr. Deddy Tiksnawadi Tikson, M.Sc.",
+      "nidn": "8916860023",
+      "nip": "194812021981031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d89c897b-3225-4c28-9182-4e202b8ae3a0",
+      "pivot": {
+        "id_kelas_kuliah": 125591,
+        "id_dosen": 2166
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1108,
+      "id_user": 34224,
+      "id_prodi": 27,
+      "nama": "Prof. Dr.  Alwi, M.Si.",
+      "nidn": "0015016306",
+      "nip": "196310151989031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "591513fa-24d8-4415-81fe-86f6c2e703fd",
+      "pivot": {
+        "id_kelas_kuliah": 125591,
+        "id_dosen": 1108
+      }
+    }
+  ]
+}

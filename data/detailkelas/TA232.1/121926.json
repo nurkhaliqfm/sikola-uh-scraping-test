@@ -1,0 +1,29 @@
+{
+  "id_prodi": 184,
+  "nama_prodi": "PPDGS - ILMU KONSERVASI GIGI",
+  "id_prodi_semester": 2752,
+  "idnumber_sikola": "44549.121926.184",
+  "shortname_sikola": "TA232-121926",
+  "kode_matkul": "21J10530501",
+  "nama_matkul": "PERAWATAN KONSERVASI GIGI SPESIALISTIK INTERDISIPLIN 1",
+  "nama_kelas": "PERAWATAN KONSERVASI GIGI SPESIALISTIK INTERDISIPLIN 1",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1169,
+      "id_user": 34692,
+      "id_prodi": 55,
+      "nama": "drg. Nurhayati Natsir, Ph.D., Sp.KG.(K)",
+      "nidn": "0018056401",
+      "nip": "196405181991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "324dd89e-a900-498d-84b1-0128636a07fd",
+      "pivot": {
+        "id_kelas_kuliah": 121926,
+        "id_dosen": 1169
+      }
+    }
+  ]
+}

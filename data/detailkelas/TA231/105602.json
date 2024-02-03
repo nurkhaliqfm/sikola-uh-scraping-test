@@ -1,0 +1,45 @@
+{
+  "id_prodi": 216,
+  "nama_prodi": "TEKNIK PERTAMBANGAN -S2",
+  "id_prodi_semester": 2550,
+  "idnumber_sikola": "38008.105602.216",
+  "shortname_sikola": "TA231-105602",
+  "kode_matkul": "20D11211002",
+  "nama_matkul": "Eksplorasi Air Tanah",
+  "nama_kelas": "Eksplorasi Air Tanah Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1220,
+      "id_user": 22762,
+      "id_prodi": 22,
+      "nama": "Dr. Ir.  Muhammad Ramli, MT.",
+      "nidn": "0018076802",
+      "nip": "196807181993091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "822fba77-28b5-4e31-94a5-8170fdaa0d14",
+      "pivot": {
+        "id_kelas_kuliah": 105602,
+        "id_dosen": 1220
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1943,
+      "id_user": 19605,
+      "id_prodi": 22,
+      "nama": "Dr. Eng. Ir. Purwanto, ST., MT.",
+      "nidn": "0028117102",
+      "nip": "197111282005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a57ecd09-e99e-43f8-a928-5b2708438168",
+      "pivot": {
+        "id_kelas_kuliah": 105602,
+        "id_dosen": 1943
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 26,
+  "nama_prodi": "ILMU HUB. INTERNASIONAL - S1",
+  "id_prodi_semester": 2621,
+  "idnumber_sikola": "46408.129218.26",
+  "shortname_sikola": "TA232-129218",
+  "kode_matkul": "23E06120103",
+  "nama_matkul": "Bahasa Inggris Hubungan Internasional",
+  "nama_kelas": "Bahasa Inggris (Kelas B)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 865,
+      "id_user": 34290,
+      "id_prodi": 32,
+      "nama": "Prof. Dr.  Noer Jihad Saleh, MA.",
+      "nidn": "0010115816",
+      "nip": "195811101985031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "99591d26-83fe-4573-8d44-adbd3cf806e5",
+      "pivot": {
+        "id_kelas_kuliah": 129218,
+        "id_dosen": 865
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1523,
+      "id_user": 33601,
+      "id_prodi": 32,
+      "nama": "Dr.  Sukmawaty, M.Hum.",
+      "nidn": "0012106004",
+      "nip": "196010121987032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cf6d01c3-de45-4da0-8bf9-ccc305d6b39d",
+      "pivot": {
+        "id_kelas_kuliah": 129218,
+        "id_dosen": 1523
+      }
+    }
+  ]
+}

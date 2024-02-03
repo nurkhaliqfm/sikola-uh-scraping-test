@@ -1,0 +1,93 @@
+{
+  "id_prodi": 193,
+  "nama_prodi": "PETERNAKAN - S3",
+  "id_prodi_semester": 2529,
+  "idnumber_sikola": "37479.103925.193",
+  "shortname_sikola": "TA231-103925",
+  "kode_matkul": "20I01312303",
+  "nama_matkul": "TEORI DAN KEBIJAKAN PEMBANGUNAN PETERNAKAN",
+  "nama_kelas": "Teori dan Kebijakan Pembangunan Peternakan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1155,
+      "id_user": 31242,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Sitti Nurani Sirajuddin, S.Pt., M.Si.",
+      "nidn": "0021047114",
+      "nip": "197104211997022002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b76b9994-20b4-4f8d-913d-089e1b2096e9",
+      "pivot": {
+        "id_kelas_kuliah": 103925,
+        "id_dosen": 1155
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 726,
+      "id_user": 15614,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Ahmad Ramadhan Siregar, MS.",
+      "nidn": "0020026207",
+      "nip": "196202201988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eb2d4cf3-b7c4-4527-8c65-1b6768f0f690",
+      "pivot": {
+        "id_kelas_kuliah": 103925,
+        "id_dosen": 726
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 821,
+      "id_user": 36745,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Tanri Giling Rasyid, MS.",
+      "nidn": "0012115410",
+      "nip": "195411121982031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1315bebe-4579-4d1b-b52c-e67d575c9f4d",
+      "pivot": {
+        "id_kelas_kuliah": 103925,
+        "id_dosen": 821
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 830,
+      "id_user": 14893,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Hastang, M.Si., IPU",
+      "nidn": "0017096501",
+      "nip": "196509171990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "16fd05b6-1842-42fa-8aaa-0a2c4752ecd2",
+      "pivot": {
+        "id_kelas_kuliah": 103925,
+        "id_dosen": 830
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1248,
+      "id_user": 15161,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Muh. Ridwan, S.Pt., M.Si., IPU",
+      "nidn": "0016077601",
+      "nip": "197606162000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f3b0f20e-890c-420d-8079-e67a9723a54f",
+      "pivot": {
+        "id_kelas_kuliah": 103925,
+        "id_dosen": 1248
+      }
+    }
+  ]
+}

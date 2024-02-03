@@ -1,0 +1,141 @@
+{
+  "id_prodi": 178,
+  "nama_prodi": "PPDS - ILMU PENYAKIT JANTUNG DAN PEMBULUH DARAH",
+  "id_prodi_semester": 2746,
+  "idnumber_sikola": "35387.128048.178",
+  "shortname_sikola": "TA232-128048",
+  "kode_matkul": "0702C21603",
+  "nama_matkul": "KARDIOLOGI LANJUT B (STASE CHIEF KONSUL BAGIAN)",
+  "nama_kelas": "Kardiologi lanjut B smtr 7 (2018)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1819,
+      "id_user": 71696,
+      "id_prodi": 6,
+      "nama": "dr.  Akhtar Fajar Muzakkar Ali Aspar, S.Ked., Sp.JP",
+      "nidn": "0025058208",
+      "nip": "198205252008121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "246221b5-c2c7-446e-b4e7-05f0ba0c722b",
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 1819
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2899,
+      "id_user": 37720,
+      "id_prodi": 178,
+      "nama": "dr. Zaenab Djafar, SpPD, SpJP(K)., ,Mkes",
+      "nidn": null,
+      "nip": "196304251990032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 2899
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1916,
+      "id_user": 37373,
+      "id_prodi": 6,
+      "nama": "dr.  Aussie Fitriani Ghaznawie, Sp.JP",
+      "nidn": "0029058701",
+      "nip": "198705292010122005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87719894-5540-4005-aca0-1f56309e7aff",
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 1916
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3996,
+      "id_user": null,
+      "id_prodi": 178,
+      "nama": "dr. Faradillah Maricar, Sp.JP.",
+      "nidn": null,
+      "nip": "7371026911730004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 3996
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2912,
+      "id_user": 37722,
+      "id_prodi": 178,
+      "nama": "dr. Az Hafid Nashar, SpJP(K)",
+      "nidn": null,
+      "nip": "198511212019021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 2912
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2910,
+      "id_user": 37754,
+      "id_prodi": 178,
+      "nama": "dr. Almudai, Sp.PD., Sp.JP",
+      "nidn": null,
+      "nip": "9900980863",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 2910
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1868,
+      "id_user": 60851,
+      "id_prodi": 6,
+      "nama": "dr.  Andi Alief Utama Armyn, Sp.JP",
+      "nidn": "0006028601",
+      "nip": "198602062009121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "29a85810-b1d1-46d5-9f3f-ccd95a03e904",
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 1868
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2911,
+      "id_user": 56500,
+      "id_prodi": 178,
+      "nama": "dr. Yulius Patimang, SpA., SpJP(K).",
+      "nidn": null,
+      "nip": "196707292018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128048,
+        "id_dosen": 2911
+      }
+    }
+  ]
+}

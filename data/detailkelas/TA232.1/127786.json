@@ -1,0 +1,45 @@
+{
+  "id_prodi": 30,
+  "nama_prodi": "ANTROPOLOGI SOSIAL - S1",
+  "id_prodi_semester": 2625,
+  "idnumber_sikola": "11648.127786.30",
+  "shortname_sikola": "TA232-127786",
+  "kode_matkul": "102E5103",
+  "nama_matkul": "Sistem Organisasi Sosial dan Kekerabatan",
+  "nama_kelas": "Sistem Organisasi Sosial dan Kekerabatan A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 688,
+      "id_user": 34336,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Hamka, MA.",
+      "nidn": "0004116109",
+      "nip": "196111041987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c1b064b6-5b99-4adb-8a73-69a7e9c7d0e3",
+      "pivot": {
+        "id_kelas_kuliah": 127786,
+        "id_dosen": 688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2041,
+      "id_user": 28360,
+      "id_prodi": 30,
+      "nama": "Muhammad Neil, S.Sos., M.Si",
+      "nidn": "0005067202",
+      "nip": "197206052005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0501180-3cef-4039-a4f9-e1bed52b4597",
+      "pivot": {
+        "id_kelas_kuliah": 127786,
+        "id_dosen": 2041
+      }
+    }
+  ]
+}

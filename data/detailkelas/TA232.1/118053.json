@@ -1,0 +1,140 @@
+{
+  "id_prodi": 137,
+  "nama_prodi": "ARSITEKTUR - S2",
+  "id_prodi_semester": 2710,
+  "idnumber_sikola": "31808.118053.137",
+  "shortname_sikola": "TA232-118053",
+  "kode_matkul": "18D04211603",
+  "nama_matkul": "WARISAN ARSITEKTUR & SAUJANA KEPULAUAN",
+  "nama_kelas": "WARISAN ARSITEKTUR & SAUJANA KEPULAUAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427587,
+      "id_user": 86113,
+      "id_prodi": 137,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ALIA SALSABILA FARHANI",
+      "nim": "D042232003",
+      "jalan": "BTN BATU MARUPA BLOK E1/33",
+      "rt": 17,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "93232",
+      "nisn": "0",
+      "tempat_lahir": "KENDARI",
+      "tanggal_lahir": "2000-12-03",
+      "telepon": "0",
+      "handphone": "081247764400",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "RAHANDOUNA",
+      "id_wilayah": "206002",
+      "nik": "7471044312000002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86113,
+      "kode_status": "A",
+      "email": "Aliafarhani177@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118053,
+        "id_mahasiswa": 427587,
+        "created_at": "2024-01-11 22:02:38"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428106,
+      "id_user": 86633,
+      "id_prodi": 137,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ASYRAFUL ANAM AL AMANAH",
+      "nim": "D042232010",
+      "jalan": "JL. DR. WAHIDIN SUDIROHUSODO",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "92732",
+      "nisn": "-",
+      "tempat_lahir": "MANADO",
+      "tanggal_lahir": "1999-02-10",
+      "telepon": "08889193209",
+      "handphone": "085242820538",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MACANANG",
+      "id_wilayah": "190724",
+      "nik": "7308221002990002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86633,
+      "kode_status": "A",
+      "email": "alamanahasyraful@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118053,
+        "id_mahasiswa": 428106,
+        "created_at": "2024-01-25 17:47:18"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1476,
+      "id_user": 22315,
+      "id_prodi": 19,
+      "nama": "Ir.  Ria Wikantari Rosalia, M.Arch., Ph.D.",
+      "nidn": "0015096204",
+      "nip": "196109151988112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50ff00ad-143c-4540-af3d-18fea05e17e2",
+      "pivot": {
+        "id_kelas_kuliah": 118053,
+        "id_dosen": 1476
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1259,
+      "id_user": 29024,
+      "id_prodi": 19,
+      "nama": "Dr. Mohammad Mochsen Sir, ST., MT.",
+      "nidn": "0007046902",
+      "nip": "196904071996031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d4059066-ecd9-4849-b476-3af5f719b11b",
+      "pivot": {
+        "id_kelas_kuliah": 118053,
+        "id_dosen": 1259
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1456,
+      "id_user": 15189,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Abdul Mufti Radja, ST., MT.",
+      "nidn": "0004036907",
+      "nip": "196903041999031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0113b15-d2f1-42b1-9b3a-9733f0da9032",
+      "pivot": {
+        "id_kelas_kuliah": 118053,
+        "id_dosen": 1456
+      }
+    }
+  ]
+}

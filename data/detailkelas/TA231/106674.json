@@ -1,0 +1,61 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2474,
+  "idnumber_sikola": "31492.106674.132",
+  "shortname_sikola": "TA231-106674",
+  "kode_matkul": "18D03214602",
+  "nama_matkul": "ISYARAT DAN SISTEM",
+  "nama_kelas": "Teknik Kendali",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1484,
+      "id_user": 9435,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Intan Sari Areni, S.T., MT.",
+      "nidn": "0003027508",
+      "nip": "197502032000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d2d64e8-56cf-40a6-ab07-bc218bdbaf65",
+      "pivot": {
+        "id_kelas_kuliah": 106674,
+        "id_dosen": 1484
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1659,
+      "id_user": 11683,
+      "id_prodi": 17,
+      "nama": "Dr. A. Ejah Umraeni Salam, ST., MT.",
+      "nidn": "0008097201",
+      "nip": "197209081997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "88086c3f-c6fa-4f38-a39f-9dd56f2be270",
+      "pivot": {
+        "id_kelas_kuliah": 106674,
+        "id_dosen": 1659
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 106674,
+        "id_dosen": 813
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 133,
+  "nama_prodi": "TEKNIK PERENCANAAN PRASARANA - S2",
+  "id_prodi_semester": 2475,
+  "idnumber_sikola": "31546.110462.133",
+  "shortname_sikola": "TA231-110462",
+  "kode_matkul": "18P08211002",
+  "nama_matkul": "Perencanaan Prasarana Transportasi\r\n",
+  "nama_kelas": "Perencanaan Prasarana Transportasi (P) (TPP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 705,
+      "id_user": 32364,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ing Herman Parung, M.Eng.",
+      "nidn": "0029076202",
+      "nip": "196207291987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8d4698bc-3ea9-43d4-b60b-31f62a041dc5",
+      "pivot": {
+        "id_kelas_kuliah": 110462,
+        "id_dosen": 705
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3461,
+      "id_user": 60404,
+      "id_prodi": 10,
+      "nama": "Muhammad Akbar Walenna, S.T., M.Sc",
+      "nidn": "0016039008",
+      "nip": "199003162021083001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "ea903c3c-37ce-47b2-bef7-929aa8d5a94b",
+      "pivot": {
+        "id_kelas_kuliah": 110462,
+        "id_dosen": 3461
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3588,
+      "id_user": 79772,
+      "id_prodi": 133,
+      "nama": "Dr. Ir. Lucky Caroles, S.T., M.T",
+      "nidn": "8933050022",
+      "nip": "197704292022065001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "fe4f6bca-6ece-4762-be3a-24a629e56888",
+      "pivot": {
+        "id_kelas_kuliah": 110462,
+        "id_dosen": 3588
+      }
+    }
+  ]
+}

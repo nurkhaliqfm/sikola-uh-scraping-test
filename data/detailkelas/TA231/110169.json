@@ -1,0 +1,45 @@
+{
+  "id_prodi": 8,
+  "nama_prodi": "KEPERAWATAN - S1",
+  "id_prodi_semester": 2373,
+  "idnumber_sikola": "44635.110169.8",
+  "shortname_sikola": "TA231-110169",
+  "kode_matkul": "23U01110302",
+  "nama_matkul": "Pendidikan Agama Protestan",
+  "nama_kelas": "R1 Pendidikan Agama Protestan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3923,
+      "id_user": 71677,
+      "id_prodi": 142,
+      "nama": "Jehezkiel Kutana Akakib, S.Th., M.M.",
+      "nidn": null,
+      "nip": "7210020401720001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110169,
+        "id_dosen": 3923
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3911,
+      "id_user": 71673,
+      "id_prodi": 142,
+      "nama": "Pdt. Lukas Dayung, S.TH",
+      "nidn": null,
+      "nip": "7371111112720019",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 110169,
+        "id_dosen": 3911
+      }
+    }
+  ]
+}

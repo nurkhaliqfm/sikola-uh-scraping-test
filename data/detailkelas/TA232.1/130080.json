@@ -1,0 +1,101 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2663,
+  "idnumber_sikola": "26807.130080.86",
+  "shortname_sikola": "TA232-130080",
+  "kode_matkul": "18B01310602",
+  "nama_matkul": "HUKUM PERDATA KONTEMPORER\r\n",
+  "nama_kelas": "KLS A MKS SEM II PERDATA",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 414234,
+      "id_user": 80186,
+      "id_prodi": 86,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANJAR ALATAS SASMITA",
+      "nim": "B013231016",
+      "jalan": "JALAN FAISAL 18 NO.4",
+      "rt": 8,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "PUDEREBBAE",
+      "tanggal_lahir": "1998-11-28",
+      "telepon": "085255929923",
+      "handphone": "082249501800",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Banta-bantaeng",
+      "id_wilayah": "196013",
+      "nik": "7308242811980001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "alatasanjar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5ba4d1d6-e81f-426f-8fcc-48903a404615",
+      "id_registrasi_mahasiswa_pddikti": "7f25ef0b-f238-46e7-b95d-83c598280dd4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 130080,
+        "id_mahasiswa": 414234,
+        "created_at": "2024-01-31 20:25:46"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 795,
+      "id_user": 34093,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Ahmadi Miru, SH., MH.",
+      "nidn": "0007066101",
+      "nip": "196106071986011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4301dc1a-6b81-4044-a701-dcce1e0a7aa2",
+      "pivot": {
+        "id_kelas_kuliah": 130080,
+        "id_dosen": 795
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1109,
+      "id_user": 34246,
+      "id_prodi": 5,
+      "nama": "Dr. Nurfaidah Said, SH., M.Hum., M.Si.",
+      "nidn": "0021066003",
+      "nip": "196006211986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cde95cd3-e118-47c3-899f-7a69d6555bab",
+      "pivot": {
+        "id_kelas_kuliah": 130080,
+        "id_dosen": 1109
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2195,
+      "id_user": 34088,
+      "id_prodi": 5,
+      "nama": "Dr.  Padma D. Liman, SH., MH.",
+      "nidn": "0005125901",
+      "nip": "195912051987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1abaa641-79c1-428f-bde1-adc229eb9897",
+      "pivot": {
+        "id_kelas_kuliah": 130080,
+        "id_dosen": 2195
+      }
+    }
+  ]
+}

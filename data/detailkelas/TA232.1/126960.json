@@ -1,0 +1,61 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30406.126960.122",
+  "shortname_sikola": "TA232-126960",
+  "kode_matkul": "0404C20801",
+  "nama_matkul": "HEPATOGASTROENTEROLOGI II",
+  "nama_kelas": "Hepatogastroenterologi II Tahun 2017",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2973,
+      "id_user": null,
+      "id_prodi": 122,
+      "nama": "dr. H. Ibrahim Abd samad, SpPK(K)",
+      "nidn": null,
+      "nip": "130264073",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126960,
+        "id_dosen": 2973
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2961,
+      "id_user": 58345,
+      "id_prodi": 122,
+      "nama": "dr. Mutmainnah, Sp.PK(K)",
+      "nidn": null,
+      "nip": "196501052018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126960,
+        "id_dosen": 2961
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2983,
+      "id_user": null,
+      "id_prodi": 122,
+      "nama": "dr. Aripa Amril, SpPK",
+      "nidn": null,
+      "nip": "196212011996032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126960,
+        "id_dosen": 2983
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "44642.111285.19",
+  "shortname_sikola": "TA231-111285",
+  "kode_matkul": "23U01111102",
+  "nama_matkul": "Bahasa Inggris",
+  "nama_kelas": "English Language",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3955,
+      "id_user": 74170,
+      "id_prodi": 142,
+      "nama": "Khaeruddin, M.Hum., Ph.D",
+      "nidn": null,
+      "nip": "7301013105870001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 111285,
+        "id_dosen": 3955
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1569,
+      "id_user": 24281,
+      "id_prodi": 32,
+      "nama": "Dra. Francisca E. Kapoyos, M.Hum.",
+      "nidn": "9990432109",
+      "nip": "195505021987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fa573654-555d-4619-a899-59fd96beed14",
+      "pivot": {
+        "id_kelas_kuliah": 111285,
+        "id_dosen": 1569
+      }
+    }
+  ]
+}

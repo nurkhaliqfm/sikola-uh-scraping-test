@@ -1,0 +1,45 @@
+{
+  "id_prodi": 218,
+  "nama_prodi": "TEKNOLOGI PRODUKSI TERNAK - D4",
+  "id_prodi_semester": 2552,
+  "idnumber_sikola": "44641.105673.218",
+  "shortname_sikola": "TA231-105673",
+  "kode_matkul": "23U01110902",
+  "nama_matkul": "Bahasa Indonesia",
+  "nama_kelas": "Bahasa Indonesia",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3067,
+      "id_user": 36613,
+      "id_prodi": 31,
+      "nama": "Indarwati, S.S., M.Hum",
+      "nidn": null,
+      "nip": "7306085001850016",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105673,
+        "id_dosen": 3067
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3441,
+      "id_user": 58390,
+      "id_prodi": 219,
+      "nama": "Drs. Abdul Latief, M.Si",
+      "nidn": null,
+      "nip": "7314033112670009",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105673,
+        "id_dosen": 3441
+      }
+    }
+  ]
+}

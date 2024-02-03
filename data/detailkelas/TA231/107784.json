@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34894.107784.168",
+  "shortname_sikola": "TA231-107784",
+  "kode_matkul": "18D04320104",
+  "nama_matkul": "PENELITIAN DAN SEMINAR DISERTASI I",
+  "nama_kelas": "Penelitian dan Seminar Disertasi I ( Nenny)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117082,
+      "id_user": 28614,
+      "id_prodi": 168,
+      "angkatan": 2019,
+      "nama_mahasiswa": "NENNY",
+      "nim": "D043191006",
+      "jalan": "The Elysium walk no 18",
+      "rt": 3,
+      "rw": 4,
+      "dusun": "-",
+      "kode_pos": "90223",
+      "nisn": null,
+      "tempat_lahir": "Ujung Pandang",
+      "tanggal_lahir": "1977-03-26",
+      "telepon": "082290353497",
+      "handphone": "082290353497",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Tanjung Merdeka",
+      "id_wilayah": "196003",
+      "nik": "7371096603770005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nenny2019pajak@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "80afc919-8c9e-4d5f-b48b-24f801d32115",
+      "id_registrasi_mahasiswa_pddikti": "fc0bd853-8ca9-4a38-81d2-327d6240c4d4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107784,
+        "id_mahasiswa": 117082,
+        "created_at": "2023-08-15 09:30:12"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 824,
+      "id_user": 34176,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir  Luther Sule, MT.",
+      "nidn": "0027085601",
+      "nip": "195608271985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "853d14fc-aa4f-44a7-b659-c502cdc6ff15",
+      "pivot": {
+        "id_kelas_kuliah": 107784,
+        "id_dosen": 824
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1479,
+      "id_user": 31590,
+      "id_prodi": 16,
+      "nama": "Rahimuddin, ST.,MT.,Ph.D.",
+      "nidn": "0025087101",
+      "nip": "197108251999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2d63bd63-658b-4475-8652-753278c1d21b",
+      "pivot": {
+        "id_kelas_kuliah": 107784,
+        "id_dosen": 1479
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1579,
+      "id_user": 33555,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Eng Suandar Baso, S.T., MT.",
+      "nidn": "0006027301",
+      "nip": "197302062000121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cdbebdf1-79ac-43e9-b3f0-4daeb0f4267a",
+      "pivot": {
+        "id_kelas_kuliah": 107784,
+        "id_dosen": 1579
+      }
+    }
+  ]
+}

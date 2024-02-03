@@ -1,0 +1,85 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2617,
+  "idnumber_sikola": "47960.119669.21",
+  "shortname_sikola": "TA232-119669",
+  "kode_matkul": "23D06131002",
+  "nama_matkul": "Geologi Ekonomi",
+  "nama_kelas": "Geologi Ekonomi Kelas B",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157418,
+      "id_user": 53937,
+      "id_prodi": 21,
+      "angkatan": 2021,
+      "nama_mahasiswa": "DWITA SAFIRAH",
+      "nim": "D061211076",
+      "jalan": "DESA PAO KEC. TOMBOLO PAO KAB. GOWA PROV. SULAWESI SELATAN",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "PAO",
+      "kode_pos": "92174",
+      "nisn": "D061211076",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-10-26",
+      "telepon": "0",
+      "handphone": "081242637123",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PAO",
+      "id_wilayah": "190312",
+      "nik": "7306106610030003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "dwitasafirahh@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b8d06992-825b-4937-a60a-a422560d227d",
+      "id_registrasi_mahasiswa_pddikti": "f4ab79be-70b5-4ea7-bf2b-55bba8abe2f5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119669,
+        "id_mahasiswa": 157418,
+        "created_at": "2024-01-19 15:14:35"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1329,
+      "id_user": 27414,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Musri, M.T.",
+      "nidn": "0031126344",
+      "nip": "196112311989031019",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff3ac60f-8349-40e0-a1bd-2f9d6484dfaa",
+      "pivot": {
+        "id_kelas_kuliah": 119669,
+        "id_dosen": 1329
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 806,
+      "id_user": 13031,
+      "id_prodi": 21,
+      "nama": "Dr. Ir. Kaharuddin, M.T.",
+      "nidn": "8997370023",
+      "nip": "195604211986091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b1f22e87-63b5-437a-8dc9-18c277a473c0",
+      "pivot": {
+        "id_kelas_kuliah": 119669,
+        "id_dosen": 806
+      }
+    }
+  ]
+}

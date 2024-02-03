@@ -1,0 +1,125 @@
+{
+  "id_prodi": 74,
+  "nama_prodi": "PROG. PROFESI APOTEKER",
+  "id_prodi_semester": 2652,
+  "idnumber_sikola": "43182.129207.74",
+  "shortname_sikola": "TA232-129207",
+  "kode_matkul": "22N01410202",
+  "nama_matkul": "Compounding and Dispensing",
+  "nama_kelas": "Compounding and Dispensing D",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1083,
+      "id_user": 21515,
+      "id_prodi": 73,
+      "nama": "Prof. Dr. Hj. Latifah Rahman, DESS., Apt.",
+      "nidn": "0015065708",
+      "nip": "195706151984032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1e2dd303-e298-4be9-aafd-97bd99c07054",
+      "pivot": {
+        "id_kelas_kuliah": 129207,
+        "id_dosen": 1083
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1238,
+      "id_user": 21601,
+      "id_prodi": 73,
+      "nama": "Dr.  A l i y a h, M.Si.,Apt.",
+      "nidn": "8916180023",
+      "nip": "195707041986032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e8b3f892-627e-4de3-9aa5-f6a2e036de0f",
+      "pivot": {
+        "id_kelas_kuliah": 129207,
+        "id_dosen": 1238
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2388,
+      "id_user": 48148,
+      "id_prodi": 73,
+      "nama": "Rangga Meidianto Asri, S.Si., Apt., M.Pharm.Sc",
+      "nidn": "0018058901",
+      "nip": "198905182014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78d9cdae-d41a-4174-9ce8-98ce210f7008",
+      "pivot": {
+        "id_kelas_kuliah": 129207,
+        "id_dosen": 2388
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3824,
+      "id_user": 69478,
+      "id_prodi": 73,
+      "nama": "Dr Ayun Dwi Astuti, S.Si., Apt.",
+      "nidn": "0031039309",
+      "nip": "199303312022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "c9616cb7-9339-4829-91bb-b177968ba363",
+      "pivot": {
+        "id_kelas_kuliah": 129207,
+        "id_dosen": 3824
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 964,
+      "id_user": 30849,
+      "id_prodi": 73,
+      "nama": "Prof. Dr. Sartini, M.Si., Apt.",
+      "nidn": "0011116114",
+      "nip": "196111111987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a3a8e48b-61dc-4e0c-ae2e-c54234bc4eaa",
+      "pivot": {
+        "id_kelas_kuliah": 129207,
+        "id_dosen": 964
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2055,
+      "id_user": 20599,
+      "id_prodi": 73,
+      "nama": "Nana Juniarti Natsir Djide, S.Si.,M.Si, Apt.",
+      "nidn": "0002069001",
+      "nip": "199006022015042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f3d92048-0f5b-45c8-a61a-210da10f176c",
+      "pivot": {
+        "id_kelas_kuliah": 129207,
+        "id_dosen": 2055
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3825,
+      "id_user": 69383,
+      "id_prodi": 73,
+      "nama": "Afdil Viqar Viqhi, S.Si., M.Si., Apt.",
+      "nidn": "0005039404",
+      "nip": "199403052022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "8b3ee7b5-60d6-4a16-a660-b0d536bba52b",
+      "pivot": {
+        "id_kelas_kuliah": 129207,
+        "id_dosen": 3825
+      }
+    }
+  ]
+}

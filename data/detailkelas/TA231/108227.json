@@ -1,0 +1,61 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2427,
+  "idnumber_sikola": "26328.108227.80",
+  "shortname_sikola": "TA231-108227",
+  "kode_matkul": "18P02215202",
+  "nama_matkul": "Good Governance",
+  "nama_kelas": "Good Governance (P) (PPW/Otoda)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 952,
+      "id_user": 10479,
+      "id_prodi": 25,
+      "nama": "Dr. A.M. Rusli, M.Si.",
+      "nidn": "0027076413",
+      "nip": "196407271991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "99085551-9b4f-462a-8719-12966264f63a",
+      "pivot": {
+        "id_kelas_kuliah": 108227,
+        "id_dosen": 952
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2519,
+      "id_user": 11866,
+      "id_prodi": 80,
+      "nama": "Dr. Kurniaty, S.E., M.Si",
+      "nidn": "0901058005",
+      "nip": "198005012019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87653b30-453f-44d8-a24c-9bd90c2d18ec",
+      "pivot": {
+        "id_kelas_kuliah": 108227,
+        "id_dosen": 2519
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3463,
+      "id_user": null,
+      "id_prodi": 215,
+      "nama": "Dr. Jumiaty Nurung, S.P., M.Si",
+      "nidn": null,
+      "nip": "7371144609740009",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 108227,
+        "id_dosen": 3463
+      }
+    }
+  ]
+}

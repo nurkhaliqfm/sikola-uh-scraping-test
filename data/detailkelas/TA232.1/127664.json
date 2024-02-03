@@ -1,0 +1,101 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "25801.127664.76",
+  "shortname_sikola": "TA232-127664",
+  "kode_matkul": "18P01312403",
+  "nama_matkul": "Sosiologi Ekonomi",
+  "nama_kelas": "Sosiologi Ekonomi (S3 Ptn-Sem II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421724,
+      "id_user": 75808,
+      "id_prodi": 76,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RATMI ROSILAWATI NAZIR",
+      "nim": "P013231002",
+      "jalan": "JL.KH.WAHID HASYIM NO.143",
+      "rt": 10,
+      "rw": 25,
+      "dusun": null,
+      "kode_pos": "94711",
+      "nisn": null,
+      "tempat_lahir": "LUWUK",
+      "tanggal_lahir": "1977-02-24",
+      "telepon": "0",
+      "handphone": "085254507704",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Kec. Luwuk",
+      "id_wilayah": "180405",
+      "nik": "7201 0464 0277 0",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ratmirosilawati@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "413842f5-49b5-421c-b11f-5c80f58c8ed8",
+      "id_registrasi_mahasiswa_pddikti": "669840a4-ac46-4292-9661-f0a9ac45fa8b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127664,
+        "id_mahasiswa": 421724,
+        "created_at": "2024-01-16 15:15:37"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 708,
+      "id_user": 25455,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir.  Darmawan, M.Sc.",
+      "nidn": "0006066301",
+      "nip": "196306061988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4986613c-e075-4352-b8fb-b986f2715bb0",
+      "pivot": {
+        "id_kelas_kuliah": 127664,
+        "id_dosen": 708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 971,
+      "id_user": 23186,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Muslim, M.Sc.",
+      "nidn": "0016066801",
+      "nip": "196806161992031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d194bda0-3b4b-4f1a-9f21-8090493844bd",
+      "pivot": {
+        "id_kelas_kuliah": 127664,
+        "id_dosen": 971
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1663,
+      "id_user": 20999,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. A. Nixia Tenriawaru, SP., M.Si.",
+      "nidn": "0007117201",
+      "nip": "197211071997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "19003e3b-e7ce-4fd6-b6d4-40bd89c513ea",
+      "pivot": {
+        "id_kelas_kuliah": 127664,
+        "id_dosen": 1663
+      }
+    }
+  ]
+}

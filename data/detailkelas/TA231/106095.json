@@ -1,0 +1,45 @@
+{
+  "id_prodi": 92,
+  "nama_prodi": "ILMU KIMIA - S3",
+  "id_prodi_semester": 2437,
+  "idnumber_sikola": "37349.106095.92",
+  "shortname_sikola": "TA231-106095",
+  "kode_matkul": "18H01320105",
+  "nama_matkul": "Jurnal Internasional 1",
+  "nama_kelas": "Jurnal Internasional 1 (Reg. Kelas C)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 783,
+      "id_user": 33014,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Nunuk Hariani Soekamto, MS.",
+      "nidn": "0031126163",
+      "nip": "196012151987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b01e7481-9b77-48b8-8df1-8dba32fe6034",
+      "pivot": {
+        "id_kelas_kuliah": 106095,
+        "id_dosen": 783
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1522,
+      "id_user": 30923,
+      "id_prodi": 49,
+      "nama": "Prof. Dra. Paulina Taba,  M.Phil., Ph.D",
+      "nidn": "0015115701",
+      "nip": "195711151988102001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c9e6947-6bda-46fa-ae33-349e20ac755e",
+      "pivot": {
+        "id_kelas_kuliah": 106095,
+        "id_dosen": 1522
+      }
+    }
+  ]
+}

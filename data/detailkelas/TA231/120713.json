@@ -1,0 +1,45 @@
+{
+  "id_prodi": 20,
+  "nama_prodi": "TEKNIK PERENCANAAN WILAYAH KOTA - S1",
+  "id_prodi_semester": 2385,
+  "idnumber_sikola": "47496.120713.20",
+  "shortname_sikola": "TA231-120713",
+  "kode_matkul": "23D10130302",
+  "nama_matkul": "Kuliah Kerja Lapangan",
+  "nama_kelas": "Kuliah Kerja Lapangan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1836,
+      "id_user": 9333,
+      "id_prodi": 20,
+      "nama": "Dr. Eng. Abdul Rachman Rasyid, ST., M.Si.",
+      "nidn": "0006107409",
+      "nip": "197410062008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24941d81-8e40-4121-8cd6-448f8b0762b8",
+      "pivot": {
+        "id_kelas_kuliah": 120713,
+        "id_dosen": 1836
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1972,
+      "id_user": 45180,
+      "id_prodi": 20,
+      "nama": "Sri Aliah Ekawati, ST., MT",
+      "nidn": "0024088502",
+      "nip": "198508242012122004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "564b69f8-2e4e-4c3a-a6c9-7d86c2afddcb",
+      "pivot": {
+        "id_kelas_kuliah": 120713,
+        "id_dosen": 1972
+      }
+    }
+  ]
+}

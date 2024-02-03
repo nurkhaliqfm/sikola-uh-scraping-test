@@ -1,0 +1,85 @@
+{
+  "id_prodi": 132,
+  "nama_prodi": "TEKNIK ELEKTRO - S2",
+  "id_prodi_semester": 2705,
+  "idnumber_sikola": "31464.126478.132",
+  "shortname_sikola": "TA232-126478",
+  "kode_matkul": "18D03211802",
+  "nama_matkul": "ELEKTRONIKA DAYA LANJUT",
+  "nama_kelas": "Teknik Energi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427856,
+      "id_user": 86383,
+      "id_prodi": 132,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SAHRUL",
+      "nim": "D032232002",
+      "jalan": "Enrekang",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Bo'di",
+      "kode_pos": "91753",
+      "nisn": "9988217534",
+      "tempat_lahir": "BO'DI",
+      "tanggal_lahir": "1998-11-30",
+      "telepon": "0",
+      "handphone": "081329687872",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "DESA PERANGIAN",
+      "id_wilayah": "191603",
+      "nik": "7316033011980002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86383,
+      "kode_status": "A",
+      "email": "sahrul301198@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126478,
+        "id_mahasiswa": 427856,
+        "created_at": "2024-01-27 23:29:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1280,
+      "id_user": 16426,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Indar Chaerah Gunadin, ST., MT.",
+      "nidn": "0018117301",
+      "nip": "197311181998031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "459be265-d348-4a8f-8f58-38fb2ce2a38d",
+      "pivot": {
+        "id_kelas_kuliah": 126478,
+        "id_dosen": 1280
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1609,
+      "id_user": 32004,
+      "id_prodi": 17,
+      "nama": "Prof. Dr.-Ing. Ir. Faizal Arya Samman, ST, MT, IPU, AseanEng, ACPE",
+      "nidn": "0005067507",
+      "nip": "197506052002121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "06214b1e-7d41-4708-982d-94adb48684de",
+      "pivot": {
+        "id_kelas_kuliah": 126478,
+        "id_dosen": 1609
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 25,
+  "nama_prodi": "ILMU PEMERINTAHAN - S1",
+  "id_prodi_semester": 2389,
+  "idnumber_sikola": "10201.109415.25",
+  "shortname_sikola": "TA231-109415",
+  "kode_matkul": "102 E4103",
+  "nama_matkul": "Dasar-Dasar Logika",
+  "nama_kelas": "Dasar-dasar Logika Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1154,
+      "id_user": 34099,
+      "id_prodi": 29,
+      "nama": "Dr. Muh. Iqbal Latief, M.Si",
+      "nidn": "0016106505",
+      "nip": "196510161990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7059a033-138f-4d05-8198-4f834adf3af7",
+      "pivot": {
+        "id_kelas_kuliah": 109415,
+        "id_dosen": 1154
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1883,
+      "id_user": 47462,
+      "id_prodi": 29,
+      "nama": "Ria Renita Abbas, S.Sos.,M.Si.",
+      "nidn": "0016057605",
+      "nip": "197605162009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "04f90469-8d0a-477e-aa60-e54a7b24f3c3",
+      "pivot": {
+        "id_kelas_kuliah": 109415,
+        "id_dosen": 1883
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2916,
+      "id_user": 30661,
+      "id_prodi": 29,
+      "nama": "Arini Enar Lestari AR, M.Sos",
+      "nidn": "0030019203",
+      "nip": "199201302018032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0be5873b-43a2-42ac-ba66-14fb5f39f14d",
+      "pivot": {
+        "id_kelas_kuliah": 109415,
+        "id_dosen": 2916
+      }
+    }
+  ]
+}

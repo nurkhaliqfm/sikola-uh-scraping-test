@@ -1,0 +1,45 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2769,
+  "idnumber_sikola": "45398.125098.202",
+  "shortname_sikola": "TA232-125098",
+  "kode_matkul": "23H08120203",
+  "nama_matkul": "Metode Statistika",
+  "nama_kelas": "Metode Statistika B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3193,
+      "id_user": 45060,
+      "id_prodi": 45,
+      "nama": "Nur Rohmah Oktaviani Putri, S.Si., M.Si",
+      "nidn": "8999600020",
+      "nip": "199210062020016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "be2c29e1-dda3-4cc9-92f4-68de9d2669bb",
+      "pivot": {
+        "id_kelas_kuliah": 125098,
+        "id_dosen": 3193
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3800,
+      "id_user": 60693,
+      "id_prodi": 202,
+      "nama": "Illuminata Wynnie, , S.Si., M.Si.",
+      "nidn": "0001119503",
+      "nip": "199511012022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "69158d2f-44ac-450a-9f3d-ed29af5cac8f",
+      "pivot": {
+        "id_kelas_kuliah": 125098,
+        "id_dosen": 3800
+      }
+    }
+  ]
+}

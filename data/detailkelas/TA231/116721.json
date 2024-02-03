@@ -1,0 +1,45 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "28145.116721.102",
+  "shortname_sikola": "TA231-116721",
+  "kode_matkul": "18P06220302",
+  "nama_matkul": "Fisiologi Kerja dan Olahraga",
+  "nama_kelas": "Fisiologi Kerja dan Olahraga (Fisio-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1473,
+      "id_user": 34247,
+      "id_prodi": 6,
+      "nama": "Dr.  M. Aryadi Arsyad, MBM.Sc.",
+      "nidn": "0020087604",
+      "nip": "197608202002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c65e2eba-3472-4f7f-95ab-d1cc3d565dd8",
+      "pivot": {
+        "id_kelas_kuliah": 116721,
+        "id_dosen": 1473
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1184,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Ilhamjaya Pattelongi, M.Kes.",
+      "nidn": "9990132192",
+      "nip": "195801281989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c04b5837-e3a3-4743-94b4-6df10a3b68d6",
+      "pivot": {
+        "id_kelas_kuliah": 116721,
+        "id_dosen": 1184
+      }
+    }
+  ]
+}

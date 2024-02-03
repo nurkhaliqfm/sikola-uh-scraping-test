@@ -1,0 +1,61 @@
+{
+  "id_prodi": 30,
+  "nama_prodi": "ANTROPOLOGI SOSIAL - S1",
+  "id_prodi_semester": 2394,
+  "idnumber_sikola": "11652.106774.30",
+  "shortname_sikola": "TA231-106774",
+  "kode_matkul": "208E5103",
+  "nama_matkul": "Antropologi Arsitektur",
+  "nama_kelas": "Antropologi Arsitektur",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2474,
+      "id_user": 13530,
+      "id_prodi": 30,
+      "nama": "Dr. Ahmad Ismail, S.Sos., M.Si.",
+      "nidn": "0020068704",
+      "nip": "198706202021073001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3101594f-880d-4256-a279-9cc16e4d1803",
+      "pivot": {
+        "id_kelas_kuliah": 106774,
+        "id_dosen": 2474
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1291,
+      "id_user": 47683,
+      "id_prodi": 30,
+      "nama": "Dra. Nurhadelia, M.Si.",
+      "nidn": "0013096005",
+      "nip": "196009131987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "99ecec10-6474-431a-9cce-fe0470b1fda5",
+      "pivot": {
+        "id_kelas_kuliah": 106774,
+        "id_dosen": 1291
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3817,
+      "id_user": 73667,
+      "id_prodi": 30,
+      "nama": "Abdul Hafez Assad, S.Sos., M.Si.",
+      "nidn": null,
+      "nip": "7371132101830006",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 106774,
+        "id_dosen": 3817
+      }
+    }
+  ]
+}

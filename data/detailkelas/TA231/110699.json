@@ -1,0 +1,85 @@
+{
+  "id_prodi": 180,
+  "nama_prodi": "PPDS - PULMONOLOGI",
+  "id_prodi_semester": 2517,
+  "idnumber_sikola": "35481.110699.180",
+  "shortname_sikola": "TA231-110699",
+  "kode_matkul": "0601C11804",
+  "nama_matkul": "Pulmonologi Intervensional Lanjut\r\n",
+  "nama_kelas": "Pulmonologi Intervensional Lanjut 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 154923,
+      "id_user": 51284,
+      "id_prodi": 180,
+      "angkatan": 2021,
+      "nama_mahasiswa": "M. FAJAR",
+      "nim": "C185211004",
+      "jalan": "JL. BIRING ROMANG NO 17A",
+      "rt": 1,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90243",
+      "nisn": "C185211004",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1987-10-04",
+      "telepon": "0",
+      "handphone": "081314889189",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KAPASA",
+      "id_wilayah": "196012",
+      "nik": "7371140410870013",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 51284,
+      "kode_status": "A",
+      "email": "pamewafajar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "04bfc003-777d-4587-987c-12b5ea061f64",
+      "id_registrasi_mahasiswa_pddikti": "a9aa83b2-f563-441c-9001-b962623f36e9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110699,
+        "id_mahasiswa": 154923,
+        "created_at": "2023-08-04 20:34:30"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2672,
+      "id_user": 48145,
+      "id_prodi": 180,
+      "nama": "dr. Harry Akza Putrawan, Sp.P.",
+      "nidn": "0022098808",
+      "nip": "198809222020121007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "162269f2-4c6e-4cbd-b315-e584914f8d8c",
+      "pivot": {
+        "id_kelas_kuliah": 110699,
+        "id_dosen": 2672
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1783,
+      "id_user": 18560,
+      "id_prodi": 6,
+      "nama": "dr.  Arif Santoso, Sp.P(K)., Ph.D., FAPSR.",
+      "nidn": "0015077712",
+      "nip": "197707152006041012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f485eac-45f4-4c64-8d2e-d68e62b6acbe",
+      "pivot": {
+        "id_kelas_kuliah": 110699,
+        "id_dosen": 1783
+      }
+    }
+  ]
+}

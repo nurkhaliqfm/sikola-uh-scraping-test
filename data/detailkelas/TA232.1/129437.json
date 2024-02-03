@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28157.129437.102",
+  "shortname_sikola": "TA232-129437",
+  "kode_matkul": "18P06212202",
+  "nama_matkul": "Immunologi dan Serologi",
+  "nama_kelas": "Immunologi dan Serologi (Mikro-Afirmasi)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 697,
+      "id_user": 19833,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Mochammad Hatta, Ph.D., Sp.MK(K)",
+      "nidn": "0014045703",
+      "nip": "195704161985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34a19bf1-32eb-4cbc-9ef2-b89416188fd0",
+      "pivot": {
+        "id_kelas_kuliah": 129437,
+        "id_dosen": 697
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1470,
+      "id_user": 34331,
+      "id_prodi": 6,
+      "nama": "dr. Firdaus Hamid, S.Ked., Ph.D.",
+      "nidn": "0031127705",
+      "nip": "197712312002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e02f8344-eef9-4a50-abe3-b6fdebf088f9",
+      "pivot": {
+        "id_kelas_kuliah": 129437,
+        "id_dosen": 1470
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1293,
+      "id_user": 19104,
+      "id_prodi": 6,
+      "nama": "dr. St. Wahyuni M., Ph.D.",
+      "nidn": "0019126603",
+      "nip": "196612191996032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "263ca2b3-8260-40d6-bb48-3ef36144b2e9",
+      "pivot": {
+        "id_kelas_kuliah": 129437,
+        "id_dosen": 1293
+      }
+    }
+  ]
+}

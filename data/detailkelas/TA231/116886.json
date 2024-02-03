@@ -1,0 +1,85 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "19646.116886.51",
+  "shortname_sikola": "TA231-116886",
+  "kode_matkul": "200I1101",
+  "nama_matkul": "EKSTRAKURIKULER",
+  "nama_kelas": "Ekstrakurikuler",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 65471,
+      "id_user": 30774,
+      "id_prodi": 51,
+      "angkatan": 2017,
+      "nama_mahasiswa": "MUHAMMAD FAHMI YUSUF",
+      "nim": "I011171501",
+      "jalan": "Jalan kelinci",
+      "rt": 5,
+      "rw": 5,
+      "dusun": "Lalle baru",
+      "kode_pos": "91221",
+      "nisn": "40305079",
+      "tempat_lahir": "Sidrap",
+      "tanggal_lahir": "1999-10-12",
+      "telepon": "0",
+      "handphone": "082313223266",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Maccorawalie",
+      "id_wilayah": "191404",
+      "nik": "7315041210990005",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 30774,
+      "kode_status": "A",
+      "email": "12fahmiyusuf@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 116886,
+        "id_mahasiswa": 65471,
+        "created_at": "2023-08-30 17:46:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3804,
+      "id_user": 60771,
+      "id_prodi": 51,
+      "nama": "Indrawirawan, S.Pt, M.Sc",
+      "nidn": "0012069210",
+      "nip": "199206122022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "5c721525-f799-444a-83fe-b73114ce16ef",
+      "pivot": {
+        "id_kelas_kuliah": 116886,
+        "id_dosen": 3804
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3721,
+      "id_user": 60687,
+      "id_prodi": 51,
+      "nama": "Aulia Uswa Noor Khasanah, S.Pt., M.Pt",
+      "nidn": "0026079210",
+      "nip": "199207262022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "9f21a982-dab8-4402-8e28-cb5e706e8f11",
+      "pivot": {
+        "id_kelas_kuliah": 116886,
+        "id_dosen": 3721
+      }
+    }
+  ]
+}

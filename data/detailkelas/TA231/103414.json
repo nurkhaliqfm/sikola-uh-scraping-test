@@ -1,0 +1,45 @@
+{
+  "id_prodi": 227,
+  "nama_prodi": "PPDS ANESTESIOLOGI  DAN TERAPI (Sp2)",
+  "id_prodi_semester": 2560,
+  "idnumber_sikola": "39952.103414.227",
+  "shortname_sikola": "TA231-103414",
+  "kode_matkul": "20C01820402",
+  "nama_matkul": "Transportasi Pasien Kritis",
+  "nama_kelas": "Transport Pasien Kritis - KIC 2023",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2644,
+      "id_user": 34606,
+      "id_prodi": 128,
+      "nama": "dr. Muhammad Rum, Sp.An, M.Kes",
+      "nidn": null,
+      "nip": "197509182004111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103414,
+        "id_dosen": 2644
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1630,
+      "id_user": 37671,
+      "id_prodi": 6,
+      "nama": "dr Satriawan Abadi, Sp. PD KIC",
+      "nidn": "0025087911",
+      "nip": "197908252005021003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f89dfc9-14dd-4394-b8f5-0b9c7aa1cab9",
+      "pivot": {
+        "id_kelas_kuliah": 103414,
+        "id_dosen": 1630
+      }
+    }
+  ]
+}

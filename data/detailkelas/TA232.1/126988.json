@@ -1,0 +1,45 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30422.126988.122",
+  "shortname_sikola": "TA232-126988",
+  "kode_matkul": "0701C20801",
+  "nama_matkul": "STASE BALAI LABORATORIUM KESEHATAN",
+  "nama_kelas": "Stase Balai Laboratorium Kesehatan Tahun 2017",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2957,
+      "id_user": 37792,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Tenri Esa, M.Si, SpPK",
+      "nidn": "0025026904",
+      "nip": "196902251999032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3207ee14-6bab-4b06-aae9-0a8d9f157a11",
+      "pivot": {
+        "id_kelas_kuliah": 126988,
+        "id_dosen": 2957
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2964,
+      "id_user": 58340,
+      "id_prodi": 122,
+      "nama": "Dr. dr. Rachmawati Adiputri Muhiddin, Sp.PK(K).",
+      "nidn": null,
+      "nip": "196810032018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126988,
+        "id_dosen": 2964
+      }
+    }
+  ]
+}

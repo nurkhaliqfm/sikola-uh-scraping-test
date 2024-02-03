@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "37054.110059.76",
+  "shortname_sikola": "TA231-110059",
+  "kode_matkul": "18P01313203",
+  "nama_matkul": "Pemberdayaan Masyarakat Pedesaan",
+  "nama_kelas": "Pemberdayaan Masyarakat Pedesaan (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 799,
+      "id_user": 25526,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Sitti Bulkis, MS.",
+      "nidn": "0029085401",
+      "nip": "196108291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2522df57-c432-4189-b3ac-136ee3209855",
+      "pivot": {
+        "id_kelas_kuliah": 110059,
+        "id_dosen": 799
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1053,
+      "id_user": 10757,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Muh. Hatta Jamil, SP., M.Si.",
+      "nidn": "0023126701",
+      "nip": "196712231995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ffab57ca-a685-4668-9a22-4ecf7b3acf78",
+      "pivot": {
+        "id_kelas_kuliah": 110059,
+        "id_dosen": 1053
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "37046.106373.76",
+  "shortname_sikola": "TA231-106373",
+  "kode_matkul": "18P01312703",
+  "nama_matkul": "Bioteknologi Tanaman",
+  "nama_kelas": "Bioteknologi Tanaman (S3 Ptn-Sem II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 386452,
+      "id_user": 73497,
+      "id_prodi": 76,
+      "angkatan": 2022,
+      "nama_mahasiswa": "TRISNAWATY. AR",
+      "nim": "P013222009",
+      "jalan": "Perumahan Permata Regency BlokJ/4",
+      "rt": 4,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90242",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1989-03-24",
+      "telepon": "082348642370",
+      "handphone": "082348642370",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Sudiang Raya",
+      "id_wilayah": "196011",
+      "nik": "7371096403890005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "trisna.ar508@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "494a4cb5-075c-46b6-836c-3ff07a731a43",
+      "id_registrasi_mahasiswa_pddikti": "f2ddcf16-d20b-43ad-b21c-837cf1c1114b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106373,
+        "id_mahasiswa": 386452,
+        "created_at": "2023-09-01 12:10:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1499,
+      "id_user": 15653,
+      "id_prodi": 152,
+      "nama": "Prof. Ir. Rinaldi Sjahril, M.Agr., Ph.D.",
+      "nidn": "0025096602",
+      "nip": "196609251994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0a82acac-6fc0-4d46-ae8a-9844563dd0a0",
+      "pivot": {
+        "id_kelas_kuliah": 106373,
+        "id_dosen": 1499
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 853,
+      "id_user": 20937,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Yunus Musa, M.Sc.",
+      "nidn": "0020125401",
+      "nip": "195412201983031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d915e579-dcb2-4962-93a9-f162a1142693",
+      "pivot": {
+        "id_kelas_kuliah": 106373,
+        "id_dosen": 853
+      }
+    }
+  ]
+}

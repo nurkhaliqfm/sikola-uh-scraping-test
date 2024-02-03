@@ -1,0 +1,45 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2538,
+  "idnumber_sikola": "45468.109002.202",
+  "shortname_sikola": "TA231-109002",
+  "kode_matkul": "23H08130103",
+  "nama_matkul": "Teori Risiko dan Simulasi",
+  "nama_kelas": "Teori Risiko dan Simulasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3800,
+      "id_user": 60693,
+      "id_prodi": 202,
+      "nama": "Illuminata Wynnie, , S.Si., M.Si.",
+      "nidn": "0001119503",
+      "nip": "199511012022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "69158d2f-44ac-450a-9f3d-ed29af5cac8f",
+      "pivot": {
+        "id_kelas_kuliah": 109002,
+        "id_dosen": 3800
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1565,
+      "id_user": 34269,
+      "id_prodi": 202,
+      "nama": "Dr. Amran, S.Si.,M.Si.",
+      "nidn": "0001117003",
+      "nip": "197011011998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c732ad65-4320-4a8b-a5db-9225d6d3d2aa",
+      "pivot": {
+        "id_kelas_kuliah": 109002,
+        "id_dosen": 1565
+      }
+    }
+  ]
+}

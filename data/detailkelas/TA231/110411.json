@@ -1,0 +1,45 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2453,
+  "idnumber_sikola": "29097.110411.109",
+  "shortname_sikola": "TA231-110411",
+  "kode_matkul": "18P07210602",
+  "nama_matkul": "Kesehatan Reproduksi",
+  "nama_kelas": "Kesehatan Reproduksi (Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1800,
+      "id_user": 27450,
+      "id_prodi": 65,
+      "nama": "Dr.  Healthy Hidayanty, SKM.,M.Kes.",
+      "nidn": "0907048101",
+      "nip": "198104072008012013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3c40abbc-8f76-4cb6-9917-0635fc6d8976",
+      "pivot": {
+        "id_kelas_kuliah": 110411,
+        "id_dosen": 1800
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1624,
+      "id_user": 11346,
+      "id_prodi": 57,
+      "nama": "Dr. Apik Indarty Moedjiono, SKM.,M.Si.",
+      "nidn": "0019047702",
+      "nip": "197704192002122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "534d1dd3-3989-4eda-b8cf-553ddef9e364",
+      "pivot": {
+        "id_kelas_kuliah": 110411,
+        "id_dosen": 1624
+      }
+    }
+  ]
+}

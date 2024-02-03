@@ -1,0 +1,61 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2639,
+  "idnumber_sikola": "45024.122994.50",
+  "shortname_sikola": "TA232-122994",
+  "kode_matkul": "23H00120103",
+  "nama_matkul": "Belajar dan Pembelajaran",
+  "nama_kelas": "Belajar dan Pembelajaran",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 839,
+      "id_user": 18217,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Budi Nurwahyu, MS.",
+      "nidn": "0002085803",
+      "nip": "195808021984031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf6a7feb-ce29-48fe-ba38-a6c35cb7d72f",
+      "pivot": {
+        "id_kelas_kuliah": 122994,
+        "id_dosen": 839
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1051,
+      "id_user": 31651,
+      "id_prodi": 46,
+      "nama": "Dr. Georgina Maria Tinungki, M.Si.",
+      "nidn": "0026096205",
+      "nip": "196209261987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4ec7c1a8-740c-4595-b998-a95fc3c0a86e",
+      "pivot": {
+        "id_kelas_kuliah": 122994,
+        "id_dosen": 1051
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2592,
+      "id_user": 24956,
+      "id_prodi": 50,
+      "nama": "Mustika Tuwo, S.Si.,S.Pd.,M.Sc",
+      "nidn": "8864501019",
+      "nip": "198608172019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05a704cc-8218-4ecf-8cc2-22471df734c6",
+      "pivot": {
+        "id_kelas_kuliah": 122994,
+        "id_dosen": 2592
+      }
+    }
+  ]
+}

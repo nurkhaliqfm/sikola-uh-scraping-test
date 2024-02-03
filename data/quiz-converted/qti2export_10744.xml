@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>Tu as trié ........ dossiers.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133584</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tous ces</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toute cette</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>On a affiché ............ programme des réunions.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133585</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tous le</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toute les</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>ll a refait ............ compte-rendu.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133586</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toute sa</p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tout son</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>Elle a contacté ............ clients.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133587</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tous ses</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toute sa</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>Ils ont répondu à ............ mèls..</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133588</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toutes leurs</p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tous leurs</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>Elles ont classé............ factures.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133589</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toute la</p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toutes les</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>J'ai relu ............ rapport.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133590</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tous ses</p>]]></text><feedback><text/></feedback></answer><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tout leur</p>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>04 - 01 Les adjectifs ind&amp;eacute;finis</text></name><questiontext format="html"><text><![CDATA[<p>Nous avons changé ............ références.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_133591</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="10.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>toutes nos</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<style type="text/css">p {font-family: Muli; font-size: 16px; line-height: 2;}
+ ol{font-family: Muli; font-size: 16px; line-height: 2;}
+ ul{font-family: Muli; font-size: 16px; line-height: 2;}
+  h1{font-family: Muli; font-size: 20px; line-height: 2; strong}
+  h2 {font-family: Muli; font-size: 18px; line-height: 2; strong}
+</style>
+<p>tout le</p>]]></text><feedback><text/></feedback></answer></question></quiz>

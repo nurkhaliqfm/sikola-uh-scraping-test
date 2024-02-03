@@ -1,0 +1,45 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "43349.127243.80",
+  "shortname_sikola": "TA232-127243",
+  "kode_matkul": "18P02217102",
+  "nama_matkul": "Dimensi Sosial Budaya Pariwisata (MKP)",
+  "nama_kelas": "Dimensi Sosial Budaya Pariwisata (PPW/Pariwisata)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 688,
+      "id_user": 34336,
+      "id_prodi": 30,
+      "nama": "Prof. Dr. Hamka, MA.",
+      "nidn": "0004116109",
+      "nip": "196111041987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c1b064b6-5b99-4adb-8a73-69a7e9c7d0e3",
+      "pivot": {
+        "id_kelas_kuliah": 127243,
+        "id_dosen": 688
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 815,
+      "id_user": 34158,
+      "id_prodi": 36,
+      "nama": "Prof. Dr. Akin Duli,  MA.",
+      "nidn": "0016076401",
+      "nip": "196407161991031010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4545c664-fa98-4aff-b49c-d44f01a40468",
+      "pivot": {
+        "id_kelas_kuliah": 127243,
+        "id_dosen": 815
+      }
+    }
+  ]
+}

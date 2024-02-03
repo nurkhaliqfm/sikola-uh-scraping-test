@@ -1,0 +1,29 @@
+{
+  "id_prodi": 34,
+  "nama_prodi": "SASTRA ASIA BARAT - S1",
+  "id_prodi_semester": 2398,
+  "idnumber_sikola": "46618.116670.34",
+  "shortname_sikola": "TA231-116670",
+  "kode_matkul": "23F03130702",
+  "nama_matkul": "Ekonomi Syariah",
+  "nama_kelas": "Ekonomi Syariah",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1835,
+      "id_user": 11588,
+      "id_prodi": 34,
+      "nama": "Haeriyyah, S.Ag.,M.Pd.I.",
+      "nidn": "0031087507",
+      "nip": "197508312008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f690ee8d-ff63-497f-b0fa-ff349d5dfd70",
+      "pivot": {
+        "id_kelas_kuliah": 116670,
+        "id_dosen": 1835
+      }
+    }
+  ]
+}

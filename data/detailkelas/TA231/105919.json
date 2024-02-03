@@ -1,0 +1,61 @@
+{
+  "id_prodi": 95,
+  "nama_prodi": "ILMU HUKUM - S2",
+  "id_prodi_semester": 2440,
+  "idnumber_sikola": "27603.105919.95",
+  "shortname_sikola": "TA231-105919",
+  "kode_matkul": "18B01225702",
+  "nama_matkul": "Hukum Kesehatan Masyarakat\r\n",
+  "nama_kelas": "Hukum Kesehatan Masyarakat (MK. Pilihan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1233,
+      "id_user": 33970,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Slamet Sampurno Soewondo, SH., MH.,DFM.",
+      "nidn": "0011046802",
+      "nip": "196804111992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b9c502ec-8f6f-4260-bf08-a51367c58d7d",
+      "pivot": {
+        "id_kelas_kuliah": 105919,
+        "id_dosen": 1233
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 729,
+      "id_user": 29213,
+      "id_prodi": 57,
+      "nama": "Prof. Dr.  Indar, SH., MPH.",
+      "nidn": "9990132855",
+      "nip": "195311101986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d40870bf-f8c1-491c-b23f-e0bf72b918e0",
+      "pivot": {
+        "id_kelas_kuliah": 105919,
+        "id_dosen": 729
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1199,
+      "id_user": 34197,
+      "id_prodi": 5,
+      "nama": "Dr.  Sabir Alwy, SH., MS.",
+      "nidn": "0005015902",
+      "nip": "195901051991031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "348b1a5d-b9bb-4834-8769-19d70923bc5f",
+      "pivot": {
+        "id_kelas_kuliah": 105919,
+        "id_dosen": 1199
+      }
+    }
+  ]
+}

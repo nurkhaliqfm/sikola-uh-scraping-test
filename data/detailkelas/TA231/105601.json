@@ -1,0 +1,45 @@
+{
+  "id_prodi": 218,
+  "nama_prodi": "TEKNOLOGI PRODUKSI TERNAK - D4",
+  "id_prodi_semester": 2552,
+  "idnumber_sikola": "44633.105601.218",
+  "shortname_sikola": "TA231-105601",
+  "kode_matkul": "23U01110102",
+  "nama_matkul": "Pendidikan Agama Islam",
+  "nama_kelas": "Pendidikan Agama Islam",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2844,
+      "id_user": 34119,
+      "id_prodi": 142,
+      "nama": "St. Wijdanah Ram, SS,M.Si",
+      "nidn": null,
+      "nip": "7371145712880002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105601,
+        "id_dosen": 2844
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3370,
+      "id_user": null,
+      "id_prodi": 219,
+      "nama": "Dr. Wahidin Raffani, S.Ag., MA",
+      "nidn": null,
+      "nip": "VP123",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105601,
+        "id_dosen": 3370
+      }
+    }
+  ]
+}

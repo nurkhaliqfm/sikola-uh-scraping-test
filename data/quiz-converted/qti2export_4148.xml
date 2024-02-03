@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Interdiction et obligation</text></name><questiontext format="html"><text><![CDATA[<p>&Eacute;crivez le règlement de la manifestation sportive "La féminine" à partir des éléments suivants :</p><style type="text/css">ul {font-family: Spectral; font-size: 14px; line-height: 1.5;}
+</style>
+<ul>
+	<li>Être une femme pour participer</li>
+	<li>Utiliser vélo et rollers</li>
+	<li>Porter un numéro d'inscription sur sa tenue</li>
+	<li>Présenter un certificat médical.</li>
+</ul>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>80.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_45296</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

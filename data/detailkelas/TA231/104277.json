@@ -1,0 +1,45 @@
+{
+  "id_prodi": 121,
+  "nama_prodi": "PPDS ILMU PENYAKIT KULIT DAN KELAMIN",
+  "id_prodi_semester": 2463,
+  "idnumber_sikola": "38305.104277.121",
+  "shortname_sikola": "TA231-104277",
+  "kode_matkul": "20Y00510202",
+  "nama_matkul": "Biostatistik & Komputer Statistik",
+  "nama_kelas": "Biostatistik & Komputer Statistik",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2892,
+      "id_user": 41266,
+      "id_prodi": 65,
+      "nama": "Dr. dr. Burhanuddin Bahar, M.Sc",
+      "nidn": null,
+      "nip": "194910151986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 104277,
+        "id_dosen": 2892
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1874,
+      "id_user": 37374,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  A. Alfian Zainuddin, MKM",
+      "nidn": "0027078304",
+      "nip": "198307272009121005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "292324ef-cc8f-4fc7-90f1-a498e9ff498c",
+      "pivot": {
+        "id_kelas_kuliah": 104277,
+        "id_dosen": 1874
+      }
+    }
+  ]
+}

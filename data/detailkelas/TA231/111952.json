@@ -1,0 +1,45 @@
+{
+  "id_prodi": 113,
+  "nama_prodi": "TEKNIK SIPIL - S2",
+  "id_prodi_semester": 2456,
+  "idnumber_sikola": "29431.111952.113",
+  "shortname_sikola": "TA231-111952",
+  "kode_matkul": "18D01210603",
+  "nama_matkul": "TEKNIK SUNGAI LANJUTAN DAN ANGKUTAN SEDIMEN",
+  "nama_kelas": "Teknik Sungai Lanjutan dan Angkutan Sedimen (Keairan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2113,
+      "id_user": 32366,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Ir. Muhammad Saleh Pallu, M.Eng.",
+      "nidn": "0010095405",
+      "nip": "195409101983031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17907aec-728d-4229-a5cb-058bfd584a30",
+      "pivot": {
+        "id_kelas_kuliah": 111952,
+        "id_dosen": 2113
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1044,
+      "id_user": 33440,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Ir. Rita Tahir Lopa, MT.",
+      "nidn": "0019036709",
+      "nip": "196703191992032010",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "761d1af0-a943-4d65-97ae-cb1abb9a5a8f",
+      "pivot": {
+        "id_kelas_kuliah": 111952,
+        "id_dosen": 1044
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2506,
+  "idnumber_sikola": "41919.110415.169",
+  "shortname_sikola": "TA231-110415",
+  "kode_matkul": "21P11210802",
+  "nama_matkul": "Hukum dan Kebijakan Pengelolaan Wilayah Pesisir dan Lautan",
+  "nama_kelas": "Hukum dan Kebijakan Pengelolaan Wilayah Pesisir dan Lautan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 904,
+      "id_user": 10571,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Abdul Haris, M.Si.",
+      "nidn": "0009126503",
+      "nip": "196512091992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38e2a3cf-7979-4416-8090-fa7732bcc39a",
+      "pivot": {
+        "id_kelas_kuliah": 110415,
+        "id_dosen": 904
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1377,
+      "id_user": 27672,
+      "id_prodi": 5,
+      "nama": "Dr. Kahar Lahae, S.H., M.Hum.",
+      "nidn": "0031126603",
+      "nip": "196612311990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a9ea7702-44d7-46cc-a613-3df741381bb0",
+      "pivot": {
+        "id_kelas_kuliah": 110415,
+        "id_dosen": 1377
+      }
+    }
+  ]
+}

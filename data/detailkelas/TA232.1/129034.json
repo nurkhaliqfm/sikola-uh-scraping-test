@@ -1,0 +1,140 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28122.129034.102",
+  "shortname_sikola": "TA232-129034",
+  "kode_matkul": "18P06210503",
+  "nama_matkul": "Farmakokinetik & Farmakodinamik\r\n",
+  "nama_kelas": "Farmakokinetik & Farmakodinamik (W) (Farmako-Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428109,
+      "id_user": 86636,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "YUSRI SILAMBI",
+      "nim": "P062232002",
+      "jalan": "JL. TELEGRAF II BLOK C3 NO. 50",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90241",
+      "nisn": "-",
+      "tempat_lahir": "TAMPAN",
+      "tanggal_lahir": "2000-06-01",
+      "telepon": "0",
+      "handphone": "082348723859",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PACCERAKKANG",
+      "id_wilayah": "196011",
+      "nik": "7326170106000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86636,
+      "kode_status": "A",
+      "email": "yusrisilambi@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129034,
+        "id_mahasiswa": 428109,
+        "created_at": "2024-01-22 12:43:56"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428195,
+      "id_user": 86722,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUH. ANUGRAWAN",
+      "nim": "P062232023",
+      "jalan": "JL. TENANG UNHAS PONDOK RAHMATIKA",
+      "rt": 2,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "90245",
+      "nisn": "P062232023",
+      "tempat_lahir": "PINRANG",
+      "tanggal_lahir": "1996-08-18",
+      "telepon": "0",
+      "handphone": "082336563148",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "-",
+      "id_wilayah": "196012",
+      "nik": "7314071808960002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86722,
+      "kode_status": "A",
+      "email": "anugrawanahmar@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129034,
+        "id_mahasiswa": 428195,
+        "created_at": "2024-01-22 22:49:49"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 752,
+      "id_user": 34045,
+      "id_prodi": 73,
+      "nama": "Prof. Dr.  Elly Wahyudin, DEA, Apt",
+      "nidn": "0014015601",
+      "nip": "195601141986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "30831778-9812-4c73-9ae2-94d75397e4db",
+      "pivot": {
+        "id_kelas_kuliah": 129034,
+        "id_dosen": 752
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 727,
+      "id_user": 34442,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Peter Kabo, Ph.D., Sp.FK.",
+      "nidn": "8923260022",
+      "nip": "195003291976121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "438cbbd6-56af-49f1-b3db-b7fe461dab95",
+      "pivot": {
+        "id_kelas_kuliah": 129034,
+        "id_dosen": 727
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2374,
+      "id_user": 71683,
+      "id_prodi": 6,
+      "nama": "dr. Lia Hafiyani, M.Pharm.,Sc",
+      "nidn": "0003048703",
+      "nip": "198704032012122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1570e384-977b-4ad6-9582-49733d0ae762",
+      "pivot": {
+        "id_kelas_kuliah": 129034,
+        "id_dosen": 2374
+      }
+    }
+  ]
+}

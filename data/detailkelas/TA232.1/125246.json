@@ -1,0 +1,101 @@
+{
+  "id_prodi": 75,
+  "nama_prodi": "SISTEM-SISTEM PERTANIAN - S2",
+  "id_prodi_semester": 2653,
+  "idnumber_sikola": "25591.125246.75",
+  "shortname_sikola": "TA232-125246",
+  "kode_matkul": "18P01210803",
+  "nama_matkul": "Perencanaan Pembangunan Pertanian\r\n",
+  "nama_kelas": "Perencanaan Pembangunan Pertanian (P)_(SSP-Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428391,
+      "id_user": 86918,
+      "id_prodi": 75,
+      "angkatan": 2023,
+      "nama_mahasiswa": "AMELIA ICHA BUJANG",
+      "nim": "P012232001",
+      "jalan": "TEUKU UMAR XIV",
+      "rt": 2,
+      "rw": 4,
+      "dusun": "-",
+      "kode_pos": "90211",
+      "nisn": "-",
+      "tempat_lahir": "KASISI'",
+      "tanggal_lahir": "1999-12-13",
+      "telepon": "082196518076",
+      "handphone": "082196518076",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TALLO",
+      "id_wilayah": "196009",
+      "nik": "7318125312990001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86918,
+      "kode_status": "A",
+      "email": "ameliaicha1312@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125246,
+        "id_mahasiswa": 428391,
+        "created_at": "2024-01-23 21:03:22"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 799,
+      "id_user": 25526,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Sitti Bulkis, MS.",
+      "nidn": "0029085401",
+      "nip": "196108291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2522df57-c432-4189-b3ac-136ee3209855",
+      "pivot": {
+        "id_kelas_kuliah": 125246,
+        "id_dosen": 799
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1053,
+      "id_user": 10757,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Muh. Hatta Jamil, SP., M.Si.",
+      "nidn": "0023126701",
+      "nip": "196712231995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ffab57ca-a685-4668-9a22-4ecf7b3acf78",
+      "pivot": {
+        "id_kelas_kuliah": 125246,
+        "id_dosen": 1053
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3629,
+      "id_user": 71543,
+      "id_prodi": 75,
+      "nama": "Dr. Ariady Arsal, S.P., M.Si",
+      "nidn": "8944930022",
+      "nip": "197307182022015001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "cb47610f-8945-45e7-b76e-963556384e20",
+      "pivot": {
+        "id_kelas_kuliah": 125246,
+        "id_dosen": 3629
+      }
+    }
+  ]
+}

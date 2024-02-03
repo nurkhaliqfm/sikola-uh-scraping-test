@@ -1,0 +1,140 @@
+{
+  "id_prodi": 66,
+  "nama_prodi": "ILMU KELAUTAN - S1",
+  "id_prodi_semester": 2645,
+  "idnumber_sikola": "44857.128087.66",
+  "shortname_sikola": "TA232-128087",
+  "kode_matkul": "23L01121402",
+  "nama_matkul": "Analisis Data Bioekologi Laut",
+  "nama_kelas": "Analisis Data Bioekologi Laut (Kelas A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 355413,
+      "id_user": 69949,
+      "id_prodi": 66,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MAWARDI",
+      "nim": "L011221006",
+      "jalan": "JALAN MAWAR LINGKUNGAN SAMAENRE KELURAHAN SANGIASSERI KECAMATAN SINJAI SELATAN  KAB. SINJAI  PROV. SULAWESI SELATAN 92661",
+      "rt": 3,
+      "rw": 1,
+      "dusun": "SAMAENRE",
+      "kode_pos": "29661",
+      "nisn": "0038307113",
+      "tempat_lahir": "SINJAI",
+      "tanggal_lahir": "2003-12-24",
+      "telepon": "081242858175",
+      "handphone": "082396649302",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SANGIASSERI",
+      "id_wilayah": "191203",
+      "nik": "7307022412030004",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "mawardisuha@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3b3cdc74-887f-4709-bf75-d144682db182",
+      "id_registrasi_mahasiswa_pddikti": "b6acdeb9-7e98-4597-bb9a-67c034d8c353",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128087,
+        "id_mahasiswa": 355413,
+        "created_at": "2024-01-22 14:54:00"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 353274,
+      "id_user": 67760,
+      "id_prodi": 66,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUHAMMAD ASRAR",
+      "nim": "L011221001",
+      "jalan": "Jl.Politeknik/Pondok Arham/Kec.Tamalanrea",
+      "rt": 4,
+      "rw": 9,
+      "dusun": null,
+      "kode_pos": "90244",
+      "nisn": "0035571469",
+      "tempat_lahir": "TARAKAN",
+      "tanggal_lahir": "2003-05-23",
+      "telepon": "0",
+      "handphone": "081257275814",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196012",
+      "nik": "6473012305030010",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "23.muhammadasrar.xupw@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "a9cb5cfa-4648-417e-8148-315640c57ba1",
+      "id_registrasi_mahasiswa_pddikti": "4f106716-134f-4a78-9516-01253e494fb5",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128087,
+        "id_mahasiswa": 353274,
+        "created_at": "2024-01-30 14:40:37"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 768,
+      "id_user": 25703,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Chair Rani, M.Si.",
+      "nidn": "0002046801",
+      "nip": "196804021992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22708aa6-9cb0-4d32-91b3-7f4d28f214a5",
+      "pivot": {
+        "id_kelas_kuliah": 128087,
+        "id_dosen": 768
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1181,
+      "id_user": 10979,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Rohani AR, M.Si.",
+      "nidn": "0013096901",
+      "nip": "196909131993032004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "25f45a97-69c0-4ddb-94f0-ec88c59e7691",
+      "pivot": {
+        "id_kelas_kuliah": 128087,
+        "id_dosen": 1181
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 128087,
+        "id_dosen": 779
+      }
+    }
+  ]
+}

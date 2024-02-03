@@ -1,0 +1,61 @@
+{
+  "id_prodi": 159,
+  "nama_prodi": "HUKUM ADMINISTRASI NEGARA - S1",
+  "id_prodi_semester": 2727,
+  "idnumber_sikola": "46748.124119.159",
+  "shortname_sikola": "TA232-124119",
+  "kode_matkul": "23B02110804",
+  "nama_matkul": "Hukum Internasional",
+  "nama_kelas": "Hukum Internasional Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 791,
+      "id_user": 34085,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Syamsuddin Muhammad Noor, SH., MH.",
+      "nidn": "0002075503",
+      "nip": "195507021988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2fbfbcbd-83b7-43a5-b6f4-c58f244758a2",
+      "pivot": {
+        "id_kelas_kuliah": 124119,
+        "id_dosen": 791
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2514,
+      "id_user": 12045,
+      "id_prodi": 5,
+      "nama": "Dr. Kadarudin, S.H., M.H",
+      "nidn": "1114058802",
+      "nip": "198805142019043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ab90c582-7819-40ae-ab29-acfcaf4c2338",
+      "pivot": {
+        "id_kelas_kuliah": 124119,
+        "id_dosen": 2514
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 851,
+      "id_user": 34074,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Marcel Hendrapati Yaparno, SH., MH.",
+      "nidn": "9990084008",
+      "nip": "195010271980031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b1025c3a-9678-4318-ad4c-009806036607",
+      "pivot": {
+        "id_kelas_kuliah": 124119,
+        "id_dosen": 851
+      }
+    }
+  ]
+}

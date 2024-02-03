@@ -1,0 +1,45 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "45412.111294.19",
+  "shortname_sikola": "TA231-111294",
+  "kode_matkul": "23D05110203",
+  "nama_matkul": "Nirmana (Komposisi Arsitektur)",
+  "nama_kelas": "Architectural Composition",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1299,
+      "id_user": 19550,
+      "id_prodi": 19,
+      "nama": "Prof. Dr. Ir. Triyatni Martosenjoyo, M.Si",
+      "nidn": "0029075702",
+      "nip": "195707291986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f216d8a-9be5-4120-a230-56b08cc5d3ec",
+      "pivot": {
+        "id_kelas_kuliah": 111294,
+        "id_dosen": 1299
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1656,
+      "id_user": 21880,
+      "id_prodi": 19,
+      "nama": "Dr. Syahriana Syam, ST., MT.",
+      "nidn": "0024117506",
+      "nip": "197511242006042032",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "31ae4720-5df8-4fbe-a707-a45d2ecc485f",
+      "pivot": {
+        "id_kelas_kuliah": 111294,
+        "id_dosen": 1656
+      }
+    }
+  ]
+}

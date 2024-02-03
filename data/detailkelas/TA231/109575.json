@@ -1,0 +1,61 @@
+{
+  "id_prodi": 49,
+  "nama_prodi": "KIMIA - S1",
+  "id_prodi_semester": 2407,
+  "idnumber_sikola": "45152.109575.49",
+  "shortname_sikola": "TA231-109575",
+  "kode_matkul": "23H03131002",
+  "nama_matkul": "Kapita Selekta Kimia Fisika",
+  "nama_kelas": "KAPITA SELEKTA KIMIA FISIKA",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1675,
+      "id_user": 33412,
+      "id_prodi": 49,
+      "nama": "Dr.  Muhammad Zakir, S.Si.,M.Si.",
+      "nidn": "0003117002",
+      "nip": "197011031999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd7a5a89-8f8e-4e3b-8a3d-ba988f63efa5",
+      "pivot": {
+        "id_kelas_kuliah": 109575,
+        "id_dosen": 1675
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1110,
+      "id_user": 34414,
+      "id_prodi": 49,
+      "nama": "Ir. Abdul Hayat Kasim, M.Si.",
+      "nidn": "9990065319",
+      "nip": "195702161987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "97f2a2d4-105c-4eca-bec0-34f86e3790d6",
+      "pivot": {
+        "id_kelas_kuliah": 109575,
+        "id_dosen": 1110
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1417,
+      "id_user": 34462,
+      "id_prodi": 49,
+      "nama": "Dr. Ir.  Prastawa Budi, M.Sc.",
+      "nidn": "9990124026",
+      "nip": "195801071988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "90eeda0e-af13-4b46-a0d3-fc3e46f7b128",
+      "pivot": {
+        "id_kelas_kuliah": 109575,
+        "id_dosen": 1417
+      }
+    }
+  ]
+}

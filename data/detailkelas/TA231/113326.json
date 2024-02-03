@@ -1,0 +1,77 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "19655.113326.51",
+  "shortname_sikola": "TA231-113326",
+  "kode_matkul": "217I1103",
+  "nama_matkul": "ILMU TERNAK UNGGAS",
+  "nama_kelas": "Ilmu Ternak Unggas Kelas C - 2020",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 879,
+      "id_user": 32716,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Wempie, M.Sc.",
+      "nidn": "0003056403",
+      "nip": "196405031990031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "dc720231-cdb4-4d24-9d3e-75bff1852c3e",
+      "pivot": {
+        "id_kelas_kuliah": 113326,
+        "id_dosen": 879
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1955,
+      "id_user": 16435,
+      "id_prodi": 51,
+      "nama": "Dr Hasbi, S.Pt.,M.Si.",
+      "nidn": "0002107705",
+      "nip": "197710022005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d588fee5-f1b7-4e06-8a11-b8bf335e1d0b",
+      "pivot": {
+        "id_kelas_kuliah": 113326,
+        "id_dosen": 1955
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3845,
+      "id_user": null,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Syahrir Akil, S.Pt., IPU",
+      "nidn": null,
+      "nip": "3175090502730006",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 113326,
+        "id_dosen": 3845
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2510,
+      "id_user": 30183,
+      "id_prodi": 51,
+      "nama": "Masturi M, S.Pt., M.Si",
+      "nidn": "0005048804",
+      "nip": "198804052019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "52db8bfb-6413-461d-9fd8-2b8c8937dd57",
+      "pivot": {
+        "id_kelas_kuliah": 113326,
+        "id_dosen": 2510
+      }
+    }
+  ]
+}

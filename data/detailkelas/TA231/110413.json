@@ -1,0 +1,45 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2453,
+  "idnumber_sikola": "29099.110413.109",
+  "shortname_sikola": "TA231-110413",
+  "kode_matkul": "18P07210803",
+  "nama_matkul": "Politik dan Keadilan Gender",
+  "nama_kelas": "Politik dan Keadilan Gender (Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 965,
+      "id_user": 34242,
+      "id_prodi": 25,
+      "nama": "Prof. Dr.  Rabina Yunus, M.Si.",
+      "nidn": "0023116007",
+      "nip": "196011231986032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ae8b02d1-4f20-4a95-8029-070baac1c02d",
+      "pivot": {
+        "id_kelas_kuliah": 110413,
+        "id_dosen": 965
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1668,
+      "id_user": 10130,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Phil. Sukri, S.IP., M.Si.",
+      "nidn": "0018087507",
+      "nip": "197508182008011008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "72714fe6-561d-40d4-bfda-a92776daff64",
+      "pivot": {
+        "id_kelas_kuliah": 110413,
+        "id_dosen": 1668
+      }
+    }
+  ]
+}

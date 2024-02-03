@@ -1,0 +1,61 @@
+{
+  "id_prodi": 152,
+  "nama_prodi": "AGROTEKNOLOGI - S1",
+  "id_prodi_semester": 2489,
+  "idnumber_sikola": "36319.104495.152",
+  "shortname_sikola": "TA231-104495",
+  "kode_matkul": "19G01131103",
+  "nama_matkul": "PENGELOLAAN TANAH DAN AIR",
+  "nama_kelas": "PENGELOLAAN TANAH DAN AIR",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1014,
+      "id_user": 23346,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Sikstus Gusli, M.Sc.",
+      "nidn": "0005045404",
+      "nip": "195404061983021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c03b21e-9b8a-4666-abd8-628b98f35c57",
+      "pivot": {
+        "id_kelas_kuliah": 104495,
+        "id_dosen": 1014
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1543,
+      "id_user": 23617,
+      "id_prodi": 152,
+      "nama": "Ir. Masyhur Syafiuddin, MP",
+      "nidn": "0031125911",
+      "nip": "195912311988111002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3f74206e-6619-458e-9494-3242e278e24e",
+      "pivot": {
+        "id_kelas_kuliah": 104495,
+        "id_dosen": 1543
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3832,
+      "id_user": 71321,
+      "id_prodi": 232,
+      "nama": "Balqis Nur Aisyah, S.P., M.Si",
+      "nidn": null,
+      "nip": "7316094404940002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 104495,
+        "id_dosen": 3832
+      }
+    }
+  ]
+}

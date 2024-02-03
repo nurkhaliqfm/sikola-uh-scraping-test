@@ -1,0 +1,69 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2510,
+  "idnumber_sikola": "43315.105457.173",
+  "shortname_sikola": "TA231-105457",
+  "kode_matkul": "18K01330102",
+  "nama_matkul": "Seminar Kemajuan 4",
+  "nama_kelas": "Seminar Kemajuan 4 (By Riset)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 137248,
+      "id_user": 35840,
+      "id_prodi": 173,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NURSARI ABDUL SYUKUR",
+      "nim": "K013201004",
+      "jalan": "DRS.HB SOEPARNO RT.29 NO.17",
+      "rt": 2,
+      "rw": 0,
+      "dusun": "Palaran",
+      "kode_pos": "75243",
+      "nisn": null,
+      "tempat_lahir": "SAMARINDA",
+      "tanggal_lahir": "1978-05-19",
+      "telepon": "0",
+      "handphone": "082158188645",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Rawamakmur",
+      "id_wilayah": "166001",
+      "nik": "6472015905780003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nursarias@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "9b3eeb3a-ea65-4139-9b71-700b2a259d56",
+      "id_registrasi_mahasiswa_pddikti": "45652206-34bf-4d40-ad4b-e2826c335158",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 105457,
+        "id_mahasiswa": 137248,
+        "created_at": "2023-08-17 18:59:37"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1463,
+      "id_user": 27689,
+      "id_prodi": 65,
+      "nama": "Prof. Dr. Aminuddin Syam, SKM., M.Kes., M.Med.Ed",
+      "nidn": "0017066701",
+      "nip": "196706171999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ff920b2f-d2de-48c3-a4d1-69c2b987c930",
+      "pivot": {
+        "id_kelas_kuliah": 105457,
+        "id_dosen": 1463
+      }
+    }
+  ]
+}

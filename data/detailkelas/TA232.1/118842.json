@@ -1,0 +1,156 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43221.118842.78",
+  "shortname_sikola": "TA232-118842",
+  "kode_matkul": "22I02211803",
+  "nama_matkul": "Analisis Sumber Daya Pakan dan Wilayah",
+  "nama_kelas": "Analisis Sumber daya Pakan dan Wilayah",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427996,
+      "id_user": 86523,
+      "id_prodi": 78,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ASWIN",
+      "nim": "I012232012",
+      "jalan": "JL. POROS PEKKAE-SOPPENG",
+      "rt": 4,
+      "rw": 5,
+      "dusun": "Sikapa",
+      "kode_pos": "90762",
+      "nisn": "0016658656",
+      "tempat_lahir": "BARRU",
+      "tanggal_lahir": "2001-08-23",
+      "telepon": "0",
+      "handphone": "0895802996977",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "LEMPANG",
+      "id_wilayah": "190601",
+      "nik": "7311012308010003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86523,
+      "kode_status": "A",
+      "email": "aswin.awn27@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118842,
+        "id_mahasiswa": 427996,
+        "created_at": "2024-02-02 09:49:20"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 423373,
+      "id_user": 80546,
+      "id_prodi": 78,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD YAHYA ",
+      "nim": "I012231020",
+      "jalan": "JLN POROS BULO-MATANGNGA",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "II",
+      "kode_pos": "91353",
+      "nisn": "-",
+      "tempat_lahir": "PULLIWA",
+      "tanggal_lahir": "1998-06-20",
+      "telepon": "085240317361",
+      "handphone": "085240317361",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PULLIWA",
+      "id_wilayah": "330316",
+      "nik": "7604162006980002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "yahyakarman98@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "386c11d0-c44d-48cb-bbb3-4f8ecd6b9044",
+      "id_registrasi_mahasiswa_pddikti": "f4bf2a54-c16a-4e43-ad86-ba71ce50c80c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118842,
+        "id_mahasiswa": 423373,
+        "created_at": "2024-02-02 13:22:41"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 843,
+      "id_user": 14610,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Jasmal Ahmari Syamsu, M.Si., IPU., ASEAN Eng",
+      "nidn": "0005116901",
+      "nip": "196811051993011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "91352c8c-6353-47fa-9666-adc6e67381d8",
+      "pivot": {
+        "id_kelas_kuliah": 118842,
+        "id_dosen": 843
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 831,
+      "id_user": 15465,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir.  Budiman, MP.",
+      "nidn": "0031125812",
+      "nip": "195812311986031026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0949c7b3-e5e1-4e75-aad2-09f901e80e10",
+      "pivot": {
+        "id_kelas_kuliah": 118842,
+        "id_dosen": 831
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 940,
+      "id_user": 20135,
+      "id_prodi": 51,
+      "nama": "Dr. Ir.  Nancy Lahay, MP.",
+      "nidn": "0007125901",
+      "nip": "195912071987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1bf404e1-439c-4b2a-ab5a-e349b1d085f3",
+      "pivot": {
+        "id_kelas_kuliah": 118842,
+        "id_dosen": 940
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1117,
+      "id_user": 15191,
+      "id_prodi": 51,
+      "nama": "Dr. Ir.  Syahriani, M.Si.",
+      "nidn": "0012116503",
+      "nip": "196511121990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "603b95b7-c194-4d6b-badc-d90c3fb10143",
+      "pivot": {
+        "id_kelas_kuliah": 118842,
+        "id_dosen": 1117
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 147,
+  "nama_prodi": "PROFESI DOKTER",
+  "id_prodi_semester": 2487,
+  "idnumber_sikola": "32854.106585.147",
+  "shortname_sikola": "TA231-106585",
+  "kode_matkul": "506C1132",
+  "nama_matkul": "ILMU KEDOKTERAN JIWA",
+  "nama_kelas": "ILMU KEDOKTERAN JIWA PERIODE Gabungan 2023",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2996,
+      "id_user": 37009,
+      "id_prodi": 125,
+      "nama": "dr. Kristian Liaury, Ph.D, Sp.KJ",
+      "nidn": "8958020021",
+      "nip": "7371051606800007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b438933-f5ca-4856-90dd-ec28fddd0402",
+      "pivot": {
+        "id_kelas_kuliah": 106585,
+        "id_dosen": 2996
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 13,
+  "nama_prodi": "TEKNIK INDUSTRI - S1",
+  "id_prodi_semester": 2609,
+  "idnumber_sikola": "46530.126358.13",
+  "shortname_sikola": "TA232-126358",
+  "kode_matkul": "23U02133420",
+  "nama_matkul": "Pengembangan dan Penguatan Kewirausahaan",
+  "nama_kelas": "Pengembangan dan Penguatan Kewirausahaan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2566,
+      "id_user": 28615,
+      "id_prodi": 13,
+      "nama": "A. Besse Riyani Indah, S.T., M.T.",
+      "nidn": "0001128908",
+      "nip": "198912012019032013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "26865c6b-e165-4e8c-bd8e-3b163742521b",
+      "pivot": {
+        "id_kelas_kuliah": 126358,
+        "id_dosen": 2566
+      }
+    }
+  ]
+}

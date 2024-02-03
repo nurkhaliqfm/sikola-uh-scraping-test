@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46533.124246.50",
+  "shortname_sikola": "TA231-124246",
+  "kode_matkul": "23U02131902",
+  "nama_matkul": "Pengembangan Talenta",
+  "nama_kelas": "Pengembangan Talenta",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1671,
+      "id_user": 33937,
+      "id_prodi": 50,
+      "nama": "Dody Priosambodo, S.Si. M.Si",
+      "nidn": "0005057604",
+      "nip": "197605052001121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f8079111-14ff-4f5d-bbfc-182fe13845f3",
+      "pivot": {
+        "id_kelas_kuliah": 124246,
+        "id_dosen": 1671
+      }
+    }
+  ]
+}

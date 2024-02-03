@@ -1,0 +1,29 @@
+{
+  "id_prodi": 184,
+  "nama_prodi": "PPDGS - ILMU KONSERVASI GIGI",
+  "id_prodi_semester": 2752,
+  "idnumber_sikola": "44545.121920.184",
+  "shortname_sikola": "TA232-121920",
+  "kode_matkul": "21J10530102",
+  "nama_matkul": "PENGABDIAN MASYARAKAT",
+  "nama_kelas": "PENGABDIAN MASYARAKAT",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1169,
+      "id_user": 34692,
+      "id_prodi": 55,
+      "nama": "drg. Nurhayati Natsir, Ph.D., Sp.KG.(K)",
+      "nidn": "0018056401",
+      "nip": "196405181991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "324dd89e-a900-498d-84b1-0128636a07fd",
+      "pivot": {
+        "id_kelas_kuliah": 121920,
+        "id_dosen": 1169
+      }
+    }
+  ]
+}

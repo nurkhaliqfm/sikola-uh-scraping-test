@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Salah satu kelembagaan penyuluhan yang ada di tingkat desa adalah</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220655</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>BPP</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>BP3K</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>BAKORLU</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>POSLUHDES</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Salah satu contoh  produk pertanian yang dapat digunakan sebagai bahan bioplastik adalah:</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220658</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Wortel</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>jagung</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Apel</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Anggur</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Salah satu sumber bahan baku bioenergy adalah, kecuali :</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220660</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Sorgum</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Kentang</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Tebu</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>Daun katuk</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Fungsi utma kelompok tani adalah, kecuali :</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220661</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Sebagai Wahana/unit  produksi</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Sebagai wahana/unit  belajar</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Sebagai Wahana/unit kerjasama</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>Sebagai  wahana/unit simpan pinjam</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Produk serat tumbuhan dapat dimanfaatkan sebagai </p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220663</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Pupuk</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[Pakan ternak dan pupuk]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>Pakan ternak, pupuk dan produk kerajinan</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Pakan ternak</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Berikut ini adalah salah adalah  contoh  kelembagaan petani, kecuali : - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220669</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Kelompok Tani (Poktan)</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>Kelompok Kerja bakti</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Kelompok Wanita Tani (KWT)</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Gabungan Kelompok Tani (Gapoktan)</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Daun Leng-Lengan  adalah salah satu contoh  produk pertanian yang   dapat bermanfaat sebagai: - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220672</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Bioethanol</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>biofarmaka</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>biogas</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>bioplastik</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Prinsip-prinsip yang harus dipenuhi oleh suatu kelembagaan petani agar tetap eksis dan berkelanjutan adalah, kecuali : - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220675</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[Prinsip kemandirian lokal]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Prinsip pemberdayaan</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Prinsip otonomi</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>Prinsip produksi</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Sumber bahan baku bioenergy adalah kecuali : - Copy - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220682</idnumber><single>false</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Tebu</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Kelapa</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<ul>
+	<li>Jeruk</li>
+</ul>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<ul>
+	<li>Jarak padagar</li>
+</ul>]]></text><feedback><text/></feedback></answer></question><question type="multichoice"><name><text>Kuis II PIP Rev.Produk Pertanian &amp; Kelembagaan Pertanian</text></name><questiontext format="html"><text><![CDATA[<p>Berikut ini, beberapa contoh tanaman biofarmaka yang berpeluang untuk ekspor adalah,  kecuali:</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>1</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_220690</idnumber><single>true</single><answernumbering>abc</answernumbering><showstandardinstruction>0</showstandardinstruction><correctfeedback format="html"><text><![CDATA[<p>Your answer is correct.</p>]]></text></correctfeedback><partiallycorrectfeedback format="html"><text><![CDATA[<p>Your answer is partially correct.</p>]]></text></partiallycorrectfeedback><incorrectfeedback format="html"><text><![CDATA[<p>Your answer is incorrect.</p>]]></text></incorrectfeedback><shownumcorrect/><answer fraction="0.0" format="html"><text><![CDATA[<p>temu lawa</p>]]></text><feedback><text/></feedback></answer><answer fraction="100.0" format="html"><text><![CDATA[<p>jahe</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>sereh</p>]]></text><feedback><text/></feedback></answer><answer fraction="0.0" format="html"><text><![CDATA[<p>Kencur</p>]]></text><feedback><text/></feedback></answer></question></quiz>

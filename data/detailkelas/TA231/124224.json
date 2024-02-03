@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46521.124224.50",
+  "shortname_sikola": "TA231-124224",
+  "kode_matkul": "23U02130502",
+  "nama_matkul": "Komunikasi Digital",
+  "nama_kelas": "Komunikasi Digital",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 833,
+      "id_user": 13014,
+      "id_prodi": 50,
+      "nama": "Drs. Muhtadin S., M.Si.",
+      "nidn": "0007126203",
+      "nip": "196212071988031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f546c978-25ca-4a0f-9b2e-441a1aabfa7f",
+      "pivot": {
+        "id_kelas_kuliah": 124224,
+        "id_dosen": 833
+      }
+    }
+  ]
+}

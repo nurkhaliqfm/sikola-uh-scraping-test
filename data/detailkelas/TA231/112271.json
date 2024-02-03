@@ -1,0 +1,61 @@
+{
+  "id_prodi": 235,
+  "nama_prodi": "TEKNOLOGI HASIL PERIKANAN - S1",
+  "id_prodi_semester": 2567,
+  "idnumber_sikola": "47299.112271.235",
+  "shortname_sikola": "TA231-112271",
+  "kode_matkul": "23L06130903",
+  "nama_matkul": "Sistem Logistik Hasil Perikanan",
+  "nama_kelas": "Sistem Logistik Hasil Perikanan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1766,
+      "id_user": 10399,
+      "id_prodi": 235,
+      "nama": "Dr. Fahrul, S.Pi., M.Si.",
+      "nidn": "0019047406",
+      "nip": "197404192006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45df60ce-91a0-4379-819f-46b8984c0a6c",
+      "pivot": {
+        "id_kelas_kuliah": 112271,
+        "id_dosen": 1766
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2460,
+      "id_user": 60802,
+      "id_prodi": 235,
+      "nama": "Dr. Ir.  Ophirtus Sumule, DEA.",
+      "nidn": "0025105911",
+      "nip": "195910251987111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34069e98-4c09-487f-8ffc-aca87ffcf8f1",
+      "pivot": {
+        "id_kelas_kuliah": 112271,
+        "id_dosen": 2460
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1765,
+      "id_user": 20687,
+      "id_prodi": 235,
+      "nama": "Dr. Syahrul, S.Pi., M.Si.",
+      "nidn": "0016017306",
+      "nip": "197301162006041002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "405d0b13-21ff-4e0c-a440-843123141e6d",
+      "pivot": {
+        "id_kelas_kuliah": 112271,
+        "id_dosen": 1765
+      }
+    }
+  ]
+}

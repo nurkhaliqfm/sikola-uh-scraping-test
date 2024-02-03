@@ -1,0 +1,61 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43242.119189.78",
+  "shortname_sikola": "TA232-119189",
+  "kode_matkul": "22I02213903",
+  "nama_matkul": "Sistem Peternakan Terpadu",
+  "nama_kelas": "Sistem Peternakan terpadu",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 831,
+      "id_user": 15465,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir.  Budiman, MP.",
+      "nidn": "0031125812",
+      "nip": "195812311986031026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0949c7b3-e5e1-4e75-aad2-09f901e80e10",
+      "pivot": {
+        "id_kelas_kuliah": 119189,
+        "id_dosen": 831
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 897,
+      "id_user": 15735,
+      "id_prodi": 51,
+      "nama": "Dr. Ir Rohmiyatul Islamiyati, MP.",
+      "nidn": "0019086505",
+      "nip": "196508191990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6a679f5-623c-4587-bb34-e30f98fbaa24",
+      "pivot": {
+        "id_kelas_kuliah": 119189,
+        "id_dosen": 897
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1239,
+      "id_user": 15540,
+      "id_prodi": 51,
+      "nama": "Dr. Rinduwati, S.Pt.,MP.",
+      "nidn": "0016057102",
+      "nip": "197105161995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ffa03f7-0ed9-4afd-849c-96d879d149bb",
+      "pivot": {
+        "id_kelas_kuliah": 119189,
+        "id_dosen": 1239
+      }
+    }
+  ]
+}

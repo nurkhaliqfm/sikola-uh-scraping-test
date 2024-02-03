@@ -1,0 +1,101 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "43327.125542.80",
+  "shortname_sikola": "TA232-125542",
+  "kode_matkul": "18P02216302",
+  "nama_matkul": "Promosi dan Pemasaran Pariwisata (WP)",
+  "nama_kelas": "Promosi dan Pemasaran Pariwisata (PPW/Pariwisata)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427755,
+      "id_user": 86282,
+      "id_prodi": 80,
+      "angkatan": 2023,
+      "nama_mahasiswa": "A. TENRI ANGKUMALA",
+      "nim": "P022232003",
+      "jalan": "DG. TATA RAYA NO. 2",
+      "rt": 2,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90024",
+      "nisn": "9997574352",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1999-01-16",
+      "telepon": "0",
+      "handphone": "082213517507",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BALANG BARU",
+      "id_wilayah": "196003",
+      "nik": "7602015605990003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86282,
+      "kode_status": "A",
+      "email": "tenri.angkumala@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125542,
+        "id_mahasiswa": 427755,
+        "created_at": "2024-01-28 11:28:33"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 703,
+      "id_user": 27939,
+      "id_prodi": 2,
+      "nama": "Prof. Dr.  Otto Randa Payangan, SE.,M.Si.",
+      "nidn": "0004085802",
+      "nip": "195808041987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "747e5d59-032e-442e-a5db-8af24e7511f5",
+      "pivot": {
+        "id_kelas_kuliah": 125542,
+        "id_dosen": 703
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3260,
+      "id_user": 44550,
+      "id_prodi": 35,
+      "nama": "Dr. Firman Saleh, S.S, S.Pd M.Hum",
+      "nidn": "0903018702",
+      "nip": "198701032020121007",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "7121df99-6ade-4951-b44f-6e7cb55ed986",
+      "pivot": {
+        "id_kelas_kuliah": 125542,
+        "id_dosen": 3260
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2519,
+      "id_user": 11866,
+      "id_prodi": 80,
+      "nama": "Dr. Kurniaty, S.E., M.Si",
+      "nidn": "0901058005",
+      "nip": "198005012019044001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "87653b30-453f-44d8-a24c-9bd90c2d18ec",
+      "pivot": {
+        "id_kelas_kuliah": 125542,
+        "id_dosen": 2519
+      }
+    }
+  ]
+}

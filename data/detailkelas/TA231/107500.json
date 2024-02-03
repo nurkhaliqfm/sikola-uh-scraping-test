@@ -1,0 +1,45 @@
+{
+  "id_prodi": 103,
+  "nama_prodi": "SOSIOLOGI - S2",
+  "id_prodi_semester": 2448,
+  "idnumber_sikola": "39410.107500.103",
+  "shortname_sikola": "TA231-107500",
+  "kode_matkul": "20E03211502",
+  "nama_matkul": "Sosiologi Sumber Daya Manusia",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 894,
+      "id_user": 22532,
+      "id_prodi": 29,
+      "nama": "Prof. Hasbi Marissangan, M.Si., Ph.D",
+      "nidn": "0027086310",
+      "nip": "196308271991031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a48975e9-b875-4ec3-bafa-7df1a688ae05",
+      "pivot": {
+        "id_kelas_kuliah": 107500,
+        "id_dosen": 894
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2029,
+      "id_user": 34504,
+      "id_prodi": 29,
+      "nama": "Dr. Buhari Mengge, M.A",
+      "nidn": "0029056905",
+      "nip": "196905292003121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2843042b-8e1d-4341-b888-c89dc7320021",
+      "pivot": {
+        "id_kelas_kuliah": 107500,
+        "id_dosen": 2029
+      }
+    }
+  ]
+}

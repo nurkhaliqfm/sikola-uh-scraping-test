@@ -1,0 +1,52 @@
+{
+  "id_prodi": 6,
+  "nama_prodi": "PENDIDIKAN DOKTER - S1",
+  "id_prodi_semester": 2372,
+  "idnumber_sikola": "37896.115198.6",
+  "shortname_sikola": "TA231-115198",
+  "kode_matkul": "20C01120305",
+  "nama_matkul": "Sistem Kardiovaskuler",
+  "nama_kelas": "Kardiovaskuler - Kelas Mengulang - 20231",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 15947,
+      "id_user": 22747,
+      "id_prodi": 6,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Ghina Raudhatul Jannah",
+      "nim": "C011191247",
+      "jalan": "Jl. Bina bakti",
+      "rt": 9,
+      "rw": 3,
+      "dusun": "Simpang empat",
+      "kode_pos": "72213",
+      "nisn": "0024849026",
+      "tempat_lahir": "Pare-pare",
+      "tanggal_lahir": "2002-06-12",
+      "telepon": "0",
+      "handphone": "6281389933752",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Sejahtera",
+      "id_wilayah": "150000",
+      "nik": "6310065206020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "ghinacs79@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "7c3ddaf8-1977-43be-af00-5f0b6c2dfe6f",
+      "id_registrasi_mahasiswa_pddikti": "b3e93def-88e4-4b5d-9df8-68b1a9245497",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115198,
+        "id_mahasiswa": 15947,
+        "created_at": "2023-08-04 18:37:25"
+      }
+    }
+  ],
+  "dosens": []
+}

@@ -1,0 +1,140 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2522.108163.5",
+  "shortname_sikola": "TA231-108163",
+  "kode_matkul": "18B01148402",
+  "nama_matkul": "HUKUM PENATAGUNAAN TANAH & LANDREFORM\r\n",
+  "nama_kelas": "HUKUM PENATAGUNAAN TANAH & LANDREFORM",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 143036,
+      "id_user": 41691,
+      "id_prodi": 5,
+      "angkatan": 2020,
+      "nama_mahasiswa": "IMAM HIDAYAT",
+      "nim": "B011201321",
+      "jalan": "BTN maccopa indah blok G.24, Kabupaten Maros.",
+      "rt": 3,
+      "rw": 3,
+      "dusun": "Barambang",
+      "kode_pos": "90516",
+      "nisn": "0021330870",
+      "tempat_lahir": "Maros",
+      "tanggal_lahir": "2002-04-16",
+      "telepon": "6281905354101",
+      "handphone": "6281905354101",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Bonto Matene",
+      "id_wilayah": "190101",
+      "nik": "7309011504020002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "imamhidayat011201321@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "46ab54e8-fa3f-4b95-a692-33e58c98b765",
+      "id_registrasi_mahasiswa_pddikti": "200606e6-2fe7-4054-afbc-f10e21f58f28",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108163,
+        "id_mahasiswa": 143036,
+        "created_at": "2023-08-04 09:25:54"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 142255,
+      "id_user": 41516,
+      "id_prodi": 5,
+      "angkatan": 2020,
+      "nama_mahasiswa": "FAHIRAH ANDINI",
+      "nim": "B011201214",
+      "jalan": "Jl. Sultan Alauddin perum. Residence Alauddin Mas Blok F4 A",
+      "rt": 2,
+      "rw": 11,
+      "dusun": "-",
+      "kode_pos": "90222",
+      "nisn": "0020700079",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-05-07",
+      "telepon": "0411861075",
+      "handphone": "6285299260005",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Pabaeng-baeng",
+      "id_wilayah": "196003",
+      "nik": "7306084705020010",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fahirahandini07@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "90b6a7ee-5944-4174-848f-79a65c858aaf",
+      "id_registrasi_mahasiswa_pddikti": "fce28930-b920-4e26-a2c3-aae7217d6b3f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108163,
+        "id_mahasiswa": 142255,
+        "created_at": "2023-08-16 14:30:42"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1914,
+      "id_user": 6402,
+      "id_prodi": 5,
+      "nama": "Dr. Muhammad Ilham Arisaputra, SH., M.Kn.",
+      "nidn": "0018088403",
+      "nip": "198408182010121005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e2622c88-62e2-4ace-a61b-e1b8e13b4fdb",
+      "pivot": {
+        "id_kelas_kuliah": 108163,
+        "id_dosen": 1914
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1368,
+      "id_user": 32715,
+      "id_prodi": 5,
+      "nama": "Dr. Sri Susyanti Nur, SH., MH.",
+      "nidn": "0023116401",
+      "nip": "196411231990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0eeb229e-07c3-4b1b-a1a6-b95981ed0b51",
+      "pivot": {
+        "id_kelas_kuliah": 108163,
+        "id_dosen": 1368
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2558,
+      "id_user": 25515,
+      "id_prodi": 5,
+      "nama": "A. Suci Wahyuni, S.H., M.Kn.",
+      "nidn": "0013128305",
+      "nip": "198312132019032008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6980c062-4478-4e37-91fc-d0215c41700d",
+      "pivot": {
+        "id_kelas_kuliah": 108163,
+        "id_dosen": 2558
+      }
+    }
+  ]
+}

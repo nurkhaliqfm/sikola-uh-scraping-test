@@ -1,0 +1,61 @@
+{
+  "id_prodi": 261,
+  "nama_prodi": "PROFESI ARSITEK",
+  "id_prodi_semester": 2821,
+  "idnumber_sikola": "44432.120395.261",
+  "shortname_sikola": "TA232-120395",
+  "kode_matkul": "22D02411103",
+  "nama_matkul": "ARSITEKTUR SULAWESI SELATAN",
+  "nama_kelas": "ARSITEKTUR SULAWESI SELATAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1259,
+      "id_user": 29024,
+      "id_prodi": 19,
+      "nama": "Dr. Mohammad Mochsen Sir, ST., MT.",
+      "nidn": "0007046902",
+      "nip": "196904071996031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d4059066-ecd9-4849-b476-3af5f719b11b",
+      "pivot": {
+        "id_kelas_kuliah": 120395,
+        "id_dosen": 1259
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1549,
+      "id_user": 13000,
+      "id_prodi": 19,
+      "nama": "Afifah Harisah, ST., MT, Ph.D",
+      "nidn": "0004087001",
+      "nip": "197008041997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0ee7a847-d45f-41f7-9d75-128a29f8b30c",
+      "pivot": {
+        "id_kelas_kuliah": 120395,
+        "id_dosen": 1549
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1456,
+      "id_user": 15189,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Abdul Mufti Radja, ST., MT.",
+      "nidn": "0004036907",
+      "nip": "196903041999031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0113b15-d2f1-42b1-9b3a-9733f0da9032",
+      "pivot": {
+        "id_kelas_kuliah": 120395,
+        "id_dosen": 1456
+      }
+    }
+  ]
+}

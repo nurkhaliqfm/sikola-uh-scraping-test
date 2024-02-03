@@ -1,0 +1,93 @@
+{
+  "id_prodi": 51,
+  "nama_prodi": "PETERNAKAN - S1",
+  "id_prodi_semester": 2409,
+  "idnumber_sikola": "19685.114880.51",
+  "shortname_sikola": "TA231-114880",
+  "kode_matkul": "365I1103",
+  "nama_matkul": "SISTEM INFORMASI DAN KOMPUTASI",
+  "nama_kelas": "Sistem Informasi dan Komputasi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1248,
+      "id_user": 15161,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Muh. Ridwan, S.Pt., M.Si., IPU",
+      "nidn": "0016077601",
+      "nip": "197606162000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f3b0f20e-890c-420d-8079-e67a9723a54f",
+      "pivot": {
+        "id_kelas_kuliah": 114880,
+        "id_dosen": 1248
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1749,
+      "id_user": 9375,
+      "id_prodi": 51,
+      "nama": "Vidyahwati Tenrisanna, S.Pt., M.Ec., PhD",
+      "nidn": "0031087501",
+      "nip": "197508311999032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "69986416-35e5-4e0f-a894-fe308a53c5c3",
+      "pivot": {
+        "id_kelas_kuliah": 114880,
+        "id_dosen": 1749
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1552,
+      "id_user": 19700,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. A. Amidah Amrawaty, S.Pt.,M.Si., IPM.",
+      "nidn": "0030077201",
+      "nip": "197208302000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4c216b02-db40-4a82-a109-e102989560c1",
+      "pivot": {
+        "id_kelas_kuliah": 114880,
+        "id_dosen": 1552
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1458,
+      "id_user": 22874,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Aslina Asnawi, S.Pt., M.Si., IPM, ASEAN Eng.",
+      "nidn": "0018077601",
+      "nip": "197508062001122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "26287a6e-586b-4187-ac68-9ad368aa41f1",
+      "pivot": {
+        "id_kelas_kuliah": 114880,
+        "id_dosen": 1458
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1506,
+      "id_user": 15918,
+      "id_prodi": 51,
+      "nama": "Dr.  Syahdar Baba, S.Pt.,M.Si.",
+      "nidn": "0017127304",
+      "nip": "197312172003121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41c0e8d1-aa4c-4617-8c48-86d82cca76d7",
+      "pivot": {
+        "id_kelas_kuliah": 114880,
+        "id_dosen": 1506
+      }
+    }
+  ]
+}

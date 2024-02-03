@@ -1,0 +1,69 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2432,
+  "idnumber_sikola": "38154.108360.86",
+  "shortname_sikola": "TA231-108360",
+  "kode_matkul": "20B01312303",
+  "nama_matkul": "Presentasi Makalah Ilmiah Internasional 2",
+  "nama_kelas": "NON TATAP MUKA",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 186674,
+      "id_user": 60720,
+      "id_prodi": 86,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ABDELRAHMAN MOHAMMAD SULAIMAN ALASTTAL",
+      "nim": "B013211039",
+      "jalan": "HUnhas, Ramsis",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "0000",
+      "nisn": "5217746",
+      "tempat_lahir": "KHAN YOUNIS",
+      "tanggal_lahir": "1995-04-29",
+      "telepon": "00970595073076",
+      "handphone": "081355996478",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Ramsis",
+      "id_wilayah": "196000",
+      "nik": "B013211039",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "abdelrahman.alasttal@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e0daf295-197f-44ee-abfe-89b8937f134d",
+      "id_registrasi_mahasiswa_pddikti": "e66f7416-f8e5-4318-8f8a-18f52bac3fc0",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108360,
+        "id_mahasiswa": 186674,
+        "created_at": "2023-08-04 19:48:41"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1001,
+      "id_user": 13616,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Marwati Riza, SH., M.Si.",
+      "nidn": "0024086402",
+      "nip": "196408241991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78a0d126-0b50-46f9-8267-a71959d58def",
+      "pivot": {
+        "id_kelas_kuliah": 108360,
+        "id_dosen": 1001
+      }
+    }
+  ]
+}

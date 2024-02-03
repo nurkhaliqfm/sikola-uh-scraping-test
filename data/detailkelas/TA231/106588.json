@@ -1,0 +1,29 @@
+{
+  "id_prodi": 147,
+  "nama_prodi": "PROFESI DOKTER",
+  "id_prodi_semester": 2487,
+  "idnumber_sikola": "32866.106588.147",
+  "shortname_sikola": "TA231-106588",
+  "kode_matkul": "606C1132",
+  "nama_matkul": "ORTOPEDI DAN TRAUMATOLOGI",
+  "nama_kelas": "ORTHOPEDI PERIODE 9 OKTOBER 2023",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2699,
+      "id_user": 74177,
+      "id_prodi": 129,
+      "nama": "dr. Ira Nong, M.Kes., Sp.OT",
+      "nidn": "8929820021",
+      "nip": "198308102021116001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "50b284fb-7cfe-4101-8090-7c240bae3497",
+      "pivot": {
+        "id_kelas_kuliah": 106588,
+        "id_dosen": 2699
+      }
+    }
+  ]
+}

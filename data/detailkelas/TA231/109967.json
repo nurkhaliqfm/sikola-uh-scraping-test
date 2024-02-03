@@ -1,0 +1,77 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "25836.109967.76",
+  "shortname_sikola": "TA231-109967",
+  "kode_matkul": "18P01310103",
+  "nama_matkul": "Filsafat Ilmu dan Etika Akademik (W)",
+  "nama_kelas": "Filsafat Ilmu dan Etika Akademik - B (S3 Ptn-Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1038,
+      "id_user": 30275,
+      "id_prodi": 155,
+      "nama": "Prof. Dr. Ir. Salengke, M.Sc.",
+      "nidn": "0031126310",
+      "nip": "196312311988111005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5caf7448-62ca-4b07-8d71-2b5742e8b46a",
+      "pivot": {
+        "id_kelas_kuliah": 109967,
+        "id_dosen": 1038
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 971,
+      "id_user": 23186,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Muslim, M.Sc.",
+      "nidn": "0016066801",
+      "nip": "196806161992031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d194bda0-3b4b-4f1a-9f21-8090493844bd",
+      "pivot": {
+        "id_kelas_kuliah": 109967,
+        "id_dosen": 971
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 704,
+      "id_user": 12084,
+      "id_prodi": 69,
+      "nama": "Prof. Dr. Ir. Sudirman, M.P",
+      "nidn": "0012126401",
+      "nip": "196412121989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 109967,
+        "id_dosen": 704
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 966,
+      "id_user": 29409,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Muh. Farid BDR, MP.",
+      "nidn": "0020056702",
+      "nip": "196705201992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b4ebdda8-9f16-4613-86b6-f45173f37cb2",
+      "pivot": {
+        "id_kelas_kuliah": 109967,
+        "id_dosen": 966
+      }
+    }
+  ]
+}

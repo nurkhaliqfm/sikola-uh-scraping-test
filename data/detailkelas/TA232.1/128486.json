@@ -1,0 +1,45 @@
+{
+  "id_prodi": 187,
+  "nama_prodi": "ILMU FARMASI - S3",
+  "id_prodi_semester": 2755,
+  "idnumber_sikola": "35742.128486.187",
+  "shortname_sikola": "TA232-128486",
+  "kode_matkul": "18N04311003",
+  "nama_matkul": "MOLECULAR IMAGING",
+  "nama_kelas": "MOLECULAR IMAGING (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1724,
+      "id_user": 34448,
+      "id_prodi": 73,
+      "nama": "Prof. Yusnita Rifai, S.Si., M.Pharm., Ph.D., Apt",
+      "nidn": "0017117505",
+      "nip": "197511172000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9af50174-cce5-4fd9-b540-fe13a3a4c340",
+      "pivot": {
+        "id_kelas_kuliah": 128486,
+        "id_dosen": 1724
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1597,
+      "id_user": 22423,
+      "id_prodi": 73,
+      "nama": "Dr. Risfah Yulianty, S.Si., M.Si., Apt.",
+      "nidn": "0016077803",
+      "nip": "197807162003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b2c5228c-4098-49ae-a9e8-28b15e5caf6f",
+      "pivot": {
+        "id_kelas_kuliah": 128486,
+        "id_dosen": 1597
+      }
+    }
+  ]
+}

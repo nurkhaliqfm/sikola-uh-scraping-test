@@ -1,0 +1,156 @@
+{
+  "id_prodi": 137,
+  "nama_prodi": "ARSITEKTUR - S2",
+  "id_prodi_semester": 2710,
+  "idnumber_sikola": "31810.118059.137",
+  "shortname_sikola": "TA232-118059",
+  "kode_matkul": "18D04211803",
+  "nama_matkul": "SIMULASI & PEMODELAN STRUKTUR",
+  "nama_kelas": "SIMULASI & PEMODELAN STRUKTUR",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427292,
+      "id_user": 85815,
+      "id_prodi": 137,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD LUTHFI",
+      "nim": "D042232004",
+      "jalan": "POROS PERUMNAS ANTANG",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "Manggala",
+      "kode_pos": "90234",
+      "nisn": "0",
+      "tempat_lahir": "WATAMPONE",
+      "tanggal_lahir": "1994-04-17",
+      "telepon": "0",
+      "handphone": "087722270678",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "MANGGALA",
+      "id_wilayah": "120505",
+      "nik": "7308221704940001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 85815,
+      "kode_status": "A",
+      "email": "luthfyhamdan@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118059,
+        "id_mahasiswa": 427292,
+        "created_at": "2024-01-12 12:01:56"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 425475,
+      "id_user": 85468,
+      "id_prodi": 137,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ARCH DOUNIA KHARMANDA ",
+      "nim": "D042231015",
+      "jalan": "QF9X+WG7, Mawang, Bontomarannu, Gowa Regency, South Sulawesi 92171",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Makassar",
+      "kode_pos": "0000",
+      "nisn": null,
+      "tempat_lahir": "DAMASCUS",
+      "tanggal_lahir": "1995-06-10",
+      "telepon": "00963937221836",
+      "handphone": "082194486925",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Makassar",
+      "id_wilayah": "196000",
+      "nik": "0157210716",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 85468,
+      "kode_status": "A",
+      "email": "dounia.20m@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2795339f-ddad-4842-a8fc-6d83b5078c8b",
+      "id_registrasi_mahasiswa_pddikti": "6ce2ea95-be49-4294-b48c-cb782eddc3d2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118059,
+        "id_mahasiswa": 425475,
+        "created_at": "2024-02-01 21:22:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 118059,
+        "id_dosen": 1454
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 118059,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1670,
+      "id_user": 18194,
+      "id_prodi": 19,
+      "nama": "Dr. Imriyanti, ST., MT.",
+      "nidn": "0008027304",
+      "nip": "197302082006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f618ce8-941f-4871-b850-de9b4ffd1281",
+      "pivot": {
+        "id_kelas_kuliah": 118059,
+        "id_dosen": 1670
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3822,
+      "id_user": 71364,
+      "id_prodi": 165,
+      "nama": "Andi Lolo Sinrang Arisaputra, ST., M.Eng., Ph.D",
+      "nidn": "8980860023",
+      "nip": "7371021502910004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "d90f2508-7d11-4e43-b0a6-c52039bf021e",
+      "pivot": {
+        "id_kelas_kuliah": 118059,
+        "id_dosen": 3822
+      }
+    }
+  ]
+}

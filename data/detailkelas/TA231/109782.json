@@ -1,0 +1,45 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2506,
+  "idnumber_sikola": "41914.109782.169",
+  "shortname_sikola": "TA231-109782",
+  "kode_matkul": "21P11210302",
+  "nama_matkul": "Ekologi Wilayah Pesisir dan Lautan",
+  "nama_kelas": "Ekologi Wilayah Pesisir dan Lautan (PSPT_Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 753,
+      "id_user": 23860,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Ambo Tuwo, DEA.",
+      "nidn": "0018116201",
+      "nip": "196211181987021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0576f604-c848-4f32-b422-e9f55f5e2218",
+      "pivot": {
+        "id_kelas_kuliah": 109782,
+        "id_dosen": 753
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 883,
+      "id_user": 10013,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  A m r a n, ST., M.Si.",
+      "nidn": "0024096707",
+      "nip": "196709241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9cf80578-a4aa-4435-8c26-aefe6dd6378b",
+      "pivot": {
+        "id_kelas_kuliah": 109782,
+        "id_dosen": 883
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 26,
+  "nama_prodi": "ILMU HUB. INTERNASIONAL - S1",
+  "id_prodi_semester": 2621,
+  "idnumber_sikola": "10421.121910.26",
+  "shortname_sikola": "TA232-121910",
+  "kode_matkul": "078U0002",
+  "nama_matkul": "Wawasan Sosial Budaya Maritim",
+  "nama_kelas": "Wawasan Sosial Budaya Maritim dan IPTEKS (Kelas Internasional)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1568,
+      "id_user": 32523,
+      "id_prodi": 26,
+      "nama": "Muhammad Nasir Badu, S.Sos.,M.Hum., Ph.D",
+      "nidn": "0005127304",
+      "nip": "197312051998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cbe51033-a787-4a29-9aad-f575c8021377",
+      "pivot": {
+        "id_kelas_kuliah": 121910,
+        "id_dosen": 1568
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1471,
+      "id_user": 26835,
+      "id_prodi": 26,
+      "nama": "Dr. Seniwati, S.Sos.,M.Hum.",
+      "nidn": "0002027603",
+      "nip": "197602022000122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "608cec89-b233-4ab4-ad9a-781d22be487c",
+      "pivot": {
+        "id_kelas_kuliah": 121910,
+        "id_dosen": 1471
+      }
+    }
+  ]
+}

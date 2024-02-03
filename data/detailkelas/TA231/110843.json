@@ -1,0 +1,93 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2412,
+  "idnumber_sikola": "21386.110843.57",
+  "shortname_sikola": "TA231-110843",
+  "kode_matkul": "107K1012",
+  "nama_matkul": "Dasar Ilmu Kesehatan Masyarakat",
+  "nama_kelas": "DASAR ILMU KESEHATAN MASYARAKAT KELAS A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1681,
+      "id_user": 28675,
+      "id_prodi": 57,
+      "nama": "Dr. Hasnawati Amqam, S.KM., M.Sc.",
+      "nidn": "0018047602",
+      "nip": "197604182005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bb1830e0-be34-4c45-b465-a3a8102e5171",
+      "pivot": {
+        "id_kelas_kuliah": 110843,
+        "id_dosen": 1681
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2007,
+      "id_user": 17524,
+      "id_prodi": 57,
+      "nama": "Dian Saputra Marzuki, SKM.,M.Kes.",
+      "nidn": "0013068801",
+      "nip": "198806132014041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4bd4c788-84e8-4a70-a34b-9066c048c115",
+      "pivot": {
+        "id_kelas_kuliah": 110843,
+        "id_dosen": 2007
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3836,
+      "id_user": 60793,
+      "id_prodi": 57,
+      "nama": "Rosa Devitha Ayu, S.KM., M.P.H",
+      "nidn": "0001089007",
+      "nip": "199008012022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "93f0b8bd-bf24-4c54-856f-29f84a12ede1",
+      "pivot": {
+        "id_kelas_kuliah": 110843,
+        "id_dosen": 3836
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1101,
+      "id_user": 31808,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. Syamsiar S. Russeng, MS.",
+      "nidn": "0021025904",
+      "nip": "195912211987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bf6ff6e8-d59f-4ec5-a7a7-3a3bddd29b2f",
+      "pivot": {
+        "id_kelas_kuliah": 110843,
+        "id_dosen": 1101
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1588,
+      "id_user": 31296,
+      "id_prodi": 57,
+      "nama": "Dr. Rini Anggraeni, SKM., M. Kes.",
+      "nidn": "0011037707",
+      "nip": "197703112002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a84013b4-d298-422c-b4e0-ade78d0c6940",
+      "pivot": {
+        "id_kelas_kuliah": 110843,
+        "id_dosen": 1588
+      }
+    }
+  ]
+}

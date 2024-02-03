@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "25785.127262.76",
+  "shortname_sikola": "TA232-127262",
+  "kode_matkul": "18P01310803",
+  "nama_matkul": "Kelembagaan Pembangunan Pertanian",
+  "nama_kelas": "Kelembagaan Pembangunan Pertanian (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 708,
+      "id_user": 25455,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir.  Darmawan, M.Sc.",
+      "nidn": "0006066301",
+      "nip": "196306061988031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4986613c-e075-4352-b8fb-b986f2715bb0",
+      "pivot": {
+        "id_kelas_kuliah": 127262,
+        "id_dosen": 708
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 962,
+      "id_user": 21756,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Rahmadanih, M.Si.",
+      "nidn": "0027046603",
+      "nip": "196604271991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a83e0b3d-6e59-4369-b0b4-2cd34edef3a2",
+      "pivot": {
+        "id_kelas_kuliah": 127262,
+        "id_dosen": 962
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id_prodi": 266,
+  "nama_prodi": "PARAMEDIK VETERINER - D4",
+  "id_prodi_semester": 2825,
+  "idnumber_sikola": "48558.123249.266",
+  "shortname_sikola": "TA232-123249",
+  "kode_matkul": "23V10610803",
+  "nama_matkul": "Mikrobiologi",
+  "nama_kelas": "Mikrobiologi",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1992,
+      "id_user": 58381,
+      "id_prodi": 146,
+      "nama": "drh. Muhammad Fadhlullah Mursalim, M.Kes",
+      "nidn": "0002028801",
+      "nip": "198802022014041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9507181f-f8cc-4106-bdd6-c10dfb98e4b9",
+      "pivot": {
+        "id_kelas_kuliah": 123249,
+        "id_dosen": 1992
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4165,
+      "id_user": null,
+      "id_prodi": 266,
+      "nama": "drh. Raymond Anthony Joseph Tumanduk, M.biomed.",
+      "nidn": null,
+      "nip": "7371042106930001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123249,
+        "id_dosen": 4165
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1927,
+      "id_user": 32901,
+      "id_prodi": 146,
+      "nama": "Dr. drh. A. Magfira Satya Apada, M.Sc",
+      "nidn": "0007088502",
+      "nip": "198508072010122008",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c7923b08-28d5-4b3a-a7ff-630dcc341495",
+      "pivot": {
+        "id_kelas_kuliah": 123249,
+        "id_dosen": 1927
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3213,
+      "id_user": 33706,
+      "id_prodi": 146,
+      "nama": "Drh. Fedri Rell, M.Si.",
+      "nidn": "0008029004",
+      "nip": "199002082018031001",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "55fc5af0-e3e9-45f3-80a0-e05dd9040330",
+      "pivot": {
+        "id_kelas_kuliah": 123249,
+        "id_dosen": 3213
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4290,
+      "id_user": 85716,
+      "id_prodi": 266,
+      "nama": "Drh. Elphan Augusta, M.Sc",
+      "nidn": null,
+      "nip": "7371111508970009",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123249,
+        "id_dosen": 4290
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4298,
+      "id_user": null,
+      "id_prodi": 266,
+      "nama": "drh. Sri Almarahma, M.Biomed",
+      "nidn": null,
+      "nip": "7316056006940003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123249,
+        "id_dosen": 4298
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4349,
+      "id_user": null,
+      "id_prodi": 266,
+      "nama": "drh. Dewi Mutisari, M.Biomed",
+      "nidn": null,
+      "nip": "3322187005880001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123249,
+        "id_dosen": 4349
+      }
+    }
+  ]
+}

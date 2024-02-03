@@ -1,0 +1,61 @@
+{
+  "id_prodi": 14,
+  "nama_prodi": "TEKNIK PERKAPALAN - S1",
+  "id_prodi_semester": 2610,
+  "idnumber_sikola": "47782.126228.14",
+  "shortname_sikola": "TA232-126228",
+  "kode_matkul": "23D03131303",
+  "nama_matkul": "Analisis Struktur Kapal",
+  "nama_kelas": "Analisa Struktur Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 953,
+      "id_user": 30813,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. Ganding Sitepu, Dipl.Ing.",
+      "nidn": "0025046001",
+      "nip": "196004251988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c03a196-67da-45f0-bff6-f092c091b210",
+      "pivot": {
+        "id_kelas_kuliah": 126228,
+        "id_dosen": 953
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1695,
+      "id_user": 32126,
+      "id_prodi": 14,
+      "nama": "Hamzah,  MT",
+      "nidn": "0018068003",
+      "nip": "198006182005011004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4d8604d6-a94f-421d-a9b1-303977c9a750",
+      "pivot": {
+        "id_kelas_kuliah": 126228,
+        "id_dosen": 1695
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1971,
+      "id_user": 19962,
+      "id_prodi": 14,
+      "nama": "Dr. Eng. A. Ardianti, ST., MT",
+      "nidn": "0026058502",
+      "nip": "198505262012122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6d5e9338-c58d-41aa-82bf-689c018a47de",
+      "pivot": {
+        "id_kelas_kuliah": 126228,
+        "id_dosen": 1971
+      }
+    }
+  ]
+}

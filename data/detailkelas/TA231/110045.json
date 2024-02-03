@@ -1,0 +1,85 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "25797.110045.76",
+  "shortname_sikola": "TA231-110045",
+  "kode_matkul": "18P01312003",
+  "nama_matkul": "Manajemen Perlindungan Tanaman\r\n",
+  "nama_kelas": "Manajemen Perlindungan Tanaman (S3 Ptn-Sem II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 386448,
+      "id_user": 73432,
+      "id_prodi": 76,
+      "angkatan": 2022,
+      "nama_mahasiswa": "ADE SUGIARTI KUMALASARI ",
+      "nim": "P013222005",
+      "jalan": "JALAN LANRAKI ASALEA 2 NO. 12",
+      "rt": 3,
+      "rw": 5,
+      "dusun": "-",
+      "kode_pos": "90241",
+      "nisn": "234643",
+      "tempat_lahir": "PALOPO",
+      "tanggal_lahir": "1987-08-10",
+      "telepon": "0",
+      "handphone": "082394926857",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Berua",
+      "id_wilayah": "196011",
+      "nik": "7306085008870005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "adesugiartikumalasari@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2b898796-ed5f-487d-9de8-12fd1b78a75f",
+      "id_registrasi_mahasiswa_pddikti": "85264b0b-98ee-4526-8fc7-ab1016d7e3db",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110045,
+        "id_mahasiswa": 386448,
+        "created_at": "2023-08-05 21:45:15"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 789,
+      "id_user": 11849,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Itji Diana Daud, MS.",
+      "nidn": "0006066002",
+      "nip": "196006061986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cefdff46-9431-4344-b449-f384fe76c06f",
+      "pivot": {
+        "id_kelas_kuliah": 110045,
+        "id_dosen": 789
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1088,
+      "id_user": 24829,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Ahdin Gassa, M.Sc.",
+      "nidn": "0015056003",
+      "nip": "196005151986091002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "91eb32aa-1230-4660-bb4f-d7435ff2d3d1",
+      "pivot": {
+        "id_kelas_kuliah": 110045,
+        "id_dosen": 1088
+      }
+    }
+  ]
+}

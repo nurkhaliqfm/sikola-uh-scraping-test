@@ -1,0 +1,61 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2639,
+  "idnumber_sikola": "46530.122740.50",
+  "shortname_sikola": "TA232-122740",
+  "kode_matkul": "23U02133420",
+  "nama_matkul": "Pengembangan dan Penguatan Kewirausahaan",
+  "nama_kelas": "Pengembangan dan Penguatan Kewirausahaan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1518,
+      "id_user": 31757,
+      "id_prodi": 50,
+      "nama": "Dr.  Magdalena Litaay, M.Sc.",
+      "nidn": "0029096401",
+      "nip": "196409291989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "093bd2d0-8503-47c7-8c9d-e935c7b0f724",
+      "pivot": {
+        "id_kelas_kuliah": 122740,
+        "id_dosen": 1518
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 936,
+      "id_user": 33446,
+      "id_prodi": 50,
+      "nama": "Dr.  Zohrah., M.Si.",
+      "nidn": "0022035902",
+      "nip": "195903221987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ecf6f0eb-ff6f-4c7b-9bba-bc932fc6c472",
+      "pivot": {
+        "id_kelas_kuliah": 122740,
+        "id_dosen": 936
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1400,
+      "id_user": 34177,
+      "id_prodi": 50,
+      "nama": "Dr. Eddyman, S.Si., M.Si.",
+      "nidn": "0010017002",
+      "nip": "197001101997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15f3c27a-7c51-4ab9-b1d2-5e22bcc9d365",
+      "pivot": {
+        "id_kelas_kuliah": 122740,
+        "id_dosen": 1400
+      }
+    }
+  ]
+}

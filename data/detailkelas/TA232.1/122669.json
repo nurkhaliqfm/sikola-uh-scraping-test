@@ -1,0 +1,85 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "46524.122669.19",
+  "shortname_sikola": "TA232-122669",
+  "kode_matkul": "23U02130202",
+  "nama_matkul": "Manajemen Kegiatan",
+  "nama_kelas": "Project Management",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 163924,
+      "id_user": 57986,
+      "id_prodi": 19,
+      "angkatan": 2021,
+      "nama_mahasiswa": "THULFIQAR MIDHAT KHALAF",
+      "nim": "D051211096",
+      "jalan": "PERINTIS KEMERDEKAAN KM 10",
+      "rt": 4,
+      "rw": 7,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": "D051211096",
+      "tempat_lahir": "IRAQ",
+      "tanggal_lahir": "1997-09-21",
+      "telepon": "081341284301",
+      "handphone": "081341284301",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "1473612041000000",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Zulfiqar97mk@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5de87422-ffd1-48a0-a773-5fd1666f016b",
+      "id_registrasi_mahasiswa_pddikti": "cbd548cd-0d65-4490-a969-75d04d4490a3",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122669,
+        "id_mahasiswa": 163924,
+        "created_at": "2024-01-23 07:53:05"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 122669,
+        "id_dosen": 1454
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 122669,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

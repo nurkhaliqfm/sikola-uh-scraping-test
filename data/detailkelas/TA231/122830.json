@@ -1,0 +1,61 @@
+{
+  "id_prodi": 229,
+  "nama_prodi": "PPDS ILMU PENYAKIT DALAM (Sp2)",
+  "id_prodi_semester": 2562,
+  "idnumber_sikola": "42020.122830.229",
+  "shortname_sikola": "TA231-122830",
+  "kode_matkul": "20C03810102",
+  "nama_matkul": "Kegawatdaruratan IPD",
+  "nama_kelas": "Kegawatdaruratan IPD",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1630,
+      "id_user": 37671,
+      "id_prodi": 6,
+      "nama": "dr Satriawan Abadi, Sp. PD KIC",
+      "nidn": "0025087911",
+      "nip": "197908252005021003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f89dfc9-14dd-4394-b8f5-0b9c7aa1cab9",
+      "pivot": {
+        "id_kelas_kuliah": 122830,
+        "id_dosen": 1630
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1824,
+      "id_user": 34706,
+      "id_prodi": 180,
+      "nama": "Dr. dr. M. Harun Iskandar, SpP(K), SpPD, K-P",
+      "nidn": "0013067505",
+      "nip": "197506132008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c3fa97fb-eeaf-48bd-acf2-7d2914170d79",
+      "pivot": {
+        "id_kelas_kuliah": 122830,
+        "id_dosen": 1824
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3157,
+      "id_user": 37628,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Nu'man AS Daud, Sp.PD., K-GEH",
+      "nidn": null,
+      "nip": "197112142018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 122830,
+        "id_dosen": 3157
+      }
+    }
+  ]
+}

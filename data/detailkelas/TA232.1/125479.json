@@ -1,0 +1,45 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2692,
+  "idnumber_sikola": "39088.125479.119",
+  "shortname_sikola": "TA232-125479",
+  "kode_matkul": "20C10521601",
+  "nama_matkul": "Kardiologi",
+  "nama_kelas": "Kardiologi - 20232",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3675,
+      "id_user": 58273,
+      "id_prodi": 119,
+      "nama": "dr. Mokhammad Ikhsan Nurkholis, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "7371090407800013",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125479,
+        "id_dosen": 3675
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3247,
+      "id_user": null,
+      "id_prodi": 6,
+      "nama": "dr. Aulia Faisal, M.Kes., Sp.A",
+      "nidn": null,
+      "nip": "197603172005021006",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125479,
+        "id_dosen": 3247
+      }
+    }
+  ]
+}

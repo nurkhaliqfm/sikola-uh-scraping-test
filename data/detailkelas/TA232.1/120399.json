@@ -1,0 +1,140 @@
+{
+  "id_prodi": 175,
+  "nama_prodi": "AGROTEKNOLOGI - S2",
+  "id_prodi_semester": 2743,
+  "idnumber_sikola": "37028.120399.175",
+  "shortname_sikola": "TA232-120399",
+  "kode_matkul": "19G01212202",
+  "nama_matkul": "Manajemen Organisme Pengganggu Tanaman",
+  "nama_kelas": "Manajemen Organisme Pengganggu Tanaman (Kelas A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427331,
+      "id_user": 85854,
+      "id_prodi": 175,
+      "angkatan": 2023,
+      "nama_mahasiswa": "VERA SAFITRI",
+      "nim": "G012232001",
+      "jalan": "JL. SOPPENG",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90241",
+      "nisn": "-",
+      "tempat_lahir": "MARE",
+      "tanggal_lahir": "2001-01-01",
+      "telepon": "0",
+      "handphone": "082194708049",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "SUDIANG RAYA",
+      "id_wilayah": "196011",
+      "nik": "7371117012000006",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 85854,
+      "kode_status": "A",
+      "email": "verasafitri962@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120399,
+        "id_mahasiswa": 427331,
+        "created_at": "2024-01-12 21:34:11"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427372,
+      "id_user": 85895,
+      "id_prodi": 175,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUHAMMAD AKRAM",
+      "nim": "G012232005",
+      "jalan": "SAELE",
+      "rt": 2,
+      "rw": 3,
+      "dusun": "Saele",
+      "kode_pos": "92975",
+      "nisn": "-",
+      "tempat_lahir": "LUWU TIMUR",
+      "tanggal_lahir": "2000-04-21",
+      "telepon": "0",
+      "handphone": "085299371901",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "DESA ASANA",
+      "id_wilayah": "192601",
+      "nik": "7324072104020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 85895,
+      "kode_status": "A",
+      "email": "muhakram2104@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120399,
+        "id_mahasiswa": 427372,
+        "created_at": "2024-01-13 05:12:28"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 701,
+      "id_user": 29155,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Sylvia Sjam, MS.",
+      "nidn": "0008095701",
+      "nip": "195709081983032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "28955330-5742-4cb8-bcfe-d6ed57ba074b",
+      "pivot": {
+        "id_kelas_kuliah": 120399,
+        "id_dosen": 701
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 764,
+      "id_user": 24927,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Elkawakib Syam'un, MP.",
+      "nidn": "0018035603",
+      "nip": "195603181985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "657baf28-e7ac-4cde-91da-c3876c20cf4b",
+      "pivot": {
+        "id_kelas_kuliah": 120399,
+        "id_dosen": 764
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1648,
+      "id_user": 26982,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir.  Andi Nasruddin, M.Sc.",
+      "nidn": "0031126099",
+      "nip": "196012311986011011",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1add7ce7-1583-43e6-bc56-88da8c811105",
+      "pivot": {
+        "id_kelas_kuliah": 120399,
+        "id_dosen": 1648
+      }
+    }
+  ]
+}

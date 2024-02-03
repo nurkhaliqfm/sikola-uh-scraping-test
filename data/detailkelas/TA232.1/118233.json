@@ -1,0 +1,29 @@
+{
+  "id_prodi": 217,
+  "nama_prodi": "KEDOKTERAN GIGI - S2",
+  "id_prodi_semester": 2782,
+  "idnumber_sikola": "39542.118233.217",
+  "shortname_sikola": "TA232-118233",
+  "kode_matkul": "20J08214202",
+  "nama_matkul": "Seminar Proposal Penelitian Tesis",
+  "nama_kelas": "SEMINAR PROPOSAL PENELITIAN TESIS (KONSENTRASI PERIODONSIA)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1179,
+      "id_user": 35537,
+      "id_prodi": 55,
+      "nama": "Prof. Dr. drg. Sri Oktawati, Sp.Perio.",
+      "nidn": "0003106401",
+      "nip": "196410031990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "152df927-936a-4272-a364-aaab0f4c30d0",
+      "pivot": {
+        "id_kelas_kuliah": 118233,
+        "id_dosen": 1179
+      }
+    }
+  ]
+}

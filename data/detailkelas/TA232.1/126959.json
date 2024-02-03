@@ -1,0 +1,61 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30405.126959.122",
+  "shortname_sikola": "TA232-126959",
+  "kode_matkul": "0403C20801",
+  "nama_matkul": "GINJAL, HIPERTENSI DAN RESPIRASI II",
+  "nama_kelas": "GInjal, Hipertensi dan Respirasi II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2958,
+      "id_user": 37504,
+      "id_prodi": 122,
+      "nama": "dr. Fitriani Mangarengi, SpPK(K)",
+      "nidn": null,
+      "nip": "196302232018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126959,
+        "id_dosen": 2958
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1775,
+      "id_user": 34501,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Yuyun Widaningsih,  M.Kes.,Sp.PK",
+      "nidn": "0005097906",
+      "nip": "197909052006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d8369f7f-9482-4944-9c5b-b2e1421b9d54",
+      "pivot": {
+        "id_kelas_kuliah": 126959,
+        "id_dosen": 1775
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2982,
+      "id_user": null,
+      "id_prodi": 122,
+      "nama": "dr. Ani Kartini, M.Kes, SpPK",
+      "nidn": null,
+      "nip": "197304212000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126959,
+        "id_dosen": 2982
+      }
+    }
+  ]
+}

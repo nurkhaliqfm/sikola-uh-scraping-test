@@ -1,0 +1,29 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "44619.110143.16",
+  "shortname_sikola": "TA231-110143",
+  "kode_matkul": "23H01110103",
+  "nama_matkul": "Matematika Dasar I",
+  "nama_kelas": "Matematika Dasar I Kelas C",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1249,
+      "id_user": 19255,
+      "id_prodi": 45,
+      "nama": "Jusmawati Massalesse, S.Si.,M.Si.",
+      "nidn": "0001066802",
+      "nip": "196806011995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b532e68d-c45b-4eb8-9c8d-338ca4af3337",
+      "pivot": {
+        "id_kelas_kuliah": 110143,
+        "id_dosen": 1249
+      }
+    }
+  ]
+}

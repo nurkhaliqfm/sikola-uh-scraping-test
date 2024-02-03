@@ -1,0 +1,61 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2702,
+  "idnumber_sikola": "38909.125631.129",
+  "shortname_sikola": "TA232-125631",
+  "kode_matkul": "20C14530502",
+  "nama_matkul": "SPINE 1",
+  "nama_kelas": "Spine 1_2023_2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 718,
+      "id_user": 37648,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Idrus A. Paturusi, Sp.B., Sp.BO.",
+      "nidn": "8910020021",
+      "nip": "195008311978031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "223d7ead-11e6-4a64-a79d-862d70135a74",
+      "pivot": {
+        "id_kelas_kuliah": 125631,
+        "id_dosen": 718
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1888,
+      "id_user": 37553,
+      "id_prodi": 6,
+      "nama": "dr.  Jainal Arifin, Sp.OT., M.Kes",
+      "nidn": "0011117508",
+      "nip": "197511112009121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "76ae72a6-575e-4eb7-b725-02cad30d7c2c",
+      "pivot": {
+        "id_kelas_kuliah": 125631,
+        "id_dosen": 1888
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2494,
+      "id_user": 33748,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Karya Triko Biakto, Sp.OT(K)",
+      "nidn": "8815910016",
+      "nip": "196510052018015002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1eac6d6-6dbb-4394-9b41-9fa75516ce3d",
+      "pivot": {
+        "id_kelas_kuliah": 125631,
+        "id_dosen": 2494
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id_prodi": 178,
+  "nama_prodi": "PPDS - ILMU PENYAKIT JANTUNG DAN PEMBULUH DARAH",
+  "id_prodi_semester": 2746,
+  "idnumber_sikola": "35386.128047.178",
+  "shortname_sikola": "TA232-128047",
+  "kode_matkul": "0701C21603",
+  "nama_matkul": "KARDIOLOGI LANJUT A (STASE CHIEF BANGSAL KARDIOLOGI)",
+  "nama_kelas": "Kardiologi lanjut A smtr 7 (2018)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 727,
+      "id_user": 34442,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Peter Kabo, Ph.D., Sp.FK.",
+      "nidn": "8923260022",
+      "nip": "195003291976121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "438cbbd6-56af-49f1-b3db-b7fe461dab95",
+      "pivot": {
+        "id_kelas_kuliah": 128047,
+        "id_dosen": 727
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2898,
+      "id_user": 34779,
+      "id_prodi": 178,
+      "nama": "dr. Pendrik Tandean , SpPD-KKV",
+      "nidn": null,
+      "nip": "196003252018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128047,
+        "id_dosen": 2898
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2897,
+      "id_user": 37612,
+      "id_prodi": 178,
+      "nama": "Dr. dr. Khalid Saleh, SpPD-KKV, Mars",
+      "nidn": null,
+      "nip": "196104042018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128047,
+        "id_dosen": 2897
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2895,
+      "id_user": null,
+      "id_prodi": 178,
+      "nama": "Prof. Dr. dr. Ali Aspar Mappahya, SpPD, SpJP(K)",
+      "nidn": null,
+      "nip": "7371072006450002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128047,
+        "id_dosen": 2895
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1722,
+      "id_user": 20711,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Idar Mappangara, Sp.PD, SpJP",
+      "nidn": "0021076611",
+      "nip": "196607211996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "90d4d749-7477-43fa-8ab8-6b3fe0879fa5",
+      "pivot": {
+        "id_kelas_kuliah": 128047,
+        "id_dosen": 1722
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1022,
+      "id_user": 34265,
+      "id_prodi": 6,
+      "nama": "dr. Muzakkir Amir, Sp.JP(K)",
+      "nidn": "0010087109",
+      "nip": "197108102000121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "21f838f0-7b22-45a1-9735-063a2f1dcc8b",
+      "pivot": {
+        "id_kelas_kuliah": 128047,
+        "id_dosen": 1022
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2896,
+      "id_user": 56497,
+      "id_prodi": 178,
+      "nama": "Dr. dr. Abdul Hakim Alkatiri , SpJP(K)",
+      "nidn": "8875920016",
+      "nip": "196807082018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f92d4d52-a12f-45bf-ae4e-0d3decb604e1",
+      "pivot": {
+        "id_kelas_kuliah": 128047,
+        "id_dosen": 2896
+      }
+    }
+  ]
+}

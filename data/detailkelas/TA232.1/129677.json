@@ -1,0 +1,117 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "48841.129677.17",
+  "shortname_sikola": "TA232-129677",
+  "kode_matkul": "23D04136302",
+  "nama_matkul": "Perancangan Elektroteknik 1",
+  "nama_kelas": "Perancangan   Elektroteknik /  Kelas D -  di Lab Telematika Radar  dan Satelitdan Satelit",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 152864,
+      "id_user": 49047,
+      "id_prodi": 17,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MOHAMMAD DZAUQY ZULFIQAR MANABA",
+      "nim": "D041211107",
+      "jalan": "JL.RACING CENTRE NO.32 KOTA MAKASSAR PROV. SULAWESI SELATAN 90231",
+      "rt": 6,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90231",
+      "nisn": "0033591463",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2003-01-13",
+      "telepon": "0",
+      "handphone": "08114586695",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KARAMPUANG",
+      "id_wilayah": "196010",
+      "nik": "7371091301030009",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "dzauqyzulfikarmanaba@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3cd353ef-3f84-40c7-9fd7-a06c0dd973bc",
+      "id_registrasi_mahasiswa_pddikti": "7c87ffb6-6117-49d0-be57-65d89d508ebc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129677,
+        "id_mahasiswa": 152864,
+        "created_at": "2024-02-02 10:25:29"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 813,
+      "id_user": 28164,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Syafruddin Syarif, MT.",
+      "nidn": "0025116116",
+      "nip": "196111251988021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e4c5c7af-d12c-40f4-bd92-bd486e384a4f",
+      "pivot": {
+        "id_kelas_kuliah": 129677,
+        "id_dosen": 813
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 827,
+      "id_user": 17599,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir.  Andani, MT.",
+      "nidn": "0531126002",
+      "nip": "196012311987031022",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41633592-f13b-4062-99dc-2c91d5a10984",
+      "pivot": {
+        "id_kelas_kuliah": 129677,
+        "id_dosen": 827
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1575,
+      "id_user": 19608,
+      "id_prodi": 17,
+      "nama": "Dr. Eng. Ir Wardi, ST., M.Eng.",
+      "nidn": "0028087203",
+      "nip": "197208281999031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b2d9603e-82a4-439e-98ee-32d4ea1b58cc",
+      "pivot": {
+        "id_kelas_kuliah": 129677,
+        "id_dosen": 1575
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2196,
+      "id_user": 33490,
+      "id_prodi": 17,
+      "nama": "Dr. Ir.  Zulfajri Basri Hasanuddin, M.Eng.",
+      "nidn": "0024016905",
+      "nip": "196901241993031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "396573ba-e683-41f9-8f53-bbc5e358b0ce",
+      "pivot": {
+        "id_kelas_kuliah": 129677,
+        "id_dosen": 2196
+      }
+    }
+  ]
+}

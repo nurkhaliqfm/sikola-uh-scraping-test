@@ -1,0 +1,69 @@
+{
+  "id_prodi": 94,
+  "nama_prodi": "TEKNIK SIPIL - S3",
+  "id_prodi_semester": 2439,
+  "idnumber_sikola": "27480.112763.94",
+  "shortname_sikola": "TA231-112763",
+  "kode_matkul": "18D01330509",
+  "nama_matkul": "DISERTASI DAN UJIAN DISERTASI",
+  "nama_kelas": "DISERTASI DAN UJIAN DISERTASI (RISET)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 143735,
+      "id_user": 44894,
+      "id_prodi": 94,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NURUL MARFU'AH AS",
+      "nim": "D013201011",
+      "jalan": "KOMP.MANGASA PERMAI BLOK Q NO.9",
+      "rt": 5,
+      "rw": 6,
+      "dusun": "-",
+      "kode_pos": "90221",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1997-02-22",
+      "telepon": "0",
+      "handphone": "082189794918",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Gunung Sari",
+      "id_wilayah": "196013",
+      "nik": "7371136202970001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nurulmarfuah.nm@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8821fdc9-7f50-4484-96af-8c7896073e81",
+      "id_registrasi_mahasiswa_pddikti": "d206041a-d77a-4915-86d2-08a4b20ae028",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112763,
+        "id_mahasiswa": 143735,
+        "created_at": "2023-08-19 12:56:38"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1416,
+      "id_user": 19372,
+      "id_prodi": 10,
+      "nama": "Prof. Dr. Eng. Rita Irmawaty, ST., MT.",
+      "nidn": "0019067202",
+      "nip": "197206192000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1fe2926a-19d8-4b94-9673-9a34bab5e607",
+      "pivot": {
+        "id_kelas_kuliah": 112763,
+        "id_dosen": 1416
+      }
+    }
+  ]
+}

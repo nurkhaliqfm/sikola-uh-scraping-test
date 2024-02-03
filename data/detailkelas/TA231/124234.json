@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46509.124234.50",
+  "shortname_sikola": "TA231-124234",
+  "kode_matkul": "23U02131102",
+  "nama_matkul": "Kepemimpinan Inovatif",
+  "nama_kelas": "Kepemimpinan Inovatif",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1202,
+      "id_user": 29454,
+      "id_prodi": 50,
+      "nama": "Prof. Dr. Fahruddin, M.Si.",
+      "nidn": "0015096501",
+      "nip": "196509151991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73261e22-a194-4536-9a88-7c012eec58ba",
+      "pivot": {
+        "id_kelas_kuliah": 124234,
+        "id_dosen": 1202
+      }
+    }
+  ]
+}

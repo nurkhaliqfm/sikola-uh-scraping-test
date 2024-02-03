@@ -1,0 +1,101 @@
+{
+  "id_prodi": 118,
+  "nama_prodi": "PPDS ILMU PENYAKIT DALAM",
+  "id_prodi_semester": 2460,
+  "idnumber_sikola": "29894.103211.118",
+  "shortname_sikola": "TA231-103211",
+  "kode_matkul": "0702C20405",
+  "nama_matkul": "DIVISI REUMATOLOGI",
+  "nama_kelas": "Reumatologi 23",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 135354,
+      "id_user": 35958,
+      "id_prodi": 118,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD ZULFITRAH",
+      "nim": "C015201006",
+      "jalan": "CHAIRIL ANWAR",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "93118",
+      "nisn": null,
+      "tempat_lahir": "USUKU BUTON",
+      "tanggal_lahir": "1989-05-02",
+      "telepon": "0",
+      "handphone": "082296664306",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Wua wua",
+      "id_wilayah": "206009",
+      "nik": "7471090205890001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Fitrahzulm@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0e019252-b048-43ff-9f93-8a6ad6c2d316",
+      "id_registrasi_mahasiswa_pddikti": "c5953c32-d795-4776-89a6-ce1fa846530a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103211,
+        "id_mahasiswa": 135354,
+        "created_at": "2023-07-25 13:39:16"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3148,
+      "id_user": 37563,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Faridin HP, Sp.PD., K-R",
+      "nidn": "8839620016",
+      "nip": "196306182018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f9cfbd39-abc1-48c5-825a-da5126fddf72",
+      "pivot": {
+        "id_kelas_kuliah": 103211,
+        "id_dosen": 3148
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1784,
+      "id_user": 37246,
+      "id_prodi": 6,
+      "nama": "Dr. dr.  Femi Syahriani,  S.Ked.,Sp.PD-KR",
+      "nidn": "0021047505",
+      "nip": "197504212006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9cb7239c-de0f-40bb-a97c-bda684c0770f",
+      "pivot": {
+        "id_kelas_kuliah": 103211,
+        "id_dosen": 1784
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1878,
+      "id_user": 34359,
+      "id_prodi": 6,
+      "nama": "dr. Endy Adnan, Sp.PD., Ph.D, K-R",
+      "nidn": "0001017716",
+      "nip": "197701012009121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a1590401-2c8d-493e-b9eb-df836c436f62",
+      "pivot": {
+        "id_kelas_kuliah": 103211,
+        "id_dosen": 1878
+      }
+    }
+  ]
+}

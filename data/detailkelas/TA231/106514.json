@@ -1,0 +1,69 @@
+{
+  "id_prodi": 120,
+  "nama_prodi": "PPDS ILMU PENYAKIT THT",
+  "id_prodi_semester": 2462,
+  "idnumber_sikola": "30211.106514.120",
+  "shortname_sikola": "TA231-106514",
+  "kode_matkul": "0123C20602",
+  "nama_matkul": "STASE DEPARTEMEN RADIOLOGI",
+  "nama_kelas": "Stase Departemen Radiologi, Kelas B 20231 (Semester 1)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 131306,
+      "id_user": 27252,
+      "id_prodi": 120,
+      "angkatan": 2019,
+      "nama_mahasiswa": "HERBERT MOSSES HANAYA TRIOSAH",
+      "nim": "C035192001",
+      "jalan": "JL. SERSAN ANNING NO 50 Taman siliwangi blok H no 1",
+      "rt": 5,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "16431",
+      "nisn": null,
+      "tempat_lahir": "DEPOK",
+      "tanggal_lahir": "1988-06-27",
+      "telepon": "081283831724",
+      "handphone": "081290830009",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Depok",
+      "id_wilayah": "026602",
+      "nik": "3276012706870009",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "herbertmosses@live.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "14b4159f-e70b-4170-b74e-ffd04bc76fe2",
+      "id_registrasi_mahasiswa_pddikti": "0f8d0f11-e8c4-46a8-9bb1-68a53964e7ca",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106514,
+        "id_mahasiswa": 131306,
+        "created_at": "2023-08-02 13:37:39"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1849,
+      "id_user": 9811,
+      "id_prodi": 6,
+      "nama": "dr. Rafikah Rauf, M.Kes., Sp.Rad (K)",
+      "nidn": "0025058205",
+      "nip": "198205252008122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d43af6a-7074-4ff1-aa92-c34e2f2844c0",
+      "pivot": {
+        "id_kelas_kuliah": 106514,
+        "id_dosen": 1849
+      }
+    }
+  ]
+}

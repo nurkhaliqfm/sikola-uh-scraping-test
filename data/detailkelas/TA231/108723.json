@@ -1,0 +1,101 @@
+{
+  "id_prodi": 77,
+  "nama_prodi": "KEHUTANAN - S2",
+  "id_prodi_semester": 2424,
+  "idnumber_sikola": "44144.108723.77",
+  "shortname_sikola": "TA231-108723",
+  "kode_matkul": "21M01211203",
+  "nama_matkul": "BIOTEKNOLOGI TERAPAN",
+  "nama_kelas": "BIOTEKNOLOGI TERAPAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421297,
+      "id_user": 74540,
+      "id_prodi": 77,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ALI HASAN SALMAN",
+      "nim": "M012231005",
+      "jalan": "BTN POLINDAH BLOK B NO. 1",
+      "rt": 3,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90652",
+      "nisn": null,
+      "tempat_lahir": "PANGKEP",
+      "tanggal_lahir": "1999-08-19",
+      "telepon": "0",
+      "handphone": "085171505458",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Mandalle",
+      "id_wilayah": "190212",
+      "nik": "7310111908990001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "alihasansalman1213@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c6bf7341-d6ec-4744-9404-631e3f3f5940",
+      "id_registrasi_mahasiswa_pddikti": "59b7c237-b666-4876-bd04-65b8a32a027c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108723,
+        "id_mahasiswa": 421297,
+        "created_at": "2023-08-16 13:41:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 778,
+      "id_user": 10452,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Muh. Restu, MP.",
+      "nidn": "0004096503",
+      "nip": "196509041992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4511401c-5624-4872-989e-d7a20202c4d5",
+      "pivot": {
+        "id_kelas_kuliah": 108723,
+        "id_dosen": 778
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2346,
+      "id_user": 12970,
+      "id_prodi": 71,
+      "nama": "Ir. Mukrimin, S.Hut., MP., Ph.D",
+      "nidn": "0009027802",
+      "nip": "197802092008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f41561c6-e7e3-4209-aaad-c624cf12869d",
+      "pivot": {
+        "id_kelas_kuliah": 108723,
+        "id_dosen": 2346
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2069,
+      "id_user": 10520,
+      "id_prodi": 71,
+      "nama": "Dr. Siti Halimah Larekeng, S.P., M.P",
+      "nidn": "0909028201",
+      "nip": "198202092015042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "104d92ca-1c4c-45ab-9158-6ce5b3ec21dc",
+      "pivot": {
+        "id_kelas_kuliah": 108723,
+        "id_dosen": 2069
+      }
+    }
+  ]
+}

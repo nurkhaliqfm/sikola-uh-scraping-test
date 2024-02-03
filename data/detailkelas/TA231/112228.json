@@ -1,0 +1,61 @@
+{
+  "id_prodi": 70,
+  "nama_prodi": "AGROBISNIS PERIKANAN - S1",
+  "id_prodi_semester": 2418,
+  "idnumber_sikola": "46727.112228.70",
+  "shortname_sikola": "TA231-112228",
+  "kode_matkul": "23L04131003",
+  "nama_matkul": "Manajemen dan Program Penyuluhan Perikanan",
+  "nama_kelas": "Manajemen dan Program Penyuluhan Perikanan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1866,
+      "id_user": 30786,
+      "id_prodi": 70,
+      "nama": "Dr. Abd. Wahid, S.Pi.,M.Si.",
+      "nidn": "0010127107",
+      "nip": "197110122002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "aedc81b8-1b5b-4200-9432-de40c70c7e7e",
+      "pivot": {
+        "id_kelas_kuliah": 112228,
+        "id_dosen": 1866
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2531,
+      "id_user": 19293,
+      "id_prodi": 70,
+      "nama": "Muhammad Dalvi Mustafa, S.Pi., M.Sc.",
+      "nidn": "0023048801",
+      "nip": "198804232019043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6217acd3-df62-41a4-96e4-5eab433906dd",
+      "pivot": {
+        "id_kelas_kuliah": 112228,
+        "id_dosen": 2531
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2063,
+      "id_user": 33174,
+      "id_prodi": 70,
+      "nama": "Arie Syahruni Cangara, S.Pi., M.Si",
+      "nidn": "0913018307",
+      "nip": "198301132015042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24380dc4-d154-4a3e-836b-f626204988d3",
+      "pivot": {
+        "id_kelas_kuliah": 112228,
+        "id_dosen": 2063
+      }
+    }
+  ]
+}

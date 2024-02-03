@@ -1,0 +1,61 @@
+{
+  "id_prodi": 195,
+  "nama_prodi": "KEHUTANAN - S3",
+  "id_prodi_semester": 2762,
+  "idnumber_sikola": "35974.128251.195",
+  "shortname_sikola": "TA232-128251",
+  "kode_matkul": "19M03311103",
+  "nama_matkul": "PENGAMBILAN KEPUTUSAN DALAM PENGELOLAAN SDHL",
+  "nama_kelas": "PENGAMBILAN KEPUTUSAN DALAM PENGELOLAAN SDHL",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1491,
+      "id_user": 34036,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Syamsu Rijal, S.Hut., M.Si., IPU",
+      "nidn": "0008017706",
+      "nip": "197701082003121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d295b214-6f27-4fc3-bc03-f21adc30a275",
+      "pivot": {
+        "id_kelas_kuliah": 128251,
+        "id_dosen": 1491
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2111,
+      "id_user": 34338,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Daud Malamassam, M.Agr., IPU",
+      "nidn": "0009025401",
+      "nip": "195402091978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4eb65c2c-3656-4467-99b0-6102b5c3df78",
+      "pivot": {
+        "id_kelas_kuliah": 128251,
+        "id_dosen": 2111
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1097,
+      "id_user": 26651,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Roland Alexander Barkey",
+      "nidn": "8842723420",
+      "nip": "195406141981031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "60e28e8d-1d85-490b-a54d-06f0c38dcac9",
+      "pivot": {
+        "id_kelas_kuliah": 128251,
+        "id_dosen": 1097
+      }
+    }
+  ]
+}

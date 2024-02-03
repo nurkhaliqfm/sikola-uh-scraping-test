@@ -1,0 +1,140 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2737,
+  "idnumber_sikola": "41917.128151.169",
+  "shortname_sikola": "TA232-128151",
+  "kode_matkul": "21P11210603",
+  "nama_matkul": "Konservasi Laut",
+  "nama_kelas": "Konservasi Laut (PSPT_Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427487,
+      "id_user": 86010,
+      "id_prodi": 169,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NURUL AULIA ANANDA",
+      "nim": "P112232002",
+      "jalan": "SEJATI UNHAS",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "00000",
+      "tempat_lahir": "SENTANI",
+      "tanggal_lahir": "1999-09-03",
+      "telepon": "0",
+      "handphone": "081241063740",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "TAMALANREA INDAH",
+      "id_wilayah": "196012",
+      "nik": "7317144309990001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86010,
+      "kode_status": "A",
+      "email": "nurulauliaananda9@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128151,
+        "id_mahasiswa": 427487,
+        "created_at": "2024-01-28 19:22:14"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 429100,
+      "id_user": 87451,
+      "id_prodi": 169,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NUR WAHIDA",
+      "nim": "P112232003",
+      "jalan": "JL. HASANUDDIN IRIGASI",
+      "rt": null,
+      "rw": null,
+      "dusun": null,
+      "kode_pos": null,
+      "nisn": null,
+      "tempat_lahir": "BONLONOMPO",
+      "tanggal_lahir": null,
+      "telepon": null,
+      "handphone": "085340307218",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": null,
+      "id_wilayah": null,
+      "nik": "9109014911940003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 99,
+      "kode_status": "A",
+      "email": null,
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": "085340307218",
+      "pivot": {
+        "id_kelas_kuliah": 128151,
+        "id_mahasiswa": 429100,
+        "created_at": "2024-01-31 14:36:26"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2132,
+      "id_user": 33367,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Andi Niartiningsih, MP.",
+      "nidn": "0001126104",
+      "nip": "196112011987032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "59f00861-c8b6-447e-9f64-b4c507bd8d23",
+      "pivot": {
+        "id_kelas_kuliah": 128151,
+        "id_dosen": 2132
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 904,
+      "id_user": 10571,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Abdul Haris, M.Si.",
+      "nidn": "0009126503",
+      "nip": "196512091992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38e2a3cf-7979-4416-8090-fa7732bcc39a",
+      "pivot": {
+        "id_kelas_kuliah": 128151,
+        "id_dosen": 904
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3593,
+      "id_user": 60681,
+      "id_prodi": 169,
+      "nama": "Dr. Athira Rinandha Eragradini GP., S.Pi., M.Si",
+      "nidn": "0024128808",
+      "nip": "198812242022044001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "f42c6713-3c89-4a36-a3bd-67f00da69fa1",
+      "pivot": {
+        "id_kelas_kuliah": 128151,
+        "id_dosen": 3593
+      }
+    }
+  ]
+}

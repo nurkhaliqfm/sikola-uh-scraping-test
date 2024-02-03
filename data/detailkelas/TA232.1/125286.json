@@ -1,0 +1,101 @@
+{
+  "id_prodi": 75,
+  "nama_prodi": "SISTEM-SISTEM PERTANIAN - S2",
+  "id_prodi_semester": 2653,
+  "idnumber_sikola": "25598.125286.75",
+  "shortname_sikola": "TA232-125286",
+  "kode_matkul": "18P01211503",
+  "nama_matkul": "Karakteristik dan Pengelolaan Lahan Tropik\r\n",
+  "nama_kelas": "Karakteristik dan Pengolahan Lahan Tropik (P) (SSP)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421722,
+      "id_user": 82756,
+      "id_prodi": 75,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RIRIN DYAH RAHAYU BIRINGKANAE",
+      "nim": "P012231001",
+      "jalan": "Jl.  Poros Kariango, Perumahan BSS Land Mandai blok C7, Kabupaten Maros, Sulsel.",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Panassakkang",
+      "kode_pos": "90552",
+      "nisn": null,
+      "tempat_lahir": "REMBON",
+      "tanggal_lahir": "1993-02-28",
+      "telepon": "0",
+      "handphone": "082291203953",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "Kurusumange",
+      "id_wilayah": "190105",
+      "nik": "7318206802930001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ririndurahayu@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8d746f78-1ded-4818-b5f7-edb7067d18ad",
+      "id_registrasi_mahasiswa_pddikti": "c705fd73-2049-4299-9f8a-4104811e7170",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125286,
+        "id_mahasiswa": 421722,
+        "created_at": "2024-01-22 11:51:53"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1004,
+      "id_user": 16816,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Kaimuddin, M.Si.",
+      "nidn": "0012056001",
+      "nip": "196005121989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "53f7d302-a492-4027-b4ec-a9a7e4bc8f3c",
+      "pivot": {
+        "id_kelas_kuliah": 125286,
+        "id_dosen": 1004
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1713,
+      "id_user": 27218,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Abd. Haris B., M.Si.",
+      "nidn": "0008116707",
+      "nip": "196708111994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "de4cc5e8-8cd6-406a-abd6-630583f5cedf",
+      "pivot": {
+        "id_kelas_kuliah": 125286,
+        "id_dosen": 1713
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1486,
+      "id_user": 20248,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Burhanuddin Rasyid, M.Sc",
+      "nidn": "0021076401",
+      "nip": "196407211990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8ed79384-f4ab-4d47-94ba-844afd02025c",
+      "pivot": {
+        "id_kelas_kuliah": 125286,
+        "id_dosen": 1486
+      }
+    }
+  ]
+}

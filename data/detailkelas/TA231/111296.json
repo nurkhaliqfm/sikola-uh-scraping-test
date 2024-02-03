@@ -1,0 +1,45 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "45633.111296.19",
+  "shortname_sikola": "TA231-111296",
+  "kode_matkul": "23D05131203",
+  "nama_matkul": "Desain & Simulasi Termal",
+  "nama_kelas": "Design and Simulation of Thermal",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1227,
+      "id_user": 17220,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Rosady Mulyadi, ST., MT.",
+      "nidn": "0010087001",
+      "nip": "197008101998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c5ca569-9daf-42b2-863d-dbaa2c1e7189",
+      "pivot": {
+        "id_kelas_kuliah": 111296,
+        "id_dosen": 1227
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1581,
+      "id_user": 20337,
+      "id_prodi": 19,
+      "nama": "Dr. Eng. Asniawaty, ST., MT.",
+      "nidn": "0025097103",
+      "nip": "197109251999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "84165af9-44e5-440c-86d6-565a2078e2df",
+      "pivot": {
+        "id_kelas_kuliah": 111296,
+        "id_dosen": 1581
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id_prodi": 190,
+  "nama_prodi": "SOSIOLOGI - S3",
+  "id_prodi_semester": 2757,
+  "idnumber_sikola": "35850.122920.190",
+  "shortname_sikola": "TA232-122920",
+  "kode_matkul": "20E04310703",
+  "nama_matkul": "GENDER DAN PEMBANGUNAN",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 416912,
+      "id_user": 82338,
+      "id_prodi": 190,
+      "angkatan": 2023,
+      "nama_mahasiswa": "LENI GUSTIAWATI",
+      "nim": "E043231001",
+      "jalan": "JL. KEJAYAAN TIMUR IX BTP Blok i No. 214",
+      "rt": 6,
+      "rw": 12,
+      "dusun": "Buntusu",
+      "kode_pos": "90240",
+      "nisn": "E043231001",
+      "tempat_lahir": "BIAK",
+      "tanggal_lahir": "1986-08-14",
+      "telepon": "0816241011",
+      "handphone": "0816241011",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Buntusu",
+      "id_wilayah": "196012",
+      "nik": "7371145408860010",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "leannymarissangan@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "fda89cc7-955f-4d81-9088-e90fb21404ee",
+      "id_registrasi_mahasiswa_pddikti": "3916d83c-94dc-4242-9b4b-014cc819c207",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122920,
+        "id_mahasiswa": 416912,
+        "created_at": "2024-01-16 14:36:01"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 868,
+      "id_user": 34228,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  Dwia Aries Tina Pulubuhu, MA.",
+      "nidn": "0019046406",
+      "nip": "196404191989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e21d9d5e-9bc4-484d-91d6-d23e5f8c64dd",
+      "pivot": {
+        "id_kelas_kuliah": 122920,
+        "id_dosen": 868
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 946,
+      "id_user": 24847,
+      "id_prodi": 29,
+      "nama": "Dr.  Mansyur Radjab, M.Si.",
+      "nidn": "",
+      "nip": "195807291984031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 122920,
+        "id_dosen": 946
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2326,
+      "id_user": 12778,
+      "id_prodi": 29,
+      "nama": "Dr. Nuvida RAF, S.Sos., MA.",
+      "nidn": "0021047115",
+      "nip": "197104212008012015",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1c3625f-acb0-4452-94f8-4787392e54a6",
+      "pivot": {
+        "id_kelas_kuliah": 122920,
+        "id_dosen": 2326
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1883,
+      "id_user": 47462,
+      "id_prodi": 29,
+      "nama": "Ria Renita Abbas, S.Sos.,M.Si.",
+      "nidn": "0016057605",
+      "nip": "197605162009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "04f90469-8d0a-477e-aa60-e54a7b24f3c3",
+      "pivot": {
+        "id_kelas_kuliah": 122920,
+        "id_dosen": 1883
+      }
+    }
+  ]
+}

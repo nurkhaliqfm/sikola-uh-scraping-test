@@ -1,0 +1,85 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47418.126909.10",
+  "shortname_sikola": "TA232-126909",
+  "kode_matkul": "23D01110702",
+  "nama_matkul": "Survei dan Pemetaan Topografi",
+  "nama_kelas": "Survei dan Pemetaan Topografi INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 163915,
+      "id_user": 57985,
+      "id_prodi": 10,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MOHAMED MAHMOUD AHMED MAHMOUD",
+      "nim": "D011211151",
+      "jalan": "PERINTIS KEMERDEKAAN KM 10",
+      "rt": 4,
+      "rw": 7,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": "D011211151",
+      "tempat_lahir": "JABEL AWLYA",
+      "tanggal_lahir": "2003-07-28",
+      "telepon": "6282188618416",
+      "handphone": "+628218861841",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "0782463760000000",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "m.2003@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "dd532021-fd7a-4d96-b2d6-fa2a09e2061a",
+      "id_registrasi_mahasiswa_pddikti": "6b5e5b4a-c030-444c-942b-352830be9c9d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126909,
+        "id_mahasiswa": 163915,
+        "created_at": "2024-02-02 13:51:45"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1443,
+      "id_user": 33432,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Mukhsan Putra H., ST., MT.",
+      "nidn": "0012057302",
+      "nip": "197305121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57460746-bae2-4d55-abb7-4e1205acf0f7",
+      "pivot": {
+        "id_kelas_kuliah": 126909,
+        "id_dosen": 1443
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1760,
+      "id_user": 33436,
+      "id_prodi": 10,
+      "nama": "Silman Pongmanda, ST., MT.",
+      "nidn": "0010107201",
+      "nip": "197210102000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f874bed-5154-4afe-a0ef-fdc1f2686e23",
+      "pivot": {
+        "id_kelas_kuliah": 126909,
+        "id_dosen": 1760
+      }
+    }
+  ]
+}

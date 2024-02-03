@@ -1,0 +1,220 @@
+{
+  "id_prodi": 31,
+  "nama_prodi": "SASTRA INDONESIA - S1",
+  "id_prodi_semester": 2626,
+  "idnumber_sikola": "37669.120008.31",
+  "shortname_sikola": "TA232-120008",
+  "kode_matkul": "20F01176702",
+  "nama_matkul": "SEMINAR PRASKRIPSI KESASTRAAN",
+  "nama_kelas": "SEMINAR PRASKRIPSI KESASTRAAN",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139189,
+      "id_user": 40051,
+      "id_prodi": 31,
+      "angkatan": 2020,
+      "nama_mahasiswa": "FATMAWATI HAMZADING",
+      "nim": "F011201034",
+      "jalan": "JALAN POROS DESA UJUNG BARU",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Ujung Baru",
+      "kode_pos": "92972",
+      "nisn": "0020842974",
+      "tempat_lahir": "TERNATE",
+      "tanggal_lahir": "2002-05-04",
+      "telepon": "0",
+      "handphone": "6282193243464",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Ujung Baru",
+      "id_wilayah": "192602",
+      "nik": "7324084405020001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fatmahamzah73@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ca14746f-f74d-458b-a4fd-22131abbb7b9",
+      "id_registrasi_mahasiswa_pddikti": "4081f3fc-fbf6-4cb7-8c01-c8ab809b188d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_mahasiswa": 139189,
+        "created_at": "2024-01-18 18:36:11"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 139196,
+      "id_user": 43266,
+      "id_prodi": 31,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NURHAMDANI",
+      "nim": "F011201047",
+      "jalan": "Jl. Poros Pinrang-Langnga",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Patobong",
+      "kode_pos": "91261",
+      "nisn": "0002229552",
+      "tempat_lahir": "Pinrang",
+      "tanggal_lahir": "2002-09-08",
+      "telepon": "0",
+      "handphone": "6282394655363",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Patobong",
+      "id_wilayah": "191402",
+      "nik": "7315014809020002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "andanidani79@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "86591366-d7ae-417e-85db-2f29ef38a56a",
+      "id_registrasi_mahasiswa_pddikti": "692ffc25-164f-4ab0-8e39-246280aca041",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_mahasiswa": 139196,
+        "created_at": "2024-01-24 21:15:29"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1098,
+      "id_user": 34194,
+      "id_prodi": 31,
+      "nama": "Drs. Yusuf, SU.",
+      "nidn": "0001126021",
+      "nip": "196012311986011006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3ef2420c-d7e2-4f37-98d1-b2fff716a37a",
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 1098
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1011,
+      "id_user": 21316,
+      "id_prodi": 31,
+      "nama": "Dr. Inriati Lewa, M.Hum.",
+      "nidn": "0030036402",
+      "nip": "196403301989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c7c5d6-baee-4b33-a964-ba0b6e406863",
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 1011
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1102,
+      "id_user": 33261,
+      "id_prodi": 31,
+      "nama": "Dra. Haryeni, M.Hum.",
+      "nidn": "0029016101",
+      "nip": "196101291987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "084e88bf-e6f4-4bca-a7f3-a5935b1b22dd",
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 1102
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1366,
+      "id_user": 30199,
+      "id_prodi": 31,
+      "nama": "Dra. St. Nursa'adah, M.Hum",
+      "nidn": "0020086803",
+      "nip": "196808201994032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1cfaa616-989c-4721-8080-1c82416f414c",
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 1366
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1431,
+      "id_user": 30780,
+      "id_prodi": 31,
+      "nama": "Dra. Muslimat, M.Hum.",
+      "nidn": "0001016802",
+      "nip": "196801011998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "878595da-70bf-4461-8354-1e22a04afa85",
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 1431
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1115,
+      "id_user": 31341,
+      "id_prodi": 31,
+      "nama": "Prof. Dr. AB. Takko, M.Hum.",
+      "nidn": "0031126082",
+      "nip": "196512311990021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3700993c-f972-4ffe-80bb-a42a1a46dc67",
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 1115
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3916,
+      "id_user": null,
+      "id_prodi": 31,
+      "nama": "Faisal, S.S., M.Hum.",
+      "nidn": null,
+      "nip": "731305180993001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 3916
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3915,
+      "id_user": null,
+      "id_prodi": 31,
+      "nama": "Syahwan Alfianto Amir, S.S., M.Hum",
+      "nidn": null,
+      "nip": "7302050312940004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 120008,
+        "id_dosen": 3915
+      }
+    }
+  ]
+}

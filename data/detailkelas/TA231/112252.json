@@ -1,0 +1,61 @@
+{
+  "id_prodi": 236,
+  "nama_prodi": "ILMU KELAUTAN - S2",
+  "id_prodi_semester": 2568,
+  "idnumber_sikola": "40542.112252.236",
+  "shortname_sikola": "TA231-112252",
+  "kode_matkul": "20L03210802",
+  "nama_matkul": "Aplikasi Pemodelan Kelautan (P)",
+  "nama_kelas": "Aplikasi Pemodelan Kelautan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1388,
+      "id_user": 18587,
+      "id_prodi": 66,
+      "nama": "Dr. Ir.  Amir Hamzah Muhiddin, M.Si.",
+      "nidn": "0021116301",
+      "nip": "196311201993031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d87b4eac-1a71-4241-bb45-84e70396c054",
+      "pivot": {
+        "id_kelas_kuliah": 112252,
+        "id_dosen": 1388
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1160,
+      "id_user": 16420,
+      "id_prodi": 66,
+      "nama": "Dr. Muhammad Anshar Amran, M.Si.",
+      "nidn": "0018026402",
+      "nip": "196402181992031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "36666b2e-6f43-4e91-aece-1b46f99b7ea4",
+      "pivot": {
+        "id_kelas_kuliah": 112252,
+        "id_dosen": 1160
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1387,
+      "id_user": 34737,
+      "id_prodi": 66,
+      "nama": "Dr. Ir. Muh. Hatta, M.Si.",
+      "nidn": "0031126706",
+      "nip": "196712311992021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "817088f5-7c9a-4a1d-8836-39523cdd414d",
+      "pivot": {
+        "id_kelas_kuliah": 112252,
+        "id_dosen": 1387
+      }
+    }
+  ]
+}

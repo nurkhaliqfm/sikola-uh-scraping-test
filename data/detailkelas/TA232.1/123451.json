@@ -1,0 +1,77 @@
+{
+  "id_prodi": 263,
+  "nama_prodi": "TEKNOLOGI AKUAKULTUR DAN PASCA PANEN PERIKANAN - D4",
+  "id_prodi_semester": 2822,
+  "idnumber_sikola": "48709.123451.263",
+  "shortname_sikola": "TA232-123451",
+  "kode_matkul": "23V09611003",
+  "nama_matkul": "Praktik Pemuliabiakan Krustasea",
+  "nama_kelas": "Praktik Pemuliabiakan Krustasea",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2398,
+      "id_user": 24111,
+      "id_prodi": 68,
+      "nama": "Dr. Andi Aliah Hidayani, S.Si., M.Si.",
+      "nidn": "0002058002",
+      "nip": "198005022005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1035d79e-8dc0-4748-b270-aa2a7ba3d4eb",
+      "pivot": {
+        "id_kelas_kuliah": 123451,
+        "id_dosen": 2398
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3921,
+      "id_user": 71447,
+      "id_prodi": 246,
+      "nama": "Dr. Dian Novita Sari, S.Pi., M.Si",
+      "nidn": null,
+      "nip": "7301045909920001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123451,
+        "id_dosen": 3921
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3129,
+      "id_user": 27389,
+      "id_prodi": 68,
+      "nama": "Kurniati Umrah Nur, S.Si., M.AppSc(ME) Hon",
+      "nidn": "0025038404",
+      "nip": "198403252019032013",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f719d072-ddf4-4b5e-9837-798b80fb9201",
+      "pivot": {
+        "id_kelas_kuliah": 123451,
+        "id_dosen": 3129
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4155,
+      "id_user": null,
+      "id_prodi": 263,
+      "nama": "Drs. Fathratuddin",
+      "nidn": null,
+      "nip": "7312043112630144",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123451,
+        "id_dosen": 4155
+      }
+    }
+  ]
+}

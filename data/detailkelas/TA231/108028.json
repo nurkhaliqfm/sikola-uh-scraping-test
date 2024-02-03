@@ -1,0 +1,61 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2503.108028.5",
+  "shortname_sikola": "TA231-108028",
+  "kode_matkul": "18B01146402",
+  "nama_matkul": "AMDAL & PERIZINAN LINGKUNGAN\r\n",
+  "nama_kelas": "AMDAL & PERIZINAN LINGKUNGAN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 755,
+      "id_user": 34196,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Muh. Yunus, SH., M.Si.",
+      "nidn": "0001085703",
+      "nip": "195708011985031005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "756ecbf6-f7db-4d18-8cd8-61cb772904bf",
+      "pivot": {
+        "id_kelas_kuliah": 108028,
+        "id_dosen": 755
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 844,
+      "id_user": 13642,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Irwansyah, SH., MH.",
+      "nidn": "0018106602",
+      "nip": "196610181991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "755cceda-a117-4edc-8302-c4ce8ddc7498",
+      "pivot": {
+        "id_kelas_kuliah": 108028,
+        "id_dosen": 844
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1590,
+      "id_user": 34082,
+      "id_prodi": 5,
+      "nama": "Dr. Zulkifli Aspan, SH., MH.",
+      "nidn": "0011076808",
+      "nip": "196807112003121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "757f7c6c-17fd-4fde-bf77-5fef19c98ce3",
+      "pivot": {
+        "id_kelas_kuliah": 108028,
+        "id_dosen": 1590
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id_prodi": 147,
+  "nama_prodi": "PROFESI DOKTER",
+  "id_prodi_semester": 2487,
+  "idnumber_sikola": "32849.117100.147",
+  "shortname_sikola": "TA231-117100",
+  "kode_matkul": "500C1132",
+  "nama_matkul": "RADIOLOGI",
+  "nama_kelas": "RADIOLOGI PERIODE Gabungan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 132828,
+      "id_user": 36843,
+      "id_prodi": 147,
+      "angkatan": 2019,
+      "nama_mahasiswa": "DAFFA HAYKAL HIDRO SATRIA",
+      "nim": "C014192230",
+      "jalan": "BTN Cindranae Blok E8 No 9",
+      "rt": 3,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90552",
+      "nisn": null,
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1998-09-23",
+      "telepon": "0",
+      "handphone": "628114138299",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Ma'rumpa",
+      "id_wilayah": "190110",
+      "nik": "7309082309980002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "daffahaykalhidrosatria@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "f3dfd25c-a5b4-45d7-982d-b01217d9c09b",
+      "id_registrasi_mahasiswa_pddikti": "eae25b03-13ec-486a-9e2c-ceb65f83433c",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 117100,
+        "id_mahasiswa": 132828,
+        "created_at": "2024-01-25 16:23:23"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3573,
+      "id_user": 85480,
+      "id_prodi": 124,
+      "nama": "dr. Alia Amalia, Sp.Rad",
+      "nidn": null,
+      "nip": "7371094805850003",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 117100,
+        "id_dosen": 3573
+      }
+    }
+  ]
+}

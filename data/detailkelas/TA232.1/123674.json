@@ -1,0 +1,29 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "44636.123674.19",
+  "shortname_sikola": "TA232-123674",
+  "kode_matkul": "23U01110402",
+  "nama_matkul": "Pendidikan Agama Hindu",
+  "nama_kelas": "Pendidikan Agama Hindu",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2787,
+      "id_user": 34144,
+      "id_prodi": 142,
+      "nama": "I Ketut Mundra,S.Ag",
+      "nidn": null,
+      "nip": "150372256",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123674,
+        "id_dosen": 2787
+      }
+    }
+  ]
+}

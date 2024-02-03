@@ -1,0 +1,85 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2602,
+  "idnumber_sikola": "2546.119098.5",
+  "shortname_sikola": "TA232-119098",
+  "kode_matkul": "18B011410902",
+  "nama_matkul": "USUL FIQHI\r\n",
+  "nama_kelas": "USUL FIQHI",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 160064,
+      "id_user": 56718,
+      "id_prodi": 5,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ANUGRAH PUTRA RABBANI",
+      "nim": "B011211155",
+      "jalan": "JL. YOS SUDARSO 2 GANG SAHABAT BARU",
+      "rt": 14,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "75683",
+      "nisn": "0030533915",
+      "tempat_lahir": "SANGATTA",
+      "tanggal_lahir": "2003-05-06",
+      "telepon": "0",
+      "handphone": "085388734208",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "SANGATTA UTARA",
+      "id_wilayah": "161000",
+      "nik": "6408040605030007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "anugrahputra0605@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "293edfc3-2a9f-4a31-8fbd-1a00ef801312",
+      "id_registrasi_mahasiswa_pddikti": "8f20eaa0-d698-41ba-876e-7082fcfbd308",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119098,
+        "id_mahasiswa": 160064,
+        "created_at": "2024-01-28 11:22:03"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2164,
+      "id_user": 34111,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. M. Arfin, SH., MH.",
+      "nidn": "0005026701",
+      "nip": "196702051994031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c02578b9-25ae-485a-b4d2-abd5637a37af",
+      "pivot": {
+        "id_kelas_kuliah": 119098,
+        "id_dosen": 2164
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2515,
+      "id_user": 10042,
+      "id_prodi": 5,
+      "nama": "Ahsan Yunus, S.H., M.H",
+      "nidn": "0016058907",
+      "nip": "198905162019043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3550067e-17dc-4bab-b56b-9ff94346d70c",
+      "pivot": {
+        "id_kelas_kuliah": 119098,
+        "id_dosen": 2515
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id_prodi": 48,
+  "nama_prodi": "GEOFISIKA - S1",
+  "id_prodi_semester": 2406,
+  "idnumber_sikola": "45688.109138.48",
+  "shortname_sikola": "TA231-109138",
+  "kode_matkul": "23H06130402",
+  "nama_matkul": "Kecerdasan Buatan dalam Geofisika",
+  "nama_kelas": "KECERDASAN BUATAN DALAM GEOFISIKA (A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 139944,
+      "id_user": 43552,
+      "id_prodi": 48,
+      "angkatan": 2020,
+      "nama_mahasiswa": "M. FAIZ. S",
+      "nim": "H061201063",
+      "jalan": "Jln poros enrekang-toraja",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Kalimbua",
+      "kode_pos": "91754",
+      "nisn": "0025662634",
+      "tempat_lahir": "Bassaran",
+      "tanggal_lahir": "2002-11-22",
+      "telepon": "0",
+      "handphone": "6285771709300",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Kalosi",
+      "id_wilayah": "191605",
+      "nik": "7316052210020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 60504,
+      "kode_status": "A",
+      "email": "mfaizsss23@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "379e473d-5522-4385-adb8-c773376e33f0",
+      "id_registrasi_mahasiswa_pddikti": "2881804c-e1f4-4640-aa81-c92bd3fbd9d4",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109138,
+        "id_mahasiswa": 139944,
+        "created_at": "2023-08-22 17:04:23"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1550,
+      "id_user": 32506,
+      "id_prodi": 48,
+      "nama": "Dr.  Muhammad Alimuddin, Eng.",
+      "nidn": "0029096705",
+      "nip": "196709291993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6ab8f88c-84ab-4393-a290-bca8191ce5f5",
+      "pivot": {
+        "id_kelas_kuliah": 109138,
+        "id_dosen": 1550
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3539,
+      "id_user": 73279,
+      "id_prodi": 48,
+      "nama": "Dr. Muhammad Taufiq Rafi",
+      "nidn": "8919160022",
+      "nip": "199502072022115001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d7fab3c-49ad-4a1f-956b-a3f56ef70040",
+      "pivot": {
+        "id_kelas_kuliah": 109138,
+        "id_dosen": 3539
+      }
+    }
+  ]
+}

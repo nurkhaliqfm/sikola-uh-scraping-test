@@ -1,0 +1,29 @@
+{
+  "id_prodi": 213,
+  "nama_prodi": "Rekayasa Kehutanan - S1",
+  "id_prodi_semester": 2547,
+  "idnumber_sikola": "37990.115047.213",
+  "shortname_sikola": "TA231-115047",
+  "kode_matkul": "20M02140301",
+  "nama_matkul": "Seminar Akhir",
+  "nama_kelas": "Seminar Akhir",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3784,
+      "id_user": 60688,
+      "id_prodi": 213,
+      "nama": "Kidung Tirtayasa Putra Pangestu, S.Hut., M.Si.",
+      "nidn": "0015049605",
+      "nip": "199604152022043001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "91af1590-5d94-4256-8806-60dcc604ff3a",
+      "pivot": {
+        "id_kelas_kuliah": 115047,
+        "id_dosen": 3784
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 163,
+  "nama_prodi": "FISIKA - S2",
+  "id_prodi_semester": 2731,
+  "idnumber_sikola": "40518.119988.163",
+  "shortname_sikola": "TA232-119988",
+  "kode_matkul": "19H03221002",
+  "nama_matkul": "SENSOR DAN TRANSDUSER",
+  "nama_kelas": "SENSOR DAN TRANSDUSER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 886,
+      "id_user": 27053,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Arifin, M.T",
+      "nidn": "0020056703",
+      "nip": "196705201994031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "227cf181-01b6-4b96-ae85-ccdd54caa855",
+      "pivot": {
+        "id_kelas_kuliah": 119988,
+        "id_dosen": 886
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2248,
+      "id_user": 19688,
+      "id_prodi": 47,
+      "nama": "Prof. Dr. Ir. Bidayatul Armynah, M.T",
+      "nidn": "0003086302",
+      "nip": "196308301989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d18bcf92-6413-498e-9fe6-b720ac5e8c9a",
+      "pivot": {
+        "id_kelas_kuliah": 119988,
+        "id_dosen": 2248
+      }
+    }
+  ]
+}

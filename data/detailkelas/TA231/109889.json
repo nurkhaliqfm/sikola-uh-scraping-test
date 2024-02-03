@@ -1,0 +1,101 @@
+{
+  "id_prodi": 152,
+  "nama_prodi": "AGROTEKNOLOGI - S1",
+  "id_prodi_semester": 2489,
+  "idnumber_sikola": "36323.109889.152",
+  "shortname_sikola": "TA231-109889",
+  "kode_matkul": "19G01131503",
+  "nama_matkul": "ILMU HAMA TUMBUHAN",
+  "nama_kelas": "Ilmu Hama Tumbuhan Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 136703,
+      "id_user": 43063,
+      "id_prodi": 152,
+      "angkatan": 2020,
+      "nama_mahasiswa": "NURUL FAUSIAH",
+      "nim": "G011201273",
+      "jalan": "MANNYAMPA",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "MANNYAMPA",
+      "kode_pos": "92173",
+      "nisn": "0021062536",
+      "tempat_lahir": "SUNGGUMINASA",
+      "tanggal_lahir": "2002-09-26",
+      "telepon": "0",
+      "handphone": "6282347883449",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TANAKARAENG",
+      "id_wilayah": "190313",
+      "nik": "7306146609020002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "nurulfausiah999@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "60ed4126-88df-4a2e-8fb9-0eff9fd48c13",
+      "id_registrasi_mahasiswa_pddikti": "3c7907ec-0755-4044-b8b6-3f2737adeafc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 109889,
+        "id_mahasiswa": 136703,
+        "created_at": "2023-08-04 00:23:32"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 789,
+      "id_user": 11849,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Itji Diana Daud, MS.",
+      "nidn": "0006066002",
+      "nip": "196006061986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cefdff46-9431-4344-b449-f384fe76c06f",
+      "pivot": {
+        "id_kelas_kuliah": 109889,
+        "id_dosen": 789
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1717,
+      "id_user": 21700,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Vien Sartika Dewi, M.Si.",
+      "nidn": "0027126504",
+      "nip": "196512271989102001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e6a82e1c-6004-4e19-bf36-4747f2daf40d",
+      "pivot": {
+        "id_kelas_kuliah": 109889,
+        "id_dosen": 1717
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3607,
+      "id_user": 57592,
+      "id_prodi": 233,
+      "nama": "M. Bayu Mario, S.P., M.P., M.Sc.",
+      "nidn": "0004109402",
+      "nip": "199404102021073001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "998ded39-562f-4463-9702-e86d4f42c507",
+      "pivot": {
+        "id_kelas_kuliah": 109889,
+        "id_dosen": 3607
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 92,
+  "nama_prodi": "ILMU KIMIA - S3",
+  "id_prodi_semester": 2437,
+  "idnumber_sikola": "37345.105914.92",
+  "shortname_sikola": "TA231-105914",
+  "kode_matkul": "18H01313003",
+  "nama_matkul": "Bioteknologi Pangan",
+  "nama_kelas": "Bioteknologi Pangan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 706,
+      "id_user": 16642,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Ahyar",
+      "nidn": "0031126362",
+      "nip": "196712311991031020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ab02eec5-d0e6-4077-b0da-ae88a1ecb5dc",
+      "pivot": {
+        "id_kelas_kuliah": 105914,
+        "id_dosen": 706
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1113,
+      "id_user": 31103,
+      "id_prodi": 49,
+      "nama": "Dr.  Hasnah Natsir, M.Si.",
+      "nidn": "0027086204",
+      "nip": "196203201987112001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7f77704c-a731-4dfd-bb3f-3e779d63a770",
+      "pivot": {
+        "id_kelas_kuliah": 105914,
+        "id_dosen": 1113
+      }
+    }
+  ]
+}

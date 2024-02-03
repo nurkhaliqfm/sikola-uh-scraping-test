@@ -1,0 +1,80 @@
+{
+  "id_prodi": 32,
+  "nama_prodi": "SASTRA INGGRIS - S1",
+  "id_prodi_semester": 2396,
+  "idnumber_sikola": "44974.115089.32",
+  "shortname_sikola": "TA231-115089",
+  "kode_matkul": "23F04134404",
+  "nama_matkul": "Metodologi Penelitian Kesusastraan",
+  "nama_kelas": "Metodologi Penelitian Kesusastraan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 50425,
+      "id_user": 31430,
+      "id_prodi": 32,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MUHAMMAD ARYADIN TAUFAN PUTRA",
+      "nim": "F041181522",
+      "jalan": "JL.monumen emmysaelan3 no.30",
+      "rt": 3,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "0005915410",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2000-07-29",
+      "telepon": "081245921717",
+      "handphone": "6287846648272",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Karunrung",
+      "id_wilayah": "196013",
+      "nik": "7371132907000002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Muh_aryadin@rocketmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0e6d5141-ede2-4d7f-a694-385c2bb8b03a",
+      "id_registrasi_mahasiswa_pddikti": "f0ce09b2-5d4e-4384-9fd2-8ae49905e517",
+      "spp": null,
+      "whatsapp": null
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 959,
+      "id_user": 33549,
+      "id_prodi": 32,
+      "nama": "Prof. Dr. M. Amir P, M.Hum.",
+      "nidn": "0031126206",
+      "nip": "196212311988031021",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "afa845a0-5397-43d2-b11e-9d757311b798",
+      "pivot": {
+        "id_kelas_kuliah": 115089,
+        "id_dosen": 959
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1701,
+      "id_user": 19775,
+      "id_prodi": 32,
+      "nama": "Abbas, S.S., M.Hum.",
+      "nidn": "0022077507",
+      "nip": "197507222008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b26322af-fd6b-4040-b185-5eae0ae43617",
+      "pivot": {
+        "id_kelas_kuliah": 115089,
+        "id_dosen": 1701
+      }
+    }
+  ]
+}

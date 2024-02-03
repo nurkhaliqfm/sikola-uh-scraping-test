@@ -1,0 +1,61 @@
+{
+  "id_prodi": 174,
+  "nama_prodi": "ILMU POLITIK - S2",
+  "id_prodi_semester": 2511,
+  "idnumber_sikola": "43014.107822.174",
+  "shortname_sikola": "TA231-107822",
+  "kode_matkul": "22E05211303",
+  "nama_matkul": "Organisasi dan Birokrasi Pemilu",
+  "nama_kelas": "Reguler II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1195,
+      "id_user": 11008,
+      "id_prodi": 24,
+      "nama": "Prof. Dr. Muhammad, SIP., M.Si.",
+      "nidn": "0017097106",
+      "nip": "197109171997031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0bd2c83f-51de-4db4-977c-822c9615ba78",
+      "pivot": {
+        "id_kelas_kuliah": 107822,
+        "id_dosen": 1195
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1559,
+      "id_user": 34208,
+      "id_prodi": 24,
+      "nama": "Dr.  Gustiana, S.I.P.,M.Si.",
+      "nidn": "0013087306",
+      "nip": "197308131998022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4aec82d3-4412-4676-9f3c-a790fd3fbec5",
+      "pivot": {
+        "id_kelas_kuliah": 107822,
+        "id_dosen": 1559
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2206,
+      "id_user": 34444,
+      "id_prodi": 24,
+      "nama": "Dr.  Muhammad Saad, MA.",
+      "nidn": "8900210021",
+      "nip": "195501281985021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a679931b-ebda-4ebe-8f47-c83fe7247390",
+      "pivot": {
+        "id_kelas_kuliah": 107822,
+        "id_dosen": 2206
+      }
+    }
+  ]
+}

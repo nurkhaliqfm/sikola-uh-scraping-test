@@ -1,0 +1,29 @@
+{
+  "id_prodi": 202,
+  "nama_prodi": "ILMU AKTUARIA",
+  "id_prodi_semester": 2769,
+  "idnumber_sikola": "46531.124504.202",
+  "shortname_sikola": "TA232-124504",
+  "kode_matkul": "23U02130602",
+  "nama_matkul": "Empati Sosial",
+  "nama_kelas": "Empati Sosial",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1126,
+      "id_user": 19035,
+      "id_prodi": 45,
+      "nama": "Prof. Dr. Hasmawati, M.Si.",
+      "nidn": "0031126416",
+      "nip": "196412311990032007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "07ad2c06-739d-4d1e-b9f0-377799685d11",
+      "pivot": {
+        "id_kelas_kuliah": 124504,
+        "id_dosen": 1126
+      }
+    }
+  ]
+}

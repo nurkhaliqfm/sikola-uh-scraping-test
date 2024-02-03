@@ -1,0 +1,85 @@
+{
+  "id_prodi": 98,
+  "nama_prodi": "KIMIA - S2",
+  "id_prodi_semester": 2674,
+  "idnumber_sikola": "27735.126373.98",
+  "shortname_sikola": "TA232-126373",
+  "kode_matkul": "18H01210602",
+  "nama_matkul": "Struktur dan Reaktivitas Melekul Anorganik",
+  "nama_kelas": "Struktur dan Reaktivitas Molekul Anorganik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427457,
+      "id_user": 85980,
+      "id_prodi": 98,
+      "angkatan": 2023,
+      "nama_mahasiswa": "WILDAN MUBARAQ",
+      "nim": "H012232002",
+      "jalan": "JL. PELABUHAN DAMACI",
+      "rt": 2,
+      "rw": 2,
+      "dusun": "DAMACI",
+      "kode_pos": "91998",
+      "nisn": null,
+      "tempat_lahir": "DADEKO",
+      "tanggal_lahir": "2000-06-08",
+      "telepon": "085299363942",
+      "handphone": "085256645023",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "DESA DADEKO",
+      "id_wilayah": "191711",
+      "nik": "7317100806000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 85980,
+      "kode_status": "A",
+      "email": "wildanmubaraq1@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126373,
+        "id_mahasiswa": 427457,
+        "created_at": "2024-01-11 17:42:56"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1382,
+      "id_user": 19176,
+      "id_prodi": 49,
+      "nama": "Dr.  Indah Raya, M.Si.",
+      "nidn": "0025116402",
+      "nip": "196411251990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f34e92de-dc4d-42d1-8423-738b0acfb6bd",
+      "pivot": {
+        "id_kelas_kuliah": 126373,
+        "id_dosen": 1382
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1514,
+      "id_user": 31365,
+      "id_prodi": 49,
+      "nama": "Dr.  Maming, M.Si.",
+      "nidn": "0031126311",
+      "nip": "196312311989031031",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c68dd3ca-61f3-491b-b27e-908ef2bc8702",
+      "pivot": {
+        "id_kelas_kuliah": 126373,
+        "id_dosen": 1514
+      }
+    }
+  ]
+}

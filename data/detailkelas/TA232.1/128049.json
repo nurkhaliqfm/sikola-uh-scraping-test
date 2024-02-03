@@ -1,0 +1,45 @@
+{
+  "id_prodi": 178,
+  "nama_prodi": "PPDS - ILMU PENYAKIT JANTUNG DAN PEMBULUH DARAH",
+  "id_prodi_semester": 2746,
+  "idnumber_sikola": "35388.128049.178",
+  "shortname_sikola": "TA232-128049",
+  "kode_matkul": "0703C21603",
+  "nama_matkul": "KARDIOLOGI KLINIK DEWASA II (STASE CHIEF BANGSAL DAN POLI)",
+  "nama_kelas": "Kardiologi klinik dewasa II smtr 7 (2018)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1722,
+      "id_user": 20711,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Idar Mappangara, Sp.PD, SpJP",
+      "nidn": "0021076611",
+      "nip": "196607211996031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "90d4d749-7477-43fa-8ab8-6b3fe0879fa5",
+      "pivot": {
+        "id_kelas_kuliah": 128049,
+        "id_dosen": 1722
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1022,
+      "id_user": 34265,
+      "id_prodi": 6,
+      "nama": "dr. Muzakkir Amir, Sp.JP(K)",
+      "nidn": "0010087109",
+      "nip": "197108102000121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "21f838f0-7b22-45a1-9735-063a2f1dcc8b",
+      "pivot": {
+        "id_kelas_kuliah": 128049,
+        "id_dosen": 1022
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "48841.129674.17",
+  "shortname_sikola": "TA232-129674",
+  "kode_matkul": "23D04136302",
+  "nama_matkul": "Perancangan Elektroteknik 1",
+  "nama_kelas": "Perancangan   Elektroteknik /  Kelas A -  Di Lab Telekomunikasi Radio dan Gelombang Pendek",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 135996,
+      "id_user": 37641,
+      "id_prodi": 17,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD ADNAN. M",
+      "nim": "D041201094",
+      "jalan": "BTN BUMI SUTERA MAS Blok D No. 6 Sengkang",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "90913",
+      "nisn": "-",
+      "tempat_lahir": "KAB. WAJO",
+      "tanggal_lahir": "2002-05-17",
+      "telepon": "0",
+      "handphone": "6285342074930",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Campalagi",
+      "id_wilayah": "190000",
+      "nik": "7313061705020002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "adnansengkang@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "33cab9bf-dfaf-4c4a-9a13-aaaa2778eb96",
+      "id_registrasi_mahasiswa_pddikti": "1e45d001-d6de-49b3-87e9-05e57ce1d88a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129674,
+        "id_mahasiswa": 135996,
+        "created_at": "2024-01-26 19:19:22"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1054,
+      "id_user": 34386,
+      "id_prodi": 17,
+      "nama": "Elyas, S.T., M.Eng., Ph.D",
+      "nidn": "0001026406",
+      "nip": "196902011994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3347a460-6adc-4ed4-afdc-c0d70cbbbd20",
+      "pivot": {
+        "id_kelas_kuliah": 129674,
+        "id_dosen": 1054
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1411,
+      "id_user": 12582,
+      "id_prodi": 17,
+      "nama": "Dr. Eng. Ir. Dewiani, MT.",
+      "nidn": "0026106904",
+      "nip": "196910261994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5a412f61-9ddd-4d25-a231-cb8a93934a9a",
+      "pivot": {
+        "id_kelas_kuliah": 129674,
+        "id_dosen": 1411
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1484,
+      "id_user": 9435,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Eng. Intan Sari Areni, S.T., MT.",
+      "nidn": "0003027508",
+      "nip": "197502032000122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1d2d64e8-56cf-40a6-ab07-bc218bdbaf65",
+      "pivot": {
+        "id_kelas_kuliah": 129674,
+        "id_dosen": 1484
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2095,
+      "id_user": 15824,
+      "id_prodi": 17,
+      "nama": "Andini Dani Achmad, ST., MT",
+      "nidn": "0921068801",
+      "nip": "198806212015042003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37c64974-2f82-4d51-8cf7-e39a790d269a",
+      "pivot": {
+        "id_kelas_kuliah": 129674,
+        "id_dosen": 2095
+      }
+    }
+  ]
+}

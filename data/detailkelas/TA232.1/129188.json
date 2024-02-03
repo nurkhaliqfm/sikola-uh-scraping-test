@@ -1,0 +1,101 @@
+{
+  "id_prodi": 226,
+  "nama_prodi": "STUDI PEMBANGUNAN - S3",
+  "id_prodi_semester": 2790,
+  "idnumber_sikola": "41909.129188.226",
+  "shortname_sikola": "TA232-129188",
+  "kode_matkul": "20P02312303",
+  "nama_matkul": "Ekonomi dan Kebijakan Transportasi",
+  "nama_kelas": "Ekonomi dan Kebijakan Transportasi (S3 SP-Sem_I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428373,
+      "id_user": 86900,
+      "id_prodi": 226,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MANSUR YAHYA",
+      "nim": "P023232001",
+      "jalan": "POROS BONE - MAKASSAR",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Ujung",
+      "kode_pos": "90562",
+      "nisn": "-",
+      "tempat_lahir": "CAMBA KAB. MAROS",
+      "tanggal_lahir": "1982-05-25",
+      "telepon": "081342398820",
+      "handphone": "081342398820",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PATTIRO DECENG",
+      "id_wilayah": "190106",
+      "nik": "7309022505820001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86900,
+      "kode_status": "A",
+      "email": "yahya_mansur@ymail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129188,
+        "id_mahasiswa": 428373,
+        "created_at": "2024-01-24 14:43:32"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 744,
+      "id_user": 34044,
+      "id_prodi": 2,
+      "nama": "Prof. Dr.  Muh. Asdar, SE., M.Si.",
+      "nidn": "0031106102",
+      "nip": "196110311989101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "db53b2ac-7dda-49b7-b013-a2c95da13eb1",
+      "pivot": {
+        "id_kelas_kuliah": 129188,
+        "id_dosen": 744
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1322,
+      "id_user": 33569,
+      "id_prodi": 1,
+      "nama": "Drs. Muhammad Yusri Zamhuri, MA., Ph.D",
+      "nidn": "0006086113",
+      "nip": "196108061989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c191fe7a-125f-414c-8cf7-7a5ec2c86fb8",
+      "pivot": {
+        "id_kelas_kuliah": 129188,
+        "id_dosen": 1322
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 953,
+      "id_user": 30813,
+      "id_prodi": 14,
+      "nama": "Dr. Ir. Ganding Sitepu, Dipl.Ing.",
+      "nidn": "0025046001",
+      "nip": "196004251988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9c03a196-67da-45f0-bff6-f092c091b210",
+      "pivot": {
+        "id_kelas_kuliah": 129188,
+        "id_dosen": 953
+      }
+    }
+  ]
+}

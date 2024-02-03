@@ -1,0 +1,69 @@
+{
+  "id_prodi": 142,
+  "nama_prodi": "MKU  Non-Eksakta",
+  "id_prodi_semester": 2715,
+  "idnumber_sikola": "44638.119463.142",
+  "shortname_sikola": "TA232-119463",
+  "kode_matkul": "23U01110602",
+  "nama_matkul": "Pendidikan Agama Khonghucu",
+  "nama_kelas": "Pendidikan Agama Khonghucu 00001",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 423234,
+      "id_user": 80194,
+      "id_prodi": 71,
+      "angkatan": 2023,
+      "nama_mahasiswa": "BRIAL VITO DWIJAYA",
+      "nim": "M011231230",
+      "jalan": "Kallan Baru",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Kallan Baru",
+      "kode_pos": "91562",
+      "nisn": "0037505428",
+      "tempat_lahir": "KALLAN BARU",
+      "tanggal_lahir": "2003-11-22",
+      "telepon": "082193298615",
+      "handphone": "082193298615",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Buttuada",
+      "id_wilayah": "330111",
+      "nik": "7602152011030003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "wvito6868@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "8d4ad4bc-1c6f-4669-9b38-e4696eaa58b6",
+      "id_registrasi_mahasiswa_pddikti": "d64b392a-ef60-4527-9e19-c624246dba46",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 119463,
+        "id_mahasiswa": 423234,
+        "created_at": "2024-01-29 22:04:59"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3081,
+      "id_user": null,
+      "id_prodi": 145,
+      "nama": "Erfan Sutono, S.Ft., Physio., MH",
+      "nidn": null,
+      "nip": "7371051104890002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 119463,
+        "id_dosen": 3081
+      }
+    }
+  ]
+}

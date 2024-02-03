@@ -1,0 +1,101 @@
+{
+  "id_prodi": 73,
+  "nama_prodi": "FARMASI - S1",
+  "id_prodi_semester": 2651,
+  "idnumber_sikola": "37825.123680.73",
+  "shortname_sikola": "TA232-123680",
+  "kode_matkul": "20N01132802",
+  "nama_matkul": "Hubungan Struktur dengan Aktivitas",
+  "nama_kelas": "Hubungan Struktur dengan Aktivitas C",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 153154,
+      "id_user": 49363,
+      "id_prodi": 73,
+      "angkatan": 2021,
+      "nama_mahasiswa": "GIOVANNI VALERIO LEMBANG",
+      "nim": "N011211118",
+      "jalan": "BTP BLOK C/104",
+      "rt": 2,
+      "rw": 9,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0023418074",
+      "tempat_lahir": "Kota Makasar",
+      "tanggal_lahir": "2002-12-02",
+      "telepon": "0",
+      "handphone": "087759636996",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BUNTUSU",
+      "id_wilayah": "196012",
+      "nik": "7371140212020002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "giovannivalerio02@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "df7a90c3-6504-4819-942e-0e501a1fa71f",
+      "id_registrasi_mahasiswa_pddikti": "31523f19-f0ce-404f-ab49-7efea9892f1d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123680,
+        "id_mahasiswa": 153154,
+        "created_at": "2024-01-27 00:40:51"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1724,
+      "id_user": 34448,
+      "id_prodi": 73,
+      "nama": "Prof. Yusnita Rifai, S.Si., M.Pharm., Ph.D., Apt",
+      "nidn": "0017117505",
+      "nip": "197511172000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9af50174-cce5-4fd9-b540-fe13a3a4c340",
+      "pivot": {
+        "id_kelas_kuliah": 123680,
+        "id_dosen": 1724
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1597,
+      "id_user": 22423,
+      "id_prodi": 73,
+      "nama": "Dr. Risfah Yulianty, S.Si., M.Si., Apt.",
+      "nidn": "0016077803",
+      "nip": "197807162003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b2c5228c-4098-49ae-a9e8-28b15e5caf6f",
+      "pivot": {
+        "id_kelas_kuliah": 123680,
+        "id_dosen": 1597
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1642,
+      "id_user": 9889,
+      "id_prodi": 73,
+      "nama": "Muhammad Aswad, S.Si., M.Si., Ph.D., Apt",
+      "nidn": "0001018005",
+      "nip": "198001012003121004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "519d1e6f-b020-44b0-a6ad-6b6cb2e18995",
+      "pivot": {
+        "id_kelas_kuliah": 123680,
+        "id_dosen": 1642
+      }
+    }
+  ]
+}

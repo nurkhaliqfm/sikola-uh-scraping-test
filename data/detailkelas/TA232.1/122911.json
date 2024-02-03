@@ -1,0 +1,77 @@
+{
+  "id_prodi": 190,
+  "nama_prodi": "SOSIOLOGI - S3",
+  "id_prodi_semester": 2757,
+  "idnumber_sikola": "35848.122911.190",
+  "shortname_sikola": "TA232-122911",
+  "kode_matkul": "20E04310503",
+  "nama_matkul": "KONFLIK DAN INTEGRASI MASYARAKAT PLURAL",
+  "nama_kelas": "Reguler I",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 868,
+      "id_user": 34228,
+      "id_prodi": 29,
+      "nama": "Prof. Dr.  Dwia Aries Tina Pulubuhu, MA.",
+      "nidn": "0019046406",
+      "nip": "196404191989032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e21d9d5e-9bc4-484d-91d6-d23e5f8c64dd",
+      "pivot": {
+        "id_kelas_kuliah": 122911,
+        "id_dosen": 868
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1026,
+      "id_user": 33761,
+      "id_prodi": 29,
+      "nama": "Prof. Dr. Suparman, M.Si.",
+      "nidn": "0015076809",
+      "nip": "196807151994031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c8640e4c-f98b-4e26-95ce-b4e39385d5f0",
+      "pivot": {
+        "id_kelas_kuliah": 122911,
+        "id_dosen": 1026
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1201,
+      "id_user": 34129,
+      "id_prodi": 29,
+      "nama": "Dr. Rahmat, S.Sos., M.Si.",
+      "nidn": "0013057009",
+      "nip": "197005131997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0397376c-3c42-47d4-8b31-fe23392870b3",
+      "pivot": {
+        "id_kelas_kuliah": 122911,
+        "id_dosen": 1201
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2917,
+      "id_user": 60726,
+      "id_prodi": 29,
+      "nama": "Dr. Sawedi Muhammad, M.Sc",
+      "nidn": "0008097104",
+      "nip": "197109082022043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cdc7827b-a019-404c-9271-85536567731f",
+      "pivot": {
+        "id_kelas_kuliah": 122911,
+        "id_dosen": 2917
+      }
+    }
+  ]
+}

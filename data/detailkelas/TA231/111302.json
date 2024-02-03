@@ -1,0 +1,85 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2384,
+  "idnumber_sikola": "45641.111302.19",
+  "shortname_sikola": "TA231-111302",
+  "kode_matkul": "23D05131503",
+  "nama_matkul": "Perancangan Furniture",
+  "nama_kelas": "Furniture Design",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 185530,
+      "id_user": 58183,
+      "id_prodi": 19,
+      "angkatan": 2021,
+      "nama_mahasiswa": "NAEF TALAL AHMED ALI ALKBAS",
+      "nim": "D051211098",
+      "jalan": "PERINTIS KEMERDEKAAN KM 10",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "00000",
+      "nisn": "D051211098",
+      "tempat_lahir": "SANA'A-YEMEN",
+      "tanggal_lahir": "2002-04-15",
+      "telepon": "00967714702045",
+      "handphone": "0096777404929",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Sana'a",
+      "id_wilayah": "YE000000",
+      "nik": "0906857500000000",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "naif.kubas@outlook.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "022188bf-9110-47c8-8e59-4e3f8be942a7",
+      "id_registrasi_mahasiswa_pddikti": "90540754-6a2c-4b78-a5a6-655e95fc6420",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111302,
+        "id_mahasiswa": 185530,
+        "created_at": "2023-08-03 21:01:58"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1633,
+      "id_user": 15400,
+      "id_prodi": 19,
+      "nama": "Dr. Rahmi Amin Ishak, ST., MT.",
+      "nidn": "0014037605",
+      "nip": "197603142002122005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "92c5305f-d658-424e-8cc2-6aa718f7b3ac",
+      "pivot": {
+        "id_kelas_kuliah": 111302,
+        "id_dosen": 1633
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1513,
+      "id_user": 31644,
+      "id_prodi": 19,
+      "nama": "Ir. Muhammad Taufik Ishak, MT.",
+      "nidn": "0019016006",
+      "nip": "196001191989031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b16d191-8815-4f33-b1dc-7396fa0b7211",
+      "pivot": {
+        "id_kelas_kuliah": 111302,
+        "id_dosen": 1513
+      }
+    }
+  ]
+}

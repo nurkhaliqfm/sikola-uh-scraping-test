@@ -1,0 +1,140 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "28202.129304.102",
+  "shortname_sikola": "TA232-129304",
+  "kode_matkul": "18P06214302",
+  "nama_matkul": "Basic Science of Aging",
+  "nama_kelas": "Basic Science of Aging (W) (ARM-Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428049,
+      "id_user": 86576,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SITI HARDIYANTI OKTAVIANA. H",
+      "nim": "P062232004",
+      "jalan": "JLN VILLA PERMATA HARAPAN BLOK D15",
+      "rt": 2,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90224",
+      "nisn": "P062232004",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1988-10-26",
+      "telepon": "00",
+      "handphone": "085255569798",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PARANGTAMBUNG",
+      "id_wilayah": "196003",
+      "nik": "7371136610880001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86576,
+      "kode_status": "A",
+      "email": "sitihardiyantioktaviana@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129304,
+        "id_mahasiswa": 428049,
+        "created_at": "2024-01-12 12:14:05"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428185,
+      "id_user": 86712,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUSTIKARANI SYAM",
+      "nim": "P062232015",
+      "jalan": "JL.SKARDA N ( TOWNHOUSE 9 RESIDENCE NO.8 )",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "90221",
+      "nisn": "0",
+      "tempat_lahir": "POMPANUA",
+      "tanggal_lahir": "1986-10-07",
+      "telepon": "0",
+      "handphone": "+62 811-4460-",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "GUNUNG SARI",
+      "id_wilayah": "196013",
+      "nik": "7306084710860005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86712,
+      "kode_status": "A",
+      "email": "ikha071081@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129304,
+        "id_mahasiswa": 428185,
+        "created_at": "2024-01-18 11:59:47"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1475,
+      "id_user": 34089,
+      "id_prodi": 6,
+      "nama": "Dr.dr.  Ika Yustisia, S.Ked.,M.Sc.",
+      "nidn": "0021017705",
+      "nip": "197701212003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a7d178bb-2b7d-4d80-830a-ea037d32e2f4",
+      "pivot": {
+        "id_kelas_kuliah": 129304,
+        "id_dosen": 1475
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1470,
+      "id_user": 34331,
+      "id_prodi": 6,
+      "nama": "dr. Firdaus Hamid, S.Ked., Ph.D.",
+      "nidn": "0031127705",
+      "nip": "197712312002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e02f8344-eef9-4a50-abe3-b6fdebf088f9",
+      "pivot": {
+        "id_kelas_kuliah": 129304,
+        "id_dosen": 1470
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1783,
+      "id_user": 18560,
+      "id_prodi": 6,
+      "nama": "dr.  Arif Santoso, Sp.P(K)., Ph.D., FAPSR.",
+      "nidn": "0015077712",
+      "nip": "197707152006041012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f485eac-45f4-4c64-8d2e-d68e62b6acbe",
+      "pivot": {
+        "id_kelas_kuliah": 129304,
+        "id_dosen": 1783
+      }
+    }
+  ]
+}

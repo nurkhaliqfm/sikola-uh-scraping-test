@@ -1,0 +1,29 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "28193.108487.102",
+  "shortname_sikola": "TA231-108487",
+  "kode_matkul": "18P06220501",
+  "nama_matkul": "Biologi Molekuler Lebah dan Produk-Produk Lebah\r\n",
+  "nama_kelas": "Biologi Molekuler Lebah dan Produk-Produk Lebah (P) (BBM-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 776,
+      "id_user": 34358,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Rosdiana Natsir, Ph.D., Sp.Biok.",
+      "nidn": "0026035702",
+      "nip": "195703261988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6a320981-0647-4823-b655-f59c6064e081",
+      "pivot": {
+        "id_kelas_kuliah": 108487,
+        "id_dosen": 776
+      }
+    }
+  ]
+}

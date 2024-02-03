@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34730.111338.165",
+  "shortname_sikola": "TA231-111338",
+  "kode_matkul": "18D02320103",
+  "nama_matkul": "SEMINAR INTERNASIONAL",
+  "nama_kelas": "SEMINAR INTERNASIONAL (SARI OCTAVIA)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157100,
+      "id_user": 53586,
+      "id_prodi": 165,
+      "angkatan": 2021,
+      "nama_mahasiswa": "SARI OCTAVIA",
+      "nim": "D023211002",
+      "jalan": "ONGGATMID",
+      "rt": 35,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "99619",
+      "nisn": null,
+      "tempat_lahir": "JAYAPURA",
+      "tanggal_lahir": "1980-10-06",
+      "telepon": "0",
+      "handphone": "081284818775",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "RIMBA JAYA",
+      "id_wilayah": "250704",
+      "nik": "9101014610810004",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "sari@unmus.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "1700a590-1407-4d56-b604-3401b97212be",
+      "id_registrasi_mahasiswa_pddikti": "b69d5194-53ba-4aae-b018-a350a71a64d9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111338,
+        "id_mahasiswa": 157100,
+        "created_at": "2023-08-04 10:24:57"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1454,
+      "id_user": 26547,
+      "id_prodi": 19,
+      "nama": "Dr. Ir.  Hartawan, MT.",
+      "nidn": "0031126418",
+      "nip": "196412311991031034",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "05b8beaa-7817-4980-bca6-3ec1674deab3",
+      "pivot": {
+        "id_kelas_kuliah": 111338,
+        "id_dosen": 1454
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1395,
+      "id_user": 31694,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Nasruddin, S.T., MT.",
+      "nidn": "0016037101",
+      "nip": "197103161997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "00c2a605-0216-4a8d-90fa-dd78be6b5138",
+      "pivot": {
+        "id_kelas_kuliah": 111338,
+        "id_dosen": 1395
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1259,
+      "id_user": 29024,
+      "id_prodi": 19,
+      "nama": "Dr. Mohammad Mochsen Sir, ST., MT.",
+      "nidn": "0007046902",
+      "nip": "196904071996031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d4059066-ecd9-4849-b476-3af5f719b11b",
+      "pivot": {
+        "id_kelas_kuliah": 111338,
+        "id_dosen": 1259
+      }
+    }
+  ]
+}

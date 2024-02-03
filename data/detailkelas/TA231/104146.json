@@ -1,0 +1,29 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "42123.104146.148",
+  "shortname_sikola": "TA231-104146",
+  "kode_matkul": "21R01411302",
+  "nama_matkul": "Emergency Nursing",
+  "nama_kelas": "Emergency Nursing.Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2753,
+      "id_user": 34768,
+      "id_prodi": 8,
+      "nama": "Syahrul Ningrat, S.Kep., Ners., M.Kep., Sp.Kep.MB",
+      "nidn": "0016108304",
+      "nip": "198310162020053001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15cfb0a7-5da3-4773-a0c6-a2de1ab1648f",
+      "pivot": {
+        "id_kelas_kuliah": 104146,
+        "id_dosen": 2753
+      }
+    }
+  ]
+}

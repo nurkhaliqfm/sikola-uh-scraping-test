@@ -1,0 +1,77 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2419,
+  "idnumber_sikola": "39617.111109.71",
+  "shortname_sikola": "TA231-111109",
+  "kode_matkul": "20M01130203",
+  "nama_matkul": "Konservasi Tanah dan Air",
+  "nama_kelas": "KONSERVASI TANAH DAN AIR (D)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1839,
+      "id_user": 19307,
+      "id_prodi": 71,
+      "nama": "Andang Suryana Soma, S.Hut., M.P., Ph.D",
+      "nidn": "0025037804",
+      "nip": "197803252008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "22354763-2237-4362-96b5-e37473b7088e",
+      "pivot": {
+        "id_kelas_kuliah": 111109,
+        "id_dosen": 1839
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1072,
+      "id_user": 69468,
+      "id_prodi": 71,
+      "nama": "Dr. Ir. Usman Arsyad, M.Si.., IPU.",
+      "nidn": "8820523419",
+      "nip": "195401072019015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "826be80d-7057-484e-b2b8-77ae75a366ee",
+      "pivot": {
+        "id_kelas_kuliah": 111109,
+        "id_dosen": 1072
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2070,
+      "id_user": 18906,
+      "id_prodi": 71,
+      "nama": "Wahyuni, S.Hut., M.Hut.",
+      "nidn": "0909108502",
+      "nip": "198510092015042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "27c90fcd-35b0-4cc2-930c-d86b496b8af3",
+      "pivot": {
+        "id_kelas_kuliah": 111109,
+        "id_dosen": 2070
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3428,
+      "id_user": 58125,
+      "id_prodi": 71,
+      "nama": "Rizki Amaliah, S.Hut., M.Hut",
+      "nidn": "8968020021",
+      "nip": "199305282021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "7d8089b6-19cf-452a-8084-e8487928f3d2",
+      "pivot": {
+        "id_kelas_kuliah": 111109,
+        "id_dosen": 3428
+      }
+    }
+  ]
+}

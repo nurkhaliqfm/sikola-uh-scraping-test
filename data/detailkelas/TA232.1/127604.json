@@ -1,0 +1,45 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2654,
+  "idnumber_sikola": "37151.127604.76",
+  "shortname_sikola": "TA232-127604",
+  "kode_matkul": "18P01314003",
+  "nama_matkul": "Bioteknologi Ternak",
+  "nama_kelas": "Bioteknologi Ternak (S3 Ptn-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 716,
+      "id_user": 28393,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Abd. Latief Tolleng, M.Sc.",
+      "nidn": "0010095204",
+      "nip": "195406021978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ef9c77d-b22c-4a3a-8cd8-182fd6983010",
+      "pivot": {
+        "id_kelas_kuliah": 127604,
+        "id_dosen": 716
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 724,
+      "id_user": 15921,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Herry Sonjaya, DEA.",
+      "nidn": "0029015702",
+      "nip": "195701291980031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a66d6aaf-2e7f-4447-a93c-a73d96037617",
+      "pivot": {
+        "id_kelas_kuliah": 127604,
+        "id_dosen": 724
+      }
+    }
+  ]
+}

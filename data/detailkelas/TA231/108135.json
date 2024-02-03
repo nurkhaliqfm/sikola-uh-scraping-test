@@ -1,0 +1,77 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2427,
+  "idnumber_sikola": "26327.108135.80",
+  "shortname_sikola": "TA231-108135",
+  "kode_matkul": "18P02215102",
+  "nama_matkul": "Birokrasi Pemerintahan Daerah",
+  "nama_kelas": "Birokrasi Pemerintahan Daerah (P) (PPW/Otoda-Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 985,
+      "id_user": 34068,
+      "id_prodi": 25,
+      "nama": "Prof. Dr. Nurlinah, M.Si.",
+      "nidn": "0021096309",
+      "nip": "196309211987022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "bd777cdb-1c83-455e-987a-37350c9eb855",
+      "pivot": {
+        "id_kelas_kuliah": 108135,
+        "id_dosen": 985
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 965,
+      "id_user": 34242,
+      "id_prodi": 25,
+      "nama": "Prof. Dr.  Rabina Yunus, M.Si.",
+      "nidn": "0023116007",
+      "nip": "196011231986032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ae8b02d1-4f20-4a95-8029-070baac1c02d",
+      "pivot": {
+        "id_kelas_kuliah": 108135,
+        "id_dosen": 965
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2311,
+      "id_user": 30021,
+      "id_prodi": 25,
+      "nama": "Dr. A. Lukman Irwan, S.I.P., M.Si.",
+      "nidn": "0006017901",
+      "nip": "197901062005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "94eeca7e-88d8-43b9-98e2-9ffa5a778150",
+      "pivot": {
+        "id_kelas_kuliah": 108135,
+        "id_dosen": 2311
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3364,
+      "id_user": null,
+      "id_prodi": 80,
+      "nama": "Dr. Jimmy R.A. Torar, S.E., M.M",
+      "nidn": null,
+      "nip": "12345678",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 108135,
+        "id_dosen": 3364
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 171,
+  "nama_prodi": "ILMU KEBIDANAN - S2",
+  "id_prodi_semester": 2739,
+  "idnumber_sikola": "35047.127790.171",
+  "shortname_sikola": "TA232-127790",
+  "kode_matkul": "18P10211102",
+  "nama_matkul": "Manajemen Pendidikan Kebidanan\r\n",
+  "nama_kelas": "Manajemen Pendidikan Kebidanan (W) Kelas B (NIM 026-050) (Kebidanan Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1050,
+      "id_user": 34616,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Budu, Ph.D., Sp.M (K)., M.MedEd",
+      "nidn": "0031126608",
+      "nip": "196612311995031009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4a46dab4-f922-43bd-bfda-a156acbad6a8",
+      "pivot": {
+        "id_kelas_kuliah": 127790,
+        "id_dosen": 1050
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3233,
+      "id_user": 48360,
+      "id_prodi": 171,
+      "nama": "Dr. Mardiana Ahmad, S.SiT., M.Keb.",
+      "nidn": "0904096801",
+      "nip": "196709041990012002",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": "9e15040d-d0c5-444c-b990-0d303feb2e1f",
+      "pivot": {
+        "id_kelas_kuliah": 127790,
+        "id_dosen": 3233
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3419,
+      "id_user": 46873,
+      "id_prodi": 171,
+      "nama": "Dr. Amir Mahmud Hafsa, S.KM., M.Kes",
+      "nidn": null,
+      "nip": "197608172002121004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 127790,
+        "id_dosen": 3419
+      }
+    }
+  ]
+}

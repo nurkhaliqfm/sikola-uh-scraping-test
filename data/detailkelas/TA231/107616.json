@@ -1,0 +1,29 @@
+{
+  "id_prodi": 141,
+  "nama_prodi": "MKU  Eksakta",
+  "id_prodi_semester": 2483,
+  "idnumber_sikola": "44625.107616.141",
+  "shortname_sikola": "TA231-107616",
+  "kode_matkul": "23H03112702",
+  "nama_matkul": "Kimia Dasar",
+  "nama_kelas": "Kimia Dasar 00004",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1540,
+      "id_user": 21613,
+      "id_prodi": 49,
+      "nama": "Dr. Syahruddin Kasim, S.Si., M.Si.",
+      "nidn": "0005076903",
+      "nip": "196907051997031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3fa57c73-e0e1-45d5-9ebb-41684db62234",
+      "pivot": {
+        "id_kelas_kuliah": 107616,
+        "id_dosen": 1540
+      }
+    }
+  ]
+}

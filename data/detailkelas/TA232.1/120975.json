@@ -1,0 +1,61 @@
+{
+  "id_prodi": 153,
+  "nama_prodi": "AGRIBISNIS - S1",
+  "id_prodi_semester": 2721,
+  "idnumber_sikola": "36550.120975.153",
+  "shortname_sikola": "TA232-120975",
+  "kode_matkul": "19G02132003",
+  "nama_matkul": "ANALISIS SISTEM",
+  "nama_kelas": "Analisis Sistem Kelas B",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 887,
+      "id_user": 20791,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Didi Rukmana, MS.",
+      "nidn": "0015085405",
+      "nip": "195408151978031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f60ae0e0-a524-483b-88ad-bf331c98dbfb",
+      "pivot": {
+        "id_kelas_kuliah": 120975,
+        "id_dosen": 887
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 792,
+      "id_user": 21725,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Rahim Darma, MS.",
+      "nidn": "0001045905",
+      "nip": "195904011985021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "09e84bbc-4533-4bdc-9cc6-f91a2b06eb2d",
+      "pivot": {
+        "id_kelas_kuliah": 120975,
+        "id_dosen": 792
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 962,
+      "id_user": 21756,
+      "id_prodi": 153,
+      "nama": "Dr. Ir. Rahmadanih, M.Si.",
+      "nidn": "0027046603",
+      "nip": "196604271991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a83e0b3d-6e59-4369-b0b4-2cd34edef3a2",
+      "pivot": {
+        "id_kelas_kuliah": 120975,
+        "id_dosen": 962
+      }
+    }
+  ]
+}

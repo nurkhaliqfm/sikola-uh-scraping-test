@@ -1,0 +1,61 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34742.125978.165",
+  "shortname_sikola": "TA231-125978",
+  "kode_matkul": "18D02330409",
+  "nama_matkul": "DISERTASI DAN UJIAN DISERTASI",
+  "nama_kelas": "DISERTASI DAN UJIAN DISERTASI (ERIYANTO LIHAWA)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 678,
+      "id_user": 34185,
+      "id_prodi": 20,
+      "nama": "Prof. Dr.-Ing. Muhammad Yamin Jinca, ,MS.Tr.",
+      "nidn": "",
+      "nip": "195312211981031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125978,
+        "id_dosen": 678
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 125978,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1619,
+      "id_user": 23597,
+      "id_prodi": 19,
+      "nama": "Dr. Edward Syarif, ST., MT.",
+      "nidn": "0012066903",
+      "nip": "196906121998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0926a742-44bd-4af8-9e38-9c9902a90295",
+      "pivot": {
+        "id_kelas_kuliah": 125978,
+        "id_dosen": 1619
+      }
+    }
+  ]
+}

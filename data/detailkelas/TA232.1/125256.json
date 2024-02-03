@@ -1,0 +1,61 @@
+{
+  "id_prodi": 75,
+  "nama_prodi": "SISTEM-SISTEM PERTANIAN - S2",
+  "id_prodi_semester": 2653,
+  "idnumber_sikola": "25588.125256.75",
+  "shortname_sikola": "TA232-125256",
+  "kode_matkul": "18P01210503",
+  "nama_matkul": "Strategi dan Perencanaan Sistem Sumber Daya Alam\r\n",
+  "nama_kelas": "Strategi dan Perencanaan Sistem Sumberdaya Alam (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 958,
+      "id_user": 26868,
+      "id_prodi": 152,
+      "nama": "Prof. Dr. Ir. Rusnadi Padjung, M.Sc.",
+      "nidn": "0022026009",
+      "nip": "196002221985031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57befb49-36b5-4f20-9dca-884468924bf1",
+      "pivot": {
+        "id_kelas_kuliah": 125256,
+        "id_dosen": 958
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1713,
+      "id_user": 27218,
+      "id_prodi": 152,
+      "nama": "Dr. Ir. Abd. Haris B., M.Si.",
+      "nidn": "0008116707",
+      "nip": "196708111994031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "de4cc5e8-8cd6-406a-abd6-630583f5cedf",
+      "pivot": {
+        "id_kelas_kuliah": 125256,
+        "id_dosen": 1713
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 887,
+      "id_user": 20791,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Didi Rukmana, MS.",
+      "nidn": "0015085405",
+      "nip": "195408151978031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f60ae0e0-a524-483b-88ad-bf331c98dbfb",
+      "pivot": {
+        "id_kelas_kuliah": 125256,
+        "id_dosen": 887
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 103,
+  "nama_prodi": "SOSIOLOGI - S2",
+  "id_prodi_semester": 2448,
+  "idnumber_sikola": "39404.107494.103",
+  "shortname_sikola": "TA231-107494",
+  "kode_matkul": "20E03210902",
+  "nama_matkul": "Sosiologi Agama",
+  "nama_kelas": "Reguler",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2326,
+      "id_user": 12778,
+      "id_prodi": 29,
+      "nama": "Dr. Nuvida RAF, S.Sos., MA.",
+      "nidn": "0021047115",
+      "nip": "197104212008012015",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f1c3625f-acb0-4452-94f8-4787392e54a6",
+      "pivot": {
+        "id_kelas_kuliah": 107494,
+        "id_dosen": 2326
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4113,
+      "id_user": 85633,
+      "id_prodi": 142,
+      "nama": "Dr. Irfan Yahya, S.T., M.Si.",
+      "nidn": null,
+      "nip": "7371141806750008",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 107494,
+        "id_dosen": 4113
+      }
+    }
+  ]
+}

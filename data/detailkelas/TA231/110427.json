@@ -1,0 +1,117 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34891.110427.168",
+  "shortname_sikola": "TA231-110427",
+  "kode_matkul": "18D04310305",
+  "nama_matkul": "PENDUKUNG PENELITIAN 1 (UJI PARAMETER 1)",
+  "nama_kelas": "Pendukung Penelitian I (Uji Parameter I) Kuswandi Arifin",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415618,
+      "id_user": 74810,
+      "id_prodi": 168,
+      "angkatan": 2023,
+      "nama_mahasiswa": "KUSWANDI ARIFIN",
+      "nim": "D043231003",
+      "jalan": "SOEKARNO-HATTA KM. 1 GG. SEMBADA NO. 21, RT.23",
+      "rt": 23,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "76125",
+      "nisn": null,
+      "tempat_lahir": "BONTANG",
+      "tanggal_lahir": "1982-02-08",
+      "telepon": "0",
+      "handphone": "08562850280",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Gunung Samarinda",
+      "id_wilayah": "166103",
+      "nik": "6471030802820009",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "kuswandi.arifin@uniba-bpn.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "268f5492-5ef4-4623-a396-a9b6a02176a4",
+      "id_registrasi_mahasiswa_pddikti": "1bcf6919-fc6f-4610-a1eb-1832944462d0",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110427,
+        "id_mahasiswa": 415618,
+        "created_at": "2023-07-24 12:17:19"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1052,
+      "id_user": 31904,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Ilyas Renreng, MT.",
+      "nidn": "0014095703",
+      "nip": "195709141987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "13e3ec92-3db0-46f0-836a-0fd100729d52",
+      "pivot": {
+        "id_kelas_kuliah": 110427,
+        "id_dosen": 1052
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1953,
+      "id_user": 34342,
+      "id_prodi": 12,
+      "nama": "Dr. Eng.  Andi Amijoyo Mochtar, ST.,M.Sc.",
+      "nidn": "0016027607",
+      "nip": "197602162010121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7d534b83-49c7-46e4-b8e3-c8064ac249cd",
+      "pivot": {
+        "id_kelas_kuliah": 110427,
+        "id_dosen": 1953
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1960,
+      "id_user": 21402,
+      "id_prodi": 12,
+      "nama": "Azwar Hayat, ST., M.Sc., Ph.D.",
+      "nidn": "0026018403",
+      "nip": "198401262012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e25bf60f-d7cc-4e97-8166-6f4ceddcc378",
+      "pivot": {
+        "id_kelas_kuliah": 110427,
+        "id_dosen": 1960
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1392,
+      "id_user": 11736,
+      "id_prodi": 13,
+      "nama": "Dr. Eng. Ir. Ilham Bakri, ST., M.Sc",
+      "nidn": "0029097501",
+      "nip": "197509291999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4d8274cc-122e-46af-aa5f-f7a06f63f717",
+      "pivot": {
+        "id_kelas_kuliah": 110427,
+        "id_dosen": 1392
+      }
+    }
+  ]
+}

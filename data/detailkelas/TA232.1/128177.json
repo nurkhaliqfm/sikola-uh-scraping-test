@@ -1,0 +1,45 @@
+{
+  "id_prodi": 28,
+  "nama_prodi": "ILMU KOMUNIKASI - S1",
+  "id_prodi_semester": 2623,
+  "idnumber_sikola": "44849.128177.28",
+  "shortname_sikola": "TA232-128177",
+  "kode_matkul": "23E02122503",
+  "nama_matkul": "Ekonomi Politik Media",
+  "nama_kelas": "Ekonomi Politik Media (Kelas Internasional)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1404,
+      "id_user": 33858,
+      "id_prodi": 28,
+      "nama": "Syamsuddin Azis, M.Phil., Ph.D",
+      "nidn": "0025046303",
+      "nip": "196304251993031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "943c8af4-970a-4466-b910-e2812f92af84",
+      "pivot": {
+        "id_kelas_kuliah": 128177,
+        "id_dosen": 1404
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2314,
+      "id_user": 31552,
+      "id_prodi": 28,
+      "nama": "Dr. Alem Febri Sonni, S.Sos., M.Si.",
+      "nidn": "0023027402",
+      "nip": "197402232001121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7fbbddf4-3457-4b17-83b6-8d6d57bf988c",
+      "pivot": {
+        "id_kelas_kuliah": 128177,
+        "id_dosen": 2314
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2380,
+  "idnumber_sikola": "47345.111528.15",
+  "shortname_sikola": "TA231-111528",
+  "kode_matkul": "23D08130802",
+  "nama_matkul": "Bangunan Apung II",
+  "nama_kelas": "Bangunan Apung II A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1508,
+      "id_user": 17267,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Daeng Paroka, ST., MT., P.h.D",
+      "nidn": "0018017201",
+      "nip": "197201181998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6af5f039-f1c7-4673-9f80-6bac1db17c82",
+      "pivot": {
+        "id_kelas_kuliah": 111528,
+        "id_dosen": 1508
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1612,
+      "id_user": 9773,
+      "id_prodi": 15,
+      "nama": "Dr. Eng Achmad Yasir Baeda, ST.,MT.",
+      "nidn": "0009077301",
+      "nip": "197307092000031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b174a72-9162-4cb4-aec9-699f4f7e439a",
+      "pivot": {
+        "id_kelas_kuliah": 111528,
+        "id_dosen": 1612
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1587,
+      "id_user": 6458,
+      "id_prodi": 15,
+      "nama": "Dr.Eng. Firman Husain, ST.,MT.",
+      "nidn": "0023047307",
+      "nip": "197304232008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a1e23264-1254-486f-ab30-60a8f505f5d7",
+      "pivot": {
+        "id_kelas_kuliah": 111528,
+        "id_dosen": 1587
+      }
+    }
+  ]
+}

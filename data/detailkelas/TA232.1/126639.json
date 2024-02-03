@@ -1,0 +1,140 @@
+{
+  "id_prodi": 214,
+  "nama_prodi": "SASTRA INDONESIA - S3",
+  "id_prodi_semester": 2779,
+  "idnumber_sikola": "38088.126639.214",
+  "shortname_sikola": "TA232-126639",
+  "kode_matkul": "19F03310703",
+  "nama_matkul": "Teori-Teori Mutakhir Morfosintaksis Bahasa Indonesia",
+  "nama_kelas": "Teori Mutakhir Morfosintaksis",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427819,
+      "id_user": 86346,
+      "id_prodi": 214,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ASNAWI",
+      "nim": "F033232003",
+      "jalan": "JALAN POROS SUNGAI BIALO DESA BIALO (SESUDAH KANTOR DESA BIALO)",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "BONTORITA",
+      "kode_pos": "92561",
+      "nisn": "0",
+      "tempat_lahir": "BULUKUMBA",
+      "tanggal_lahir": "1972-01-22",
+      "telepon": "0",
+      "handphone": "082345239277",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "GANTARANG DESA BIALO",
+      "id_wilayah": "191101",
+      "nik": "7302012201720001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86346,
+      "kode_status": "A",
+      "email": "andiasnawi277@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126639,
+        "id_mahasiswa": 427819,
+        "created_at": "2024-01-11 15:04:35"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428305,
+      "id_user": 86832,
+      "id_prodi": 214,
+      "angkatan": 2023,
+      "nama_mahasiswa": "NIRWANA",
+      "nim": "F033232001",
+      "jalan": "RUSUNAWA",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "97718",
+      "nisn": "0",
+      "tempat_lahir": "MANERA",
+      "tanggal_lahir": "1977-05-02",
+      "telepon": "0",
+      "handphone": "082311128462",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "FITU",
+      "id_wilayah": "276002",
+      "nik": "7371034205770008",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86832,
+      "kode_status": "A",
+      "email": "nirwana.bening2013@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126639,
+        "id_mahasiswa": 428305,
+        "created_at": "2024-01-15 22:51:56"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 712,
+      "id_user": 31198,
+      "id_prodi": 31,
+      "nama": "Prof. Dr.  Muhammad Darwis, MS.",
+      "nidn": "0028085905",
+      "nip": "195908281984031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "21527b2c-2fb1-4918-95b3-746cb1727aa0",
+      "pivot": {
+        "id_kelas_kuliah": 126639,
+        "id_dosen": 712
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 994,
+      "id_user": 32302,
+      "id_prodi": 31,
+      "nama": "Dr. Kaharuddin, M.Hum.",
+      "nidn": "0031126486",
+      "nip": "196412311991031029",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73ad567b-c462-41a4-9a31-4d6fb956a647",
+      "pivot": {
+        "id_kelas_kuliah": 126639,
+        "id_dosen": 994
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 984,
+      "id_user": 34282,
+      "id_prodi": 31,
+      "nama": "Dr. Asriani Abbas, M.Hum.",
+      "nidn": "0029096603",
+      "nip": "196609291992032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2b1edb02-d7d3-4b05-8e56-4a68fc495bb1",
+      "pivot": {
+        "id_kelas_kuliah": 126639,
+        "id_dosen": 984
+      }
+    }
+  ]
+}

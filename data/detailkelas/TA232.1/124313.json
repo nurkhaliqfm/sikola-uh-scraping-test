@@ -1,0 +1,85 @@
+{
+  "id_prodi": 46,
+  "nama_prodi": "STATISTIKA - S1",
+  "id_prodi_semester": 2635,
+  "idnumber_sikola": "45252.124313.46",
+  "shortname_sikola": "TA232-124313",
+  "kode_matkul": "23H05121503",
+  "nama_matkul": "Kalkulus III",
+  "nama_kelas": "Kalkulus III",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 350844,
+      "id_user": 65312,
+      "id_prodi": 46,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SUSANA AGUSTINA KOFFIAY",
+      "nim": "H051221038",
+      "jalan": "TVRI TEMINABUAN",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Aibobor",
+      "kode_pos": "98454",
+      "nisn": "0037320163",
+      "tempat_lahir": "MANOKWARI",
+      "tanggal_lahir": "2003-08-05",
+      "telepon": "0",
+      "handphone": "081343107031",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "KOHOIN",
+      "id_wilayah": "320621",
+      "nik": "9204014508030002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "susannunaki@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "64873dff-fab8-48a3-9b9f-a0b6aeae33f1",
+      "id_registrasi_mahasiswa_pddikti": "3e43d585-2766-4e61-97d7-c144547e349a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124313,
+        "id_mahasiswa": 350844,
+        "created_at": "2024-01-25 12:12:40"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1445,
+      "id_user": 32961,
+      "id_prodi": 46,
+      "nama": "Dr. Nirwan, M.Si.",
+      "nidn": "0006036303",
+      "nip": "196303061987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "44ec1237-e5fe-451e-86c7-400afd37f2c8",
+      "pivot": {
+        "id_kelas_kuliah": 124313,
+        "id_dosen": 1445
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3867,
+      "id_user": 70088,
+      "id_prodi": 46,
+      "nama": "Hedi Kuswanto, S.Si., M.Si",
+      "nidn": null,
+      "nip": "7308091402970002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 124313,
+        "id_dosen": 3867
+      }
+    }
+  ]
+}

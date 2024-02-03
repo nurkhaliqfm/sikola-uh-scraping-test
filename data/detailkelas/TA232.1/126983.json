@@ -1,0 +1,93 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30421.126983.122",
+  "shortname_sikola": "TA232-126983",
+  "kode_matkul": "0609C20802",
+  "nama_matkul": "LABORATORIUM IRD & BANK DARAH RUMAH SAKIT",
+  "nama_kelas": "Laboratorium IRD & bank darah Rumah Sakit",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2964,
+      "id_user": 58340,
+      "id_prodi": 122,
+      "nama": "Dr. dr. Rachmawati Adiputri Muhiddin, Sp.PK(K).",
+      "nidn": null,
+      "nip": "196810032018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126983,
+        "id_dosen": 2964
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2959,
+      "id_user": 58339,
+      "id_prodi": 122,
+      "nama": "dr. Darwati Muhadi, SpPK(K)",
+      "nidn": null,
+      "nip": "196408092018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126983,
+        "id_dosen": 2959
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2970,
+      "id_user": 72094,
+      "id_prodi": 122,
+      "nama": "dr. Asvin Nurulita, M.Kes, SpPK(K)",
+      "nidn": null,
+      "nip": "197808222018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126983,
+        "id_dosen": 2970
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2961,
+      "id_user": 58345,
+      "id_prodi": 122,
+      "nama": "dr. Mutmainnah, Sp.PK(K)",
+      "nidn": null,
+      "nip": "196501052018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126983,
+        "id_dosen": 2961
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2966,
+      "id_user": 71684,
+      "id_prodi": 122,
+      "nama": "dr. Irda Handayani, M.Kes, SpPK",
+      "nidn": "8802920016",
+      "nip": "196705242018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e282f755-be71-4e9b-a588-acd5d0f30adc",
+      "pivot": {
+        "id_kelas_kuliah": 126983,
+        "id_dosen": 2966
+      }
+    }
+  ]
+}

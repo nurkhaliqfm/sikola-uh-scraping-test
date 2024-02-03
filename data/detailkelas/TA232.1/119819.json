@@ -1,0 +1,45 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2663,
+  "idnumber_sikola": "26809.119819.86",
+  "shortname_sikola": "TA232-119819",
+  "kode_matkul": "18B01310702",
+  "nama_matkul": "PERKEMBANGAN HUKUM PIDANA DAN KRIMINOLOGI\r\n",
+  "nama_kelas": "KLS A AFIRMASI KEJAKSAAN SEM II",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 967,
+      "id_user": 34310,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Muhammad Said Karim, SH., MH.",
+      "nidn": "0011076202",
+      "nip": "196207111987031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "983a8f19-77b5-44f4-a86c-60c9df061c96",
+      "pivot": {
+        "id_kelas_kuliah": 119819,
+        "id_dosen": 967
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1233,
+      "id_user": 33970,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Slamet Sampurno Soewondo, SH., MH.,DFM.",
+      "nidn": "0011046802",
+      "nip": "196804111992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b9c502ec-8f6f-4260-bf08-a51367c58d7d",
+      "pivot": {
+        "id_kelas_kuliah": 119819,
+        "id_dosen": 1233
+      }
+    }
+  ]
+}

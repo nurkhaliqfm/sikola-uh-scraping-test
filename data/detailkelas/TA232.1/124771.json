@@ -1,0 +1,29 @@
+{
+  "id_prodi": 17,
+  "nama_prodi": "TEKNIK ELEKTRO - S1",
+  "id_prodi_semester": 2613,
+  "idnumber_sikola": "47136.124771.17",
+  "shortname_sikola": "TA232-124771",
+  "kode_matkul": "23D04134002",
+  "nama_matkul": "Penggunaan Komputer dalam Sistem Tenaga",
+  "nama_kelas": "Penggunaan Komputer dalam Sistem Tenaga",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 800,
+      "id_user": 31600,
+      "id_prodi": 17,
+      "nama": "Prof. Dr. Ir. H  Ansar Suyuti, MT.,IPU",
+      "nidn": "0031126723",
+      "nip": "196712311992021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fef6a3dd-3ab8-4a7d-9532-f00f5471056a",
+      "pivot": {
+        "id_kelas_kuliah": 124771,
+        "id_dosen": 800
+      }
+    }
+  ]
+}

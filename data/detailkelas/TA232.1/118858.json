@@ -1,0 +1,117 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43209.118858.78",
+  "shortname_sikola": "TA232-118858",
+  "kode_matkul": "22I02210603",
+  "nama_matkul": "Ilmu dan Teknologi Pemuliaan dan Reproduksi Ternak",
+  "nama_kelas": "Ilmu dan teknologi Pemuliaan dan Reproduksi Ternak",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427467,
+      "id_user": 85990,
+      "id_prodi": 78,
+      "angkatan": 2023,
+      "nama_mahasiswa": "DIAN FITRIANI",
+      "nim": "I012232009",
+      "jalan": "Desa Walenrang, Kab Luwu",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "Pasang Kaliba",
+      "kode_pos": "91951",
+      "nisn": null,
+      "tempat_lahir": "KALIBA",
+      "tanggal_lahir": "2001-12-14",
+      "telepon": "0",
+      "handphone": "082196675794",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "WALENRANG",
+      "id_wilayah": "191708",
+      "nik": "7317065412070003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 85990,
+      "kode_status": "A",
+      "email": "dianfitriani189@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118858,
+        "id_mahasiswa": 427467,
+        "created_at": "2024-01-22 10:29:32"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1057,
+      "id_user": 15170,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Muhammad Yusuf, S.Pt., IPU",
+      "nidn": "0025077002",
+      "nip": "197007251999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc785c44-38a1-43a3-b473-00ee14901af2",
+      "pivot": {
+        "id_kelas_kuliah": 118858,
+        "id_dosen": 1057
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 716,
+      "id_user": 28393,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Abd. Latief Tolleng, M.Sc.",
+      "nidn": "0010095204",
+      "nip": "195406021978021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ef9c77d-b22c-4a3a-8cd8-182fd6983010",
+      "pivot": {
+        "id_kelas_kuliah": 118858,
+        "id_dosen": 716
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1488,
+      "id_user": 14750,
+      "id_prodi": 51,
+      "nama": "Prof.Dr.Ir Raden Roro Sri R.A.Bugiwati, M.Sc.",
+      "nidn": "0025046801",
+      "nip": "196804251994032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b49dd56f-20f7-4412-adab-648569fd3222",
+      "pivot": {
+        "id_kelas_kuliah": 118858,
+        "id_dosen": 1488
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1948,
+      "id_user": 19313,
+      "id_prodi": 51,
+      "nama": "Dr.  Muhammad Ihsan Andi Dagong, S.Pt., M.Si",
+      "nidn": "0026057708",
+      "nip": "197705262002121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ced07ead-9593-49dd-a349-93bbdb8666df",
+      "pivot": {
+        "id_kelas_kuliah": 118858,
+        "id_dosen": 1948
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2375,
+  "idnumber_sikola": "44643.112014.10",
+  "shortname_sikola": "TA231-112014",
+  "kode_matkul": "23U01111002",
+  "nama_matkul": "Wawasan Budaya dan Ipteks BMI",
+  "nama_kelas": "WB & IPTEKS BMI INTER",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1828,
+      "id_user": 117,
+      "id_prodi": 30,
+      "nama": "Dr. Safriadi, SIP., M.Si.",
+      "nidn": "0005067408",
+      "nip": "197406052008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7ba6f9b-026d-43f5-b73c-f949185e4db7",
+      "pivot": {
+        "id_kelas_kuliah": 112014,
+        "id_dosen": 1828
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3709,
+      "id_user": 73665,
+      "id_prodi": 142,
+      "nama": "Andi Batara Al Isra, S.Sos., MA,",
+      "nidn": null,
+      "nip": "7306080901941540000",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 112014,
+        "id_dosen": 3709
+      }
+    }
+  ]
+}

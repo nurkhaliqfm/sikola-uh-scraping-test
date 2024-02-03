@@ -1,0 +1,45 @@
+{
+  "id_prodi": 179,
+  "nama_prodi": "PPDS - ILMU GIZI KLINIK",
+  "id_prodi_semester": 2516,
+  "idnumber_sikola": "35400.103860.179",
+  "shortname_sikola": "TA231-103860",
+  "kode_matkul": "0101C21702",
+  "nama_matkul": "FILSAFAT ILMU PENGETAHUAN",
+  "nama_kelas": "Filsafat ilmu Pengetahuan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3037,
+      "id_user": null,
+      "id_prodi": 127,
+      "nama": "Prof. Dr. Syarifuddin Wahid, PhD, SpPA(K), SpF",
+      "nidn": null,
+      "nip": "194407241973081001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103860,
+        "id_dosen": 3037
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1289,
+      "id_user": 34321,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr. Haerani Rasyid, M.Kes.,Sp.PD-KGH.,Sp.GK",
+      "nidn": "0030056802",
+      "nip": "196805301996032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e313841f-2bda-4ffa-977d-64f3457c18f3",
+      "pivot": {
+        "id_kelas_kuliah": 103860,
+        "id_dosen": 1289
+      }
+    }
+  ]
+}

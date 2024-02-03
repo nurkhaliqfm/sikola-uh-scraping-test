@@ -1,0 +1,45 @@
+{
+  "id_prodi": 139,
+  "nama_prodi": "MAGISTER AKUNTANSI - S2",
+  "id_prodi_semester": 2712,
+  "idnumber_sikola": "44562.123023.139",
+  "shortname_sikola": "TA232-123023",
+  "kode_matkul": "23A06210303",
+  "nama_matkul": "Tata Kelola dan Audit Internal Berbasis Resiko",
+  "nama_kelas": "MAKSI-PUPR TATA KELOLA DAN AUDIT INTERNAL BERBASIS RISIKO",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1302,
+      "id_user": 22831,
+      "id_prodi": 3,
+      "nama": "Dr. Ratna Ayu Damayanti, S.E., M.Soc., Sc., Ak., CA",
+      "nidn": "0019036708",
+      "nip": "196703191992032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd6139a0-9c9c-46e8-8771-38c89a4a1d27",
+      "pivot": {
+        "id_kelas_kuliah": 123023,
+        "id_dosen": 1302
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4024,
+      "id_user": null,
+      "id_prodi": 139,
+      "nama": "Amin Adab Bangun, S.E., M.Si.,Ak., CA., CSFA",
+      "nidn": null,
+      "nip": "1271031007690002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123023,
+        "id_dosen": 4024
+      }
+    }
+  ]
+}

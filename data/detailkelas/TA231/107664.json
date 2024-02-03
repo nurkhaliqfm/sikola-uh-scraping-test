@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34894.107664.168",
+  "shortname_sikola": "TA231-107664",
+  "kode_matkul": "18D04320104",
+  "nama_matkul": "PENELITIAN DAN SEMINAR DISERTASI I",
+  "nama_kelas": "Penelitian dan Seminar Disertasi I ( Mohammad Azhar Shauqy)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 384952,
+      "id_user": 71733,
+      "id_prodi": 168,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MOHAMMAD AZHAR SHAUQY",
+      "nim": "D043222001",
+      "jalan": "AP. PETTARANI (KOMPLEKS PEMDA) E21/41",
+      "rt": 5,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "-",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1978-06-14",
+      "telepon": "08124204358",
+      "handphone": "08124204358",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TIDUNG",
+      "id_wilayah": "196013",
+      "nik": "7371131406780002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "azharshauqy@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "77827797-2d03-4fa8-aca4-1c40f54b6dbb",
+      "id_registrasi_mahasiswa_pddikti": "e27d23ed-d900-4b01-ab45-3557f03e265d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107664,
+        "id_mahasiswa": 384952,
+        "created_at": "2023-08-09 08:41:12"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1194,
+      "id_user": 14331,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Eng. Andi Erwin Eka Putra, ST., MT.",
+      "nidn": "0021127102",
+      "nip": "197112211998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e084b56a-9c49-4d8b-8546-40f886bf3c72",
+      "pivot": {
+        "id_kelas_kuliah": 107664,
+        "id_dosen": 1194
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1312,
+      "id_user": 32555,
+      "id_prodi": 12,
+      "nama": "Dr. Ir. Nasruddin, M.Si",
+      "nidn": "0017106101",
+      "nip": "196110171985031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "730852b4-de5f-444e-b328-f8c1d0f5b26c",
+      "pivot": {
+        "id_kelas_kuliah": 107664,
+        "id_dosen": 1312
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1508,
+      "id_user": 17267,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Daeng Paroka, ST., MT., P.h.D",
+      "nidn": "0018017201",
+      "nip": "197201181998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6af5f039-f1c7-4673-9f80-6bac1db17c82",
+      "pivot": {
+        "id_kelas_kuliah": 107664,
+        "id_dosen": 1508
+      }
+    }
+  ]
+}

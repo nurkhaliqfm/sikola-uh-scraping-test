@@ -1,0 +1,85 @@
+{
+  "id_prodi": 203,
+  "nama_prodi": "KEPERAWATAN - D3",
+  "id_prodi_semester": 2770,
+  "idnumber_sikola": "36275.118853.203",
+  "shortname_sikola": "TA232-118853",
+  "kode_matkul": "19C01730303",
+  "nama_matkul": "KEPERAWATAN ANAK",
+  "nama_kelas": "KEPERAWATAN ANAK",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142279,
+      "id_user": 44348,
+      "id_prodi": 203,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MATIUS HABEL AORE",
+      "nim": "C017201004",
+      "jalan": "Jln. Perintis kemerdekaan wisma 2 unhas",
+      "rt": 4,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "C017201004",
+      "tempat_lahir": "Syuru 27 oktober 2000",
+      "tanggal_lahir": "2020-09-09",
+      "telepon": "085244207246",
+      "handphone": "6285244207246",
+      "id_agama": null,
+      "id_prodi_jenjang": 8,
+      "kelurahan": "Tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "9118012404980002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "matiushabelaore@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "49eaf770-a011-40d7-90e0-56190e587a6b",
+      "id_registrasi_mahasiswa_pddikti": "8861ff09-a618-4f14-9646-ea125a4ec2d2",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 118853,
+        "id_mahasiswa": 142279,
+        "created_at": "2024-02-02 08:25:24"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1697,
+      "id_user": 19579,
+      "id_prodi": 8,
+      "nama": "Dr. Kadek Ayu Erika, S.Kp., Ns.,M.Kes.",
+      "nidn": "0020107709",
+      "nip": "197710202003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5f4eebca-570d-4c6d-bc61-c30dca7c6a96",
+      "pivot": {
+        "id_kelas_kuliah": 118853,
+        "id_dosen": 1697
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2362,
+      "id_user": 45079,
+      "id_prodi": 8,
+      "nama": "Dr. Suni Hariati, S.Kep.,Ns.,M.Kep.",
+      "nidn": "0024098404",
+      "nip": "198409242010122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc154e78-57c7-4a30-888b-7d44ae7903a7",
+      "pivot": {
+        "id_kelas_kuliah": 118853,
+        "id_dosen": 2362
+      }
+    }
+  ]
+}

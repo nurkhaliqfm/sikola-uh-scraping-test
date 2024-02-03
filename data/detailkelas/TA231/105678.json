@@ -1,0 +1,45 @@
+{
+  "id_prodi": 218,
+  "nama_prodi": "TEKNOLOGI PRODUKSI TERNAK - D4",
+  "id_prodi_semester": 2552,
+  "idnumber_sikola": "44639.105678.218",
+  "shortname_sikola": "TA231-105678",
+  "kode_matkul": "23U01110702",
+  "nama_matkul": "Pendidikan Pancasila",
+  "nama_kelas": "Pancasila",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1828,
+      "id_user": 117,
+      "id_prodi": 30,
+      "nama": "Dr. Safriadi, SIP., M.Si.",
+      "nidn": "0005067408",
+      "nip": "197406052008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f7ba6f9b-026d-43f5-b73c-f949185e4db7",
+      "pivot": {
+        "id_kelas_kuliah": 105678,
+        "id_dosen": 1828
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4104,
+      "id_user": null,
+      "id_prodi": 219,
+      "nama": "Muhammad Alimin, S.P., M.Si.",
+      "nidn": null,
+      "nip": "7314032212680001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 105678,
+        "id_dosen": 4104
+      }
+    }
+  ]
+}

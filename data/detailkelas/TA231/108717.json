@@ -1,0 +1,109 @@
+{
+  "id_prodi": 57,
+  "nama_prodi": "KESEHATAN MASYARAKAT (S1)",
+  "id_prodi_semester": 2412,
+  "idnumber_sikola": "44918.108717.57",
+  "shortname_sikola": "TA231-108717",
+  "kode_matkul": "23K01110302",
+  "nama_matkul": "Sosiologi dan Antropologi Kesehatan",
+  "nama_kelas": "SOSIOLOGI DAN ANTROPOLOGI KESEHATAN KELAS F",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1328,
+      "id_user": 17740,
+      "id_prodi": 57,
+      "nama": "Dr. Ridwan Mochtar Thaha, M.Sc.",
+      "nidn": "9990067215",
+      "nip": "195809061986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "30f98ce0-b0b5-4fe3-b410-969c27ae846d",
+      "pivot": {
+        "id_kelas_kuliah": 108717,
+        "id_dosen": 1328
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 866,
+      "id_user": 34378,
+      "id_prodi": 57,
+      "nama": "Prof. Dr. dr. Muhammad Syafar, MS.",
+      "nidn": "0021105401",
+      "nip": "195410211988121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "42b4a715-25fb-4cf2-af68-c70fcd028928",
+      "pivot": {
+        "id_kelas_kuliah": 108717,
+        "id_dosen": 866
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2296,
+      "id_user": 29377,
+      "id_prodi": 57,
+      "nama": "Dr. Muhammad Arsyad, SKM., M.Kes.",
+      "nidn": "0018047001",
+      "nip": "197004181994121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "964d1ebb-6b71-4ea6-884f-c0d7f8595419",
+      "pivot": {
+        "id_kelas_kuliah": 108717,
+        "id_dosen": 2296
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2331,
+      "id_user": 56011,
+      "id_prodi": 57,
+      "nama": "Dr. Shanti Riskiyani, SKM., M.Kes.",
+      "nidn": "0021107803",
+      "nip": "197810212006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78794e53-4932-4834-a0af-63d9a121ac37",
+      "pivot": {
+        "id_kelas_kuliah": 108717,
+        "id_dosen": 2331
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1555,
+      "id_user": 34245,
+      "id_prodi": 30,
+      "nama": "Dr. Yahya, MA.",
+      "nidn": "0031126257",
+      "nip": "196212312000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eb9ae31-673a-48c1-826e-3a1b7a25ea40",
+      "pivot": {
+        "id_kelas_kuliah": 108717,
+        "id_dosen": 1555
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2488,
+      "id_user": 29432,
+      "id_prodi": 57,
+      "nama": "Nasrah, S.KM., M.Kes",
+      "nidn": "0021078905",
+      "nip": "198907212018074001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b3b227f-aca8-4835-a151-2a01d969fad8",
+      "pivot": {
+        "id_kelas_kuliah": 108717,
+        "id_dosen": 2488
+      }
+    }
+  ]
+}

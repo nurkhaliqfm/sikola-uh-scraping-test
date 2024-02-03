@@ -1,0 +1,69 @@
+{
+  "id_prodi": 45,
+  "nama_prodi": "MATEMATIKA - S1",
+  "id_prodi_semester": 2634,
+  "idnumber_sikola": "46500.124781.45",
+  "shortname_sikola": "TA232-124781",
+  "kode_matkul": "23U02133120",
+  "nama_matkul": "Pengembangan Kreativitas dan Inovasi",
+  "nama_kelas": "Pengembangan Kreativitas dan Inovasi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 153237,
+      "id_user": 49456,
+      "id_prodi": 45,
+      "angkatan": 2021,
+      "nama_mahasiswa": "EKA RESKYANTI",
+      "nim": "H011211069",
+      "jalan": "MANJANGLOE KAB. JENEPONTO PROV. SULAWESI SELATAN 92351",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "92350",
+      "nisn": "0021706426",
+      "tempat_lahir": "BONTOSUNGGUH",
+      "tanggal_lahir": "2002-07-30",
+      "telepon": "085242843411",
+      "handphone": "082250647299",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MANJANGLOE",
+      "id_wilayah": "190502",
+      "nik": "7304027007020002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ekareskyanti@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "1c704bed-3598-42c3-9fa0-e7f61e427380",
+      "id_registrasi_mahasiswa_pddikti": "4a172746-b62f-4967-b1c0-9bd7efe246f0",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 124781,
+        "id_mahasiswa": 153237,
+        "created_at": "2024-01-31 11:48:04"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1617,
+      "id_user": 23154,
+      "id_prodi": 45,
+      "nama": "Dr. Firman, S.Si.,M.Si.",
+      "nidn": "0029046810",
+      "nip": "196804292002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ecfe62ce-72e5-4a1a-b25b-494d3d448393",
+      "pivot": {
+        "id_kelas_kuliah": 124781,
+        "id_dosen": 1617
+      }
+    }
+  ]
+}

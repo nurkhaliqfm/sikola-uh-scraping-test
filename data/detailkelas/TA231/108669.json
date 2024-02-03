@@ -1,0 +1,61 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2447,
+  "idnumber_sikola": "28162.108669.102",
+  "shortname_sikola": "TA231-108669",
+  "kode_matkul": "18P06212702",
+  "nama_matkul": "Bioteknologi Mikrobiologi",
+  "nama_kelas": "Bioteknologi Mikrobiologi (P) (Biomedik/MIkro-Sem II)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 697,
+      "id_user": 19833,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Mochammad Hatta, Ph.D., Sp.MK(K)",
+      "nidn": "0014045703",
+      "nip": "195704161985031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "34a19bf1-32eb-4cbc-9ef2-b89416188fd0",
+      "pivot": {
+        "id_kelas_kuliah": 108669,
+        "id_dosen": 697
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 706,
+      "id_user": 16642,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Ahyar",
+      "nidn": "0031126362",
+      "nip": "196712311991031020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ab02eec5-d0e6-4077-b0da-ae88a1ecb5dc",
+      "pivot": {
+        "id_kelas_kuliah": 108669,
+        "id_dosen": 706
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1527,
+      "id_user": 59930,
+      "id_prodi": 6,
+      "nama": "Prof. dr.  Syafruddin, Ph.D.",
+      "nidn": "0015066001",
+      "nip": "196005161986011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1b012be2-1445-4a21-b601-0f9f3101cb2b",
+      "pivot": {
+        "id_kelas_kuliah": 108669,
+        "id_dosen": 1527
+      }
+    }
+  ]
+}

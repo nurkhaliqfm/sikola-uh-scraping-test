@@ -1,0 +1,85 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2386,
+  "idnumber_sikola": "47961.112717.21",
+  "shortname_sikola": "TA231-112717",
+  "kode_matkul": "23D06131102",
+  "nama_matkul": "Teknik Pantai",
+  "nama_kelas": "Teknik Pantai Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 142820,
+      "id_user": 42010,
+      "id_prodi": 21,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ERLANGGA PRATAMA SUSILO",
+      "nim": "D061201079",
+      "jalan": "Puri Kencana Sari H/9",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "90245",
+      "nisn": "0023190229",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2002-07-21",
+      "telepon": "0",
+      "handphone": "6281245799185",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Indah",
+      "id_wilayah": "196012",
+      "nik": "7371142107010002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "erlanggapratamasusilo@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "5f27dc6c-971d-4764-bd6a-32af8924b059",
+      "id_registrasi_mahasiswa_pddikti": "d3b647b0-dbad-4725-b91a-36b7163ebbf6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112717,
+        "id_mahasiswa": 142820,
+        "created_at": "2023-08-04 17:47:08"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 893,
+      "id_user": 16955,
+      "id_prodi": 21,
+      "nama": "Prof. Dr. Ir. Rohaya Langkoke, MT.",
+      "nidn": "0010125802",
+      "nip": "195812101986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "71be0ff1-2c3c-40d6-afce-5819f87bbf77",
+      "pivot": {
+        "id_kelas_kuliah": 112717,
+        "id_dosen": 893
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1950,
+      "id_user": 28829,
+      "id_prodi": 21,
+      "nama": "Dr. Eng. Hendra Pachri, S.T., M.Eng",
+      "nidn": "0014127705",
+      "nip": "197712142005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "38f01ca0-2989-4839-9af6-40a23858cb01",
+      "pivot": {
+        "id_kelas_kuliah": 112717,
+        "id_dosen": 1950
+      }
+    }
+  ]
+}

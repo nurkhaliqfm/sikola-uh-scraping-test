@@ -1,0 +1,69 @@
+{
+  "id_prodi": 1,
+  "nama_prodi": "ILMU EKONOMI - S1",
+  "id_prodi_semester": 2368,
+  "idnumber_sikola": "47879.113083.1",
+  "shortname_sikola": "TA231-113083",
+  "kode_matkul": "23A01110103",
+  "nama_matkul": "Pengantar Matematika Ekonomi",
+  "nama_kelas": "PENGANTAR MATEMATIKA EKONOMI KELAS E",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 413061,
+      "id_user": 85304,
+      "id_prodi": 1,
+      "angkatan": 2023,
+      "nama_mahasiswa": "WENNY E.T SIHOMBING",
+      "nim": "A011231058",
+      "jalan": "JLN. NANGKA   KAB. HUMBANG HASUDUTAN  PROV. SUMATERA UTARA 22475",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "0",
+      "kode_pos": "22475",
+      "nisn": "0047232838",
+      "tempat_lahir": "HUTA GURGUR",
+      "tanggal_lahir": "2004-11-05",
+      "telepon": "081279261505",
+      "handphone": "085361932206",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tapian Nauli",
+      "id_wilayah": "071903",
+      "nik": "1216054511040002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "wennysihombing5@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b9240fdf-f37b-4e4e-bdab-5301b15f17dc",
+      "id_registrasi_mahasiswa_pddikti": "c3d32e2a-192d-42a6-b59a-ec913ba99ed9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113083,
+        "id_mahasiswa": 413061,
+        "created_at": "2023-08-19 16:22:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1867,
+      "id_user": 22990,
+      "id_prodi": 1,
+      "nama": "Dr.  Indraswati T.R., SE., MA.",
+      "nidn": "0012106501",
+      "nip": "196510121999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a1c4e285-f362-4313-bbf1-e8487d69598b",
+      "pivot": {
+        "id_kelas_kuliah": 113083,
+        "id_dosen": 1867
+      }
+    }
+  ]
+}

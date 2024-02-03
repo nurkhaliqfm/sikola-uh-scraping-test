@@ -1,0 +1,45 @@
+{
+  "id_prodi": 21,
+  "nama_prodi": "TEKNIK GEOLOGI - S1",
+  "id_prodi_semester": 2386,
+  "idnumber_sikola": "47983.112694.21",
+  "shortname_sikola": "TA231-112694",
+  "kode_matkul": "23D06133002",
+  "nama_matkul": "Rekayasa Mineral Lempung",
+  "nama_kelas": "Rekayasa Mineral Lempung",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1031,
+      "id_user": 28257,
+      "id_prodi": 21,
+      "nama": "Dr. Ir.  Ratna Husain, M.T",
+      "nidn": "0002025904",
+      "nip": "195902021986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "904767b7-6a7a-4b5c-be2c-81cad0708dd9",
+      "pivot": {
+        "id_kelas_kuliah": 112694,
+        "id_dosen": 1031
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1268,
+      "id_user": 11723,
+      "id_prodi": 21,
+      "nama": "Dr. Ulva Ria Irvan, ST., MT.",
+      "nidn": "0006067001",
+      "nip": "197006061994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c783f066-8d13-4082-985a-ebc3ce227a5f",
+      "pivot": {
+        "id_kelas_kuliah": 112694,
+        "id_dosen": 1268
+      }
+    }
+  ]
+}

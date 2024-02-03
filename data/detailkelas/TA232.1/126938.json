@@ -1,0 +1,61 @@
+{
+  "id_prodi": 122,
+  "nama_prodi": "PPDS ILMU PATOLOGI KLINIK",
+  "id_prodi_semester": 2695,
+  "idnumber_sikola": "30386.126938.122",
+  "shortname_sikola": "TA232-126938",
+  "kode_matkul": "0201C20802",
+  "nama_matkul": "HEMATOLOGI KLINIK DAN ONKOLOGI I",
+  "nama_kelas": "Hematologi Klinik dan Onkologi I Tahun 2017",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2197,
+      "id_user": 34502,
+      "id_prodi": 6,
+      "nama": "Prof. dr. Mansyur Arif, Ph.D., Sp.PK.(K)",
+      "nidn": "0004116401",
+      "nip": "196411041990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "33c2135d-a8b3-4837-9f77-4c2b1bb38d2a",
+      "pivot": {
+        "id_kelas_kuliah": 126938,
+        "id_dosen": 2197
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2963,
+      "id_user": 71576,
+      "id_prodi": 122,
+      "nama": "dr. Agus Alim Abdullah, SpPK(K)",
+      "nidn": null,
+      "nip": "196308172018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126938,
+        "id_dosen": 2963
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2959,
+      "id_user": 58339,
+      "id_prodi": 122,
+      "nama": "dr. Darwati Muhadi, SpPK(K)",
+      "nidn": null,
+      "nip": "196408092018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 126938,
+        "id_dosen": 2959
+      }
+    }
+  ]
+}

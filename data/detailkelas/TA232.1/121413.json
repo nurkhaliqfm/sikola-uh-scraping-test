@@ -1,0 +1,61 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2639,
+  "idnumber_sikola": "45079.121413.50",
+  "shortname_sikola": "TA232-121413",
+  "kode_matkul": "23H04122302",
+  "nama_matkul": "EKOLOGI SERANGGA",
+  "nama_kelas": "Ekologi Serangga",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1542,
+      "id_user": 31977,
+      "id_prodi": 50,
+      "nama": "Dr.  Syahribulan, M.Si.",
+      "nidn": "0027086702",
+      "nip": "196708271997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c920806c-203f-4de0-be15-8a9d6baf4f7f",
+      "pivot": {
+        "id_kelas_kuliah": 121413,
+        "id_dosen": 1542
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1029,
+      "id_user": 16506,
+      "id_prodi": 50,
+      "nama": "Dr.  Eva Yohannes, M.Si.",
+      "nidn": "0017026101",
+      "nip": "196102171986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "078b001d-4f7d-4fdf-8f41-06d67b295224",
+      "pivot": {
+        "id_kelas_kuliah": 121413,
+        "id_dosen": 1029
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1313,
+      "id_user": 34227,
+      "id_prodi": 50,
+      "nama": "Dr.  Markarma, M.Si.",
+      "nidn": "0015085905",
+      "nip": "195908151987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7196d7dd-604b-4294-9f44-bce44aaa2db0",
+      "pivot": {
+        "id_kelas_kuliah": 121413,
+        "id_dosen": 1313
+      }
+    }
+  ]
+}

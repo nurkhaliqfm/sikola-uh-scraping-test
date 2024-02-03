@@ -1,0 +1,61 @@
+{
+  "id_prodi": 66,
+  "nama_prodi": "ILMU KELAUTAN - S1",
+  "id_prodi_semester": 2414,
+  "idnumber_sikola": "44944.112324.66",
+  "shortname_sikola": "TA231-112324",
+  "kode_matkul": "23L01131703",
+  "nama_matkul": "Pengelolaan Wilayah Pesisir dan Laut (P)",
+  "nama_kelas": "Pengelolaan Wilayah Pesisir dan Laut (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 883,
+      "id_user": 10013,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  A m r a n, ST., M.Si.",
+      "nidn": "0024096707",
+      "nip": "196709241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9cf80578-a4aa-4435-8c26-aefe6dd6378b",
+      "pivot": {
+        "id_kelas_kuliah": 112324,
+        "id_dosen": 883
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1428,
+      "id_user": 15416,
+      "id_prodi": 66,
+      "nama": "Dr.  Ahmad Bahar, S.T., M.Si.",
+      "nidn": "0022027001",
+      "nip": "197002221998031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3a727593-b034-4add-8912-fb704c946288",
+      "pivot": {
+        "id_kelas_kuliah": 112324,
+        "id_dosen": 1428
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 112324,
+        "id_dosen": 779
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46542.124253.50",
+  "shortname_sikola": "TA231-124253",
+  "kode_matkul": "23U02132704",
+  "nama_matkul": "Studi/Proyek Independen",
+  "nama_kelas": "Studi/Proyek Independen",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1313,
+      "id_user": 34227,
+      "id_prodi": 50,
+      "nama": "Dr.  Markarma, M.Si.",
+      "nidn": "0015085905",
+      "nip": "195908151987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7196d7dd-604b-4294-9f44-bce44aaa2db0",
+      "pivot": {
+        "id_kelas_kuliah": 124253,
+        "id_dosen": 1313
+      }
+    }
+  ]
+}

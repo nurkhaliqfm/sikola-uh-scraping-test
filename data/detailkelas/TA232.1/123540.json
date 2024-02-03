@@ -1,0 +1,69 @@
+{
+  "id_prodi": 84,
+  "nama_prodi": "ILMU LINGUISTIK - S3",
+  "id_prodi_semester": 2661,
+  "idnumber_sikola": "26647.123540.84",
+  "shortname_sikola": "TA232-123540",
+  "kode_matkul": "19F01330901",
+  "nama_matkul": "Seminar Kemajuan Terkait Disertasi 5",
+  "nama_kelas": "Seminar Kemajuan Terkait Disertasi 5 by Riset",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 94590,
+      "id_user": 18365,
+      "id_prodi": 84,
+      "angkatan": 2019,
+      "nama_mahasiswa": "Emily Rose Logan",
+      "nim": "F013191019",
+      "jalan": "Jl. Sultan Alauddin Kompleks Permata Sari PS III No. 12 Kelurahan Gunung Sari, K",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "Australia",
+      "tanggal_lahir": "1985-07-01",
+      "telepon": "0",
+      "handphone": "085343904116",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Gunung Sari",
+      "id_wilayah": "196013",
+      "nik": "0",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "emily.logan687@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "099494e0-0f82-4348-9265-6e3a352b231a",
+      "id_registrasi_mahasiswa_pddikti": "c8a90c99-d127-44ba-b18b-10e01f3feb90",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123540,
+        "id_mahasiswa": 94590,
+        "created_at": "2024-01-24 12:55:48"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2140,
+      "id_user": 10026,
+      "id_prodi": 31,
+      "nama": "Prof. Dr. Lukman, MS.",
+      "nidn": "0031126059",
+      "nip": "196012311987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "37782f0f-06fe-40ff-8909-ebb9196c2875",
+      "pivot": {
+        "id_kelas_kuliah": 123540,
+        "id_dosen": 2140
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Gr2 02 Pronoms Directs (1)</text></name><questiontext format="html"><text><![CDATA[<p>Remplacez les mots en gras par <strong>le, l'</strong> ou <strong>les</strong></p><style type="text/css">ol {font-family: Trebuchet; font-size: 16px; line-height: 2;}
+p {font-family: Trebuchet; font-size: 16px; line-height: 2;}
+</style>
+<p>Exemple : Il regarde <strong>la télévision</strong> tous les soirs. [Il la regarde tous les soirs.]</p>
+
+<ol type="a">
+	<li>Élena achète <strong>le journal </strong>à la librairie.</li>
+	<li>Nous prenons <strong>le bus</strong> tous les matins.</li>
+	<li>J'admire <strong>les belles plantes de votre jardin</strong>.</li>
+	<li>Antoine chante toujours <strong>cette chanson</strong>.</li>
+	<li>Elle regarde souvent <strong>la photo de ses enfants</strong>.</li>
+</ol>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>50.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_172822</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

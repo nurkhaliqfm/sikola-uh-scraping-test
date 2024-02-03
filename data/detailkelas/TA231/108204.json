@@ -1,0 +1,156 @@
+{
+  "id_prodi": 248,
+  "nama_prodi": "MANAJEMEN BENCANA - S2",
+  "id_prodi_semester": 2579,
+  "idnumber_sikola": "42855.108204.248",
+  "shortname_sikola": "TA231-108204",
+  "kode_matkul": "21P12210502",
+  "nama_matkul": "Sistem Informasi Geografis dan Model Perencanaan Penataan Ruang Berbasis Kebencanaan",
+  "nama_kelas": "Sistem Informasi Geografis dan Model Perencanaan Penataan Ruang Berbasis Kebencanaan (MB_Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 421889,
+      "id_user": 77681,
+      "id_prodi": 248,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SURIYANTO LOPANG",
+      "nim": "P122231001",
+      "jalan": "LUNDAN",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "LUNDAN",
+      "kode_pos": "91870",
+      "nisn": null,
+      "tempat_lahir": "SILLANAN",
+      "tanggal_lahir": "1989-01-25",
+      "telepon": "082349701007",
+      "handphone": "082349701007",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "KELURAHAN RANTE KALUA'",
+      "id_wilayah": "191802",
+      "nik": "7318122501890001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rintolopang@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "49aa0717-e226-44b1-9058-96d5cea21647",
+      "id_registrasi_mahasiswa_pddikti": "c1a81004-d0d8-426b-8e24-b1ca1cab1fdf",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108204,
+        "id_mahasiswa": 421889,
+        "created_at": "2023-07-29 10:55:30"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 385153,
+      "id_user": 71936,
+      "id_prodi": 248,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUH. IDHAM",
+      "nim": "P122222001",
+      "jalan": "Jln. ABD MADJID PATTARO PURA (Lorong Puskesmas) Topoyo",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Lomba bou",
+      "kode_pos": "91563",
+      "nisn": "0",
+      "tempat_lahir": "TOPOYO",
+      "tanggal_lahir": "2000-08-08",
+      "telepon": "0",
+      "handphone": "081243033161",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TOPOYO",
+      "id_wilayah": "330112",
+      "nik": "7602090808000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "Idhammaulana118@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "fd970c3e-b7b8-4593-9781-67a775ea964a",
+      "id_registrasi_mahasiswa_pddikti": "6278688b-91b2-48ea-97c8-c5805c2d9cfa",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 108204,
+        "id_mahasiswa": 385153,
+        "created_at": "2023-08-05 11:37:03"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 777,
+      "id_user": 23628,
+      "id_prodi": 152,
+      "nama": "Prof. Ir.  Sumbangan Baja, M.Phil., Ph.D",
+      "nidn": "0029126302",
+      "nip": "196312291990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "589570b3-e8be-45f6-b998-7c5286093cf3",
+      "pivot": {
+        "id_kelas_kuliah": 108204,
+        "id_dosen": 777
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1604,
+      "id_user": 20450,
+      "id_prodi": 21,
+      "nama": "Dr. Ilham Alimuddin, ST., M.GIS.",
+      "nidn": "0025086902",
+      "nip": "196908251999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ed606e97-03a4-496c-adf6-6b8b5b84632d",
+      "pivot": {
+        "id_kelas_kuliah": 108204,
+        "id_dosen": 1604
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1836,
+      "id_user": 9333,
+      "id_prodi": 20,
+      "nama": "Dr. Eng. Abdul Rachman Rasyid, ST., M.Si.",
+      "nidn": "0006107409",
+      "nip": "197410062008121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "24941d81-8e40-4121-8cd6-448f8b0762b8",
+      "pivot": {
+        "id_kelas_kuliah": 108204,
+        "id_dosen": 1836
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1443,
+      "id_user": 33432,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Mukhsan Putra H., ST., MT.",
+      "nidn": "0012057302",
+      "nip": "197305121999031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "57460746-bae2-4d55-abb7-4e1205acf0f7",
+      "pivot": {
+        "id_kelas_kuliah": 108204,
+        "id_dosen": 1443
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id_prodi": 165,
+  "nama_prodi": "ILMU ARSITEKTUR - S3",
+  "id_prodi_semester": 2502,
+  "idnumber_sikola": "34730.112804.165",
+  "shortname_sikola": "TA231-112804",
+  "kode_matkul": "18D02320103",
+  "nama_matkul": "SEMINAR INTERNASIONAL",
+  "nama_kelas": "SEMINAR INTERNASIONAL (SUTRISNO)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157180,
+      "id_user": 53676,
+      "id_prodi": 165,
+      "angkatan": 2021,
+      "nama_mahasiswa": "SUTRISNO",
+      "nim": "D023211003",
+      "jalan": "Jl. Safira Indah Perumahan Griya Firdaus Regency No. A 11",
+      "rt": 3,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "93231",
+      "nisn": null,
+      "tempat_lahir": "KENDARI",
+      "tanggal_lahir": "1988-06-08",
+      "telepon": "0",
+      "handphone": "082225010003",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "RAHANDOUNA",
+      "id_wilayah": "206002",
+      "nik": "7471010806880001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 53676,
+      "kode_status": "A",
+      "email": "archisutrisno@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "aac568eb-950e-4850-95d7-0950eac6f815",
+      "id_registrasi_mahasiswa_pddikti": "abbf9971-113e-4a8c-9b79-31dafaf692ba",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112804,
+        "id_mahasiswa": 157180,
+        "created_at": "2023-08-11 13:42:51"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1173,
+      "id_user": 32083,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Idawarni, MT.",
+      "nidn": "0001076502",
+      "nip": "196507011994032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "fe5c9f9c-97d7-461c-bea3-0213c6bd1261",
+      "pivot": {
+        "id_kelas_kuliah": 112804,
+        "id_dosen": 1173
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1456,
+      "id_user": 15189,
+      "id_prodi": 19,
+      "nama": "Dr. Eng Abdul Mufti Radja, ST., MT.",
+      "nidn": "0004036907",
+      "nip": "196903041999031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e0113b15-d2f1-42b1-9b3a-9733f0da9032",
+      "pivot": {
+        "id_kelas_kuliah": 112804,
+        "id_dosen": 1456
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1640,
+      "id_user": 31373,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. M. Yahya, ST., M.Eng",
+      "nidn": "0004047006",
+      "nip": "197004041997031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7570e827-2996-4142-a47d-d15565c63690",
+      "pivot": {
+        "id_kelas_kuliah": 112804,
+        "id_dosen": 1640
+      }
+    }
+  ]
+}

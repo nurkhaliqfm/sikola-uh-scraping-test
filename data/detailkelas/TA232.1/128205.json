@@ -1,0 +1,45 @@
+{
+  "id_prodi": 169,
+  "nama_prodi": "PENGELOLAAN SUMBERDAYA PESISIR TERPADU - S2",
+  "id_prodi_semester": 2737,
+  "idnumber_sikola": "41926.128205.169",
+  "shortname_sikola": "TA232-128205",
+  "kode_matkul": "21P11211502",
+  "nama_matkul": "Seminar Proposal Penelitian",
+  "nama_kelas": "Seminar Proposal Penelitian (PSPT_Khusus Angk. 2021)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1157,
+      "id_user": 10385,
+      "id_prodi": 19,
+      "nama": "Prof. Baharuddin, ST., M.Arch., Ph.D.",
+      "nidn": "0008036902",
+      "nip": "196903081995121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b198fbe8-ac6a-4ba6-86da-a5dfdf73af7a",
+      "pivot": {
+        "id_kelas_kuliah": 128205,
+        "id_dosen": 1157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 883,
+      "id_user": 10013,
+      "id_prodi": 66,
+      "nama": "Prof. Dr.  A m r a n, ST., M.Si.",
+      "nidn": "0024096707",
+      "nip": "196709241995031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9cf80578-a4aa-4435-8c26-aefe6dd6378b",
+      "pivot": {
+        "id_kelas_kuliah": 128205,
+        "id_dosen": 883
+      }
+    }
+  ]
+}

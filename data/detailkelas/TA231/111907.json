@@ -1,0 +1,140 @@
+{
+  "id_prodi": 68,
+  "nama_prodi": "BUDIDAYA PERAIRAN - S1",
+  "id_prodi_semester": 2416,
+  "idnumber_sikola": "45659.111907.68",
+  "shortname_sikola": "TA231-111907",
+  "kode_matkul": "23L03130303",
+  "nama_matkul": "Fisiologi Reproduksi Organisme Akuakultur",
+  "nama_kelas": "Fisiologi Reproduksi Organisme Akuakultur (Kelas A)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 140432,
+      "id_user": 39218,
+      "id_prodi": 68,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD TEGAR MUKTI SUTOPO",
+      "nim": "L031201003",
+      "jalan": "Jln. Gunung Kinibalu",
+      "rt": 2,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "92733",
+      "nisn": "0001477826",
+      "tempat_lahir": "Sukoharjo",
+      "tanggal_lahir": "2000-08-14",
+      "telepon": "085280786909",
+      "handphone": "085280786909",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Macanang",
+      "id_wilayah": "190724",
+      "nik": "7308221408000001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "tegarmukti88cell@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "fe7012af-69cb-4020-a190-38a7f173fc30",
+      "id_registrasi_mahasiswa_pddikti": "be834ad1-d1c5-42ff-a8ad-66266805a81a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111907,
+        "id_mahasiswa": 140432,
+        "created_at": "2023-08-05 10:36:03"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 154531,
+      "id_user": 50866,
+      "id_prodi": 68,
+      "angkatan": 2021,
+      "nama_mahasiswa": "ANDI MUH. MUFLIH IMRAN",
+      "nim": "L031211076",
+      "jalan": "Jl. Muh Yunus",
+      "rt": 1,
+      "rw": 0,
+      "dusun": "Lampoko",
+      "kode_pos": "90751",
+      "nisn": "0035747742",
+      "tempat_lahir": "Makassar",
+      "tanggal_lahir": "2003-09-24",
+      "telepon": "0",
+      "handphone": "082217709981",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Lampoko",
+      "id_wilayah": "190606",
+      "nik": "7311072409030002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "muflihmuhammad968@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "59d7bd02-b600-4023-9701-21ae2ad6da09",
+      "id_registrasi_mahasiswa_pddikti": "197df09b-91c6-4be8-a134-3f2fa0fff4b6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111907,
+        "id_mahasiswa": 154531,
+        "created_at": "2023-08-24 11:14:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 874,
+      "id_user": 31440,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Yushinta Fujaya, M.Si.",
+      "nidn": "0023016501",
+      "nip": "196501231989032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c7a8968b-f998-46f4-83b5-12fe15484974",
+      "pivot": {
+        "id_kelas_kuliah": 111907,
+        "id_dosen": 874
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1182,
+      "id_user": 25448,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Dody Dharmawan Trijuno, M.App.,Sc",
+      "nidn": "0003056402",
+      "nip": "196405031989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "17778d41-cc89-4d54-a01a-c6aaadddd179",
+      "pivot": {
+        "id_kelas_kuliah": 111907,
+        "id_dosen": 1182
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2398,
+      "id_user": 24111,
+      "id_prodi": 68,
+      "nama": "Dr. Andi Aliah Hidayani, S.Si., M.Si.",
+      "nidn": "0002058002",
+      "nip": "198005022005012002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1035d79e-8dc0-4748-b270-aa2a7ba3d4eb",
+      "pivot": {
+        "id_kelas_kuliah": 111907,
+        "id_dosen": 2398
+      }
+    }
+  ]
+}

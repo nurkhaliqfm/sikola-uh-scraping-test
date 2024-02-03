@@ -1,0 +1,77 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2480,
+  "idnumber_sikola": "31909.111768.138",
+  "shortname_sikola": "TA231-111768",
+  "kode_matkul": "19L06212103",
+  "nama_matkul": "Bioteknologi Perikanan Terapan",
+  "nama_kelas": "Bioteknologi Perikanan Terapan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 874,
+      "id_user": 31440,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Yushinta Fujaya, M.Si.",
+      "nidn": "0023016501",
+      "nip": "196501231989032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c7a8968b-f998-46f4-83b5-12fe15484974",
+      "pivot": {
+        "id_kelas_kuliah": 111768,
+        "id_dosen": 874
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1321,
+      "id_user": 23952,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Elmi Nurhaidah Z, Dess.",
+      "nidn": "0018066102",
+      "nip": "196106181988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c747c232-bc4a-4f33-8e53-e403bb0e36c8",
+      "pivot": {
+        "id_kelas_kuliah": 111768,
+        "id_dosen": 1321
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1560,
+      "id_user": 30978,
+      "id_prodi": 235,
+      "nama": "Asmi Citra Malina, S.Pi., M.Agr., Ph.D.",
+      "nidn": "0028127205",
+      "nip": "197212282006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4cf9da75-f456-46e2-a94c-14a4c4f14841",
+      "pivot": {
+        "id_kelas_kuliah": 111768,
+        "id_dosen": 1560
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1365,
+      "id_user": 23197,
+      "id_prodi": 68,
+      "nama": "Prof. Dr. Ir.  Siti Aslamyah, MP.",
+      "nidn": "0009016905",
+      "nip": "196909011993032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0fc883ff-0dc8-448d-ab5d-2ea2c3b1ea86",
+      "pivot": {
+        "id_kelas_kuliah": 111768,
+        "id_dosen": 1365
+      }
+    }
+  ]
+}

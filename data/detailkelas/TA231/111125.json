@@ -1,0 +1,77 @@
+{
+  "id_prodi": 71,
+  "nama_prodi": "KEHUTANAN - S1",
+  "id_prodi_semester": 2419,
+  "idnumber_sikola": "39622.111125.71",
+  "shortname_sikola": "TA231-111125",
+  "kode_matkul": "20M01130703",
+  "nama_matkul": "Pemanenan Hutan",
+  "nama_kelas": "PEMANENAN HUTAN (D)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 999,
+      "id_user": 34339,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Iswara Gautama, M.Si.",
+      "nidn": "0015096302",
+      "nip": "196309151990031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9bab8215-0850-4a87-af4f-7e11091209fa",
+      "pivot": {
+        "id_kelas_kuliah": 111125,
+        "id_dosen": 999
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 881,
+      "id_user": 32379,
+      "id_prodi": 71,
+      "nama": "Prof. Dr. Ir. Muhammad Dassir, M.Si.",
+      "nidn": "0005106703",
+      "nip": "196710051991031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "acc3ea99-2881-4a99-925f-4d26fe6b4d0d",
+      "pivot": {
+        "id_kelas_kuliah": 111125,
+        "id_dosen": 881
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1226,
+      "id_user": 28326,
+      "id_prodi": 71,
+      "nama": "Dr. A. Mujetahid M, S.Hut., MP.",
+      "nidn": "0008026901",
+      "nip": "196902081997021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6be7c11e-0d82-4947-acc5-1e03dd864128",
+      "pivot": {
+        "id_kelas_kuliah": 111125,
+        "id_dosen": 1226
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3427,
+      "id_user": 57998,
+      "id_prodi": 71,
+      "nama": "Andi Vika Faradiba Muin, S.Hut., M.Hut",
+      "nidn": "8937020021",
+      "nip": "199212292021016001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "a4ddfeb6-af60-4366-b29c-7ec1e47c4172",
+      "pivot": {
+        "id_kelas_kuliah": 111125,
+        "id_dosen": 3427
+      }
+    }
+  ]
+}

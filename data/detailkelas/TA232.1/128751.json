@@ -1,0 +1,45 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2612,
+  "idnumber_sikola": "46585.128751.16",
+  "shortname_sikola": "TA232-128751",
+  "kode_matkul": "23D09142002",
+  "nama_matkul": "Metode dan Analisa Numerik",
+  "nama_kelas": "Metode dan Analisa Numerik Kelas A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1937,
+      "id_user": 33754,
+      "id_prodi": 16,
+      "nama": "Dr. Eng. Faizal, ST., M.Inf.,Tech., M.Eng",
+      "nidn": "0011028101",
+      "nip": "198102112005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7ac02ac7-efe9-4bf6-81dc-d70a592ad3ec",
+      "pivot": {
+        "id_kelas_kuliah": 128751,
+        "id_dosen": 1937
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1909,
+      "id_user": 31687,
+      "id_prodi": 16,
+      "nama": "Haryanti Rivai, S.T., M,T., Ph.D",
+      "nidn": "0025027907",
+      "nip": "197902252002122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ac401f43-e288-4bbc-b40d-881ea074052b",
+      "pivot": {
+        "id_kelas_kuliah": 128751,
+        "id_dosen": 1909
+      }
+    }
+  ]
+}

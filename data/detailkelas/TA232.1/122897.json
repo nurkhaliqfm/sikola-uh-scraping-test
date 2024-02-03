@@ -1,0 +1,188 @@
+{
+  "id_prodi": 229,
+  "nama_prodi": "PPDS ILMU PENYAKIT DALAM (Sp2)",
+  "id_prodi_semester": 2793,
+  "idnumber_sikola": "42771.122897.229",
+  "shortname_sikola": "TA232-122897",
+  "kode_matkul": "20C03821905",
+  "nama_matkul": "Penyakit Kolon",
+  "nama_kelas": "Penyakit Kolon - 20232",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 351248,
+      "id_user": 65716,
+      "id_prodi": 229,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUH. NUR IKHSAN LIWANG",
+      "nim": "C038221002",
+      "jalan": "JL. SOSIOLOGI 1, PERUMAHAN DOSEN UNIVERSITAS TADULAKO BLOK B9 NO 26",
+      "rt": 0,
+      "rw": 7,
+      "dusun": "Ballaparang",
+      "kode_pos": "-",
+      "nisn": "C038221002",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1979-07-15",
+      "telepon": "081355981518",
+      "handphone": "081355981518",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "TONDO",
+      "id_wilayah": "196013",
+      "nik": "7371141507790019",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ikhsan.liwang@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "665d791d-e083-4e42-8427-b399f687a1aa",
+      "id_registrasi_mahasiswa_pddikti": "109faef9-6f27-47d0-ba9b-8e4491b1bb09",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_mahasiswa": 351248,
+        "created_at": "2024-01-22 09:00:58"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 351271,
+      "id_user": 65739,
+      "id_prodi": 229,
+      "angkatan": 2022,
+      "nama_mahasiswa": "SRI RAHAYU PAPUTUNGAN",
+      "nim": "C038221005",
+      "jalan": "VETERAN",
+      "rt": 5,
+      "rw": 3,
+      "dusun": "Molinaw",
+      "kode_pos": ".",
+      "nisn": "C038221005",
+      "tempat_lahir": "SOROAKO",
+      "tanggal_lahir": "1978-02-10",
+      "telepon": "081340262678",
+      "handphone": "081340262678",
+      "id_agama": null,
+      "id_prodi_jenjang": 6,
+      "kelurahan": "MOLINOW",
+      "id_wilayah": "176301",
+      "nik": "7174045002780001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "sr.paputungan@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "73043ae2-fe4f-466e-a1a3-929016d84b41",
+      "id_registrasi_mahasiswa_pddikti": "81b026c0-0dc5-49ff-a43a-07bd70cbbca9",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_mahasiswa": 351271,
+        "created_at": "2024-01-23 13:47:38"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 3152,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "Dr. dr. A. Muh. Luthfi, Sp.PD., K-GEH",
+      "nidn": null,
+      "nip": "197012022005021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_dosen": 3152
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1785,
+      "id_user": 37517,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Fardhah Akil, SpPD, K-GEH",
+      "nidn": "0021127404",
+      "nip": "197412212006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d1c36a0d-197b-4546-9653-128b0f84c0ca",
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_dosen": 1785
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3157,
+      "id_user": 37628,
+      "id_prodi": 118,
+      "nama": "Dr. dr. Nu'man AS Daud, Sp.PD., K-GEH",
+      "nidn": null,
+      "nip": "197112142018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_dosen": 3157
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1733,
+      "id_user": 37521,
+      "id_prodi": 6,
+      "nama": "dr.  Rini Rahmawarni, Sp.PD., KGEH., MARS.",
+      "nidn": "0006067504",
+      "nip": "197506062002122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cb22fade-63e3-4d5c-90ac-38a6f632a81a",
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_dosen": 1733
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3165,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "dr. Susanto Hendra Kusuma, SpPD., K-GEH",
+      "nidn": null,
+      "nip": "737109131180000",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_dosen": 3165
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3166,
+      "id_user": null,
+      "id_prodi": 118,
+      "nama": "dr. Amelia Rifai, SpPD, K-GEH",
+      "nidn": null,
+      "nip": "7371094501830005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 122897,
+        "id_dosen": 3166
+      }
+    }
+  ]
+}

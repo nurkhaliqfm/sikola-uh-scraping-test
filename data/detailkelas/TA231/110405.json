@@ -1,0 +1,45 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2453,
+  "idnumber_sikola": "29100.110405.109",
+  "shortname_sikola": "TA231-110405",
+  "kode_matkul": "18P07210902",
+  "nama_matkul": "Gender dalam Perspektif Media",
+  "nama_kelas": "Gender dalam Perspektif Media (P)(Sem I)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1374,
+      "id_user": 10438,
+      "id_prodi": 32,
+      "nama": "Dra. Herawaty, M.Hum., Ph. D",
+      "nidn": "0001036303",
+      "nip": "196301031988032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3a01ab2b-0bad-4aaa-a632-a72507bd0c02",
+      "pivot": {
+        "id_kelas_kuliah": 110405,
+        "id_dosen": 1374
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1355,
+      "id_user": 32023,
+      "id_prodi": 28,
+      "nama": "Dr.  Moehammad Iqbal Sultan, M.Si.",
+      "nidn": "0010126313",
+      "nip": "196312101991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a61572c6-641c-4d00-b429-5c225445af45",
+      "pivot": {
+        "id_kelas_kuliah": 110405,
+        "id_dosen": 1355
+      }
+    }
+  ]
+}

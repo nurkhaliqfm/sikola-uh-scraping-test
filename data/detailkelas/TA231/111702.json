@@ -1,0 +1,61 @@
+{
+  "id_prodi": 138,
+  "nama_prodi": "ILMU PERIKANAN - S2",
+  "id_prodi_semester": 2480,
+  "idnumber_sikola": "37874.111702.138",
+  "shortname_sikola": "TA231-111702",
+  "kode_matkul": "19L06211103",
+  "nama_matkul": "Biologi Reproduksi Biota Perairan",
+  "nama_kelas": "Biologi Reproduksi Biota Perairan (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 689,
+      "id_user": 14145,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Sharifuddin Bin Andy Omar, M.Sc",
+      "nidn": "0023025902",
+      "nip": "195902231988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e572e6bf-f8ad-4c26-a255-43264256907c",
+      "pivot": {
+        "id_kelas_kuliah": 111702,
+        "id_dosen": 689
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1144,
+      "id_user": 18815,
+      "id_prodi": 67,
+      "nama": "Prof. Dr. Ir. Joeharnani Tresnati, DEA.",
+      "nidn": "0007096301",
+      "nip": "196509071989032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9eee3075-615b-468b-a9f2-1876ed8e646b",
+      "pivot": {
+        "id_kelas_kuliah": 111702,
+        "id_dosen": 1144
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1082,
+      "id_user": 18375,
+      "id_prodi": 66,
+      "nama": "Dr. Ir. Syafiuddin, M.Si.",
+      "nidn": "0020016601",
+      "nip": "196601201991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "23fa6611-4310-4596-b984-027599d0796e",
+      "pivot": {
+        "id_kelas_kuliah": 111702,
+        "id_dosen": 1082
+      }
+    }
+  ]
+}

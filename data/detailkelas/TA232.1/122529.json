@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2639,
+  "idnumber_sikola": "46503.122529.50",
+  "shortname_sikola": "TA232-122529",
+  "kode_matkul": "23U02130702",
+  "nama_matkul": "Keberagaman Budaya",
+  "nama_kelas": "Keberagaman Budaya",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1341,
+      "id_user": 23271,
+      "id_prodi": 50,
+      "nama": "Drs. Muhammad Ruslan Umar, M.Si.",
+      "nidn": "0022026303",
+      "nip": "196302221989031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d03f32a5-5a0e-4c43-995f-c0efa0401887",
+      "pivot": {
+        "id_kelas_kuliah": 122529,
+        "id_dosen": 1341
+      }
+    }
+  ]
+}

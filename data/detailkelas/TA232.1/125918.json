@@ -1,0 +1,61 @@
+{
+  "id_prodi": 129,
+  "nama_prodi": "PPDS ORTHOPEDI",
+  "id_prodi_semester": 2702,
+  "idnumber_sikola": "38952.125918.129",
+  "shortname_sikola": "TA232-125918",
+  "kode_matkul": "20C14540702",
+  "nama_matkul": "ANKLE & FOOT 3",
+  "nama_kelas": "Ankle & Foot 3_2023_2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2613,
+      "id_user": 44849,
+      "id_prodi": null,
+      "nama": "dr Dewi Kurniati, M.Kes.,Sp.OT",
+      "nidn": "8854111019",
+      "nip": "198205312019016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "956434bd-3803-4983-b979-7b15dbcd39aa",
+      "pivot": {
+        "id_kelas_kuliah": 125918,
+        "id_dosen": 2613
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2823,
+      "id_user": null,
+      "id_prodi": 129,
+      "nama": "dr. W. Supriyadi Sp.OT",
+      "nidn": null,
+      "nip": "32975",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125918,
+        "id_dosen": 2823
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3893,
+      "id_user": null,
+      "id_prodi": 129,
+      "nama": "dr. Benny Murtaza, M.Kes, SpOT",
+      "nidn": null,
+      "nip": "198105012020121001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125918,
+        "id_dosen": 3893
+      }
+    }
+  ]
+}

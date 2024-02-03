@@ -1,0 +1,45 @@
+{
+  "id_prodi": 80,
+  "nama_prodi": "PERENCANAAN DAN PENGEMBANGAN WILAYAH - S2",
+  "id_prodi_semester": 2658,
+  "idnumber_sikola": "26271.125559.80",
+  "shortname_sikola": "TA232-125559",
+  "kode_matkul": "18P02211102",
+  "nama_matkul": "Sumberdaya Pembangunan\r\n",
+  "nama_kelas": "Sumberdaya Pembangunan (PPW/MP)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 779,
+      "id_user": 17425,
+      "id_prodi": 66,
+      "nama": "Prof. Dr. Ir. Budimawan, DEA.",
+      "nidn": "0024016209",
+      "nip": "196201241987021002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c5778396-e4a9-4335-a143-888f65b50e78",
+      "pivot": {
+        "id_kelas_kuliah": 125559,
+        "id_dosen": 779
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 932,
+      "id_user": 34305,
+      "id_prodi": 27,
+      "nama": "Dr. Muhammad Yunus, MA.",
+      "nidn": "0030105912",
+      "nip": "195910301987031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "65533304-823b-4ac8-93d8-0e2b90c3f1bc",
+      "pivot": {
+        "id_kelas_kuliah": 125559,
+        "id_dosen": 932
+      }
+    }
+  ]
+}

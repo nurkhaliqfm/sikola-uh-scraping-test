@@ -1,0 +1,156 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "37062.129311.102",
+  "shortname_sikola": "TA232-129311",
+  "kode_matkul": "18P06217303",
+  "nama_matkul": "Aging And Disease (WP)",
+  "nama_kelas": "Aging and Disease (WP) (ARM-Sem I & II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428049,
+      "id_user": 86576,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SITI HARDIYANTI OKTAVIANA. H",
+      "nim": "P062232004",
+      "jalan": "JLN VILLA PERMATA HARAPAN BLOK D15",
+      "rt": 2,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "90224",
+      "nisn": "P062232004",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1988-10-26",
+      "telepon": "00",
+      "handphone": "085255569798",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PARANGTAMBUNG",
+      "id_wilayah": "196003",
+      "nik": "7371136610880001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86576,
+      "kode_status": "A",
+      "email": "sitihardiyantioktaviana@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129311,
+        "id_mahasiswa": 428049,
+        "created_at": "2024-01-12 12:14:05"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 428185,
+      "id_user": 86712,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MUSTIKARANI SYAM",
+      "nim": "P062232015",
+      "jalan": "JL.SKARDA N ( TOWNHOUSE 9 RESIDENCE NO.8 )",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "90221",
+      "nisn": "0",
+      "tempat_lahir": "POMPANUA",
+      "tanggal_lahir": "1986-10-07",
+      "telepon": "0",
+      "handphone": "+62 811-4460-",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "GUNUNG SARI",
+      "id_wilayah": "196013",
+      "nik": "7306084710860005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86712,
+      "kode_status": "A",
+      "email": "ikha071081@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129311,
+        "id_mahasiswa": 428185,
+        "created_at": "2024-01-18 14:36:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1783,
+      "id_user": 18560,
+      "id_prodi": 6,
+      "nama": "dr.  Arif Santoso, Sp.P(K)., Ph.D., FAPSR.",
+      "nidn": "0015077712",
+      "nip": "197707152006041012",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4f485eac-45f4-4c64-8d2e-d68e62b6acbe",
+      "pivot": {
+        "id_kelas_kuliah": 129311,
+        "id_dosen": 1783
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1878,
+      "id_user": 34359,
+      "id_prodi": 6,
+      "nama": "dr. Endy Adnan, Sp.PD., Ph.D, K-R",
+      "nidn": "0001017716",
+      "nip": "197701012009121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a1590401-2c8d-493e-b9eb-df836c436f62",
+      "pivot": {
+        "id_kelas_kuliah": 129311,
+        "id_dosen": 1878
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3363,
+      "id_user": null,
+      "id_prodi": 171,
+      "nama": "Dr. dr. M. F. Conny Tanjung, Sp.A(K)",
+      "nidn": null,
+      "nip": "1234567",
+      "is_active": 1,
+      "updated_by": 1,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 129311,
+        "id_dosen": 3363
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1023,
+      "id_user": 34418,
+      "id_prodi": 6,
+      "nama": "Prof. Dr. dr.  Anis Irawan Anwar, Sp.KK. (K)",
+      "nidn": "0027066201",
+      "nip": "196206271989031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a697ddcf-5f45-40b3-a1b6-ead3f5cf79f1",
+      "pivot": {
+        "id_kelas_kuliah": 129311,
+        "id_dosen": 1023
+      }
+    }
+  ]
+}

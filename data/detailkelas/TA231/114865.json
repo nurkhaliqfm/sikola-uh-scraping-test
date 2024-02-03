@@ -1,0 +1,93 @@
+{
+  "id_prodi": 22,
+  "nama_prodi": "TEKNIK PERTAMBANGAN - S1",
+  "id_prodi_semester": 2387,
+  "idnumber_sikola": "46549.114865.22",
+  "shortname_sikola": "TA231-114865",
+  "kode_matkul": "23U02132304",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang/Praktek Kerja",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1220,
+      "id_user": 22762,
+      "id_prodi": 22,
+      "nama": "Dr. Ir.  Muhammad Ramli, MT.",
+      "nidn": "0018076802",
+      "nip": "196807181993091001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "822fba77-28b5-4e31-94a5-8170fdaa0d14",
+      "pivot": {
+        "id_kelas_kuliah": 114865,
+        "id_dosen": 1220
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1803,
+      "id_user": 18301,
+      "id_prodi": 22,
+      "nama": "Dr. Aryanti Virtanti Anas, ST.,MT.",
+      "nidn": "0005107007",
+      "nip": "197010052008012026",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd7802a8-81b1-4ee4-b09e-0a03510ec7bc",
+      "pivot": {
+        "id_kelas_kuliah": 114865,
+        "id_dosen": 1803
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1943,
+      "id_user": 19605,
+      "id_prodi": 22,
+      "nama": "Dr. Eng. Ir. Purwanto, ST., MT.",
+      "nidn": "0028117102",
+      "nip": "197111282005011002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a57ecd09-e99e-43f8-a928-5b2708438168",
+      "pivot": {
+        "id_kelas_kuliah": 114865,
+        "id_dosen": 1943
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1447,
+      "id_user": 32802,
+      "id_prodi": 22,
+      "nama": "Dr. Ir. Irzal Nur, MT.",
+      "nidn": "0009046601",
+      "nip": "196604091997031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "401f850d-bea8-475e-ab1b-82e709c2857a",
+      "pivot": {
+        "id_kelas_kuliah": 114865,
+        "id_dosen": 1447
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1561,
+      "id_user": 27709,
+      "id_prodi": 22,
+      "nama": "Dr. Sufriadin, ST., MT.",
+      "nidn": "0017086602",
+      "nip": "196608172000121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b5066421-a9ad-491b-b3f2-850571bc12ed",
+      "pivot": {
+        "id_kelas_kuliah": 114865,
+        "id_dosen": 1561
+      }
+    }
+  ]
+}

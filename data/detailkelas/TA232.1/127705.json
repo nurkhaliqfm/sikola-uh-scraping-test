@@ -1,0 +1,69 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "44637.127705.10",
+  "shortname_sikola": "TA232-127705",
+  "kode_matkul": "23U01110502",
+  "nama_matkul": "Pendidikan Agama Budha",
+  "nama_kelas": "Pendidikan Agama Budha",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 415145,
+      "id_user": 78229,
+      "id_prodi": 10,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MICHAEL JAYA",
+      "nim": "D011231059",
+      "jalan": "BARRANG CADDI NO.38  KOTA MAKASSAR  PROV. SULAWESI SELATAN 90172",
+      "rt": 2,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90172",
+      "nisn": "0048172682",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2004-12-29",
+      "telepon": "362440",
+      "handphone": "082347328868",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "MALIMONGAN",
+      "id_wilayah": "196006",
+      "nik": "7371052912040003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "michaeljaya29@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "e56a3392-fc88-4b4c-abde-f8c33e8ebcb2",
+      "id_registrasi_mahasiswa_pddikti": "209a09d0-92d7-490e-bb2c-69d7c175488d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127705,
+        "id_mahasiswa": 415145,
+        "created_at": "2024-01-12 10:03:42"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2778,
+      "id_user": 34145,
+      "id_prodi": 142,
+      "nama": "Hasdy,S.Si,M.Si",
+      "nidn": null,
+      "nip": "196903092006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 127705,
+        "id_dosen": 2778
+      }
+    }
+  ]
+}

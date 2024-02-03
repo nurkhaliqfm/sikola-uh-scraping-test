@@ -1,0 +1,29 @@
+{
+  "id_prodi": 12,
+  "nama_prodi": "TEKNIK MESIN - S1",
+  "id_prodi_semester": 2608,
+  "idnumber_sikola": "46544.119613.12",
+  "shortname_sikola": "TA232-119613",
+  "kode_matkul": "23U02132406",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "KERJA PRAKTEK L",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2565,
+      "id_user": 26211,
+      "id_prodi": 12,
+      "nama": "Gerard Antonini Duma, S.T., M.T.",
+      "nidn": "0926029201",
+      "nip": "199202262019031009",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ad2a0fcc-8994-4364-83d4-dc0fc9a997a8",
+      "pivot": {
+        "id_kelas_kuliah": 119613,
+        "id_dosen": 2565
+      }
+    }
+  ]
+}

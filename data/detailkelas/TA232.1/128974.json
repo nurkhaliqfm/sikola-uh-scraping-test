@@ -1,0 +1,85 @@
+{
+  "id_prodi": 110,
+  "nama_prodi": "MAGISTER MANAJEMEN - S2",
+  "id_prodi_semester": 2685,
+  "idnumber_sikola": "44339.128974.110",
+  "shortname_sikola": "TA232-128974",
+  "kode_matkul": "23A01210403",
+  "nama_matkul": "RISK AND WEALTH MANAGEMENT",
+  "nama_kelas": "Kelas B3",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428163,
+      "id_user": 86690,
+      "id_prodi": 110,
+      "angkatan": 2023,
+      "nama_mahasiswa": "ANDI ILFA DIARNA",
+      "nim": "A012232088",
+      "jalan": "JL. TODDOPULI 1 SETAPAK 6 NO.61",
+      "rt": 4,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": "0",
+      "tempat_lahir": "SEGERI",
+      "tanggal_lahir": "1998-04-08",
+      "telepon": "0411445603",
+      "handphone": "085756901922",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "KASSI KASSI",
+      "id_wilayah": "196013",
+      "nik": "7371034804980002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86690,
+      "kode_status": "A",
+      "email": "andiilfadiarna@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128974,
+        "id_mahasiswa": 428163,
+        "created_at": "2024-02-01 12:36:17"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1304,
+      "id_user": 22834,
+      "id_prodi": 3,
+      "nama": "Prof.Dr. Syarifuddin .SE.M.SOC.SC.Ak.CA",
+      "nidn": "0010026315",
+      "nip": "196302101990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9b603691-b50a-4e2f-8089-fb7dbcc6883b",
+      "pivot": {
+        "id_kelas_kuliah": 128974,
+        "id_dosen": 1304
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1302,
+      "id_user": 22831,
+      "id_prodi": 3,
+      "nama": "Dr. Ratna Ayu Damayanti, S.E., M.Soc., Sc., Ak., CA",
+      "nidn": "0019036708",
+      "nip": "196703191992032003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cd6139a0-9c9c-46e8-8771-38c89a4a1d27",
+      "pivot": {
+        "id_kelas_kuliah": 128974,
+        "id_dosen": 1302
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2656,
+  "idnumber_sikola": "43243.119201.78",
+  "shortname_sikola": "TA232-119201",
+  "kode_matkul": "22I02214003",
+  "nama_matkul": "Inovasi Produk Pakan",
+  "nama_kelas": "Inovasi Produk Pakan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1600,
+      "id_user": 20519,
+      "id_prodi": 51,
+      "nama": "Dr. Ir. Jamila, S.Pt., M.Si., IPM.",
+      "nidn": "0011057506",
+      "nip": "197505112003122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8d5b9cf5-8cbe-41dd-8e25-ab35c865a8e4",
+      "pivot": {
+        "id_kelas_kuliah": 119201,
+        "id_dosen": 1600
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 897,
+      "id_user": 15735,
+      "id_prodi": 51,
+      "nama": "Dr. Ir Rohmiyatul Islamiyati, MP.",
+      "nidn": "0019086505",
+      "nip": "196508191990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6a679f5-623c-4587-bb34-e30f98fbaa24",
+      "pivot": {
+        "id_kelas_kuliah": 119201,
+        "id_dosen": 897
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1239,
+      "id_user": 15540,
+      "id_prodi": 51,
+      "nama": "Dr. Rinduwati, S.Pt.,MP.",
+      "nidn": "0016057102",
+      "nip": "197105161995122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ffa03f7-0ed9-4afd-849c-96d879d149bb",
+      "pivot": {
+        "id_kelas_kuliah": 119201,
+        "id_dosen": 1239
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 86,
+  "nama_prodi": "ILMU HUKUM - S3",
+  "id_prodi_semester": 2432,
+  "idnumber_sikola": "38145.110965.86",
+  "shortname_sikola": "TA231-110965",
+  "kode_matkul": "20B01311409",
+  "nama_matkul": "Disertasi dan Ujian Disertasi",
+  "nama_kelas": "NON TATAP MUKA BY RISET",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1001,
+      "id_user": 13616,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Marwati Riza, SH., M.Si.",
+      "nidn": "0024086402",
+      "nip": "196408241991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78a0d126-0b50-46f9-8267-a71959d58def",
+      "pivot": {
+        "id_kelas_kuliah": 110965,
+        "id_dosen": 1001
+      }
+    }
+  ]
+}

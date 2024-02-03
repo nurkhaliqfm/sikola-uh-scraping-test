@@ -1,0 +1,85 @@
+{
+  "id_prodi": 10,
+  "nama_prodi": "TEKNIK SIPIL - S1",
+  "id_prodi_semester": 2606,
+  "idnumber_sikola": "47424.126811.10",
+  "shortname_sikola": "TA232-126811",
+  "kode_matkul": "23D01110803",
+  "nama_matkul": "Mekanika Bahan",
+  "nama_kelas": "Mekanika Bahan INTER",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 163915,
+      "id_user": 57985,
+      "id_prodi": 10,
+      "angkatan": 2021,
+      "nama_mahasiswa": "MOHAMED MAHMOUD AHMED MAHMOUD",
+      "nim": "D011211151",
+      "jalan": "PERINTIS KEMERDEKAAN KM 10",
+      "rt": 4,
+      "rw": 7,
+      "dusun": "Tamalanrea",
+      "kode_pos": "90245",
+      "nisn": "D011211151",
+      "tempat_lahir": "JABEL AWLYA",
+      "tanggal_lahir": "2003-07-28",
+      "telepon": "6282188618416",
+      "handphone": "+628218861841",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tamalanrea Jaya",
+      "id_wilayah": "196012",
+      "nik": "0782463760000000",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "m.2003@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "dd532021-fd7a-4d96-b2d6-fa2a09e2061a",
+      "id_registrasi_mahasiswa_pddikti": "6b5e5b4a-c030-444c-942b-352830be9c9d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 126811,
+        "id_mahasiswa": 163915,
+        "created_at": "2024-02-02 13:51:45"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2250,
+      "id_user": 33536,
+      "id_prodi": 10,
+      "nama": "Prof. Dr.  Rudy Djamaluddin, ST., M.Eng.",
+      "nidn": "0008117003",
+      "nip": "197011081994121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5659a90a-f193-46f8-9a10-dd61594346e2",
+      "pivot": {
+        "id_kelas_kuliah": 126811,
+        "id_dosen": 2250
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2523,
+      "id_user": 33486,
+      "id_prodi": 10,
+      "nama": "Dr. Eng. Muhammad Akbar Caronge, S.T., M.Eng.",
+      "nidn": "0009048603",
+      "nip": "198604092019043001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "dbba8efb-70df-435f-9544-e4adc889e193",
+      "pivot": {
+        "id_kelas_kuliah": 126811,
+        "id_dosen": 2523
+      }
+    }
+  ]
+}

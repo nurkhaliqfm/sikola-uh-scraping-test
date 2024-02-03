@@ -1,0 +1,117 @@
+{
+  "id_prodi": 124,
+  "nama_prodi": "PPDS ILMU RADIOLOGI",
+  "id_prodi_semester": 2466,
+  "idnumber_sikola": "30629.103030.124",
+  "shortname_sikola": "TA231-103030",
+  "kode_matkul": "19C12511403",
+  "nama_matkul": "Radiologi Sistem Urogenital (2) \r\n",
+  "nama_kelas": "Urogenitalia2_2019",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 131362,
+      "id_user": 20386,
+      "id_prodi": 124,
+      "angkatan": 2019,
+      "nama_mahasiswa": "RANI VITASARI JUHAMRAN",
+      "nim": "C125192006",
+      "jalan": "BTN MINASA UPA BLOK C4 NO. 1A",
+      "rt": 6,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1985-04-17",
+      "telepon": "0",
+      "handphone": "081355077738",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "KARUNRUNG",
+      "id_wilayah": "196013",
+      "nik": "7371135704850005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ranivitasari17@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "416bb4fe-ddee-4efb-b52b-32fb490804af",
+      "id_registrasi_mahasiswa_pddikti": "6daadf52-c8b7-4d83-82d6-a286c9e5009b",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 103030,
+        "id_mahasiswa": 131362,
+        "created_at": "2023-08-02 10:47:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1442,
+      "id_user": 37522,
+      "id_prodi": 6,
+      "nama": "dr. Nurlaily Idris, Sp.Rad(K)",
+      "nidn": "9990300089",
+      "nip": "195310031990022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "79c3d522-156b-4b77-ada5-f4d9c1ae05b9",
+      "pivot": {
+        "id_kelas_kuliah": 103030,
+        "id_dosen": 1442
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2948,
+      "id_user": null,
+      "id_prodi": 124,
+      "nama": "dr. Amir, Sp.Rad",
+      "nidn": null,
+      "nip": "196012121989011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103030,
+        "id_dosen": 2948
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2950,
+      "id_user": null,
+      "id_prodi": 124,
+      "nama": "dr. Sri Muliati, Sp.Rad",
+      "nidn": null,
+      "nip": "196402071991032007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 103030,
+        "id_dosen": 2950
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1849,
+      "id_user": 9811,
+      "id_prodi": 6,
+      "nama": "dr. Rafikah Rauf, M.Kes., Sp.Rad (K)",
+      "nidn": "0025058205",
+      "nip": "198205252008122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3d43af6a-7074-4ff1-aa92-c34e2f2844c0",
+      "pivot": {
+        "id_kelas_kuliah": 103030,
+        "id_dosen": 1849
+      }
+    }
+  ]
+}

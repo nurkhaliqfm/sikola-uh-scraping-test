@@ -1,0 +1,45 @@
+{
+  "id_prodi": 141,
+  "nama_prodi": "MKU  Eksakta",
+  "id_prodi_semester": 2483,
+  "idnumber_sikola": "44625.107613.141",
+  "shortname_sikola": "TA231-107613",
+  "kode_matkul": "23H03112702",
+  "nama_matkul": "Kimia Dasar",
+  "nama_kelas": "Kimia Dasar 00003",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 706,
+      "id_user": 16642,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Ahyar",
+      "nidn": "0031126362",
+      "nip": "196712311991031020",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ab02eec5-d0e6-4077-b0da-ae88a1ecb5dc",
+      "pivot": {
+        "id_kelas_kuliah": 107613,
+        "id_dosen": 706
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1056,
+      "id_user": 25210,
+      "id_prodi": 49,
+      "nama": "Dr. Abdul Karim, M.Si.",
+      "nidn": "0010076202",
+      "nip": "196207101988031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "495acd44-f620-4425-91d1-2a0a50ded964",
+      "pivot": {
+        "id_kelas_kuliah": 107613,
+        "id_dosen": 1056
+      }
+    }
+  ]
+}

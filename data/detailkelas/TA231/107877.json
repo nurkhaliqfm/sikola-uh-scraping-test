@@ -1,0 +1,101 @@
+{
+  "id_prodi": 168,
+  "nama_prodi": "TEKNIK MESIN - S3",
+  "id_prodi_semester": 2505,
+  "idnumber_sikola": "34897.107877.168",
+  "shortname_sikola": "TA231-107877",
+  "kode_matkul": "18D04320305",
+  "nama_matkul": "JURNAL INTERNASIONAL TERINDEKS SCOPUS ATAU BEREPUTASI",
+  "nama_kelas": "Jurnal Internasional Terindeks Scopus atau bereputasi (Muhammad Yusuf Ali)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 117075,
+      "id_user": 35620,
+      "id_prodi": 168,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MUHAMMAD YUSUF ALI",
+      "nim": "D043182001",
+      "jalan": "BTN Sulindo Mandai Maros",
+      "rt": 1,
+      "rw": 0,
+      "dusun": "Semangki",
+      "kode_pos": "95851",
+      "nisn": null,
+      "tempat_lahir": "ujung pandang",
+      "tanggal_lahir": "1981-11-19",
+      "telepon": "0",
+      "handphone": "0811413673",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Semanggi",
+      "id_wilayah": "190112",
+      "nik": "7309091911810001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "myusufaliunifa@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "afc9c588-0d75-480e-aa53-6433d878703c",
+      "id_registrasi_mahasiswa_pddikti": "939adcbf-c63b-44e1-94c2-6f33a2bdb441",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 107877,
+        "id_mahasiswa": 117075,
+        "created_at": "2023-08-09 08:02:55"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 877,
+      "id_user": 29849,
+      "id_prodi": 12,
+      "nama": "Prof. Dr. Ir. Zulkifli Djafar, MT.",
+      "nidn": "0030066502",
+      "nip": "196506301991031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7ba17152-8498-4e20-b976-6762c9dffe1b",
+      "pivot": {
+        "id_kelas_kuliah": 107877,
+        "id_dosen": 877
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1951,
+      "id_user": 31898,
+      "id_prodi": 12,
+      "nama": "Dr. Muhammad Syahid, ST.,MT.",
+      "nidn": "0007077710",
+      "nip": "197707072005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "52b2ab6f-ba0a-4937-b6f0-12f687fa2a15",
+      "pivot": {
+        "id_kelas_kuliah": 107877,
+        "id_dosen": 1951
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1605,
+      "id_user": 26206,
+      "id_prodi": 12,
+      "nama": "Dr. Eng Lukmanul Hakim Arma, ST, MT",
+      "nidn": "0015047401",
+      "nip": "197404151999031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b7a1de71-f97d-4379-94ab-2fe4655e92be",
+      "pivot": {
+        "id_kelas_kuliah": 107877,
+        "id_dosen": 1605
+      }
+    }
+  ]
+}

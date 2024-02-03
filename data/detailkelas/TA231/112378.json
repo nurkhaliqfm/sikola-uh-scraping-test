@@ -1,0 +1,101 @@
+{
+  "id_prodi": 67,
+  "nama_prodi": "MANAJEMEN S.DAYA PERAIRAN - S1",
+  "id_prodi_semester": 2415,
+  "idnumber_sikola": "45497.112378.67",
+  "shortname_sikola": "TA231-112378",
+  "kode_matkul": "23L02131403",
+  "nama_matkul": "Pengelolaan Sumber Daya Perairan Wallacea Berbasis Masyarakat",
+  "nama_kelas": "Pengelolaan Sumber Daya Perairan Wallacea Berbasis Masyarakar (P)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 140402,
+      "id_user": 39673,
+      "id_prodi": 67,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD ARIF FAUZAN MUSAKIR",
+      "nim": "L021201038",
+      "jalan": "JL TARAKAN LR.183 NO.4",
+      "rt": 4,
+      "rw": 5,
+      "dusun": "-",
+      "kode_pos": "90172",
+      "nisn": "0024680447",
+      "tempat_lahir": "MAKASSAR",
+      "tanggal_lahir": "2002-07-21",
+      "telepon": "0",
+      "handphone": "6288258141386",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Malimongan Tua",
+      "id_wilayah": "196006",
+      "nik": "7371052107020001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "ariffauzan2107@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "2775e543-df2d-4059-b3ab-a68e6ae3477e",
+      "id_registrasi_mahasiswa_pddikti": "281b3db9-146a-492b-95c7-661f75621000",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112378,
+        "id_mahasiswa": 140402,
+        "created_at": "2023-08-04 22:54:23"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1764,
+      "id_user": 31147,
+      "id_prodi": 67,
+      "nama": "Dr. Ir.  Hadiratul Kudsiah, MP.",
+      "nidn": "0006116706",
+      "nip": "196711062006042001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9f16320e-80c6-41b9-8f9d-2f740800627c",
+      "pivot": {
+        "id_kelas_kuliah": 112378,
+        "id_dosen": 1764
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2303,
+      "id_user": 27296,
+      "id_prodi": 67,
+      "nama": "Dr. Ir. Basse Siang, MP.",
+      "nidn": "0024076502",
+      "nip": "196507241990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6c922d59-97af-4574-99f7-126bedfd7753",
+      "pivot": {
+        "id_kelas_kuliah": 112378,
+        "id_dosen": 2303
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1662,
+      "id_user": 60881,
+      "id_prodi": 70,
+      "nama": "Dr. Andi Adri Arief, S.Pi.,M.Si.",
+      "nidn": "0022047103",
+      "nip": "197104222005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2daf482c-c69e-4121-8f59-6e48ecab0bf9",
+      "pivot": {
+        "id_kelas_kuliah": 112378,
+        "id_dosen": 1662
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 139,
+  "nama_prodi": "MAGISTER AKUNTANSI - S2",
+  "id_prodi_semester": 2712,
+  "idnumber_sikola": "44564.123032.139",
+  "shortname_sikola": "TA232-123032",
+  "kode_matkul": "23A06210503",
+  "nama_matkul": "Sistem Pengendalian Manajemen",
+  "nama_kelas": "MAKSI-PUPR SISTEM PENGENDALIAN MANAJEMEN",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1180,
+      "id_user": 10426,
+      "id_prodi": 3,
+      "nama": "Dr. Hj.Sri.Sundari, SE,M.SI,Ak,CA.",
+      "nidn": "0020026608",
+      "nip": "196602201994122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "64309e35-4423-4206-92f9-9396f9fa51d3",
+      "pivot": {
+        "id_kelas_kuliah": 123032,
+        "id_dosen": 1180
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 4048,
+      "id_user": null,
+      "id_prodi": 3,
+      "nama": "Ali B. Ismail, S.E., M.M.",
+      "nidn": null,
+      "nip": "7371131204640007",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 123032,
+        "id_dosen": 4048
+      }
+    }
+  ]
+}

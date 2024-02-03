@@ -1,0 +1,29 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2408,
+  "idnumber_sikola": "46541.124252.50",
+  "shortname_sikola": "TA231-124252",
+  "kode_matkul": "23U02132602",
+  "nama_matkul": "Studi/Proyek Independen",
+  "nama_kelas": "Studi/Proyek Independen",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1378,
+      "id_user": 31913,
+      "id_prodi": 50,
+      "nama": "Drs. Asadi, M.Si.",
+      "nidn": "0023056203",
+      "nip": "196203031989031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c735eb77-4970-4ac1-b8ae-c1105d14546d",
+      "pivot": {
+        "id_kelas_kuliah": 124252,
+        "id_dosen": 1378
+      }
+    }
+  ]
+}

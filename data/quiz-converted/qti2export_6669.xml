@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>04 - CO1 Comprendre un parcours</text></name><questiontext format="html"><text><![CDATA[<p>Écoutez et répondez.</p><style>
+ol {font-family: Spectral; font-size: 16px; line-height: 2;}
+</style>
+<iframe src="https://drive.google.com/file/d/1kf5O4mRGUJM6f9ymj0Z2lsxoqDFuqSu8/preview" width="300" height="100"></iframe>
+<ol>
+<li>Quelle est la profession de Leila ?</li>
+<li>Quand est-ce qu'elle a commencé ?</li>
+<li>Quel diplôme a-t-elle obtenu ?</li>
+<li>Où est-ce qu'elle est allée ensuite ?</li>
+<li>Qu'est-ce qu'elle a appris ?</li>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>100.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_77784</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

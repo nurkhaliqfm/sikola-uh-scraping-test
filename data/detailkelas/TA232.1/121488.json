@@ -1,0 +1,77 @@
+{
+  "id_prodi": 50,
+  "nama_prodi": "BIOLOGI - S1",
+  "id_prodi_semester": 2639,
+  "idnumber_sikola": "45093.121488.50",
+  "shortname_sikola": "TA232-121488",
+  "kode_matkul": "23H04122703",
+  "nama_matkul": "MIKROBIOLOGI TERAPAN",
+  "nama_kelas": "Mikrobiologi Terapan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1577,
+      "id_user": 33851,
+      "id_prodi": 50,
+      "nama": "Dr.  Nur Haedar, S.Si.,M.Si.",
+      "nidn": "0029016802",
+      "nip": "196801291997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "343df49f-ebbd-4fdc-8497-ef219f9d755a",
+      "pivot": {
+        "id_kelas_kuliah": 121488,
+        "id_dosen": 1577
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1153,
+      "id_user": 11054,
+      "id_prodi": 50,
+      "nama": "Dr.  Zaraswati Dwyana Zainuddin, M.Si.",
+      "nidn": "0009126502",
+      "nip": "196512091990082001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5ed0e50f-359f-4496-bd4e-734d1b57a381",
+      "pivot": {
+        "id_kelas_kuliah": 121488,
+        "id_dosen": 1153
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1202,
+      "id_user": 29454,
+      "id_prodi": 50,
+      "nama": "Prof. Dr. Fahruddin, M.Si.",
+      "nidn": "0015096501",
+      "nip": "196509151991031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "73261e22-a194-4536-9a88-7c012eec58ba",
+      "pivot": {
+        "id_kelas_kuliah": 121488,
+        "id_dosen": 1202
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1378,
+      "id_user": 31913,
+      "id_prodi": 50,
+      "nama": "Drs. Asadi, M.Si.",
+      "nidn": "0023056203",
+      "nip": "196203031989031007",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c735eb77-4970-4ac1-b8ae-c1105d14546d",
+      "pivot": {
+        "id_kelas_kuliah": 121488,
+        "id_dosen": 1378
+      }
+    }
+  ]
+}

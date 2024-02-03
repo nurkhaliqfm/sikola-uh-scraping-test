@@ -1,0 +1,45 @@
+{
+  "id_prodi": 11,
+  "nama_prodi": "TEKNIK LINGKUNGAN - S1",
+  "id_prodi_semester": 2607,
+  "idnumber_sikola": "46459.123157.11",
+  "shortname_sikola": "TA232-123157",
+  "kode_matkul": "23D13121002",
+  "nama_matkul": "Topografi dan Pemetaan",
+  "nama_kelas": "Topografi dan Pemetaan A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2050,
+      "id_user": 33509,
+      "id_prodi": 18,
+      "nama": "Dr. Ibrahim Djamaluddin, ST., M.Eng",
+      "nidn": "0014127505",
+      "nip": "197512142015041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3cd5ce06-95a4-43c3-8695-7a89d467a9d0",
+      "pivot": {
+        "id_kelas_kuliah": 123157,
+        "id_dosen": 2050
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3779,
+      "id_user": 60730,
+      "id_prodi": 11,
+      "nama": "Hardianti Alimuddin, ST., M.Eng",
+      "nidn": "8999960023",
+      "nip": "7371134306940004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "5cbbf6d9-73c3-470d-83f8-6109b9421ea9",
+      "pivot": {
+        "id_kelas_kuliah": 123157,
+        "id_dosen": 3779
+      }
+    }
+  ]
+}

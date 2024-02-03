@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>Ujian Susulan</text></name><questiontext format="html"><text><![CDATA[<p>Jelaskan apa yang dimaksud referensi seimbang dan referensi pada uji duo tri - Copy</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>100.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_19778</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>Ujian Susulan</text></name><questiontext format="html"><text><![CDATA[<p>Jelaskan pegertian dan tujuan uji rangking pada pengujian sensori</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>250.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_18312</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>Ujian Susulan</text></name><questiontext format="html"><text><![CDATA[<p>Jelaskan teknik-teknik pengujian sampel pada metode paired comparison test</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>200.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_18310</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question><question type="essay"><name><text>Ujian Susulan</text></name><questiontext format="html"><text><![CDATA[<p>Sebuah perusahaan biskuit ingin mengganti pemasok bahan baku terigu. Sebelum menentukan pemasok baru, perusahaan tersebut ingin melakukan uji perbedaan dari pemasok lama dan calon pemasok yg baru. Untuk itu dilakuka uji “A – bukan A” dengan menggunakan 50 panelis. Hasil pengujian dapat dilihat pada table berikut:</p><table class="Table" style="margin-left:36.0pt; border-collapse:collapse; border:solid windowtext 1.0pt">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:109.15pt; border:solid windowtext 1.0pt" width="135">
+			<p style="margin:0cm; margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">Penilaian Penguji</span></p>
+			</td>
+			<td colspan="2" style="width:213.85pt; border:solid windowtext 1.0pt; border-left:none" width="256">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">Sampel yang disajikan</span></p>
+			</td>
+			<td rowspan="2" style="width:105.4pt; border:solid windowtext 1.0pt; border-left:none" width="127">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">Total</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:108.45pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">A</span></p>
+			</td>
+			<td style="width:105.4pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">Bukan A</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:109.15pt; border:solid windowtext 1.0pt; border-top:none" width="135">
+			<p style="margin:0cm; margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">A</span></p>
+			</td>
+			<td style="width:108.45pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">25</span></p>
+			</td>
+			<td style="width:105.4pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">30</span></p>
+			</td>
+			<td style="width:105.4pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="127">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">55</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:109.15pt; border:solid windowtext 1.0pt; border-top:none" width="135">
+			<p style="margin:0cm; margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">Bukan A</span></p>
+			</td>
+			<td style="width:108.45pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">25</span></p>
+			</td>
+			<td style="width:105.4pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">20</span></p>
+			</td>
+			<td style="width:105.4pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="127">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">45</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:109.15pt; border:solid windowtext 1.0pt; border-top:none" width="135">
+			<p style="margin:0cm; margin-bottom:.0001pt; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">Total</span></p>
+			</td>
+			<td style="width:108.45pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">50</span></p>
+			</td>
+			<td style="width:105.4pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="128">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">50</span></p>
+			</td>
+			<td style="width:105.4pt; border-top:none; border-left:none; border-bottom:solid windowtext 1.0pt; border-right:solid windowtext 1.0pt" width="127">
+			<p align="center" style="margin:0cm; margin-bottom:.0001pt; text-align:center; padding:0cm 5.4pt 0cm 5.4pt"><span style="line-height:normal">100</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p>Tentukanlah apakah terigu dari dua pemasok tersebut berbeda nyata. (Nilai tabel pembanding adalah 3,84).  </p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>300.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_18307</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

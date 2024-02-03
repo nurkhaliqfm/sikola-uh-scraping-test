@@ -1,0 +1,29 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2719,
+  "idnumber_sikola": "45723.120252.148",
+  "shortname_sikola": "TA232-120252",
+  "kode_matkul": "23R01411002",
+  "nama_matkul": "Praktik Profesi Keperawatan Gerontik",
+  "nama_kelas": "Kep. Gerontik Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1961,
+      "id_user": 18518,
+      "id_prodi": 8,
+      "nama": "Silvia Malasari,  S.Kep., Ns., MN",
+      "nidn": "0025048305",
+      "nip": "198304252012122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e8510cb4-2b4f-4dd3-90b3-d509e079b571",
+      "pivot": {
+        "id_kelas_kuliah": 120252,
+        "id_dosen": 1961
+      }
+    }
+  ]
+}

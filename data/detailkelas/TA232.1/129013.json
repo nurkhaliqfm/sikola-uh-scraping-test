@@ -1,0 +1,85 @@
+{
+  "id_prodi": 110,
+  "nama_prodi": "MAGISTER MANAJEMEN - S2",
+  "id_prodi_semester": 2685,
+  "idnumber_sikola": "44340.129013.110",
+  "shortname_sikola": "TA232-129013",
+  "kode_matkul": "23A01210503",
+  "nama_matkul": "LEADERSHIP STRATEGIC",
+  "nama_kelas": "KELAS B2 STRATEGIK",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 422882,
+      "id_user": 78938,
+      "id_prodi": 110,
+      "angkatan": 2023,
+      "nama_mahasiswa": "REZA ALFIN",
+      "nim": "A012231114",
+      "jalan": "JL. MUH ARSYAD JEMBATAN MERAH NO.11, LAKESSI, KEC. SOREANG, KOTA PAREPARE, SULAWESI SELATAN 91133",
+      "rt": 15,
+      "rw": 5,
+      "dusun": null,
+      "kode_pos": "91133",
+      "nisn": "12",
+      "tempat_lahir": "SERANG",
+      "tanggal_lahir": "1993-09-28",
+      "telepon": "081284068405",
+      "handphone": "081284068405",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "LAKESSI",
+      "id_wilayah": "020819",
+      "nik": "3672062809930001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "rezaalfin93@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "88d81a4c-7a9a-4348-b01b-7102616f4b9d",
+      "id_registrasi_mahasiswa_pddikti": "dbc44f71-aced-4577-8c5c-0cb40c85fc0f",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129013,
+        "id_mahasiswa": 422882,
+        "created_at": "2024-01-28 21:35:30"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1147,
+      "id_user": 17015,
+      "id_prodi": 2,
+      "nama": "Dr.  Nurdjanah Hamid, S.E., M.Agr.",
+      "nidn": "0003056003",
+      "nip": "196005031986012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "169be79a-00f9-4990-9193-51ed3f6d2123",
+      "pivot": {
+        "id_kelas_kuliah": 129013,
+        "id_dosen": 1147
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1599,
+      "id_user": 18871,
+      "id_prodi": 2,
+      "nama": "Dr. W a h d a, SE., M.Pd., M.Si",
+      "nidn": "0008027608",
+      "nip": "197602082003122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "468a8c04-0696-4a63-bbd3-03fc7821af78",
+      "pivot": {
+        "id_kelas_kuliah": 129013,
+        "id_dosen": 1599
+      }
+    }
+  ]
+}

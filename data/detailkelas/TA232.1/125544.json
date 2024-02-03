@@ -1,0 +1,243 @@
+{
+  "id_prodi": 119,
+  "nama_prodi": "PPDS ILMU KESEHATAN ANAK",
+  "id_prodi_semester": 2692,
+  "idnumber_sikola": "39164.125544.119",
+  "shortname_sikola": "TA232-125544",
+  "kode_matkul": "20C10540204",
+  "nama_matkul": "Unit Infeksi",
+  "nama_kelas": "Unit Infeksi - 20232",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 147221,
+      "id_user": 46027,
+      "id_prodi": 119,
+      "angkatan": 2020,
+      "nama_mahasiswa": "ZULYUDISIAWAN MUIN",
+      "nim": "C105202004",
+      "jalan": "JALAN PULAU PANJANG, PERUM DOKTER SPESIALIS",
+      "rt": 0,
+      "rw": 0,
+      "dusun": null,
+      "kode_pos": "77311",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1994-07-19",
+      "telepon": "0",
+      "handphone": "081231621994",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Gunung Panjang",
+      "id_wilayah": "160306",
+      "nik": "6403051907940002",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "zulyudisiawanm@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "3621edfa-ea1f-49c9-afd1-f3f685ca1963",
+      "id_registrasi_mahasiswa_pddikti": "58fd4686-4e27-41ca-b6b8-2a009a8de450",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_mahasiswa": 147221,
+        "created_at": "2024-01-28 18:53:58"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 147660,
+      "id_user": 46509,
+      "id_prodi": 119,
+      "angkatan": 2020,
+      "nama_mahasiswa": "RANDY SURYAWAN",
+      "nim": "C105202010",
+      "jalan": "LAYU",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Layu",
+      "kode_pos": "92350",
+      "nisn": null,
+      "tempat_lahir": "TUAL",
+      "tanggal_lahir": "1991-08-10",
+      "telepon": "0",
+      "handphone": "081242442339",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "Karelayu",
+      "id_wilayah": "190502",
+      "nik": "8102101008910003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "randysrwn8@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "21ecc2ce-46fb-4d73-b99c-a6e79f0cceac",
+      "id_registrasi_mahasiswa_pddikti": "3caf4cae-9be3-46c0-9ff7-177c425fbdbc",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_mahasiswa": 147660,
+        "created_at": "2024-02-01 06:24:11"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 131351,
+      "id_user": 13087,
+      "id_prodi": 119,
+      "angkatan": 2019,
+      "nama_mahasiswa": "LUSANNITA",
+      "nim": "C105192004",
+      "jalan": "rawa buaya no 63",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "11740",
+      "nisn": null,
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1988-06-13",
+      "telepon": "0",
+      "handphone": "082117897545",
+      "id_agama": null,
+      "id_prodi_jenjang": 5,
+      "kelurahan": "rawa buaya",
+      "id_wilayah": "016207",
+      "nik": "3173015306880016",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "lusannita.pediatry@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "bef9ac55-8703-4e46-9773-5324c5c1b80f",
+      "id_registrasi_mahasiswa_pddikti": "9e50547d-adba-4917-86f3-25a57d3ac38e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_mahasiswa": 131351,
+        "created_at": "2024-02-01 12:01:19"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2437,
+      "id_user": 37682,
+      "id_prodi": 6,
+      "nama": "dr. Hadia Angriani M, Sp.A(K), MARS",
+      "nidn": "8805910016",
+      "nip": "195908212018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0cf91ef4-5375-41a0-9e2d-f8bb1bb9fc15",
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_dosen": 2437
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2416,
+      "id_user": 48362,
+      "id_prodi": 6,
+      "nama": "dr. Setia Budi Salekede, Sp.A(K)",
+      "nidn": "8873510016",
+      "nip": "195805052018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c38d41d2-f5f1-475f-ae50-d6f6c28fbff3",
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_dosen": 2416
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1875,
+      "id_user": 60423,
+      "id_prodi": 6,
+      "nama": "dr. Ninny Meutia Pelupessy, SpA",
+      "nidn": "0015107003",
+      "nip": "197010152009122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7a8729c0-fa49-427d-b8a9-cae33c287123",
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_dosen": 1875
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2450,
+      "id_user": 58027,
+      "id_prodi": 6,
+      "nama": "dr. Amiruddin L, Sp.A(K)",
+      "nidn": "8857910016",
+      "nip": "196212302018015001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ea5f063b-663e-4130-a9b7-2423a47bc534",
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_dosen": 2450
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2427,
+      "id_user": 74202,
+      "id_prodi": 119,
+      "nama": "dr. Rahmawaty, M.Kes., Sp.A.",
+      "nidn": "8822620016",
+      "nip": "198009032018016001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ea112661-c506-4cd8-9e31-d2784f756b5c",
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_dosen": 2427
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3555,
+      "id_user": 48310,
+      "id_prodi": 119,
+      "nama": "dr. Urfianty, M.Kes., Sp.A(K)",
+      "nidn": null,
+      "nip": "790632460126",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_dosen": 3555
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3677,
+      "id_user": 58279,
+      "id_prodi": 119,
+      "nama": "dr. Sri Hardiyanti Putri, Sp.A",
+      "nidn": null,
+      "nip": "7309015710890002",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 125544,
+        "id_dosen": 3677
+      }
+    }
+  ]
+}

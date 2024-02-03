@@ -1,0 +1,45 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2380,
+  "idnumber_sikola": "47337.111678.15",
+  "shortname_sikola": "TA231-111678",
+  "kode_matkul": "23D08130102",
+  "nama_matkul": "Dinamika Struktur",
+  "nama_kelas": "Dinamika Struktur A",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1508,
+      "id_user": 17267,
+      "id_prodi": 14,
+      "nama": "Prof. Dr. Daeng Paroka, ST., MT., P.h.D",
+      "nidn": "0018017201",
+      "nip": "197201181998021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6af5f039-f1c7-4673-9f80-6bac1db17c82",
+      "pivot": {
+        "id_kelas_kuliah": 111678,
+        "id_dosen": 1508
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1665,
+      "id_user": 18657,
+      "id_prodi": 15,
+      "nama": "Prof. Muhammad Zubair Muis Alie, ST., MT., Ph.D.",
+      "nidn": "0008067609",
+      "nip": "197506082005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b91a194-1d0c-4d80-916f-c3b967292204",
+      "pivot": {
+        "id_kelas_kuliah": 111678,
+        "id_dosen": 1665
+      }
+    }
+  ]
+}

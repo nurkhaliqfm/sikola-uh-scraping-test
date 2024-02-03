@@ -1,0 +1,77 @@
+{
+  "id_prodi": 173,
+  "nama_prodi": "KESEHATAN MASYARAKAT - S3",
+  "id_prodi_semester": 2741,
+  "idnumber_sikola": "35203.125863.173",
+  "shortname_sikola": "TA232-125863",
+  "kode_matkul": "18K01311202",
+  "nama_matkul": "Mutu Pelayanan dan Keselamatan Pasien",
+  "nama_kelas": "Mutu Pelayanan dan Keselamatan Pasien (Kelas Padang)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1406,
+      "id_user": 34413,
+      "id_prodi": 57,
+      "nama": "Dr Fridawaty Rivai, SKM.,M. Kes",
+      "nidn": "0016107301",
+      "nip": "197310161997022001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6bc3c247-4734-4ead-bf4b-d037ae116cc7",
+      "pivot": {
+        "id_kelas_kuliah": 125863,
+        "id_dosen": 1406
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1367,
+      "id_user": 34439,
+      "id_prodi": 57,
+      "nama": "Dr.  Syahrir A.P., MS.",
+      "nidn": "0010026502",
+      "nip": "196502101991031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e071f78b-68a5-45ac-9b85-6b85db2a9085",
+      "pivot": {
+        "id_kelas_kuliah": 125863,
+        "id_dosen": 1367
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1482,
+      "id_user": 29498,
+      "id_prodi": 57,
+      "nama": "Dr. dr. Andi Indahwaty AS., MHSM.",
+      "nidn": "0001047309",
+      "nip": "197301042000122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "753adffe-38d4-464d-aead-b00fe5ec789a",
+      "pivot": {
+        "id_kelas_kuliah": 125863,
+        "id_dosen": 1482
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1930,
+      "id_user": 27948,
+      "id_prodi": 57,
+      "nama": "Dr. Irwandy, SKM., M.Sc.PH., M.kes.",
+      "nidn": "0012038403",
+      "nip": "198403122010121005",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a317cb33-7524-42cb-8cda-5b68b9507922",
+      "pivot": {
+        "id_kelas_kuliah": 125863,
+        "id_dosen": 1930
+      }
+    }
+  ]
+}

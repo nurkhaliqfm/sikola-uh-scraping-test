@@ -1,0 +1,29 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2488,
+  "idnumber_sikola": "42128.104176.148",
+  "shortname_sikola": "TA231-104176",
+  "kode_matkul": "21R01411802",
+  "nama_matkul": "Wound Care",
+  "nama_kelas": "Wound Care.Kerjasama",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2933,
+      "id_user": 34058,
+      "id_prodi": 148,
+      "nama": "Saldy Yusuf, S.Kep., Ns., MHS., ETN., Ph.D",
+      "nidn": "0026107808",
+      "nip": "197810262018073001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "4ea49b13-e730-470b-bf17-b425d927fe0c",
+      "pivot": {
+        "id_kelas_kuliah": 104176,
+        "id_dosen": 2933
+      }
+    }
+  ]
+}

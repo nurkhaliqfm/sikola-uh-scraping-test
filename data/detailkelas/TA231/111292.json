@@ -1,0 +1,93 @@
+{
+  "id_prodi": 5,
+  "nama_prodi": "ILMU HUKUM - S1",
+  "id_prodi_semester": 2371,
+  "idnumber_sikola": "2513.111292.5",
+  "shortname_sikola": "TA231-111292",
+  "kode_matkul": "18B01147402",
+  "nama_matkul": "HUKUM PIDANA EKONOMI\r\n",
+  "nama_kelas": "HK. PIDANA EKONOMI KELAS (C)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1233,
+      "id_user": 33970,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Slamet Sampurno Soewondo, SH., MH.,DFM.",
+      "nidn": "0011046802",
+      "nip": "196804111992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "b9c502ec-8f6f-4260-bf08-a51367c58d7d",
+      "pivot": {
+        "id_kelas_kuliah": 111292,
+        "id_dosen": 1233
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2139,
+      "id_user": 74222,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Aswanto, SH., MS., DFM.",
+      "nidn": "0031126411",
+      "nip": "196412311988111001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "56c7e365-12dd-4501-b3a1-f0337dd05b06",
+      "pivot": {
+        "id_kelas_kuliah": 111292,
+        "id_dosen": 2139
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1692,
+      "id_user": 34340,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Amir Ilyas, SH., MH.",
+      "nidn": "0010078002",
+      "nip": "198007102006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2f1553da-92c9-430a-a413-66e9a6d8d9b6",
+      "pivot": {
+        "id_kelas_kuliah": 111292,
+        "id_dosen": 1692
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1840,
+      "id_user": 32017,
+      "id_prodi": 5,
+      "nama": "Dr. Hijrah Adhyanti Mirzana, SH.,MH.",
+      "nidn": "0026037910",
+      "nip": "197903262008122002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "cc7b3342-eb2b-4ea1-8fe5-083d4150684b",
+      "pivot": {
+        "id_kelas_kuliah": 111292,
+        "id_dosen": 1840
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3522,
+      "id_user": 58048,
+      "id_prodi": 5,
+      "nama": "Arnita Pratiwi Arifin, S.H., LL.M",
+      "nidn": "0025019010",
+      "nip": "199001252021074001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "bd433ef8-9562-4155-a120-e983de553a65",
+      "pivot": {
+        "id_kelas_kuliah": 111292,
+        "id_dosen": 3522
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id_prodi": 142,
+  "nama_prodi": "MKU  Non-Eksakta",
+  "id_prodi_semester": 2484,
+  "idnumber_sikola": "44642.108296.142",
+  "shortname_sikola": "TA231-108296",
+  "kode_matkul": "23U01111102",
+  "nama_matkul": "Bahasa Inggris",
+  "nama_kelas": "English Language",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 711,
+      "id_user": 26871,
+      "id_prodi": 32,
+      "nama": "Prof. Drs. Burhanuddin Arafah, M.Hum. Ph.D",
+      "nidn": "0003036502",
+      "nip": "196503031990021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "270c23d1-7374-4826-af7d-b559ca024dc1",
+      "pivot": {
+        "id_kelas_kuliah": 108296,
+        "id_dosen": 711
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2079,
+      "id_user": 16788,
+      "id_prodi": 32,
+      "nama": "Andi Inayah Soraya, S.S., M.Hum",
+      "nidn": "0027128904",
+      "nip": "198912272015042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "8b14a5a4-1e2b-40bb-9b2a-b6e7762e2365",
+      "pivot": {
+        "id_kelas_kuliah": 108296,
+        "id_dosen": 2079
+      }
+    }
+  ]
+}

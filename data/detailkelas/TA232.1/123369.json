@@ -1,0 +1,69 @@
+{
+  "id_prodi": 56,
+  "nama_prodi": "PROFESI DOKTER GIGI",
+  "id_prodi_semester": 2642,
+  "idnumber_sikola": "20839.123369.56",
+  "shortname_sikola": "TA232-123369",
+  "kode_matkul": "573J135",
+  "nama_matkul": "Kepaniteraan Konservasi Gigi",
+  "nama_kelas": "Kepaniteraan Konservasi Gigi",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 358231,
+      "id_user": 73488,
+      "id_prodi": 56,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUTIARA FAZA",
+      "nim": "J014221056",
+      "jalan": "JALAN SAHABAT RAYA",
+      "rt": 2,
+      "rw": 7,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "0005833507",
+      "tempat_lahir": "PRAYA",
+      "tanggal_lahir": "2000-07-12",
+      "telepon": "0",
+      "handphone": "087765985846",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "tamalanrea",
+      "id_wilayah": "196012",
+      "nik": "5202025207000003",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "mutiarafaza@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "0a62de50-e8d4-4f70-b5bf-3c0ae2d1f66e",
+      "id_registrasi_mahasiswa_pddikti": "fb8e102c-976f-4e0e-a8b6-7cd99cfe428e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 123369,
+        "id_mahasiswa": 358231,
+        "created_at": "2024-02-02 10:20:23"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1585,
+      "id_user": 37179,
+      "id_prodi": 55,
+      "nama": "Dr. drg. Juni Jekti Nugroho, .Sp.KG",
+      "nidn": "0026067106",
+      "nip": "197106252005012001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c12b1b4d-9122-4235-bad4-1b760902577f",
+      "pivot": {
+        "id_kelas_kuliah": 123369,
+        "id_dosen": 1585
+      }
+    }
+  ]
+}

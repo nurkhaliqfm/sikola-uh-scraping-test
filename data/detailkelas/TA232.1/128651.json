@@ -1,0 +1,101 @@
+{
+  "id_prodi": 73,
+  "nama_prodi": "FARMASI - S1",
+  "id_prodi_semester": 2651,
+  "idnumber_sikola": "37754.128651.73",
+  "shortname_sikola": "TA232-128651",
+  "kode_matkul": "20N01110802",
+  "nama_matkul": "Mikrobiologi dan Parasitologi",
+  "nama_kelas": "Mikrobiologi dan Parasitologi A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 87934,
+      "id_user": 11591,
+      "id_prodi": 73,
+      "angkatan": 2018,
+      "nama_mahasiswa": "GANGGAS KUSUMA NINGRUM",
+      "nim": "N011181007",
+      "jalan": "Jl. Topoka",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "-",
+      "kode_pos": "91994",
+      "nisn": "0001407767",
+      "tempat_lahir": "SRAGEN, Jawa Tengah",
+      "tanggal_lahir": "2000-01-21",
+      "telepon": "0",
+      "handphone": "082220471618",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Tampumia radda",
+      "id_wilayah": "190000",
+      "nik": "7317140107020005",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "kusumaganggas@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "48d4967c-21e5-433a-9b32-a5fd304b1ff4",
+      "id_registrasi_mahasiswa_pddikti": "4280f748-f6da-4584-a181-625e3c99f93d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128651,
+        "id_mahasiswa": 87934,
+        "created_at": "2024-01-16 07:22:27"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 964,
+      "id_user": 30849,
+      "id_prodi": 73,
+      "nama": "Prof. Dr. Sartini, M.Si., Apt.",
+      "nidn": "0011116114",
+      "nip": "196111111987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a3a8e48b-61dc-4e0c-ae2e-c54234bc4eaa",
+      "pivot": {
+        "id_kelas_kuliah": 128651,
+        "id_dosen": 964
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1632,
+      "id_user": 20731,
+      "id_prodi": 73,
+      "nama": "Dr.  Herlina Rante, S.Si., M.Si., Apt.",
+      "nidn": "0025117702",
+      "nip": "197711252002122003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "029419b8-2945-42bc-b2a3-6745b12b83a1",
+      "pivot": {
+        "id_kelas_kuliah": 128651,
+        "id_dosen": 1632
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2055,
+      "id_user": 20599,
+      "id_prodi": 73,
+      "nama": "Nana Juniarti Natsir Djide, S.Si.,M.Si, Apt.",
+      "nidn": "0002069001",
+      "nip": "199006022015042002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f3d92048-0f5b-45c8-a61a-210da10f176c",
+      "pivot": {
+        "id_kelas_kuliah": 128651,
+        "id_dosen": 2055
+      }
+    }
+  ]
+}

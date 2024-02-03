@@ -1,0 +1,69 @@
+{
+  "id_prodi": 186,
+  "nama_prodi": "ILMU KOMUNIKASI -S3",
+  "id_prodi_semester": 2523,
+  "idnumber_sikola": "44009.115264.186",
+  "shortname_sikola": "TA231-115264",
+  "kode_matkul": "22E03310901",
+  "nama_matkul": "Seminar Kemajuan 1 (Pra Proposal)",
+  "nama_kelas": "Seminar Kemajuan 1 (by Riset)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 388885,
+      "id_user": 73664,
+      "id_prodi": 186,
+      "angkatan": 2022,
+      "nama_mahasiswa": "DWI SURJATMODJO",
+      "nim": "E033222008",
+      "jalan": "MES PAMEN TNI AD D 12",
+      "rt": 1,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "97834",
+      "nisn": null,
+      "tempat_lahir": "JEPARA",
+      "tanggal_lahir": "1967-08-14",
+      "telepon": "08114458990",
+      "handphone": "08114458990",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "jepara",
+      "id_wilayah": "016403",
+      "nik": "1571011408670041",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "dwi.sudarjatmodjo@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d4591f08-843d-4806-a839-dba951557ba9",
+      "id_registrasi_mahasiswa_pddikti": "7a2e1d7f-0c43-48d4-b991-0c10e8bd104e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 115264,
+        "id_mahasiswa": 388885,
+        "created_at": "2023-08-05 08:51:36"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 691,
+      "id_user": 34367,
+      "id_prodi": 28,
+      "nama": "Prof. Dr. H. Hafied Cangara, M.Sc.",
+      "nidn": "9990445932",
+      "nip": "195204121976031017",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "75e336b2-5c51-4820-9cb8-55e09a9a63f7",
+      "pivot": {
+        "id_kelas_kuliah": 115264,
+        "id_dosen": 691
+      }
+    }
+  ]
+}

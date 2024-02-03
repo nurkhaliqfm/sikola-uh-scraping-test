@@ -1,0 +1,101 @@
+{
+  "id_prodi": 226,
+  "nama_prodi": "STUDI PEMBANGUNAN - S3",
+  "id_prodi_semester": 2790,
+  "idnumber_sikola": "39810.128236.226",
+  "shortname_sikola": "TA232-128236",
+  "kode_matkul": "20P02310102",
+  "nama_matkul": "Filsafat Ilmu dan Etika Akademik",
+  "nama_kelas": "Filsafat Ilmu Dan Etika Akademik (W) (S3 SP-Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428373,
+      "id_user": 86900,
+      "id_prodi": 226,
+      "angkatan": 2023,
+      "nama_mahasiswa": "MANSUR YAHYA",
+      "nim": "P023232001",
+      "jalan": "POROS BONE - MAKASSAR",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Ujung",
+      "kode_pos": "90562",
+      "nisn": "-",
+      "tempat_lahir": "CAMBA KAB. MAROS",
+      "tanggal_lahir": "1982-05-25",
+      "telepon": "081342398820",
+      "handphone": "081342398820",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "PATTIRO DECENG",
+      "id_wilayah": "190106",
+      "nik": "7309022505820001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 86900,
+      "kode_status": "A",
+      "email": "yahya_mansur@ymail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 128236,
+        "id_mahasiswa": 428373,
+        "created_at": "2024-01-24 14:43:32"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 714,
+      "id_user": 21918,
+      "id_prodi": 153,
+      "nama": "Prof. Dr. Ir. Muhammad Saleh S. Ali, M.Sc.",
+      "nidn": "9990257066",
+      "nip": "195311271980031006",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "15c77a0b-d2bb-4dae-89b2-010d5529551d",
+      "pivot": {
+        "id_kelas_kuliah": 128236,
+        "id_dosen": 714
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 678,
+      "id_user": 34185,
+      "id_prodi": 20,
+      "nama": "Prof. Dr.-Ing. Muhammad Yamin Jinca, ,MS.Tr.",
+      "nidn": "",
+      "nip": "195312211981031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 128236,
+        "id_dosen": 678
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3594,
+      "id_user": 58095,
+      "id_prodi": 226,
+      "nama": "Dr. Ir. Muhammad Yamin, M.Si",
+      "nidn": "1109036001",
+      "nip": "196003091990031007",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "4d48dd14-6560-4bc6-a759-fb115eee177b",
+      "pivot": {
+        "id_kelas_kuliah": 128236,
+        "id_dosen": 3594
+      }
+    }
+  ]
+}

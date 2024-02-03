@@ -1,0 +1,85 @@
+{
+  "id_prodi": 92,
+  "nama_prodi": "ILMU KIMIA - S3",
+  "id_prodi_semester": 2437,
+  "idnumber_sikola": "37349.106076.92",
+  "shortname_sikola": "TA231-106076",
+  "kode_matkul": "18H01320105",
+  "nama_matkul": "Jurnal Internasional 1",
+  "nama_kelas": "Jurnal Internasional 1 (Reg. Kelas D)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 157254,
+      "id_user": 53763,
+      "id_prodi": 92,
+      "angkatan": 2021,
+      "nama_mahasiswa": "DIANA EKA PRATIWI",
+      "nim": "H013211001",
+      "jalan": "JL.MUH.TAHIR KOMP.KUMALA PERMAI BLOK E NO.8",
+      "rt": 2,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "90233",
+      "nisn": null,
+      "tempat_lahir": "Ujung Pandang",
+      "tanggal_lahir": "1980-06-14",
+      "telepon": "0",
+      "handphone": "085242047236",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "JONGAYA",
+      "id_wilayah": "196003",
+      "nik": "7371105406800001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "diana.eka.pratiwi@unm.ac.id",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "c4f8ae67-f3b3-4f2d-86cc-77702796c616",
+      "id_registrasi_mahasiswa_pddikti": "c3f7785b-4188-4fe3-b25c-e4b667346d42",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 106076,
+        "id_mahasiswa": 157254,
+        "created_at": "2023-08-02 09:16:09"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2135,
+      "id_user": 33546,
+      "id_prodi": 49,
+      "nama": "Prof. Dr.  Abd.Wahid Wahab, M.Sc.",
+      "nidn": "8824223419",
+      "nip": "194908271976021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6fa09864-a353-46fc-b390-160d503242ec",
+      "pivot": {
+        "id_kelas_kuliah": 106076,
+        "id_dosen": 2135
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1236,
+      "id_user": 19877,
+      "id_prodi": 49,
+      "nama": "Dr.  Yusafir Hala, M.Si.",
+      "nidn": "9990093376",
+      "nip": "195805101988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1f13f99d-828d-465e-acd9-032916ae9b0f",
+      "pivot": {
+        "id_kelas_kuliah": 106076,
+        "id_dosen": 1236
+      }
+    }
+  ]
+}

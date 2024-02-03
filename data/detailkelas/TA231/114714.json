@@ -1,0 +1,69 @@
+{
+  "id_prodi": 160,
+  "nama_prodi": "SISTEM INFORMASI - S1",
+  "id_prodi_semester": 2497,
+  "idnumber_sikola": "45457.114714.160",
+  "shortname_sikola": "TA231-114714",
+  "kode_matkul": "23H07121103",
+  "nama_matkul": "Pemrograman Web Lanjutan",
+  "nama_kelas": "Pemrograman Web Lanjutan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 141671,
+      "id_user": 43254,
+      "id_prodi": 160,
+      "angkatan": 2020,
+      "nama_mahasiswa": "MUHAMMAD AQSA RAMADHAN",
+      "nim": "H071201074",
+      "jalan": "Jl. Kelapa No. 29",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "-",
+      "kode_pos": "91921",
+      "nisn": "0000775064",
+      "tempat_lahir": "Palopo",
+      "tanggal_lahir": "2000-01-07",
+      "telepon": "0",
+      "handphone": "0895806667009",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Lagaligo",
+      "id_wilayah": "196201",
+      "nik": "7373010701000003",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "aqsaramdhan1605@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "dc9bf62c-bb2c-4e54-b567-dc4c3df482f1",
+      "id_registrasi_mahasiswa_pddikti": "405fac40-6090-479e-a00d-d4e4ff8de5a3",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 114714,
+        "id_mahasiswa": 141671,
+        "created_at": "2023-08-17 13:27:28"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1693,
+      "id_user": 73,
+      "id_prodi": 160,
+      "nama": "Dr. Hendra, S.Si., M.Kom.",
+      "nidn": "0002017604",
+      "nip": "197601022002121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3bec323b-0749-477e-bee5-9b999d8e0e99",
+      "pivot": {
+        "id_kelas_kuliah": 114714,
+        "id_dosen": 1693
+      }
+    }
+  ]
+}

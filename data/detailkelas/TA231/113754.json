@@ -1,0 +1,133 @@
+{
+  "id_prodi": 15,
+  "nama_prodi": "TEKNIK KELAUTAN - S1",
+  "id_prodi_semester": 2380,
+  "idnumber_sikola": "46547.113754.15",
+  "shortname_sikola": "TA231-113754",
+  "kode_matkul": "23U02132102",
+  "nama_matkul": "Magang/Praktek Kerja",
+  "nama_kelas": "Magang Praktek Kerja A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 32005,
+      "id_user": 893,
+      "id_prodi": 15,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MARSELINUS ARIL PATUNGGU",
+      "nim": "D081181302",
+      "jalan": "Jl. poros malino km.6",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "borongloe",
+      "kode_pos": "92171",
+      "nisn": "9996789809",
+      "tempat_lahir": "Karangan",
+      "tanggal_lahir": "1999-04-08",
+      "telepon": "081242961857",
+      "handphone": "081242961857",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "borongloe",
+      "id_wilayah": "190305",
+      "nik": "7318190800499000",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "arilpatunggu009@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "79897c11-9dd4-40bd-9fce-e56fce5cc5af",
+      "id_registrasi_mahasiswa_pddikti": "f83ed598-fd4d-4463-b80b-91ded305920e",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113754,
+        "id_mahasiswa": 32005,
+        "created_at": "2023-08-04 19:25:32"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1391,
+      "id_user": 16416,
+      "id_prodi": 15,
+      "nama": "Dr. Taufiqur Rachman, ST., MT.",
+      "nidn": "0002086903",
+      "nip": "196908021997021001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "245326fb-1aa3-4450-bd80-7f9461b15a32",
+      "pivot": {
+        "id_kelas_kuliah": 113754,
+        "id_dosen": 1391
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1665,
+      "id_user": 18657,
+      "id_prodi": 15,
+      "nama": "Prof. Muhammad Zubair Muis Alie, ST., MT., Ph.D.",
+      "nidn": "0008067609",
+      "nip": "197506082005011003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6b91a194-1d0c-4d80-916f-c3b967292204",
+      "pivot": {
+        "id_kelas_kuliah": 113754,
+        "id_dosen": 1665
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1641,
+      "id_user": 10466,
+      "id_prodi": 15,
+      "nama": "Ashury, ST.,MT.",
+      "nidn": "0018037405",
+      "nip": "197403182006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "674c48a5-5cf3-4037-b05f-5bc339221e74",
+      "pivot": {
+        "id_kelas_kuliah": 113754,
+        "id_dosen": 1641
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1587,
+      "id_user": 6458,
+      "id_prodi": 15,
+      "nama": "Dr.Eng. Firman Husain, ST.,MT.",
+      "nidn": "0023047307",
+      "nip": "197304232008121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a1e23264-1254-486f-ab30-60a8f505f5d7",
+      "pivot": {
+        "id_kelas_kuliah": 113754,
+        "id_dosen": 1587
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3791,
+      "id_user": null,
+      "id_prodi": 15,
+      "nama": "ir. H. Lukman Kulawu, Dipl.Ing., M.M. (praktisi)",
+      "nidn": null,
+      "nip": "7371140106650001",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 113754,
+        "id_dosen": 3791
+      }
+    }
+  ]
+}

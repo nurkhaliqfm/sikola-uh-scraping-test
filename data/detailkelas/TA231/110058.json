@@ -1,0 +1,85 @@
+{
+  "id_prodi": 76,
+  "nama_prodi": "ILMU PERTANIAN - S3",
+  "id_prodi_semester": 2423,
+  "idnumber_sikola": "41910.110058.76",
+  "shortname_sikola": "TA231-110058",
+  "kode_matkul": "18P01314703",
+  "nama_matkul": "Penanganan Pascapanen dan Produk Segar",
+  "nama_kelas": "Penanganan Pascapanen dan Produk Segar (S3 Ptn-Sem II)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 386450,
+      "id_user": 73429,
+      "id_prodi": 76,
+      "angkatan": 2022,
+      "nama_mahasiswa": "MUHAMMAD SUDIRMAN AKILIE",
+      "nim": "P013222007",
+      "jalan": "JL. KALIMANTAN PERUMAHAN GRIYA AAN LESTARI BLOK C NO 4",
+      "rt": 4,
+      "rw": 3,
+      "dusun": null,
+      "kode_pos": "96129",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1985-10-05",
+      "telepon": "0811431510",
+      "handphone": "0811431510",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "Liluwo",
+      "id_wilayah": "306006",
+      "nik": "7371130510850007",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "msakili85@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "d053ca24-9573-4940-a76a-1db5dabc687c",
+      "id_registrasi_mahasiswa_pddikti": "7f0603bd-d6f8-40e0-b6f9-00fe3cf4d42a",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 110058,
+        "id_mahasiswa": 386450,
+        "created_at": "2023-08-04 22:40:21"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 683,
+      "id_user": 12391,
+      "id_prodi": 154,
+      "nama": "Prof. Dr. Ir. Mulyati Muhammad Tahir, MS.",
+      "nidn": "0023095702",
+      "nip": "195709231983122001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2d588ca9-18d3-44d6-a209-aa34ffc2469e",
+      "pivot": {
+        "id_kelas_kuliah": 110058,
+        "id_dosen": 683
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 817,
+      "id_user": 34417,
+      "id_prodi": 154,
+      "nama": "Prof. Dr. Ir. Jumriah Langkong, MP.",
+      "nidn": "0015125701",
+      "nip": "195712151987032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "ccf575da-e6bd-4ee8-b9f9-0864a81c7499",
+      "pivot": {
+        "id_kelas_kuliah": 110058,
+        "id_dosen": 817
+      }
+    }
+  ]
+}

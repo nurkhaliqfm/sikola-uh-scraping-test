@@ -1,0 +1,52 @@
+{
+  "id_prodi": 181,
+  "nama_prodi": "PPDS - MIKROBIOLOGI KLINIK",
+  "id_prodi_semester": 2518,
+  "idnumber_sikola": "38731.113028.181",
+  "shortname_sikola": "TA231-113028",
+  "kode_matkul": "20C19530302",
+  "nama_matkul": "Mikrobiologi Klinik Kebidanan dan Penyakit Kandungan",
+  "nama_kelas": "Mikrobiologi Klinik Kebidanan dan Penyakit Kandungan",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 158676,
+      "id_user": 55255,
+      "id_prodi": 181,
+      "angkatan": 2021,
+      "nama_mahasiswa": "FANNY INDRIYANI BIYANG",
+      "nim": "C195211002",
+      "jalan": "KOMP. PURI TATA INDAH BLOK F2",
+      "rt": 6,
+      "rw": 6,
+      "dusun": null,
+      "kode_pos": "90224",
+      "nisn": "uh10001294",
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1987-10-20",
+      "telepon": "0",
+      "handphone": "08114118014",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BALANG BARU",
+      "id_wilayah": "196003",
+      "nik": "7371036010870001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "fanny.indriyani.biyang@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ce2b056b-29a6-4aa7-af2d-ca469856d004",
+      "id_registrasi_mahasiswa_pddikti": "8e6adcdb-0a8e-41b0-bd72-0fe438ac9302",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 113028,
+        "id_mahasiswa": 158676,
+        "created_at": "2023-07-31 13:55:14"
+      }
+    }
+  ],
+  "dosens": []
+}

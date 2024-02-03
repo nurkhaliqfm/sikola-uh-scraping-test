@@ -1,0 +1,101 @@
+{
+  "id_prodi": 193,
+  "nama_prodi": "PETERNAKAN - S3",
+  "id_prodi_semester": 2760,
+  "idnumber_sikola": "37433.122366.193",
+  "shortname_sikola": "TA232-122366",
+  "kode_matkul": "20I01310103",
+  "nama_matkul": "METODOLOGI PENELITIAN DAN FILSAFAT ILMU",
+  "nama_kelas": "Metodologi Penelitian dan Filsafat Ilmu",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 427517,
+      "id_user": 86040,
+      "id_prodi": 193,
+      "angkatan": 2023,
+      "nama_mahasiswa": "SRIYANTI HARUNI",
+      "nim": "I013232001",
+      "jalan": "RSI FAISAL X/IIA",
+      "rt": 2,
+      "rw": 2,
+      "dusun": null,
+      "kode_pos": "90222",
+      "nisn": null,
+      "tempat_lahir": "UJUNG PANDANG",
+      "tanggal_lahir": "1979-10-30",
+      "telepon": "0",
+      "handphone": "08111199614",
+      "id_agama": null,
+      "id_prodi_jenjang": 3,
+      "kelurahan": "BANTA-BATAENG",
+      "id_wilayah": "196013",
+      "nik": "7371047010790002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86040,
+      "kode_status": "A",
+      "email": "yanti.dispertanak02@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 122366,
+        "id_mahasiswa": 427517,
+        "created_at": "2024-02-02 11:34:18"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1506,
+      "id_user": 15918,
+      "id_prodi": 51,
+      "nama": "Dr.  Syahdar Baba, S.Pt.,M.Si.",
+      "nidn": "0017127304",
+      "nip": "197312172003121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "41c0e8d1-aa4c-4617-8c48-86d82cca76d7",
+      "pivot": {
+        "id_kelas_kuliah": 122366,
+        "id_dosen": 1506
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 748,
+      "id_user": 25832,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Sudirman Baco, M.Sc.",
+      "nidn": "0031126449",
+      "nip": "196412311989031025",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "29db2047-00e6-40a8-9b8c-9c30ae45ade8",
+      "pivot": {
+        "id_kelas_kuliah": 122366,
+        "id_dosen": 748
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 897,
+      "id_user": 15735,
+      "id_prodi": 51,
+      "nama": "Dr. Ir Rohmiyatul Islamiyati, MP.",
+      "nidn": "0019086505",
+      "nip": "196508191990032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c6a679f5-623c-4587-bb34-e30f98fbaa24",
+      "pivot": {
+        "id_kelas_kuliah": 122366,
+        "id_dosen": 897
+      }
+    }
+  ]
+}

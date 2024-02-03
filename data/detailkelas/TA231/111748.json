@@ -1,0 +1,69 @@
+{
+  "id_prodi": 47,
+  "nama_prodi": "FISIKA - S1",
+  "id_prodi_semester": 2405,
+  "idnumber_sikola": "44051.111748.47",
+  "shortname_sikola": "TA231-111748",
+  "kode_matkul": "23H02121303",
+  "nama_matkul": "FISIKA STATISTIK",
+  "nama_kelas": "Fisika Statistik",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 61131,
+      "id_user": 25824,
+      "id_prodi": 47,
+      "angkatan": 2018,
+      "nama_mahasiswa": "MILDASARI",
+      "nim": "H021181017",
+      "jalan": "Jln. Veteran Bakung",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Samata",
+      "kode_pos": "92111",
+      "nisn": "0007391469",
+      "tempat_lahir": "Enrekang",
+      "tanggal_lahir": "2000-01-27",
+      "telepon": "0",
+      "handphone": "6285657172346",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "Samata",
+      "id_wilayah": "190304",
+      "nik": "7316036701000002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "L",
+      "email": "mildasr27@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "88d20471-c665-47b7-abc1-5d90317df9f6",
+      "id_registrasi_mahasiswa_pddikti": "c47e6135-4656-4ae3-b4d2-aaa7dcdf3403",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 111748,
+        "id_mahasiswa": 61131,
+        "created_at": "2023-08-04 15:44:17"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1221,
+      "id_user": 32602,
+      "id_prodi": 47,
+      "nama": "Prof. Dr.  Tasrief Surungan, M.Sc.",
+      "nidn": "0022026702",
+      "nip": "196702221992031003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "7372928c-3c3c-4936-b3e9-620071f131be",
+      "pivot": {
+        "id_kelas_kuliah": 111748,
+        "id_dosen": 1221
+      }
+    }
+  ]
+}

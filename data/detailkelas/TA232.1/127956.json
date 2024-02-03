@@ -1,0 +1,69 @@
+{
+  "id_prodi": 109,
+  "nama_prodi": "JENDER DAN PEMBANGUNAN - S2",
+  "id_prodi_semester": 2684,
+  "idnumber_sikola": "29098.127956.109",
+  "shortname_sikola": "TA232-127956",
+  "kode_matkul": "18P07210702",
+  "nama_matkul": "Psikologi Gender",
+  "nama_kelas": "Psikologi Gender (Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428427,
+      "id_user": 86954,
+      "id_prodi": 109,
+      "angkatan": 2023,
+      "nama_mahasiswa": "FAJRIANI",
+      "nim": "P072232001",
+      "jalan": "JL. BTN PONDOK INDAH SOREANG NO. 4",
+      "rt": 1,
+      "rw": 1,
+      "dusun": null,
+      "kode_pos": "91132",
+      "nisn": "0",
+      "tempat_lahir": "JAKARTA",
+      "tanggal_lahir": "1981-07-12",
+      "telepon": "0",
+      "handphone": "085255514450",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "BUKIT HARAPAN",
+      "id_wilayah": "020819",
+      "nik": "7372035207810002",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86954,
+      "kode_status": "A",
+      "email": "vajoji42@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 127956,
+        "id_mahasiswa": 428427,
+        "created_at": "2024-01-18 16:22:06"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1125,
+      "id_user": 23223,
+      "id_prodi": 9,
+      "nama": "Prof. Dr. Muh. Tamar, M.Psi.",
+      "nidn": "0031126448",
+      "nip": "196412311990021004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "9e8bf096-ddd8-45fd-b220-4bb8f5d126c5",
+      "pivot": {
+        "id_kelas_kuliah": 127956,
+        "id_dosen": 1125
+      }
+    }
+  ]
+}

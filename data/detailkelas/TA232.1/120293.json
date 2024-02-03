@@ -1,0 +1,69 @@
+{
+  "id_prodi": 148,
+  "nama_prodi": "PROFESI NERS",
+  "id_prodi_semester": 2719,
+  "idnumber_sikola": "45734.120293.148",
+  "shortname_sikola": "TA232-120293",
+  "kode_matkul": "23R01411702",
+  "nama_matkul": "Keperawatan Kesehatan Jiwa dan Jiwa",
+  "nama_kelas": "Kep. Kesehatan Jiwa dan Jiwa Reguler",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 424531,
+      "id_user": 83574,
+      "id_prodi": 148,
+      "angkatan": 2023,
+      "nama_mahasiswa": "RISKA",
+      "nim": "R014231011",
+      "jalan": "JALAN POROS SOROE",
+      "rt": 1,
+      "rw": 2,
+      "dusun": "Sekkang",
+      "kode_pos": "91261",
+      "nisn": null,
+      "tempat_lahir": "SEKKANG",
+      "tanggal_lahir": "2000-08-31",
+      "telepon": "0",
+      "handphone": "085243235025",
+      "id_agama": null,
+      "id_prodi_jenjang": 4,
+      "kelurahan": "Massulowalie",
+      "id_wilayah": "191402",
+      "nik": "7315017108000001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "riskahamsi31@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "ff06d5ed-1b39-4f86-a4db-4392ccd54062",
+      "id_registrasi_mahasiswa_pddikti": "f50104c4-b3b8-4ea2-b2b7-b7a1968c47a6",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 120293,
+        "id_mahasiswa": 424531,
+        "created_at": "2024-02-01 07:57:43"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1965,
+      "id_user": 20823,
+      "id_prodi": 8,
+      "nama": "Akbar Harisa, S.Kep., Ns., PMNC.,MN",
+      "nidn": "0915128003",
+      "nip": "198012152012121003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "6e6df847-4b0c-47c8-9dff-005f088cd6ae",
+      "pivot": {
+        "id_kelas_kuliah": 120293,
+        "id_dosen": 1965
+      }
+    }
+  ]
+}

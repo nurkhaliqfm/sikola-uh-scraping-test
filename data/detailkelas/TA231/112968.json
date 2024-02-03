@@ -1,0 +1,69 @@
+{
+  "id_prodi": 219,
+  "nama_prodi": "TEKNOLOGI PRODUKSI TANAMAN PANGAN - D4",
+  "id_prodi_semester": 2553,
+  "idnumber_sikola": "44636.112968.219",
+  "shortname_sikola": "TA231-112968",
+  "kode_matkul": "23U01110402",
+  "nama_matkul": "Pendidikan Agama Hindu",
+  "nama_kelas": "Pendidikan Agama Hindu, Kelas A",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 422113,
+      "id_user": 82517,
+      "id_prodi": 219,
+      "angkatan": 2023,
+      "nama_mahasiswa": "WILDA WUSDARIANTI",
+      "nim": "V026231020",
+      "jalan": "JL. GUNUNG BAWA KARAENG",
+      "rt": 1,
+      "rw": 1,
+      "dusun": "Soangnge",
+      "kode_pos": "91611",
+      "nisn": "0055509625",
+      "tempat_lahir": "LAKESSI SIDRAP",
+      "tanggal_lahir": "2005-09-12",
+      "telepon": "0",
+      "handphone": "082194448721",
+      "id_agama": null,
+      "id_prodi_jenjang": 10,
+      "kelurahan": "Lakessi",
+      "id_wilayah": "191506",
+      "nik": "7314031209050001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 1,
+      "kode_status": "A",
+      "email": "wildawusda12@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": "b8e47f8b-5f84-4b92-acc6-e11e8f37720f",
+      "id_registrasi_mahasiswa_pddikti": "5e5132e8-11cb-4d15-b15e-b92dbc5f252d",
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 112968,
+        "id_mahasiswa": 422113,
+        "created_at": "2023-08-16 16:07:50"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 2787,
+      "id_user": 34144,
+      "id_prodi": 142,
+      "nama": "I Ketut Mundra,S.Ag",
+      "nidn": null,
+      "nip": "150372256",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": null,
+      "pivot": {
+        "id_kelas_kuliah": 112968,
+        "id_dosen": 2787
+      }
+    }
+  ]
+}

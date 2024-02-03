@@ -1,0 +1,61 @@
+{
+  "id_prodi": 19,
+  "nama_prodi": "TEKNIK ARSITEKTUR - S1",
+  "id_prodi_semester": 2615,
+  "idnumber_sikola": "45530.121534.19",
+  "shortname_sikola": "TA232-121534",
+  "kode_matkul": "23D05120605",
+  "nama_matkul": "Studio Perancangan Arsitektur 2",
+  "nama_kelas": "Architectural Design Studio 2",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1656,
+      "id_user": 21880,
+      "id_prodi": 19,
+      "nama": "Dr. Syahriana Syam, ST., MT.",
+      "nidn": "0024117506",
+      "nip": "197511242006042032",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "31ae4720-5df8-4fbe-a707-a45d2ecc485f",
+      "pivot": {
+        "id_kelas_kuliah": 121534,
+        "id_dosen": 1656
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1218,
+      "id_user": 31573,
+      "id_prodi": 19,
+      "nama": "Dr. Ir. Syarif, MT.",
+      "nidn": "9990247524",
+      "nip": "195803251986011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "e14accf2-a657-4007-8cc5-b4583c6873f0",
+      "pivot": {
+        "id_kelas_kuliah": 121534,
+        "id_dosen": 1218
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 3822,
+      "id_user": 71364,
+      "id_prodi": 165,
+      "nama": "Andi Lolo Sinrang Arisaputra, ST., M.Eng., Ph.D",
+      "nidn": "8980860023",
+      "nip": "7371021502910004",
+      "is_active": 1,
+      "updated_by": 45016,
+      "id_registrasi_pddikti": "d90f2508-7d11-4e43-b0a6-c52039bf021e",
+      "pivot": {
+        "id_kelas_kuliah": 121534,
+        "id_dosen": 3822
+      }
+    }
+  ]
+}

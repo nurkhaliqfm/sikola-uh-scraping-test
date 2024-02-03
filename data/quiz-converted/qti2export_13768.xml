@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<quiz><question type="essay"><name><text>02 Hypothèse et condition</text></name><questiontext format="html"><text><![CDATA[<p>Remplacez la condition par l'hypothèse comme dans l'exemple.</p><style type="text/css">p {font-family: Spectral; font-size: 16px; line-height: 2;}
+ol {font-family: Spectral; font-size: 16px; line-height: 2;}
+</style>
+<p>Exemple : <em><span style="color:#3498db;"><strong>Achèterez</strong></span>-vous une voiture autonome si elle <span style="color:#c0392b;"><strong>est </strong></span>assez sûre ?</em> <span style="font-size:36px;"><strong>→</strong></span> <em><span style="color:#3498db;"><strong>Achéteriez</strong></span>-vous une voiture autonome si elle <span style="color:#c0392b;"><strong>était </strong></span>assez sûre ?</em></p>
+
+<ol>
+	<li>Si je peux, je créerai un drone à énergie solaire. <span style="font-size:36px;"><strong>→</strong></span></li>
+	<li>Voyager en train magnétique sera fabuleux si ce n'est pas cher. <span style="font-size:36px;"><strong>→</strong></span></li>
+	<li>Cours-y si c'est ta chance d'u participer ! <span style="font-size:36px;"><strong>→</strong></span></li>
+	<li>Tu m'accompagneras à cette formation si j'y vais ? <span style="font-size:36px;"><strong>→</strong></span></li>
+	<li>Si nous avons un robort à la maison, nous pourrons nous reposer plus. <span style="font-size:36px;"><strong>→</strong></span></li>
+</ol>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>100.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_181380</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>

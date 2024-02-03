@@ -1,0 +1,45 @@
+{
+  "id_prodi": 16,
+  "nama_prodi": "TEKNIK SISTEM PERKAPALAN - S1",
+  "id_prodi_semester": 2381,
+  "idnumber_sikola": "46563.110363.16",
+  "shortname_sikola": "TA231-110363",
+  "kode_matkul": "23D09140502",
+  "nama_matkul": "Survey dan Inspeksi Permesinan",
+  "nama_kelas": "Survey dan Inspeksi Permesinan",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1623,
+      "id_user": 60672,
+      "id_prodi": 16,
+      "nama": "Andi Husni Sitepu, ST.,MT.",
+      "nidn": "0017027704",
+      "nip": "197702172001121001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "2ab41e2a-c708-4a1c-99c8-4964e1d403c3",
+      "pivot": {
+        "id_kelas_kuliah": 110363,
+        "id_dosen": 1623
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1214,
+      "id_user": 31372,
+      "id_prodi": 16,
+      "nama": "Ir.  Zulkifli, MT.",
+      "nidn": "9990074493",
+      "nip": "195701121988111002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "3650808d-1ec2-4e5e-a903-124e1d5a1457",
+      "pivot": {
+        "id_kelas_kuliah": 110363,
+        "id_dosen": 1214
+      }
+    }
+  ]
+}

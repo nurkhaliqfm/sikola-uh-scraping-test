@@ -1,0 +1,188 @@
+{
+  "id_prodi": 102,
+  "nama_prodi": "ILMU BIOMEDIK - S2",
+  "id_prodi_semester": 2678,
+  "idnumber_sikola": "48753.129453.102",
+  "shortname_sikola": "TA232-129453",
+  "kode_matkul": "23P06210102",
+  "nama_matkul": "Embriologi",
+  "nama_kelas": "Embriologi (W) (Anatomi-Sem I)",
+  "mahasiswas": [
+    {
+      "deleted_at": null,
+      "id": 428058,
+      "id_user": 86585,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "IVANA YUSUF",
+      "nim": "P062232019",
+      "jalan": "PERINTIS KEMERDEKAAN BLOK I NO. 3",
+      "rt": 3,
+      "rw": 10,
+      "dusun": null,
+      "kode_pos": "90245",
+      "nisn": "P062232019",
+      "tempat_lahir": "BANGGAI",
+      "tanggal_lahir": "1992-02-25",
+      "telepon": "0",
+      "handphone": "085224296061",
+      "id_agama": null,
+      "id_prodi_jenjang": 1,
+      "kelurahan": "TAMALANREA INDAH",
+      "id_wilayah": "196012",
+      "nik": "7201046502920001",
+      "jenis_kelamin": "P",
+      "is_active": 1,
+      "updated_by": 86585,
+      "kode_status": "A",
+      "email": "vanaallone@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_mahasiswa": 428058,
+        "created_at": "2024-01-24 16:20:51"
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 427290,
+      "id_user": 85813,
+      "id_prodi": 102,
+      "angkatan": 2023,
+      "nama_mahasiswa": "YOSFIAH ASRIZAL REWA",
+      "nim": "P062232003",
+      "jalan": "JL. T.PANDE",
+      "rt": 0,
+      "rw": 0,
+      "dusun": "Kekot",
+      "kode_pos": "94561",
+      "nisn": "-",
+      "tempat_lahir": "TOLITOLI",
+      "tanggal_lahir": "1999-06-08",
+      "telepon": "0",
+      "handphone": "085174208069",
+      "id_agama": null,
+      "id_prodi_jenjang": 2,
+      "kelurahan": "GINUNGGUNG",
+      "id_wilayah": "070119",
+      "nik": "7204080806990001",
+      "jenis_kelamin": "L",
+      "is_active": 1,
+      "updated_by": 85813,
+      "kode_status": "A",
+      "email": "Asrizalrewa72@gmail.com",
+      "is_tamu": 0,
+      "id_mahasiswa_pddikti": null,
+      "id_registrasi_mahasiswa_pddikti": null,
+      "spp": null,
+      "whatsapp": null,
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_mahasiswa": 427290,
+        "created_at": "2024-01-25 23:45:49"
+      }
+    }
+  ],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1287,
+      "id_user": 33639,
+      "id_prodi": 6,
+      "nama": "Dr. dr. Sitti Rafiah, S.Ked.,M.Si.",
+      "nidn": "0030056803",
+      "nip": "196805301997032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "572723b9-3e4c-428e-aed2-c44603d2ad9c",
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_dosen": 1287
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1298,
+      "id_user": 34554,
+      "id_prodi": 55,
+      "nama": "Dr. drg. Irene Edith Rieuwpassa, M.Si.",
+      "nidn": "0012107101",
+      "nip": "197110121999032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "0ecc0089-a704-4575-94ab-7a916decd377",
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_dosen": 1298
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2375,
+      "id_user": 60197,
+      "id_prodi": 6,
+      "nama": "dr. Faqi Nurdiansyah Hendra",
+      "nidn": "0012018901",
+      "nip": "198901122012121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "1e748cdb-24ef-4248-8d9b-828f8f3395b2",
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_dosen": 2375
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 2548,
+      "id_user": 33409,
+      "id_prodi": 6,
+      "nama": "dr Nirwana Fitriani Walenna, S.Ked",
+      "nidn": "0020058808",
+      "nip": "198805202019032014",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "93e5ea71-94f1-4200-bc87-f94aa0a624a3",
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_dosen": 2548
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1782,
+      "id_user": 58361,
+      "id_prodi": 6,
+      "nama": "dr.  Hasan Nyambe, S.Ked., M.Med.Ed",
+      "nidn": "0015068002",
+      "nip": "198006152006041003",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5e6c34a5-66ca-4faf-9f5f-164cfcd0b0b9",
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_dosen": 1782
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1738,
+      "id_user": 33943,
+      "id_prodi": 6,
+      "nama": "dr. Muh. Iqbal Basri, M.Kes., Sp.S(K).",
+      "nidn": "0010077006",
+      "nip": "197007102002121002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "52ab442e-0a27-4990-9697-197077afe227",
+      "pivot": {
+        "id_kelas_kuliah": 129453,
+        "id_dosen": 1738
+      }
+    }
+  ]
+}

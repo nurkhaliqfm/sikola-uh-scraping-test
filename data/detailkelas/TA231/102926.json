@@ -1,0 +1,45 @@
+{
+  "id_prodi": 78,
+  "nama_prodi": "ILMU DAN TEKNOLOGI PETERNAKAN - S2",
+  "id_prodi_semester": 2425,
+  "idnumber_sikola": "43248.102926.78",
+  "shortname_sikola": "TA231-102926",
+  "kode_matkul": "22I02214503",
+  "nama_matkul": "Kriopreservasi Oosit dan Embrio",
+  "nama_kelas": "Krippreservasi Oosit dan Embrio",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 724,
+      "id_user": 15921,
+      "id_prodi": 51,
+      "nama": "Prof. Dr. Ir. Herry Sonjaya, DEA.",
+      "nidn": "0029015702",
+      "nip": "195701291980031001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "a66d6aaf-2e7f-4447-a93c-a73d96037617",
+      "pivot": {
+        "id_kelas_kuliah": 102926,
+        "id_dosen": 724
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1955,
+      "id_user": 16435,
+      "id_prodi": 51,
+      "nama": "Dr Hasbi, S.Pt.,M.Si.",
+      "nidn": "0002107705",
+      "nip": "197710022005011001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d588fee5-f1b7-4e06-8a11-b8bf335e1d0b",
+      "pivot": {
+        "id_kelas_kuliah": 102926,
+        "id_dosen": 1955
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id_prodi": 251,
+  "nama_prodi": "PPDGS RADIOLOGI KEDOKTERAN GIGI",
+  "id_prodi_semester": 2812,
+  "idnumber_sikola": "42962.126853.251",
+  "shortname_sikola": "TA232-126853",
+  "kode_matkul": "22J07530603",
+  "nama_matkul": "Penulisan Karya Ilmiah dan Publikasi",
+  "nama_kelas": "PENULISAN KARYA ILMIAH DAN PUBLIKASI",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 902,
+      "id_user": 71701,
+      "id_prodi": 55,
+      "nama": "Prof. Barunawaty Yunus, M.Kes.,Sp.RKG. ( K )",
+      "nidn": "0009126402",
+      "nip": "196412091991032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "95b45c16-77ae-428d-a60d-06b7fea3e5b0",
+      "pivot": {
+        "id_kelas_kuliah": 126853,
+        "id_dosen": 902
+      }
+    }
+  ]
+}

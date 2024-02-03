@@ -1,0 +1,77 @@
+{
+  "id_prodi": 95,
+  "nama_prodi": "ILMU HUKUM - S2",
+  "id_prodi_semester": 2440,
+  "idnumber_sikola": "27572.105050.95",
+  "shortname_sikola": "TA231-105050",
+  "kode_matkul": "18B01212302",
+  "nama_matkul": "Negara Hukum dan Demokrasi\r\n",
+  "nama_kelas": "Negara Hukum dan Demokrasi (Mk. Pilihan)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 772,
+      "id_user": 34080,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Aminuddin, SH., M.Hum.",
+      "nidn": "0010096403",
+      "nip": "196409101989031004",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "f3236030-cba7-4027-a869-bdc681c57fbb",
+      "pivot": {
+        "id_kelas_kuliah": 105050,
+        "id_dosen": 772
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 692,
+      "id_user": 13632,
+      "id_prodi": 5,
+      "nama": "Prof. Dr.  Abdul Razak, SH., MH.",
+      "nidn": "0029105701",
+      "nip": "195710291983031002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "d2e22d13-6df5-4a19-afac-e77abbad11d6",
+      "pivot": {
+        "id_kelas_kuliah": 105050,
+        "id_dosen": 692
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1001,
+      "id_user": 13616,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Marwati Riza, SH., M.Si.",
+      "nidn": "0024086402",
+      "nip": "196408241991032002",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "78a0d126-0b50-46f9-8267-a71959d58def",
+      "pivot": {
+        "id_kelas_kuliah": 105050,
+        "id_dosen": 1001
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 922,
+      "id_user": 48325,
+      "id_prodi": 5,
+      "nama": "Prof. Dr. Aidir Amin Daud, SH., MH.",
+      "nidn": "0020115801",
+      "nip": "195811201988101001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "eaaa6abc-c4f5-4100-9157-98f7660b7857",
+      "pivot": {
+        "id_kelas_kuliah": 105050,
+        "id_dosen": 922
+      }
+    }
+  ]
+}

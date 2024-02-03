@@ -1,0 +1,61 @@
+{
+  "id_prodi": 235,
+  "nama_prodi": "TEKNOLOGI HASIL PERIKANAN - S1",
+  "id_prodi_semester": 2567,
+  "idnumber_sikola": "47301.112285.235",
+  "shortname_sikola": "TA231-112285",
+  "kode_matkul": "23L06131103",
+  "nama_matkul": "Pengolahan Hasil Perikanan Tradisional",
+  "nama_kelas": "Pengolahan Hasil Perikanan Tradisional (P)",
+  "mahasiswas": [],
+  "dosens": [
+    {
+      "deleted_at": null,
+      "id": 1766,
+      "id_user": 10399,
+      "id_prodi": 235,
+      "nama": "Dr. Fahrul, S.Pi., M.Si.",
+      "nidn": "0019047406",
+      "nip": "197404192006041001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "45df60ce-91a0-4379-819f-46b8984c0a6c",
+      "pivot": {
+        "id_kelas_kuliah": 112285,
+        "id_dosen": 1766
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1763,
+      "id_user": 21087,
+      "id_prodi": 235,
+      "nama": "Dr. Nursinah Amir, S.Pi., MP.",
+      "nidn": "0015117904",
+      "nip": "197911152006042030",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "5245705b-cdb7-4031-a378-c23c8ba06f9f",
+      "pivot": {
+        "id_kelas_kuliah": 112285,
+        "id_dosen": 1763
+      }
+    },
+    {
+      "deleted_at": null,
+      "id": 1321,
+      "id_user": 23952,
+      "id_prodi": 68,
+      "nama": "Dr. Ir. Elmi Nurhaidah Z, Dess.",
+      "nidn": "0018066102",
+      "nip": "196106181988032001",
+      "is_active": 1,
+      "updated_by": null,
+      "id_registrasi_pddikti": "c747c232-bc4a-4f33-8e53-e403bb0e36c8",
+      "pivot": {
+        "id_kelas_kuliah": 112285,
+        "id_dosen": 1321
+      }
+    }
+  ]
+}
