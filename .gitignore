@@ -9,8 +9,8 @@ lib64
 
 log.csv
 
-data/quiz/
-data/image/
+data/
+.json
 
 
 
