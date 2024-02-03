@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<quiz><question type="essay"><name><text>Mid Test No. 3</text></name><questiontext format="html"><text><![CDATA[<p>Arc Lenght and Curvature</p><p>3. a. Find the length of the curve <span class="math-tex">`	barr(t)=〈 2t^(3/2),cos⁡2t,sin⁡2t 〉`</span>.</p>
-
-<p>     b. Find the curvature of the curve <span class="math-tex">`y=x^4`</span>   at the point (1,1).</p>
-
-<p>     c. A particle starts at the origin with initial velocity <b>i – </b><strong>j</strong> + <b>3k</b>. Its acceleration is  </p>
-
-<p>          <span class="math-tex">`a(t)=6ti+12t^2 j-6tk
-`</span><m:omath><span style="font-family:"Cambria Math","serif""><m:r>.</m:r></span></m:omath> Find its position function.</p>]]></text></questiontext><generalfeedback format="html"><text/></generalfeedback><defaultgrade>0.0</defaultgrade><penalty>0</penalty><hidden>0</hidden><idnumber>QST_48573</idnumber><responseformat>editor</responseformat><responserequired>1</responserequired><responsefieldlines>10</responsefieldlines><minwordlimit/><maxwordlimit/><attachments>0</attachments><attachmentsrequired>0</attachmentsrequired><maxbytes>0</maxbytes><filetypeslist/><graderinfo format="html"><text/></graderinfo><responsetemplate format="html"><text/></responsetemplate></question></quiz>
