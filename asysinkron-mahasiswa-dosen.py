@@ -41,57 +41,123 @@ else:
 resultFetch = []
 
 
-async def enroll_user(session, students, baseUrl, courseData):
+async def enroll_user(session, students, baseUrl, courseData, sizeUser, lecturers):
     task = []
-    for student in students:
-        paramsAPIGetUserSikolaByField = {
-            "wsfunction": "core_user_get_users_by_field",
-            "field": "username",
-            "values[0]": student["nim"].lower(),
-        }
+    paramsAPIGetCourseEnrolled = {
+        "wsfunction": "core_enrol_get_enrolled_users",
+        "courseid": courseData["courses"][0]["id"],
+    }
 
-        responseGetUserSikolaByField = await session.get(
-            baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
-        )
+    responseGetCourseEnrolledSikola = await session.get(
+        baseUrl, params=paramsAPIGetCourseEnrolled, ssl=False
+    )
 
-        dataUserSikola = await responseGetUserSikolaByField.json()
-        
-        if len(dataUserSikola) == 0:
-            paramsAPICreateUserSikolaByField = {
-                "wsfunction": "core_user_create_users",
-                "users[0][firstname]":student["nama_mahasiswa"],
-                "users[0][username]": student["nim"].lower(),
-                "users[0][idnumber]": student["nim"].lower(),
-                "users[0][password]": f"{student["nim"].lower()}@2023!",
-                'users[0][lastname]':'.',
-                'users[0][email]':f"{student["nim"].lower()}@unhas.ac.id"
+    dataCourseEnrolledSikola = await responseGetCourseEnrolledSikola.json()
+    if len(dataCourseEnrolledSikola) < sizeUser :
+        print('Student...') 
+        for student in students:
+            paramsAPIGetUserSikolaByField = {
+                "wsfunction": "core_user_get_users_by_field",
+                "field": "username",
+                "values[0]": student["nim"].lower(),
             }
 
-            responseGetCreateUserSikolaByField = await session.get(
-                baseUrl, params=paramsAPICreateUserSikolaByField, ssl=False
+            responseGetUserSikolaByField = await session.get(
+                baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
             )
-            
-            dataUserBaruSikola = await responseGetCreateUserSikolaByField.json()
-            print(paramsAPICreateUserSikolaByField)
 
-            paramsAPIEnrollUserSikolaByField = {
-                "wsfunction": "enrol_manual_enrol_users",
-                "enrolments[0][roleid]": 5,
-                "enrolments[0][userid]": dataUserBaruSikola[0]['id'],
-                'enrolments[0][courseid]':courseData['courses'][0]['id'],
-            }
-        else:
-            paramsAPIEnrollUserSikolaByField = {
-                "wsfunction": "enrol_manual_enrol_users",
-                "enrolments[0][roleid]": 5,
-                "enrolments[0][userid]": dataUserSikola[0]['id'],
-                'enrolments[0][courseid]':courseData['courses'][0]['id'],
-            }
-            
-        task.append(
-            session.get(baseUrl, params=paramsAPIEnrollUserSikolaByField, ssl=False)
-        )
+            dataUserSikola = await responseGetUserSikolaByField.json()
+
+            if len(dataUserSikola) == 0:
+                paramsAPICreateUserSikolaByField = {
+                    "wsfunction": "core_user_create_users",
+                    "users[0][firstname]":student["nama_mahasiswa"],
+                    "users[0][username]": student["nim"].lower(),
+                    "users[0][idnumber]": student["nim"].lower(),
+                    "users[0][password]": f"{student["nim"].lower()}@2023!",
+                    'users[0][lastname]':'.',
+                    'users[0][email]':f"{student["nim"].lower()}@unhas.ac.id"
+                }
+
+                responseGetCreateUserSikolaByField = await session.get(
+                    baseUrl, params=paramsAPICreateUserSikolaByField, ssl=False
+                )
+
+                dataUserBaruSikola = await responseGetCreateUserSikolaByField.json()
+                print(paramsAPICreateUserSikolaByField)
+
+                paramsAPIEnrollUserSikolaByField = {
+                    "wsfunction": "enrol_manual_enrol_users",
+                    "enrolments[0][roleid]": 5,
+                    "enrolments[0][userid]": dataUserBaruSikola[0]['id'],
+                    'enrolments[0][courseid]':courseData['courses'][0]['id'],
+                }
+            else:
+                paramsAPIEnrollUserSikolaByField = {
+                    "wsfunction": "enrol_manual_enrol_users",
+                    "enrolments[0][roleid]": 5,
+                    "enrolments[0][userid]": dataUserSikola[0]['id'],
+                    'enrolments[0][courseid]':courseData['courses'][0]['id'],
+                }
+
+            task.append(
+                session.get(baseUrl, params=paramsAPIEnrollUserSikolaByField, ssl=False)
+            )
+        print('Student Done...') 
         
+        print('Lecturer...') 
+        for lecturer in lecturers:
+            paramsAPIGetUserSikolaByField = {
+                "wsfunction": "core_user_get_users_by_field",
+                "field": "username",
+                "values[0]": lecturer["nip"].lower().replace("'",''),
+            }
+
+            responseGetUserSikolaByField = await session.get(
+                baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
+            )
+
+            dataUserSikolaDosen = await responseGetUserSikolaByField.json()
+            
+
+            if len(dataUserSikolaDosen) == 0:
+                paramsAPICreateDosenSikolaByField = {
+                    "wsfunction": "core_user_create_users",
+                    "users[0][firstname]":lecturer["nama"],
+                    "users[0][username]": lecturer["nip"].lower().replace("'",''),
+                    "users[0][idnumber]": lecturer["nip"].lower().replace("'",''),
+                    "users[0][password]": f"{lecturer["nip"].lower()}@2023!",
+                    'users[0][lastname]':'.',
+                    'users[0][email]':f"{lecturer["nip"].lower().replace("'",'')}@unhas.ac.id"
+                }
+
+                responseGetCreateDosenSikolaByField = await session.get(
+                    baseUrl, params=paramsAPICreateDosenSikolaByField, ssl=False
+                )
+
+                dataDosenBaruSikola = await responseGetCreateDosenSikolaByField.json()
+                print(paramsAPICreateDosenSikolaByField)
+
+
+                paramsAPIEnrollDosenSikolaByField = {
+                    "wsfunction": "enrol_manual_enrol_users",
+                    "enrolments[0][roleid]": 3,
+                    "enrolments[0][userid]": dataDosenBaruSikola[0]['id'],
+                    'enrolments[0][courseid]':courseData['courses'][0]['id'],
+                }
+            else:
+                paramsAPIEnrollDosenSikolaByField = {
+                    "wsfunction": "enrol_manual_enrol_users",
+                    "enrolments[0][roleid]": 3,
+                    "enrolments[0][userid]": dataUserSikolaDosen[0]['id'],
+                    'enrolments[0][courseid]':courseData['courses'][0]['id'],
+                }
+
+            task.append(
+                session.get(baseUrl, params=paramsAPIEnrollDosenSikolaByField, ssl=False)
+            )
+        print('Lecturer Done...') 
+
     return task
 
 
@@ -101,7 +167,8 @@ async def fetch_sikola_course_users():
         listDataDetailKelasFile = glob.glob(
             f"data/detailkelas/{kelasActiveName}/*.json"
         )
-        baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+        # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=2733cd661f599f6dcb60629ea3248f8c&moodlewsrestformat=json"
 
         loopingSize = len(listDataDetailKelasFile)
         currentFile = 0
@@ -116,12 +183,16 @@ async def fetch_sikola_course_users():
             idnumber_sikola = dataDetailCourse["idnumber_sikola"]
             shortname_sikola = dataDetailCourse["shortname_sikola"]
             mahasiswas = dataDetailCourse["mahasiswas"]
+            dosens = dataDetailCourse["dosens"]
+            sizeUserInCourse = len(dataDetailCourse["mahasiswas"]) + len(
+                dataDetailCourse["dosens"]
+            )
 
             print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
 
             if idnumber_sikola not in backup_list:
                 print(f"Shortname Course : {shortname_sikola}")
-                
+
                 # if shortname_sikola == 'TA232-124999':
                 paramsAPIGetCourseByField = {
                     "wsfunction": "core_course_get_courses_by_field",
@@ -134,12 +205,14 @@ async def fetch_sikola_course_users():
                 )
 
                 dataCourseSikola = await responseGetCourseSikolaByField.json()
-                task = await enroll_user(session, mahasiswas, baseUrl, dataCourseSikola)
-                respnsesTask = await asyncio.gather(*task) 
-                
+                task = await enroll_user(
+                    session, mahasiswas, baseUrl, dataCourseSikola, sizeUserInCourse, dosens
+                )
+                respnsesTask = await asyncio.gather(*task)
+
                 for res in respnsesTask:
                     resultFetch.append(await res.json())
-                    
+
                 backup_list.append(idnumber_sikola)
                 save_backup_list(backup_list)
 
@@ -147,4 +220,3 @@ async def fetch_sikola_course_users():
 # get fetch_sikola_course()
 if __name__ == "__main__":
     asyncio.run(fetch_sikola_course_users())
-
