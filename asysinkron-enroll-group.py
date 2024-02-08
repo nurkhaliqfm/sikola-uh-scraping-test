@@ -39,8 +39,6 @@ else:
 
 
 resultFetch = []
-# Pass email sikola
-# xurkbyknptnathvw
 
 
 async def enroll_user(session, students, baseUrl, courseData, lecturers):
