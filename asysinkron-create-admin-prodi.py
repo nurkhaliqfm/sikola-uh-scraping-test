@@ -5,6 +5,7 @@ import os
 import requests
 import json
 import pickle
+import csv
 
 from dotenv import load_dotenv
 
@@ -16,12 +17,12 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
-def save_backup_list(backup_list, filename="log/backup_list_create_admin_prodi.pkl"):
+def save_backup_list(backup_list, filename="log/backup_list_create_admin_prodi-v2.pkl"):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/backup_list_create_admin_prodi.pkl"):
+def load_backup_list(filename="log/backup_list_create_admin_prodi-v2.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
@@ -44,77 +45,57 @@ resultFetch = []
 # Adminrole id -> 1
 
 
-async def create_admin_prodi(session, students, baseUrl, courseData, lecturers):
+async def create_admin_prodi(session, admins, baseUrl):
     task = []
-    paramsAPIGetCourseGroup = {
-        "wsfunction": "core_group_get_course_groups",
-        "courseid": courseData["courses"][0]["id"],
-    }
+    found = 0
+    notfound = 0
+    for admin in admins:
+        usernameAdmin = admin[0].strip()
+        firstnameAdmin = admin[1].strip()
+        emailAdmin = admin[3].strip()
 
-    responseGETCourseGroup = await session.get(
-        baseUrl, params=paramsAPIGetCourseGroup, ssl=False
-    )
-
-    dataCourseGroup = await responseGETCourseGroup.json()
-    if not len(dataCourseGroup) == 0:
-        dosenGroupId = dataCourseGroup[0]["id"]
-        mahasiswaGroupId = dataCourseGroup[1]["id"]
-
-        print("Student...")
-        for student in students:
-            paramsAPIGetUserSikolaByField = {
-                "wsfunction": "core_user_get_users_by_field",
-                "field": "username",
-                "values[0]": student["nim"].lower(),
-            }
-
-            responseGetUserSikolaByField = await session.get(
-                baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
-            )
-
-            dataUserSikola = await responseGetUserSikolaByField.json()
-
-            if not len(dataUserSikola) == 0:
-                paramsAPIEnrollMahasiswaToGroup = {
-                    "wsfunction": "core_group_add_group_members",
-                    "members[0][groupid]": mahasiswaGroupId,
-                    "members[0][userid]": dataUserSikola[0]["id"],
+        if usernameAdmin not in backup_list:
+            if not usernameAdmin == "username":
+                paramsAPIGetUserSikolaByField = {
+                    "wsfunction": "core_user_get_users_by_field",
+                    "field": "username",
+                    "values[0]": usernameAdmin,
                 }
 
-                task.append(
-                    session.get(
-                        baseUrl, params=paramsAPIEnrollMahasiswaToGroup, ssl=False
-                    )
+                responseGetUserSikolaByField = await session.get(
+                    baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
                 )
 
-        print("Student Done...")
+                dataUserSikola = await responseGetUserSikolaByField.json()
 
-        # print("Lecturer...")
-        # for lecturer in lecturers:
-        #     paramsAPIGetUserSikolaByField = {
-        #         "wsfunction": "core_user_get_users_by_field",
-        #         "field": "username",
-        #         "values[0]": lecturer["nip"].lower().replace("'", ""),
-        #     }
+                if len(dataUserSikola) == 0:
+                    notfound += 1
+                    print(f"Create User {firstnameAdmin}")
+                    paramsAPICreateUserSikolaByField = {
+                        "wsfunction": "core_user_create_users",
+                        "users[0][firstname]": firstnameAdmin,
+                        "users[0][username]": usernameAdmin,
+                        "users[0][idnumber]": usernameAdmin,
+                        "users[0][password]": f"{usernameAdmin}@2023!",
+                        "users[0][lastname]": "-",
+                        "users[0][email]": usernameAdmin,
+                    }
 
-        #     responseGetUserSikolaByField = await session.get(
-        #         baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
-        #     )
+                    responseGetCreateUserSikolaByField = await session.get(
+                        baseUrl, params=paramsAPICreateUserSikolaByField, ssl=False
+                    )
 
-        #     dataUserSikolaDosen = await responseGetUserSikolaByField.json()
+                    dataUserBaruSikola = await responseGetCreateUserSikolaByField.json()
+                    print(paramsAPICreateUserSikolaByField)
+                else:
+                    found += 1
+                    # print(f"User : {firstnameAdmin} FOUND")
 
-        #     if not len(dataUserSikolaDosen) == 0:
-        #         paramsAPIEnrollDosenToGroup = {
-        #             "wsfunction": "core_group_add_group_members",
-        #             "members[0][groupid]": dosenGroupId,
-        #             "members[0][userid]": dataUserSikolaDosen[0]["id"],
-        #         }
+                # backup_list.append(usernameAdmin)
+                # save_backup_list(backup_list)
 
-        #         task.append(
-        #             session.get(baseUrl, params=paramsAPIEnrollDosenToGroup, ssl=False)
-        #         )
-        # print("Lecturer Done...")
-
+    print(f"Found = {found}")
+    print(f"Not Found = {notfound}")
     return task
 
 
@@ -123,60 +104,15 @@ async def fetch_sikola_course_users():
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
         baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=2733cd661f599f6dcb60629ea3248f8c&moodlewsrestformat=json"
 
-        with open("data/prodi_semester.json", "r") as f:
-            data = f.read()
+        with open("data/admin-prodi-v2.csv", "r") as file:
+            dataCSVAdminProdi = csv.reader(file, delimiter=",")
 
-        dataJsonProdi = json.loads(data)
-        dataProdi = dataJsonProdi["prodiSemesters"]
+            task = await create_admin_prodi(session, dataCSVAdminProdi, baseUrl)
+            respnsesTask = await asyncio.gather(*task)
 
-        loopingSize = len(dataProdi)
-        current = 0
-
-        for prodi in dataProdi:
-            categoryNameSikola = prodi["prodi"]["nama_resmi"]
-            categoryId = prodi["prodi"]["kode_dikti"]
-            print(prodi)
-        # for filePath in listDataDetailKelasFile:
-        #     currentFile += 1
-        #     with open(filePath, "r") as f:
-        #         data = f.read()
-
-        #     dataDetailCourse = json.loads(data)
-
-        #     idnumber_sikola = dataDetailCourse["idnumber_sikola"]
-        #     shortname_sikola = dataDetailCourse["shortname_sikola"]
-        #     mahasiswas = dataDetailCourse["mahasiswas"]
-        #     dosens = dataDetailCourse["dosens"]
-
-        # print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
-
-        # if idnumber_sikola not in backup_list:
-        #     print(f"Shortname Course : {shortname_sikola}")
-
-        #     # if shortname_sikola == 'TA232-124999':
-        #     paramsAPIGetCourseByField = {
-        #         "wsfunction": "core_course_get_courses_by_field",
-        #         "field": "idnumber",
-        #         "value": idnumber_sikola,
-        #     }
-
-        #     responseGetCourseSikolaByField = await session.get(
-        #         baseUrl, params=paramsAPIGetCourseByField, ssl=False
-        #     )
-
-        #     dataCourseSikola = await responseGetCourseSikolaByField.json()
-        #     task = await create_admin_prodi(
-        #         session, mahasiswas, baseUrl, dataCourseSikola, dosens
-        #     )
-        #     respnsesTask = await asyncio.gather(*task)
-
-        #     for res in respnsesTask:
-        #         resultFetch.append(await res.json())
-
-        #     backup_list.append(idnumber_sikola)
-        #     save_backup_list(backup_list)
+            for res in respnsesTask:
+                resultFetch.append(await res.json())
 
 
-# get fetch_sikola_course()
 if __name__ == "__main__":
     asyncio.run(fetch_sikola_course_users())

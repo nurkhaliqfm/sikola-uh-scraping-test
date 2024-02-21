@@ -16,12 +16,12 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
-def save_backup_list(backup_list, filename="log/backup_list_enrol_user_group.pkl"):
+def save_backup_list(backup_list, filename="log/backup_list_enrol_dosen_group-v2.pkl"):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/backup_list_enrol_user_group.pkl"):
+def load_backup_list(filename="log/backup_list_enrol_dosen_group-v2.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
@@ -55,69 +55,40 @@ async def enroll_user(session, students, baseUrl, courseData, lecturers):
     dataCourseGroup = await responseGETCourseGroup.json()
     if not len(dataCourseGroup) == 0:
         dosenGroupId = dataCourseGroup[0]["id"]
-        mahasiswaGroupId = dataCourseGroup[1]["id"]
 
-        print("Student...")
-        for student in students:
+        print("Lecturer...")
+        for lecturer in lecturers:
             paramsAPIGetUserSikolaByField = {
                 "wsfunction": "core_user_get_users_by_field",
                 "field": "username",
-                "values[0]": student["nim"].lower(),
+                "values[0]": lecturer["nip"].lower().replace("'", ""),
             }
 
             responseGetUserSikolaByField = await session.get(
                 baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
             )
 
-            dataUserSikola = await responseGetUserSikolaByField.json()
+            dataUserSikolaDosen = await responseGetUserSikolaByField.json()
 
-            if not len(dataUserSikola) == 0:
-                paramsAPIEnrollMahasiswaToGroup = {
+            if not len(dataUserSikolaDosen) == 0:
+                paramsAPIEnrollDosenToGroup = {
                     "wsfunction": "core_group_add_group_members",
-                    "members[0][groupid]": mahasiswaGroupId,
-                    "members[0][userid]": dataUserSikola[0]["id"],
+                    "members[0][groupid]": dosenGroupId,
+                    "members[0][userid]": dataUserSikolaDosen[0]["id"],
                 }
 
                 task.append(
-                    session.get(
-                        baseUrl, params=paramsAPIEnrollMahasiswaToGroup, ssl=False
-                    )
+                    session.get(baseUrl, params=paramsAPIEnrollDosenToGroup, ssl=False)
                 )
-
-        print("Student Done...")
-
-        # print("Lecturer...")
-        # for lecturer in lecturers:
-        #     paramsAPIGetUserSikolaByField = {
-        #         "wsfunction": "core_user_get_users_by_field",
-        #         "field": "username",
-        #         "values[0]": lecturer["nip"].lower().replace("'", ""),
-        #     }
-
-        #     responseGetUserSikolaByField = await session.get(
-        #         baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
-        #     )
-
-        #     dataUserSikolaDosen = await responseGetUserSikolaByField.json()
-
-        #     if not len(dataUserSikolaDosen) == 0:
-        #         paramsAPIEnrollDosenToGroup = {
-        #             "wsfunction": "core_group_add_group_members",
-        #             "members[0][groupid]": dosenGroupId,
-        #             "members[0][userid]": dataUserSikolaDosen[0]["id"],
-        #         }
-
-        #         task.append(
-        #             session.get(baseUrl, params=paramsAPIEnrollDosenToGroup, ssl=False)
-        #         )
-        # print("Lecturer Done...")
+        print("Lecturer Done...")
 
     return task
 
 
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
-        kelasActiveName = "TA232.1"
+        # kelasActiveName = "TA232.2"
+        kelasActiveName = "TA232.3"
         listDataDetailKelasFile = glob.glob(
             f"data/detailkelas/{kelasActiveName}/*.json"
         )
