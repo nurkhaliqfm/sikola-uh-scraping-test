@@ -64,17 +64,29 @@ async def enroll_user(session, students, baseUrl):
             )
 
             dataUserSikola = await responseGetUserSikolaByField.json()
-
-            if len(dataUserSikola) == 0:
+            # core_user_update_users
+            if not len(dataUserSikola) == 0:
                 paramsAPICreateUserSikolaByField = {
-                    "wsfunction": "core_user_create_users",
-                    "users[0][firstname]": namaMahasiswa,
-                    "users[0][username]": nimMahasiswa,
-                    "users[0][idnumber]": idNumberMahasiswa,
-                    "users[0][password]": f"{nimMahasiswa}@2023!",
-                    "users[0][lastname]": ".",
-                    "users[0][email]": emailMahasiswa,
+                    "wsfunction": "core_user_update_users",
+                    "users[0][id]": dataUserSikola[0]["id"],
+                    "users[0][firstname]": nimMahasiswa.upper(),
+                    "users[0][lastname]": namaMahasiswa.upper(),
+                    # "users[0][idnumber]": idNumberMahasiswa,
+                    # "users[0][password]": f"{nimMahasiswa}@2023!",
+                    # "users[0][lastname]": ".",
+                    # "users[0][email]": emailMahasiswa,
                 }
+                print(paramsAPICreateUserSikolaByField)
+                # if len(dataUserSikola) == 0:
+                #     paramsAPICreateUserSikolaByField = {
+                #         "wsfunction": "core_user_create_users",
+                #         "users[0][firstname]": nimMahasiswa,
+                #         "users[0][username]": namaMahasiswa,
+                #         "users[0][idnumber]": idNumberMahasiswa,
+                #         "users[0][password]": f"{nimMahasiswa}@2023!",
+                #         "users[0][lastname]": ".",
+                #         "users[0][email]": emailMahasiswa,
+                #     }
 
                 # responseGetCreateUserSikolaByField = await session.get(
                 #     baseUrl, params=paramsAPICreateUserSikolaByField, ssl=False
@@ -112,7 +124,7 @@ async def enroll_user(session, students, baseUrl):
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=b3d938f63abaf8523a094cc0fe0c8bf4&moodlewsrestformat=json"
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
         with open("data/DataExternal/Data NIM Tamu Mahasiswa InBound.csv", "r") as file:
             dataMahasiswaInbound = csv.reader(file, delimiter=",")

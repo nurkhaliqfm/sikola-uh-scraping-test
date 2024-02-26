@@ -46,12 +46,12 @@ async def unenroll_user(session, lecturers, baseUrl, courseData):
 
     if len(courseData["courses"]) != 0:
         print("Lecturer...")
-        for lecturer in lecturers:
-            print(f"Lecturer: {lecturer['nama']}")
+        for lecture in lecturers:
+            print(f"Lecturer: {lecture['nama']}")
             paramsAPIGetUserSikolaByField = {
                 "wsfunction": "core_user_get_users_by_field",
                 "field": "username",
-                "values[0]": lecturer["nip"].lower().replace("'", ""),
+                "values[0]": lecture["nip"].lower(),
             }
 
             responseGetUserSikolaByField = await session.get(
@@ -77,9 +77,9 @@ async def unenroll_user(session, lecturers, baseUrl, courseData):
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=2733cd661f599f6dcb60629ea3248f8c&moodlewsrestformat=json"
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
-        with open("data/detailkelas/ChangeItem/dosen/log-3.json", "r") as f:
+        with open("data/detailkelas/ChangeItem/dosen/log-5.json", "r") as f:
             dataChangeFile = f.read()
 
         logCourseChange = json.loads(dataChangeFile)
@@ -92,10 +92,11 @@ async def fetch_sikola_course_users():
             outM = itemCourse[2]
             if len(outM) != 0:
                 idnumber_sikola = itemCourse[0]
-                lecturers = outM
+                dosens = outM
 
                 print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
                 if idnumber_sikola not in backup_list:
+                    # if idnumber_sikola == "46560.128730.16":
                     print(f"Shortname Course : {idnumber_sikola}")
                     paramsAPIGetCourseByField = {
                         "wsfunction": "core_course_get_courses_by_field",
@@ -108,10 +109,11 @@ async def fetch_sikola_course_users():
                     )
 
                     dataCourseSikola = await responseGetCourseSikolaByField.json()
+                    print(dataCourseSikola)
 
                     task = await unenroll_user(
                         session,
-                        lecturers,
+                        dosens,
                         baseUrl,
                         dataCourseSikola,
                     )

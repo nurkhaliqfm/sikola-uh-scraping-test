@@ -5,7 +5,7 @@ import os
 import requests
 import json
 import pickle
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 from dotenv import load_dotenv
 
@@ -17,12 +17,14 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
-def save_backup_list(backup_list, filename="log/backup_list_attendance_course.pkl"):
+def save_backup_list(
+    backup_list, filename="log/backup_list_attendance_course-mahasiswa.pkl"
+):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/backup_list_attendance_course.pkl"):
+def load_backup_list(filename="log/backup_list_attendance_course-mahasiswa.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
@@ -39,24 +41,16 @@ else:
     print("Backup list loaded successfully.")
 
 resultFetch = []
-# todaysDate = "2024-02-19"
-todaysDate = "2024-02-20"
+# currentDate = "2024-02-19"
+# currentDate = "2024-02-20"
+# currentDate = "2024-02-21"
+# currentDate = "2024-02-22"
+currentDate = "2024-02-23"
 
 
 async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
-
     task = []
     resultAttendanceRaw = []
-    paramsAPIGetCourseContent = {
-        "wsfunction": "core_course_get_contents",
-        "courseid": courseData["courses"][0]["id"],
-    }
-
-    responseGetCourseContent = await session.get(
-        baseUrl, params=paramsAPIGetCourseContent, ssl=False
-    )
-
-    dataCourseContent = await responseGetCourseContent.json()
 
     paramsAPIGetCourseGroup = {
         "wsfunction": "core_group_get_course_groups",
@@ -69,50 +63,79 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
 
     dataCourseGroup = await responseGETCourseGroup.json()
     if not len(dataCourseGroup) == 0:
-        mahasiswaGroupId = dataCourseGroup[1]["id"]
-        for content in dataCourseContent:
-            if content["name"] == "Info Matakuliah":
-                for module in content["modules"]:
-                    if module["name"] == "Presensi Mahasiswa":
-                        attendanceId = module["instance"]
+        mahasiswaGroupId = 0
+        for groups in dataCourseGroup:
+            if groups["name"] == "MAHASISWA":
+                mahasiswaGroupId = groups["id"]
+                break
 
-                        paramsAttendaceSession = {
-                            "wsfunction": "mod_attendance_get_sessions",
-                            "attendanceid": attendanceId,
-                        }
+        if not mahasiswaGroupId == 0:
+            paramsAPIGetCourseContent = {
+                "wsfunction": "core_course_get_contents",
+                "courseid": courseData["courses"][0]["id"],
+            }
 
-                        responseAttendanceSessions = await session.get(
-                            baseUrl, params=paramsAttendaceSession, ssl=False
-                        )
+            responseGetCourseContent = await session.get(
+                baseUrl, params=paramsAPIGetCourseContent, ssl=False
+            )
 
-                        dataSessionsAttendance = await responseAttendanceSessions.json()
-                        for item in dataSessionsAttendance:
-                            sessDate = item["sessdate"]
-                            convertDate = datetime.utcfromtimestamp(sessDate).strftime(
-                                "%Y-%m-%d"
+            dataCourseContent = await responseGetCourseContent.json()
+            for content in dataCourseContent:
+                if content["name"] == "Info Matakuliah":
+                    for module in content["modules"]:
+                        if module["name"] == "Presensi Mahasiswa":
+                            attendanceId = module["instance"]
+
+                            paramsAttendaceSession = {
+                                "wsfunction": "mod_attendance_get_sessions",
+                                "attendanceid": attendanceId,
+                            }
+
+                            responseAttendanceSessions = await session.get(
+                                baseUrl, params=paramsAttendaceSession, ssl=False
                             )
-                            if (
-                                convertDate == todaysDate
-                                and item["groupid"] == mahasiswaGroupId
-                            ):
-                                resultAttendanceRaw.append(item)
-                                with open(
-                                    f"data/attendanceRaw/{todaysDate}/mahasiswa/{idKelasKuliah}.json",
-                                    "w",
-                                ) as f:
-                                    json.dump(resultAttendanceRaw, f, indent=4)
 
+                            dataSessionsAttendance = (
+                                await responseAttendanceSessions.json()
+                            )
+
+                            for item in dataSessionsAttendance:
+                                sessDate = item["sessdate"]
+                                convertDate = (
+                                    datetime.fromtimestamp(sessDate, timezone.utc)
+                                    + timedelta(hours=8)
+                                ).strftime("%Y-%m-%d")
+
+                                if (
+                                    convertDate == currentDate
+                                    and item["groupid"] == mahasiswaGroupId
+                                ):
+
+                                    # if item["groupid"] == mahasiswaGroupId:
+                                    resultAttendanceRaw.append(item)
+
+                                    with open(
+                                        f"data/attendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json",
+                                        "w",
+                                    ) as f:
+                                        json.dump(resultAttendanceRaw, f, indent=4)
+
+                                    break
+                            break
+                    break
     return task
 
 
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
-        kelasActiveName = "TA232.4"
+        # kelasActiveName = "TA232.4"
+        # kelasActiveName = "TA232.5"
+        kelasActiveName = "TA232.6"
         listDataDetailKelasFile = glob.glob(
             f"data/detailkelas/{kelasActiveName}/*.json"
         )
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=5efd77a7277c9ef1dc42a29cb812b552&moodlewsrestformat=json"
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
         loopingSize = len(listDataDetailKelasFile)
         currentFile = 0
@@ -126,11 +149,6 @@ async def fetch_sikola_course():
 
             idnumber_sikola = dataDetailCourse["idnumber_sikola"]
             shortname_sikola = dataDetailCourse["shortname_sikola"]
-            mahasiswas = dataDetailCourse["mahasiswas"]
-            dosens = dataDetailCourse["dosens"]
-            sizeUserInCourse = len(dataDetailCourse["mahasiswas"]) + len(
-                dataDetailCourse["dosens"]
-            )
 
             print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
 
@@ -152,9 +170,8 @@ async def fetch_sikola_course():
                 idKelasKuliah = courseIdNumber.split(".")[1]
 
                 if not os.path.exists(
-                    f"data/attendanceRaw/{todaysDate}/mahasiswa/{idKelasKuliah}.json"
+                    f"data/attendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json"
                 ):
-
                     task = await attendance_intgrare(
                         session,
                         baseUrl,
@@ -166,6 +183,9 @@ async def fetch_sikola_course():
                     for res in respnsesTask:
                         print(res)
                         resultFetch.append(await res.json())
+
+            # backup_list.append(idnumber_sikola)
+            # save_backup_list(backup_list)
 
 
 # get fetch_sikola_course()

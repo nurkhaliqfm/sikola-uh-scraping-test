@@ -17,13 +17,13 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 def save_backup_list(
-    backup_list, filename="log/backup_list_enrol_mahasiswa-enrole.pkl"
+    backup_list, filename="log/backup_list_enrol_mahasiswa-enrole-inbound.pkl"
 ):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/backup_list_enrol_mahasiswa-enrole.pkl"):
+def load_backup_list(filename="log/backup_list_enrol_mahasiswa-enrole-inbound.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)

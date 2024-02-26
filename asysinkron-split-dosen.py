@@ -16,12 +16,12 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
-def save_backup_list(backup_list, filename="log/list_new_course-from-v3.pkl"):
+def save_backup_list(backup_list, filename="log/list_new_course-from-v4-D.pkl"):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/list_new_course-from-v3.pkl"):
+def load_backup_list(filename="log/list_new_course-from-v4-D.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
@@ -102,20 +102,24 @@ async def fetch_sikola_course_users():
         # kelasActiveNameNewVer = "TA232.1"
         # kelasActiveNameNewVer = "TA232.2"
         # kelasActiveNameNewVer = "TA232.3"
-        kelasActiveNameNewVer = "TA232.4"
+        # kelasActiveNameNewVer = "TA232.4"
+        # kelasActiveNameNewVer = "TA232.5"
+        kelasActiveNameNewVer = "TA232.6"
         listDataDetailKelasFileNewVer = glob.glob(
             f"data/detailkelas/{kelasActiveNameNewVer}/*.json"
         )
         
         # kelasActiveNameOldVer = "TA232.1"
         # kelasActiveNameOldVer = "TA232.2"
-        kelasActiveNameOldVer = "TA232.3"
+        # kelasActiveNameOldVer = "TA232.3"
+        # kelasActiveNameOldVer = "TA232.4"
+        kelasActiveNameOldVer = "TA232.5"
         listDataDetailKelasFileOldVer = glob.glob(
             f"data/detailkelas/{kelasActiveNameOldVer}/*.json"
         )
         
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=2733cd661f599f6dcb60629ea3248f8c&moodlewsrestformat=json"
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
         loopingSize = len(listDataDetailKelasFileNewVer)
         currentFile = 0
@@ -179,7 +183,7 @@ async def fetch_sikola_course_users():
                 
                 listCourseStudentChange.append(itemDataChange)
 
-        with open('data/detailkelas/ChangeItem/dosen/log-3.json', "w") as json_file:
+        with open('data/detailkelas/ChangeItem/dosen/log-5.json', "w") as json_file:
             json.dump(listCourseStudentChange, json_file)
 
 

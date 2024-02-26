@@ -64,11 +64,11 @@ async def unenroll_user(session, students, baseUrl, courseData):
         if len(dataUserSikola) == 0:
             paramsAPICreateUserSikolaByField = {
                 "wsfunction": "core_user_create_users",
-                "users[0][firstname]":student["nama_mahasiswa"],
+                "users[0][firstname]":student["nim"].upper(),
+                'users[0][lastname]':student["nama_mahasiswa"].upper(),
                 "users[0][username]": student["nim"].lower(),
                 "users[0][idnumber]": student["nim"].upper(),
                 "users[0][password]": f"{student["nim"].lower()}@2023!",
-                'users[0][lastname]':'.',
                 'users[0][email]':f"{student["nim"].lower()}@unhas.ac.id"
             }
 
@@ -104,9 +104,9 @@ async def unenroll_user(session, students, baseUrl, courseData):
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=2733cd661f599f6dcb60629ea3248f8c&moodlewsrestformat=json"
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
-        with open("data/detailkelas/ChangeItem/mahasiswa/log-3.json", "r") as f:
+        with open("data/detailkelas/ChangeItem/mahasiswa/log-5.json", "r") as f:
             dataChangeFile = f.read()
 
         logCourseChange = json.loads(dataChangeFile)

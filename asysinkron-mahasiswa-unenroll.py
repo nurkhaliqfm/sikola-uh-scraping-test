@@ -79,9 +79,9 @@ async def unenroll_user(session, students, baseUrl, courseData):
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=2733cd661f599f6dcb60629ea3248f8c&moodlewsrestformat=json"
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
-        with open("data/detailkelas/ChangeItem/mahasiswa/log-3.json", "r") as f:
+        with open("data/detailkelas/ChangeItem/mahasiswa/log-5.json", "r") as f:
             dataChangeFile = f.read()
 
         logCourseChange = json.loads(dataChangeFile)
@@ -98,30 +98,31 @@ async def fetch_sikola_course_users():
 
                 print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
                 if idnumber_sikola not in backup_list:
-                    if idnumber_sikola == "46560.128730.16":
-                        print(f"Shortname Course : {idnumber_sikola}")
-                        paramsAPIGetCourseByField = {
-                            "wsfunction": "core_course_get_courses_by_field",
-                            "field": "idnumber",
-                            "value": idnumber_sikola,
-                        }
+                    # if idnumber_sikola == "46560.128730.16":
+                    print(f"Shortname Course : {idnumber_sikola}")
+                    paramsAPIGetCourseByField = {
+                        "wsfunction": "core_course_get_courses_by_field",
+                        "field": "idnumber",
+                        "value": idnumber_sikola,
+                    }
 
-                        responseGetCourseSikolaByField = await session.get(
-                            baseUrl, params=paramsAPIGetCourseByField, ssl=False
-                        )
+                    responseGetCourseSikolaByField = await session.get(
+                        baseUrl, params=paramsAPIGetCourseByField, ssl=False
+                    )
 
-                        dataCourseSikola = await responseGetCourseSikolaByField.json()
+                    dataCourseSikola = await responseGetCourseSikolaByField.json()
+                    print(dataCourseSikola)
 
-                        task = await unenroll_user(
-                            session,
-                            mahasiswas,
-                            baseUrl,
-                            dataCourseSikola,
-                        )
-                        respnsesTask = await asyncio.gather(*task)
+                    task = await unenroll_user(
+                        session,
+                        mahasiswas,
+                        baseUrl,
+                        dataCourseSikola,
+                    )
+                    respnsesTask = await asyncio.gather(*task)
 
-                        for res in respnsesTask:
-                            resultFetch.append(await res.json())
+                    for res in respnsesTask:
+                        resultFetch.append(await res.json())
 
                 backup_list.append(idnumber_sikola)
                 save_backup_list(backup_list)
