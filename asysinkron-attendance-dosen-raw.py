@@ -40,13 +40,23 @@ if backup_list is None:
 else:
     print("Backup list loaded successfully.")
 
-
 resultFetch = []
 # currentDate = "2024-02-19"
 # currentDate = "2024-02-20"
 # currentDate = "2024-02-21"
 # currentDate = "2024-02-22"
-currentDate = "2024-02-23"
+# currentDate = "2024-02-23"
+# currentDate = "2024-02-24"
+# currentDate = "2024-02-25"
+# currentDate = "2024-02-26"
+# currentDate = "2024-02-27"
+# currentDate = "2024-02-28"
+# currentDate = "2024-02-29"
+# currentDate = "2024-03-01"
+# currentDate = "2024-03-02"
+# currentDate = "2024-03-03"
+# currentDate = "2024-03-04"
+currentDate = "2024-03-05"
 
 
 async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
@@ -106,11 +116,21 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
                                     datetime.fromtimestamp(sessDate, timezone.utc)
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
+
+                                currentDateValue = datetime.strptime(
+                                    currentDate, "%Y-%m-%d"
+                                )
+                                convertedDateValue = datetime.strptime(
+                                    convertDate, "%Y-%m-%d"
+                                )
+
+                                if convertedDateValue > currentDateValue:
+                                    break
+
                                 if (
                                     convertDate == currentDate
                                     and item["groupid"] == dosenGroupId
                                 ):
-                                    # if item["groupid"] == dosenGroupId:
                                     resultAttendanceRaw.append(item)
 
                                     with open(
@@ -119,27 +139,13 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
                                     ) as f:
                                         json.dump(resultAttendanceRaw, f, indent=4)
 
-                                    break
                             break
                     break
-
     return task
 
 
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
-        # kelasActiveName = "TA232.4"
-        # kelasActiveName = "TA232.5"
-        kelasActiveName = "TA232.6"
-        listDataDetailKelasFile = glob.glob(
-            f"data/detailkelas/{kelasActiveName}/*.json"
-        )
-        # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
-
-        loopingSize = len(listDataDetailKelasFile)
-        currentFile = 0
-
         for filePath in listDataDetailKelasFile:
             currentFile += 1
             with open(filePath, "r") as f:
@@ -180,10 +186,13 @@ async def fetch_sikola_course():
                     for res in respnsesTask:
                         resultFetch.append(await res.json())
 
-            # backup_list.append(idnumber_sikola)
-            # save_backup_list(backup_list)
 
-
-# get fetch_sikola_course()
 if __name__ == "__main__":
+    kelasActiveName = "TA232.11"
+    listDataDetailKelasFile = glob.glob(f"data/detailkelas/{kelasActiveName}/*.json")
+    baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+
+    loopingSize = len(listDataDetailKelasFile)
+    currentFile = 0
+
     asyncio.run(fetch_sikola_course())

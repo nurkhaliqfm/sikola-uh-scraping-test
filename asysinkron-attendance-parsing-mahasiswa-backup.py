@@ -5,7 +5,6 @@ import os
 import requests
 import json
 import pickle
-from datetime import datetime, timedelta
 
 from dotenv import load_dotenv
 
@@ -169,36 +168,23 @@ async def process_file(filePath, session):
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         tasks = []
+        # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+
         listDataDetailKelasFile = glob.glob(
             f"data/attendanceRaw/{todaysDate}/mahasiswa/*.json"
         )
 
+        # loopingSize = len(listDataDetailKelasFile)
+        # currentFile = 0
+
         for filePath in listDataDetailKelasFile:
+            # currentFile += 1
             tasks.append(process_file(filePath, session))
         await asyncio.gather(*tasks)
 
 
-def generate_olds_date(startDate, endDate):
-    listOldsDate = []
-
-    startDateValue = datetime.strptime(startDate, "%Y-%m-%d")
-    endDateValue = datetime.strptime(endDate, "%Y-%m-%d")
-
-    while startDateValue < endDateValue:
-        listOldsDate.append(startDateValue.strftime("%Y-%m-%d"))
-        startDateValue += timedelta(days=1)
-
-    return listOldsDate
-
-
 # get fetch_sikola_course()
 if __name__ == "__main__":
-    start_date = "2024-02-19"
-    end_date = "2024-03-05"
-
-    todaysDate = end_date
-    OldsDate = generate_olds_date(start_date, end_date)
-
     with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
         dataDictionary = f.read()
 
@@ -212,6 +198,172 @@ if __name__ == "__main__":
     dictionaryMahasiswa = json.loads(dataDictionary)
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
     resultFetch = []
+
+    # todaysDate = "2024-02-19"
+    # OldsDate = []
+
+    # todaysDate = "2024-02-20"
+    # OldsDate = ["2024-02-19"]
+
+    # todaysDate = "2024-02-21"
+    # OldsDate = ["2024-02-19", "2024-02-20"]
+
+    # todaysDate = "2024-02-22"
+    # OldsDate = ["2024-02-19", "2024-02-20", "2024-02-21"]
+
+    # todaysDate = "2024-02-23"
+    # OldsDate = ["2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22"]
+
+    # todaysDate = "2024-02-24"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    # ]
+
+    # todaysDate = "2024-02-25"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    # ]
+
+    # todaysDate = "2024-02-26"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    # ]
+
+    # todaysDate = "2024-02-27"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    #     "2024-02-26",
+    # ]
+
+    # todaysDate = "2024-02-28"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    #     "2024-02-26",
+    #     "2024-02-27",
+    # ]
+
+    # todaysDate = "2024-02-29"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    #     "2024-02-26",
+    #     "2024-02-27",
+    #     "2024-02-28",
+    # ]
+
+    # todaysDate = "2024-03-01"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    #     "2024-02-26",
+    #     "2024-02-27",
+    #     "2024-02-28",
+    #     "2024-02-29",
+    # ]
+
+    # todaysDate = "2024-03-02"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    #     "2024-02-26",
+    #     "2024-02-27",
+    #     "2024-02-28",
+    #     "2024-02-29",
+    #     "2024-03-01",
+    # ]
+
+    # todaysDate = "2024-03-03"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    #     "2024-02-26",
+    #     "2024-02-27",
+    #     "2024-02-28",
+    #     "2024-02-29",
+    #     "2024-03-02",
+    # ]
+
+    # todaysDate = "2024-03-04"
+    # OldsDate = [
+    #     "2024-02-19",
+    #     "2024-02-20",
+    #     "2024-02-21",
+    #     "2024-02-22",
+    #     "2024-02-23",
+    #     "2024-02-24",
+    #     "2024-02-25",
+    #     "2024-02-26",
+    #     "2024-02-27",
+    #     "2024-02-28",
+    #     "2024-02-29",
+    #     "2024-03-02",
+    #     "2024-03-03",
+    # ]
+
+    todaysDate = "2024-03-05"
+    OldsDate = [
+        "2024-02-19",
+        "2024-02-20",
+        "2024-02-21",
+        "2024-02-22",
+        "2024-02-23",
+        "2024-02-24",
+        "2024-02-25",
+        "2024-02-26",
+        "2024-02-27",
+        "2024-02-28",
+        "2024-02-29",
+        "2024-03-02",
+        "2024-03-03",
+        "2024-03-04",
+    ]
 
     backup_list = load_backup_list()
 

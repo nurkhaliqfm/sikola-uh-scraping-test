@@ -104,7 +104,12 @@ async def fetch_sikola_course_users():
         # kelasActiveNameNewVer = "TA232.3"
         # kelasActiveNameNewVer = "TA232.4"
         # kelasActiveNameNewVer = "TA232.5"
-        kelasActiveNameNewVer = "TA232.6"
+        # kelasActiveNameNewVer = "TA232.6"
+        # kelasActiveNameNewVer = "TA232.7"
+        # kelasActiveNameNewVer = "TA232.8"
+        # kelasActiveNameNewVer = "TA232.9"
+        # kelasActiveNameNewVer = "TA232.10"
+        kelasActiveNameNewVer = "TA232.11"
         listDataDetailKelasFileNewVer = glob.glob(
             f"data/detailkelas/{kelasActiveNameNewVer}/*.json"
         )
@@ -113,7 +118,12 @@ async def fetch_sikola_course_users():
         # kelasActiveNameOldVer = "TA232.2"
         # kelasActiveNameOldVer = "TA232.3"
         # kelasActiveNameOldVer = "TA232.4"
-        kelasActiveNameOldVer = "TA232.5"
+        # kelasActiveNameOldVer = "TA232.5"
+        # kelasActiveNameOldVer = "TA232.6"
+        # kelasActiveNameOldVer = "TA232.7"
+        # kelasActiveNameOldVer = "TA232.8"
+        # kelasActiveNameOldVer = "TA232.9"
+        kelasActiveNameOldVer = "TA232.10"
         listDataDetailKelasFileOldVer = glob.glob(
             f"data/detailkelas/{kelasActiveNameOldVer}/*.json"
         )
@@ -182,8 +192,39 @@ async def fetch_sikola_course_users():
                 itemDataChange.append(inM)
                 
                 listCourseStudentChange.append(itemDataChange)
+                
+        for filePath in listDataDetailKelasFileNewVer:
+            splitNewPathFileName = filePath.split("/")[3]
+            oldFilePath = f"data/detailkelas/{kelasActiveNameOldVer}/{splitNewPathFileName}"
+            cekAksesFileOld  = os.path.isfile(oldFilePath)
+        
+            if not cekAksesFileOld:
+                itemDataChange = []
+                # print(f"file found: {newFilePath}")
+                
+                with open(filePath, "r") as f:
+                    dataNew = f.read()
+                    
+                dataDetailCourseNew = json.loads(dataNew) 
+                dosensNew = dataDetailCourseNew["dosens"]
+                
+                idnumber_sikola = dataDetailCourseNew["idnumber_sikola"]
+                itemDataChange.append(idnumber_sikola)
+                itemDataChange.append(filePath)
+        
+                outM = []
+                inM = []
+                
+                # FINDING IN STUDENTS
+                for mNew in dosensNew:
+                    inM.append(mNew)
+                
+                itemDataChange.append(outM)
+                itemDataChange.append(inM)
+                
+                listCourseStudentChange.append(itemDataChange)
 
-        with open('data/detailkelas/ChangeItem/dosen/log-5.json', "w") as json_file:
+        with open(f'data/detailkelas/ChangeItem/dosen/{kelasActiveNameNewVer}.json', "w") as json_file:
             json.dump(listCourseStudentChange, json_file)
 
 

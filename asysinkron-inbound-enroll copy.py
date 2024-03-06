@@ -5,7 +5,6 @@ import os
 import requests
 import json
 import pickle
-import csv
 
 from dotenv import load_dotenv
 
@@ -81,51 +80,49 @@ async def fetch_sikola_course_users():
         baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
         # baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=5efd77a7277c9ef1dc42a29cb812b552&moodlewsrestformat=json"
 
-        with open("data/DataExternal/data-kelas-inbound.csv", "r") as file:
-            dataChangeFile = csv.reader(file, delimiter=",")
+        with open("data/DataExternal/converted_data.json", "r") as f:
+            dataChangeFile = f.read()
 
-            # logCourseChange = json.loads(dataChangeFile)
+        logCourseChange = json.loads(dataChangeFile)
 
-            # loopingSize = len(dataChangeFile)
-            # currentFile = 0
+        loopingSize = len(logCourseChange)
+        currentFile = 0
 
-            for itemCourse in dataChangeFile:
-                # currentFile += 1
-                if not itemCourse[0] == "nim":
-                    print(itemCourse)
-                    shortname = f"TA232-{itemCourse[2]}"
+        for itemCourse in logCourseChange:
+            currentFile += 1
+            idnumber_sikola = itemCourse["results"]["0"]["idnumber"]
 
-                    # print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
+            print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
 
-                    if itemCourse[2] not in backup_list:
-                        print(f"Shortname Course : {shortname}")
+            if idnumber_sikola not in backup_list:
+                print(f"Shortname Course : {idnumber_sikola}")
 
-                        paramsAPIGetCourseByField = {
-                            "wsfunction": "core_course_get_courses_by_field",
-                            "field": "shortname",
-                            "value": shortname,
-                        }
+                paramsAPIGetCourseByField = {
+                    "wsfunction": "core_course_get_courses_by_field",
+                    "field": "idnumber",
+                    "value": idnumber_sikola,
+                }
 
-                        responseGetCourseSikolaByField = await session.get(
-                            baseUrl, params=paramsAPIGetCourseByField, ssl=False
-                        )
+                responseGetCourseSikolaByField = await session.get(
+                    baseUrl, params=paramsAPIGetCourseByField, ssl=False
+                )
 
-                        dataCourseSikola = await responseGetCourseSikolaByField.json()
+                dataCourseSikola = await responseGetCourseSikolaByField.json()
 
-                        task = await unenroll_user(
-                            session,
-                            itemCourse[0],
-                            baseUrl,
-                            dataCourseSikola,
-                        )
-                        respnsesTask = await asyncio.gather(*task)
+                task = await unenroll_user(
+                    session,
+                    itemCourse["nim_mahas"],
+                    baseUrl,
+                    dataCourseSikola,
+                )
+                respnsesTask = await asyncio.gather(*task)
 
-                        for res in respnsesTask:
-                            resultFetch.append(await res.json())
+                for res in respnsesTask:
+                    resultFetch.append(await res.json())
 
-                # backup_list.append(idnumber_sikola)
-                # save_backup_list(backup_list)
-                # break
+            # backup_list.append(idnumber_sikola)
+            # save_backup_list(backup_list)
+            # break
 
 
 # get fetch_sikola_course()
