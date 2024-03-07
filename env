@@ -1,0 +1,8 @@
+SIKOLA_USERNAME=admin2
+SIKOLA_PASSWORD=zaq121qaz
+
+NEXT_PUBLIC_API_NEOSIKOLA=https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json
+# NEXT_PUBLIC_API_NEOSIKOLA=https://13.215.39.89/webservice/rest/server.php?wstoken=2733cd661f599f6dcb60629ea3248f8c&moodlewsrestformat=json
+
+# Pass email sikola
+# xurkbyknptnathvw

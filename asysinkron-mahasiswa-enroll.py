@@ -43,7 +43,7 @@ else:
 resultFetch = []
 
 
-async def unenroll_user(session, students, baseUrl, courseData):
+async def enroll_user(session, students, baseUrl, courseData):
     task = []
 
     print("Student...")
@@ -103,10 +103,9 @@ async def unenroll_user(session, students, baseUrl, courseData):
 
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
-        # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
-
-        with open("data/detailkelas/ChangeItem/mahasiswa/TA232.11.json", "r") as f:
+        baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+        
+        with open("data/detailkelas/ChangeItem/mahasiswa/TA232-120037.json", "r") as f:
             dataChangeFile = f.read()
 
         logCourseChange = json.loads(dataChangeFile)
@@ -138,7 +137,7 @@ async def fetch_sikola_course_users():
 
                     dataCourseSikola = await responseGetCourseSikolaByField.json()
 
-                    task = await unenroll_user(
+                    task = await enroll_user(
                         session,
                         mahasiswas,
                         baseUrl,
@@ -147,6 +146,7 @@ async def fetch_sikola_course_users():
                     respnsesTask = await asyncio.gather(*task)
 
                     for res in respnsesTask:
+                        print(await res.json())
                         resultFetch.append(await res.json())
 
                 backup_list.append(idnumber_sikola)

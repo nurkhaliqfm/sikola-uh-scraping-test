@@ -95,7 +95,7 @@ async def fetch_sikola_course_users():
         # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
         baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
-        with open("data/detailkelas/ChangeItem/mahasiswa/TA232.11.json", "r") as f:
+        with open("data/detailkelas/ChangeItem/mahasiswa/TA232-120037.json", "r") as f:
             dataChangeFile = f.read()
 
         logCourseChange = json.loads(dataChangeFile)

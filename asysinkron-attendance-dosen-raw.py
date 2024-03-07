@@ -56,7 +56,9 @@ resultFetch = []
 # currentDate = "2024-03-02"
 # currentDate = "2024-03-03"
 # currentDate = "2024-03-04"
-currentDate = "2024-03-05"
+# currentDate = "2024-03-05"
+# currentDate = "2024-03-06"
+currentDate = "2024-03-07"
 
 
 async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
@@ -146,6 +148,9 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
 
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
+        loopingSize = len(listDataDetailKelasFile)
+        currentFile = 0
+
         for filePath in listDataDetailKelasFile:
             currentFile += 1
             with open(filePath, "r") as f:
@@ -191,8 +196,5 @@ if __name__ == "__main__":
     kelasActiveName = "TA232.11"
     listDataDetailKelasFile = glob.glob(f"data/detailkelas/{kelasActiveName}/*.json")
     baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-
-    loopingSize = len(listDataDetailKelasFile)
-    currentFile = 0
 
     asyncio.run(fetch_sikola_course())

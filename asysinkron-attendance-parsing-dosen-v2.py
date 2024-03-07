@@ -5,7 +5,7 @@ import os
 import requests
 import json
 import pickle
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from dotenv import load_dotenv
 
@@ -35,6 +35,18 @@ def load_backup_list(filename="log/backup_list_parsing-dosen-attandance.pkl"):
 async def process_file(filePath, session):
     splitOldPathFileName = filePath.split("/")[4]
 
+    with open(filePath, "r") as f:
+        data = f.read()
+
+    dataCourseAttendance = json.loads(data)
+    sessDate = dataCourseAttendance[0]["sessdate"]
+    end_date = (
+        datetime.fromtimestamp(sessDate, timezone.utc) + timedelta(hours=8)
+    ).strftime("%Y-%m-%d")
+
+    todaysDate = end_date
+    OldsDate = generate_olds_date(start_date, end_date)
+
     pertemuanKe = 1
     if len(OldsDate) > 0:
         for oldD in OldsDate:
@@ -43,11 +55,6 @@ async def process_file(filePath, session):
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
                 pertemuanKe += 1
-
-    with open(filePath, "r") as f:
-        data = f.read()
-
-    dataCourseAttendance = json.loads(data)
 
     if not len(dataCourseAttendance) == 0:
         # if dataCourseAttendance[0]["courseid"] == 37371:
@@ -161,7 +168,7 @@ async def process_file(filePath, session):
                     attendanceData.append(data)
 
                     with open(
-                        f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
+                        f"data/revisiAbsensi/{todays}/dosen/{idKelasKuliah}.json",
                         "w",
                     ) as f:
                         json.dump(attendanceData, f, indent=4)
@@ -171,7 +178,7 @@ async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         tasks = []
         listDataDetailKelasFile = glob.glob(
-            f"data/attendanceRaw/{todaysDate}/dosen/*.json"
+            f"data/revisiAttandanceRaw/{todays}/dosen/*.json"
         )
 
         for filePath in listDataDetailKelasFile:
@@ -194,10 +201,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    end_date = "2024-03-07"
-
-    todaysDate = end_date
-    OldsDate = generate_olds_date(start_date, end_date)
+    todays = "2024-03-07"
 
     with open("data/DataExternal/Dictionary_Dosen.json", "r") as f:
         dataDictionary = f.read()
