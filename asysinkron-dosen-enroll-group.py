@@ -90,10 +90,9 @@ async def unenroll_user(session, lecturers, baseUrl, courseData):
 
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
-        # baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
-        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
+        baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
 
-        with open("data/detailkelas/ChangeItem/dosen/TA232-120037.json", "r") as f:
+        with open("data/detailkelas/ChangeItem/dosen/TA232-119266.json", "r") as f:
             dataChangeFile = f.read()
 
         logCourseChange = json.loads(dataChangeFile)

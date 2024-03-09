@@ -58,7 +58,8 @@ resultFetch = []
 # currentDate = "2024-03-04"
 # currentDate = "2024-03-05"
 # currentDate = "2024-03-06"
-currentDate = "2024-03-07"
+# currentDate = "2024-03-07"
+currentDate = "2024-03-08"
 
 
 async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
@@ -119,15 +120,15 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
 
-                                currentDateValue = datetime.strptime(
-                                    currentDate, "%Y-%m-%d"
-                                )
-                                convertedDateValue = datetime.strptime(
-                                    convertDate, "%Y-%m-%d"
-                                )
+                                # currentDateValue = datetime.strptime(
+                                #     currentDate, "%Y-%m-%d"
+                                # )
+                                # convertedDateValue = datetime.strptime(
+                                #     convertDate, "%Y-%m-%d"
+                                # )
 
-                                if convertedDateValue > currentDateValue:
-                                    break
+                                # if convertedDateValue > currentDateValue:
+                                #     break
 
                                 if (
                                     convertDate == currentDate
@@ -135,11 +136,11 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
                                 ):
                                     resultAttendanceRaw.append(item)
 
-                                    with open(
-                                        f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
-                                        "w",
-                                    ) as f:
-                                        json.dump(resultAttendanceRaw, f, indent=4)
+                            with open(
+                                f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
+                                "w",
+                            ) as f:
+                                json.dump(resultAttendanceRaw, f, indent=4)
 
                             break
                     break

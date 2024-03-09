@@ -106,8 +106,10 @@ async def enroll_user(session, lecturers, baseUrl, courseData):
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+        
+        print(baseUrl)
        
-        with open("data/detailkelas/ChangeItem/dosen/TA232-120037.json", "r") as f:
+        with open("data/detailkelas/ChangeItem/dosen/TA232-119266.json", "r") as f:
             dataChangeFile = f.read()
 
         logCourseChange = json.loads(dataChangeFile)
@@ -147,7 +149,6 @@ async def fetch_sikola_course_users():
                     respnsesTask = await asyncio.gather(*task)
 
                     for res in respnsesTask:
-                        print(await res.json())
                         resultFetch.append(await res.json())
 
                 backup_list.append(idnumber_sikola)

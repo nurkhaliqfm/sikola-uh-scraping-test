@@ -54,7 +54,7 @@ async def fetch_sikola_course_users():
         for filePath in listDataDetailKelasFileNewVer:
             shortnameSikola = f"TA232-{filePath.split("/")[3].replace(".json", "")}"
 
-            if shortnameSikola == 'TA232-120037':
+            if shortnameSikola == 'TA232-119266':
                 itemDataChange = []
 
                 with open(filePath, "r") as f:
