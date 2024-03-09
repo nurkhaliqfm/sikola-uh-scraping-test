@@ -17,7 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-03-08"
+currentDate = "2024-02-19"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_dosen_raw.pkl"
@@ -39,7 +39,6 @@ if backup_list is None:
     save_backup_list(backup_list)
 else:
     print("Backup list loaded successfully.")
-
 
 async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
     print(f"Get Data {courseData["courses"][0]["fullname"]}...")
@@ -77,7 +76,6 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                     for module in content["modules"]:
                         if module["name"] == "Presensi Pengampu Mata Kuliah":
                             attendanceId = module["instance"]
-
                             paramsAttendaceSession = {
                                 "wsfunction": "mod_attendance_get_sessions",
                                 "attendanceid": attendanceId,
@@ -98,6 +96,9 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
 
+                                if item['id'] == '13137':
+                                    print(convertDate)
+                                    break
                                 # currentDateValue = datetime.strptime(
                                 #     currentDate, "%Y-%m-%d"
                                 # )
@@ -114,12 +115,12 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                                 ):
                                     resultAttendanceRaw.append(item)
                         
-                        if len(resultAttendanceRaw) > 0:
-                            with open(
-                                f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
-                                "w",
-                            ) as f:
-                                json.dump(resultAttendanceRaw, f, indent=4)
+                            if len(resultAttendanceRaw) > 0:
+                                with open(
+                                    f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
+                                    "w",
+                                ) as f:
+                                    json.dump(resultAttendanceRaw, f, indent=4)
 
                             break
                     break
@@ -152,7 +153,7 @@ async def attendance_get_raw(filePath, session):
         idKelasKuliah = courseIdNumber.split(".")[1]
 
         if not os.path.exists(
-            f"data/attendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json"
+            f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json"
         ):
             await attendance_item_raw(
                 session, baseUrl, dataCourseSikola, idKelasKuliah

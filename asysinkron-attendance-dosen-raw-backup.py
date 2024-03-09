@@ -59,7 +59,7 @@ resultFetch = []
 # currentDate = "2024-03-05"
 # currentDate = "2024-03-06"
 # currentDate = "2024-03-07"
-currentDate = "2024-03-08"
+currentDate = "2024-03-05"
 
 
 async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
@@ -136,11 +136,12 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
                                 ):
                                     resultAttendanceRaw.append(item)
 
-                            with open(
-                                f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
-                                "w",
-                            ) as f:
-                                json.dump(resultAttendanceRaw, f, indent=4)
+                            if len(resultAttendanceRaw) > 0:
+                                with open(
+                                    f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
+                                    "w",
+                                ) as f:
+                                    json.dump(resultAttendanceRaw, f, indent=4)
 
                             break
                     break
