@@ -16,21 +16,21 @@ from urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
+resultFetch = []
+currentDate = "2024-03-08"
 
 def save_backup_list(
-    backup_list, filename="log/backup_list_attendance_mahasiswa_raw.pkl"
+    backup_list, filename=f"log/{currentDate}_attendance_mahasiswa_raw.pkl"
 ):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
-
-def load_backup_list(filename="log/backup_list_attendance_mahasiswa_raw.pkl"):
+def load_backup_list(filename=f"log/{currentDate}_attendance_mahasiswa_raw.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
     except FileNotFoundError:
         return None
-
 
 backup_list = load_backup_list()
 
@@ -39,9 +39,6 @@ if backup_list is None:
     save_backup_list(backup_list)
 else:
     print("Backup list loaded successfully.")
-
-resultFetch = []
-currentDate = "2024-03-08"
 
 async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
     print(f"Get Data {courseData["courses"][0]["fullname"]}...")
