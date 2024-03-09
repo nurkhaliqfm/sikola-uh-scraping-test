@@ -5,7 +5,7 @@ import os
 import requests
 import json
 import pickle
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta, timezone
 
 from dotenv import load_dotenv
 
@@ -18,13 +18,13 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 def save_backup_list(
-    backup_list, filename="log/backup_list_attendance_course-mahasiswa.pkl"
+    backup_list, filename="log/backup_list_attendance_dosen_raw.pkl"
 ):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/backup_list_attendance_course-mahasiswa.pkl"):
+def load_backup_list(filename="log/backup_list_attendance_dosen_raw.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
@@ -41,31 +41,11 @@ else:
     print("Backup list loaded successfully.")
 
 resultFetch = []
-# currentDate = "2024-02-19"
-# currentDate = "2024-02-20"
-# currentDate = "2024-02-21"
-# currentDate = "2024-02-22"
-# currentDate = "2024-02-23"
-# currentDate = "2024-02-24"
-# currentDate = "2024-02-25"
-# currentDate = "2024-02-26"
-# currentDate = "2024-02-27"
-# currentDate = "2024-02-28"
-# currentDate = "2024-02-29"
-# currentDate = "2024-03-01"
-# currentDate = "2024-03-02"
-# currentDate = "2024-03-03"
-# currentDate = "2024-03-04"
-# currentDate = "2024-03-05"
-# currentDate = "2024-03-06"
-# currentDate = "2024-03-07"
 currentDate = "2024-03-08"
 
-
-async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
-    task = []
+async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
+    print(f"Get Data {courseData["courses"][0]["fullname"]}...")
     resultAttendanceRaw = []
-
     paramsAPIGetCourseGroup = {
         "wsfunction": "core_group_get_course_groups",
         "courseid": courseData["courses"][0]["id"],
@@ -77,13 +57,13 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
 
     dataCourseGroup = await responseGETCourseGroup.json()
     if not len(dataCourseGroup) == 0:
-        mahasiswaGroupId = 0
+        dosenGroupId = 0
         for groups in dataCourseGroup:
-            if groups["name"] == "MAHASISWA":
-                mahasiswaGroupId = groups["id"]
+            if groups["name"] == "DOSEN":
+                dosenGroupId = groups["id"]
                 break
 
-        if not mahasiswaGroupId == 0:
+        if not dosenGroupId == 0:
             paramsAPIGetCourseContent = {
                 "wsfunction": "core_course_get_contents",
                 "courseid": courseData["courses"][0]["id"],
@@ -97,7 +77,7 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
             for content in dataCourseContent:
                 if content["name"] == "Info Matakuliah":
                     for module in content["modules"]:
-                        if module["name"] == "Presensi Mahasiswa":
+                        if module["name"] == "Presensi Pengampu Mata Kuliah":
                             attendanceId = module["instance"]
 
                             paramsAttendaceSession = {
@@ -132,70 +112,62 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah):
 
                                 if (
                                     convertDate == currentDate
-                                    and item["groupid"] == mahasiswaGroupId
+                                    and item["groupid"] == dosenGroupId
                                 ):
                                     resultAttendanceRaw.append(item)
-
+                        
+                        if len(resultAttendanceRaw) > 0:
                             with open(
-                                f"data/attendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json",
+                                f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
                                 "w",
                             ) as f:
                                 json.dump(resultAttendanceRaw, f, indent=4)
 
                             break
                     break
-    return task
+                
+    print(f"{courseData["courses"][0]["fullname"]} DONE..!!")
+    backup_list.append(courseData["courses"][0]["idnumber"])
+    save_backup_list(backup_list)
 
+async def attendance_get_raw(filePath, session):
+    with open(filePath, "r") as f:
+        data = f.read()
+
+    dataDetailCourse = json.loads(data)
+
+    idnumber_sikola = dataDetailCourse["idnumber_sikola"]
+
+    if idnumber_sikola not in backup_list:
+        paramsAPIGetCourseByField = {
+            "wsfunction": "core_course_get_courses_by_field",
+            "field": "idnumber",
+            "value": idnumber_sikola,
+        }
+
+        responseGetCourseSikolaByField = await session.get(
+            baseUrl, params=paramsAPIGetCourseByField, ssl=False
+        )
+
+        dataCourseSikola = await responseGetCourseSikolaByField.json()
+        courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
+        idKelasKuliah = courseIdNumber.split(".")[1]
+
+        if not os.path.exists(
+            f"data/attendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json"
+        ):
+            await attendance_item_raw(
+                session, baseUrl, dataCourseSikola, idKelasKuliah
+            )
 
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
-        loopingSize = len(listDataDetailKelasFile)
-        currentFile = 0
+        tasks = []
+        print(f"Processing Course")
 
         for filePath in listDataDetailKelasFile:
-            currentFile += 1
-            with open(filePath, "r") as f:
-                data = f.read()
-
-            dataDetailCourse = json.loads(data)
-
-            idnumber_sikola = dataDetailCourse["idnumber_sikola"]
-            shortname_sikola = dataDetailCourse["shortname_sikola"]
-
-            print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
-
-            if idnumber_sikola not in backup_list:
-                print(f"Shortname Course : {shortname_sikola}")
-
-                paramsAPIGetCourseByField = {
-                    "wsfunction": "core_course_get_courses_by_field",
-                    "field": "idnumber",
-                    "value": idnumber_sikola,
-                }
-
-                responseGetCourseSikolaByField = await session.get(
-                    baseUrl, params=paramsAPIGetCourseByField, ssl=False
-                )
-
-                dataCourseSikola = await responseGetCourseSikolaByField.json()
-                courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
-                idKelasKuliah = courseIdNumber.split(".")[1]
-
-                if not os.path.exists(
-                    f"data/attendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json"
-                ):
-                    task = await attendance_intgrare(
-                        session,
-                        baseUrl,
-                        dataCourseSikola,
-                        idKelasKuliah,
-                    )
-                    respnsesTask = await asyncio.gather(*task)
-
-                    for res in respnsesTask:
-                        print(res)
-                        resultFetch.append(await res.json())
-
+            tasks.append(attendance_get_raw(filePath, session))
+        await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
     kelasActiveName = "TA232.11"
