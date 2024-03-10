@@ -38,7 +38,8 @@ async def process_file(filePath, session):
     pertemuanKe = 0
     if len(OldsDate) > 0:
         for oldD in OldsDate:
-            newFilePath = f"data/attendanceRaw/{oldD}/mahasiswa/{splitOldPathFileName}"
+            # newFilePath = f"data/attendanceRaw/{oldD}/mahasiswa/{splitOldPathFileName}"
+            newFilePath = f"data/absensi/{oldD}/mahasiswa/{splitOldPathFileName}"
 
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
@@ -54,6 +55,7 @@ async def process_file(filePath, session):
     dataCourseAttendance = json.loads(data)
 
     if not len(dataCourseAttendance) == 0:
+        attendanceData = []
         for i in range(0, len(dataCourseAttendance)):
             # if dataCourseAttendance[0]["courseid"] == 44338:
             pertemuanKe += 1
@@ -82,7 +84,6 @@ async def process_file(filePath, session):
 
                     dataCourseSikola = await responseGetCourseSikolaByField.json()
 
-                    print("Course Attendance...")
                     courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
                     idKelasKuliah = courseIdNumber.split(".")[1]
                     tanggalRencana = todaysDate
@@ -171,11 +172,11 @@ async def process_file(filePath, session):
                         }
                         attendanceData.append(data)
 
-        with open(
-            f"data/absensi/{todaysDate}/mahasiswa/{idKelasKuliah}.json",
-            "w",
-        ) as f:
-            json.dump(attendanceData, f, indent=4)
+                        with open(
+                            f"data/absensi/{todaysDate}/mahasiswa/{idKelasKuliah}.json",
+                            "w",
+                        ) as f:
+                            json.dump(attendanceData, f, indent=4)
 
 
 async def fetch_sikola_course_users():
@@ -205,7 +206,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    end_date = "2024-03-07"
+    end_date = "2024-03-09"
 
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)

@@ -38,7 +38,8 @@ async def process_file(filePath, session):
     pertemuanKe = 0
     if len(OldsDate) > 0:
         for oldD in OldsDate:
-            newFilePath = f"data/attendanceRaw/{oldD}/dosen/{splitOldPathFileName}"
+            # newFilePath = f"data/attendanceRaw/{oldD}/dosen/{splitOldPathFileName}"
+            newFilePath = f"data/absensi/{oldD}/dosen/{splitOldPathFileName}"
 
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
@@ -54,9 +55,10 @@ async def process_file(filePath, session):
     dataCourseAttendance = json.loads(data)
 
     if not len(dataCourseAttendance) == 0:
+        attendanceData = []
         for i in range(0, len(dataCourseAttendance)):
             # if dataCourseAttendance[0]["courseid"] == 37371:
-            pertemuanKe += i
+            pertemuanKe += 1
             idCourseSikola = dataCourseAttendance[i]["courseid"]
             lecturerStatus = dataCourseAttendance[i]["attendance_log"]
             lecturers = dataCourseAttendance[i]["users"]
@@ -68,7 +70,6 @@ async def process_file(filePath, session):
             if len(lecturerStatus) > 0:
                 if idCourseSikola not in backup_list:
                     print(f"Id Course Sikola : {idCourseSikola}")
-                    attendanceData = []
 
                     paramsAPIGetCourseByField = {
                         "wsfunction": "core_course_get_courses_by_field",
@@ -82,7 +83,6 @@ async def process_file(filePath, session):
 
                     dataCourseSikola = await responseGetCourseSikolaByField.json()
 
-                    print("Course Attendance...")
                     courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
                     idKelasKuliah = courseIdNumber.split(".")[1]
                     tanggalRencana = todaysDate
@@ -121,7 +121,10 @@ async def process_file(filePath, session):
                             if not idDosen is None:
                                 if isDosenLog:
                                     for status in statusAttendance:
-                                        if str(status["id"]) == selectedUserStatus:
+                                        if (
+                                            str(status["id"]) == selectedUserStatus
+                                            and status["description"] == "Present"
+                                        ):
                                             dataPresensi = {
                                                 # "nim": dataUserSikolaDosen[0]["username"],
                                                 # "nama_mahasiswa": dataUserSikolaDosen[0][
@@ -171,11 +174,11 @@ async def process_file(filePath, session):
                         }
                         attendanceData.append(data)
 
-        with open(
-            f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
-            "w",
-        ) as f:
-            json.dump(attendanceData, f, indent=4)
+                        with open(
+                            f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
+                            "w",
+                        ) as f:
+                            json.dump(attendanceData, f, indent=4)
 
 
 async def fetch_sikola_course_users():
@@ -205,7 +208,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    end_date = "2024-02-19"
+    end_date = "2024-03-09"
 
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)
