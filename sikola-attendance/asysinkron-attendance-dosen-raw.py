@@ -17,7 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-02-19"
+currentDate = "2024-03-09"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_dosen_raw.pkl"
@@ -96,9 +96,6 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
 
-                                if item['id'] == '13137':
-                                    print(convertDate)
-                                    break
                                 # currentDateValue = datetime.strptime(
                                 #     currentDate, "%Y-%m-%d"
                                 # )

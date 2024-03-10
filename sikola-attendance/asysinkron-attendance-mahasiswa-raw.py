@@ -17,7 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-02-19"
+currentDate = "2024-03-09"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_mahasiswa_raw.pkl"
@@ -76,7 +76,6 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                     for module in content["modules"]:
                         if module["name"] == "Presensi Mahasiswa":
                             attendanceId = module["instance"]
-
                             paramsAttendaceSession = {
                                 "wsfunction": "mod_attendance_get_sessions",
                                 "attendanceid": attendanceId,
