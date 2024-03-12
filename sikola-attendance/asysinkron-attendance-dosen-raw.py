@@ -42,7 +42,7 @@ else:
 
 
 async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
-    print(f"Get Data {courseData["courses"][0]["fullname"]}...")
+    print(f"Get Data {courseData['courses'][0]['fullname']}...")
     resultAttendanceRaw = []
     paramsAPIGetCourseGroup = {
         "wsfunction": "core_group_get_course_groups",
@@ -124,12 +124,12 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                             break
                     break
                 
-    print(f"{courseData["courses"][0]["fullname"]} DONE..!!")
+    print(f"{courseData['courses'][0]['fullname']} DONE..!!")
     backup_list.append(courseData["courses"][0]["idnumber"])
     save_backup_list(backup_list)
 
 async def attendance_get_raw(filePath, session):
-    with open(filePath, "r") as f:
+    with open(filePath, "r", encoding="utf-8") as f:
         data = f.read()
 
     dataDetailCourse = json.loads(data)
@@ -170,6 +170,6 @@ async def fetch_sikola_course():
 if __name__ == "__main__":
     kelasActiveName = "TA232.11"
     listDataDetailKelasFile = glob.glob(f"data/detailkelas/{kelasActiveName}/*.json")
-    baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+    baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
     asyncio.run(fetch_sikola_course())
