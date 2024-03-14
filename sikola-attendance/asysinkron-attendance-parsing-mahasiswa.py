@@ -33,18 +33,32 @@ def load_backup_list(filename="log/backup_list_parsing-mahasiswa-attandance.pkl"
 
 
 async def process_file(filePath, session):
-    splitOldPathFileName = filePath.split("/")[4]
+    splitOldPathFileName = filePath.split("/")[3]
 
     pertemuanKe = 1
     if len(OldsDate) > 0:
         for oldD in OldsDate:
+<<<<<<< Updated upstream
             newFilePath = f"data/attendanceRaw/{oldD}/mahasiswa/{splitOldPathFileName}"
 
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
                 pertemuanKe += 1
+=======
+            # newFilePath = f"data/attendanceRaw/{oldD}/mahasiswa/{splitOldPathFileName}"
+            os
+            newFilePath = f"data/absensi/{oldD}/{splitOldPathFileName}"
 
-    with open(filePath, "r") as f:
+            cekAksesFileNew = os.path.isfile(newFilePath)
+            if cekAksesFileNew:
+                with open(newFilePath, "r", encoding="utf-8") as f:
+                    dataPresensiInDate = f.read()
+
+                dataPresensiInDateJson = json.loads(dataPresensiInDate)
+                pertemuanKe += len(dataPresensiInDateJson)
+>>>>>>> Stashed changes
+
+    with open(filePath, "r", encoding="utf-8") as f:
         data = f.read()
 
     dataCourseAttendance = json.loads(data)
@@ -98,6 +112,12 @@ async def process_file(filePath, session):
                             "field": "id",
                             "values[0]": student["id"],
                         }
+<<<<<<< Updated upstream
+=======
+                        attendanceData.append(data)
+                        
+                        os.makedirs(f"data/absensi/{todaysDate}/mahasiswa", exist_ok=True)
+>>>>>>> Stashed changes
 
                         responseGetUserSikolaByField = await session.get(
                             baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
@@ -194,7 +214,11 @@ def generate_olds_date(startDate, endDate):
 # get fetch_sikola_course()
 if __name__ == "__main__":
     start_date = "2024-02-19"
+<<<<<<< Updated upstream
     end_date = "2024-03-07"
+=======
+    end_date = "2024-03-12"
+>>>>>>> Stashed changes
 
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)

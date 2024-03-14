@@ -17,7 +17,11 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
+<<<<<<< Updated upstream
 currentDate = "2024-03-04"
+=======
+currentDate = "2024-03-13"
+>>>>>>> Stashed changes
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_dosen_raw.pkl"
@@ -114,12 +118,23 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                                 ):
                                     resultAttendanceRaw.append(item)
                         
+<<<<<<< Updated upstream
                         if len(resultAttendanceRaw) > 0:
                             with open(
                                 f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
                                 "w",
                             ) as f:
                                 json.dump(resultAttendanceRaw, f, indent=4)
+=======
+                            if len(resultAttendanceRaw) > 0:
+                                os.makedirs(f"data/attendanceRaw/{currentDate}/dosen", exist_ok=True)
+
+                                with open(
+                                    f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json",
+                                    "w",
+                                ) as f:
+                                    json.dump(resultAttendanceRaw, f, indent=4)
+>>>>>>> Stashed changes
 
                             break
                     break
