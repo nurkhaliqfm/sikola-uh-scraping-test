@@ -34,26 +34,10 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 async def process_file(filePath, session):
     splitOldPathFileName = filePath.split("/")[3]
-<<<<<<< Updated upstream
-    print(splitOldPathFileName)
-=======
->>>>>>> Stashed changes
 
     pertemuanKe = 1
     if len(OldsDate) > 0:
         for oldD in OldsDate:
-<<<<<<< Updated upstream
-            newFilePath = f"data/attendanceRaw/{oldD}/{splitOldPathFileName}"
-            print(newFilePath)
-
-            cekAksesFileNew = os.path.isfile(newFilePath)
-            if cekAksesFileNew:
-                pertemuanKe += 1
-                
-    if not os.path.exists(f"data/attendanceRaw/{todaysDate}/mahasiswa/{splitOldPathFileName}"):
-        return
-    with open(filePath, "r") as f:
-=======
             # newFilePath = f"data/attendanceRaw/{oldD}/dosen/{splitOldPathFileName}"
             newFilePath = f"data/absensi/{oldD}/{splitOldPathFileName}"
 
@@ -66,7 +50,6 @@ async def process_file(filePath, session):
                 pertemuanKe += len(dataPresensiInDateJson)
 
     with open(filePath, "r", encoding="utf-8") as f:
->>>>>>> Stashed changes
         data = f.read()
 
     dataCourseAttendance = json.loads(data)
@@ -152,19 +135,7 @@ async def process_file(filePath, session):
                                     }
                                     presensiDosens.append(dataPresensi)
                                     break
-                        # else:
-                        #     dataPresensi = {
-                        #         # "nim": dataUserSikolaDosen[0]["username"],
-                        #         # "nama_mahasiswa": dataUserSikolaDosen[0][
-                        #         #     "lastname"
-                        #         # ],
-                        #         "id_pertemuan": "",
-                        #         "id_dosen": dictionaryDosen[
-                        #             dataUserSikolaDosen[0]["username"].upper()
-                        #         ],
-                        #         "id_tipe_kehadiran": statusPresensiNeosia["Absent"],
-                        #     }
-                        #     presensiDosens.append(dataPresensi)
+            
                 print(pertemuanKe)
 
                 data = {
@@ -182,86 +153,63 @@ async def process_file(filePath, session):
 
                 attendanceData.append(data)
 
-<<<<<<< Updated upstream
+                dataUserSikolaDosen = (
+                    await responseGetUserSikolaByField.json()
+                )
+
+                dataUserSikolaDosen[0]["username"].upper()
+                idDosen = dictionaryDosen.get(
+                    dataUserSikolaDosen[0]["username"].upper(), None
+                )
+
+                if not idDosen is None:
+                    if isDosenLog:
+                        for status in statusAttendance:
+                            if (
+                                str(status["id"]) == selectedUserStatus
+                                and status["description"] == "Present"
+                            ):
+                                dataPresensi = {
+                                    # "nim": dataUserSikolaDosen[0]["username"],
+                                    # "nama_mahasiswa": dataUserSikolaDosen[0][
+                                    #     "lastname"
+                                    # ],
+                                    "id_pertemuan": "",
+                                    "id_dosen": dictionaryDosen[
+                                        dataUserSikolaDosen[0][
+                                            "username"
+                                        ].upper()
+                                    ],
+                                    "id_tipe_kehadiran": statusPresensiNeosia[
+                                        status["description"]
+                                    ],
+                                }
+                                presensiDosens.append(dataPresensi)
+                                break
+                
+                data = {
+                    "nama_matakuliah": dataCourseSikola["courses"][0][
+                        "fullname"
+                    ],
+                    "pertemuan": {
+                        "tanggal_rencana": tanggalRencana,
+                        "id_kelas_kuliah": idKelasKuliah,
+                        "pertemuan_ke": pertemuanKe,
+                        "tema": "",
+                        "pokok_bahasan": "",
+                        "keterangan": "",
+                    },
+                    "presensi": presensiDosens,
+                }
+                attendanceData.append(data)
+                os.makedirs(f"data/absensi/{todaysDate}/dosen", exist_ok=True)
+
+
                 with open(
                     f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
                     "w",
                 ) as f:
                     json.dump(attendanceData, f, indent=4)
-=======
-                            dataUserSikolaDosen = (
-                                await responseGetUserSikolaByField.json()
-                            )
-
-                            dataUserSikolaDosen[0]["username"].upper()
-                            idDosen = dictionaryDosen.get(
-                                dataUserSikolaDosen[0]["username"].upper(), None
-                            )
-
-                            if not idDosen is None:
-                                if isDosenLog:
-                                    for status in statusAttendance:
-                                        if (
-                                            str(status["id"]) == selectedUserStatus
-                                            and status["description"] == "Present"
-                                        ):
-                                            dataPresensi = {
-                                                # "nim": dataUserSikolaDosen[0]["username"],
-                                                # "nama_mahasiswa": dataUserSikolaDosen[0][
-                                                #     "lastname"
-                                                # ],
-                                                "id_pertemuan": "",
-                                                "id_dosen": dictionaryDosen[
-                                                    dataUserSikolaDosen[0][
-                                                        "username"
-                                                    ].upper()
-                                                ],
-                                                "id_tipe_kehadiran": statusPresensiNeosia[
-                                                    status["description"]
-                                                ],
-                                            }
-                                            presensiDosens.append(dataPresensi)
-                                            break
-                                # else:
-                                #     dataPresensi = {
-                                #         # "nim": dataUserSikolaDosen[0]["username"],
-                                #         # "nama_mahasiswa": dataUserSikolaDosen[0][
-                                #         #     "lastname"
-                                #         # ],
-                                #         "id_pertemuan": "",
-                                #         "id_dosen": dictionaryDosen[
-                                #             dataUserSikolaDosen[0]["username"].upper()
-                                #         ],
-                                #         "id_tipe_kehadiran": statusPresensiNeosia[
-                                #             "Absent"
-                                #         ],
-                                #     }
-                                #     presensiDosens.append(dataPresensi)
-
-                        data = {
-                            "nama_matakuliah": dataCourseSikola["courses"][0][
-                                "fullname"
-                            ],
-                            "pertemuan": {
-                                "tanggal_rencana": tanggalRencana,
-                                "id_kelas_kuliah": idKelasKuliah,
-                                "pertemuan_ke": pertemuanKe,
-                                "tema": "",
-                                "pokok_bahasan": "",
-                                "keterangan": "",
-                            },
-                            "presensi": presensiDosens,
-                        }
-                        attendanceData.append(data)
-                        os.makedirs(f"data/absensi/{todaysDate}/dosen", exist_ok=True)
-
-
-                        with open(
-                            f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
-                            "w",
-                        ) as f:
-                            json.dump(attendanceData, f, indent=4)
->>>>>>> Stashed changes
 
 
 async def fetch_sikola_course_users():
@@ -291,11 +239,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-<<<<<<< Updated upstream
-    end_date = "2024-02-19"
-=======
     end_date = "2024-03-12"
->>>>>>> Stashed changes
 
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)

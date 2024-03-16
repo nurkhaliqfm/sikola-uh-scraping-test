@@ -17,11 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-<<<<<<< Updated upstream
-currentDate = "2024-02-25"
-=======
-currentDate = "2024-03-13"
->>>>>>> Stashed changes
+currentDate = "2024-03-14"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_mahasiswa_raw.pkl"
@@ -80,7 +76,6 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                     for module in content["modules"]:
                         if module["name"] == "Presensi Mahasiswa":
                             attendanceId = module["instance"]
-
                             paramsAttendaceSession = {
                                 "wsfunction": "mod_attendance_get_sessions",
                                 "attendanceid": attendanceId,
@@ -118,7 +113,7 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah):
                                     resultAttendanceRaw.append(item)
                                     
                             if len(resultAttendanceRaw) > 0:
-                                os.makedirs(f"data/attendanceRaw/{currentDate}/mahasiswa",  exist_ok=True)
+                                os.makedirs(f"data/attendanceRaw/{currentDate}/mahasiswa/", exist_ok=True )
                                 with open(
                                     f"data/attendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json",
                                     "w",
@@ -175,9 +170,5 @@ if __name__ == "__main__":
     kelasActiveName = "TA232.11"
     listDataDetailKelasFile = glob.glob(f"data/detailkelas/{kelasActiveName}/*.json")
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
-<<<<<<< Updated upstream
-=======
-    print(baseUrl)
->>>>>>> Stashed changes
 
     asyncio.run(fetch_sikola_course())

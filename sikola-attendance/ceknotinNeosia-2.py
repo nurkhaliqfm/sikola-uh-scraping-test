@@ -207,7 +207,7 @@ def get_attendance():
         not_in_mahasiswa_data = []
         for id_kelas in not_in_mahasiswa:
             try:
-                print(current_date, id_kelas)
+                print("MAHASISWA ",current_date, id_kelas)
                 response = requests.get(
                     f"{API_NEOSIA}/admin_mkpk/dosen/input_nilai/kelas_kuliah/{id_kelas}",
                     headers=headers
@@ -229,8 +229,13 @@ def get_attendance():
                         break
                 
                 not_in_mahasiswa_data.append([current_date, id_kelas, nama_kelas, prodi, nama_fakultas])
+              
             except ValueError:
                 return jsonify({"message": "Error parsing JSON response"}), 500
+        with open(f"{result_folder}/ListKendala-PresensiKelas-Mahasiswa ({start_date}-{end_date})-2.csv", "w", newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(["tanggal_rencana","id_kelas", 'nama_kelas', 'prodi','nama_fakultas'])
+                writer.writerows(not_in_mahasiswa_data)
 
        
 
@@ -239,7 +244,7 @@ def get_attendance():
 
         for id_kelas in not_in_dosen:
             try:
-                print(current_date, id_kelas)
+                print("DOSEN ",current_date, id_kelas)
                 response = requests.get(
                     f"{API_NEOSIA}/admin_mkpk/dosen/input_nilai/kelas_kuliah/{id_kelas}",
                     headers=headers
@@ -261,23 +266,20 @@ def get_attendance():
                         break
 
                 not_in_dosen_data.append([current_date, id_kelas, nama_kelas, prodi, nama_fakultas])
-
+               
             except ValueError:
                 return jsonify({"message": f"Error parsing JSON response : {current_date} {id_kelas}"}), 500
-
+        with open(f"{result_folder}/ListKendala-PresensiKelas-Dosen ({start_date}-{end_date})-2.csv", "w", newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(["tanggal_rencana","id_kelas", 'nama_kelas', 'prodi','nama_fakultas'])
+                writer.writerows(not_in_dosen_data)
         # with open(f"{result_folder_student}/notInDosen-{current_date}.csv", "w", newline='') as file:
         #     writer = csv.writer(file)
         #     writer.writerow(["id_kelas", 'nama_kelas', 'prodi'])
         #     writer.writerows(not_in_dosen_data)
-    with open(f"{result_folder}/ListKendala-PresensiKelas-Mahasiswa ({start_date}-{end_date}).csv", "w", newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(["tanggal_rencana","id_kelas", 'nama_kelas', 'prodi','nama_fakultas'])
-            writer.writerows(not_in_mahasiswa_data)
-    with open(f"{result_folder}/ListKendala-PresensiKelas-Dosen ({start_date}-{end_date}).csv", "w", newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(["tanggal_rencana","id_kelas", 'nama_kelas', 'prodi','nama_fakultas'])
-            writer.writerows(not_in_dosen_data)
-    return jsonify({"message": "Done."})
+   
+    
+    return print("DONE...")
 
 if __name__ == '__main__':
     get_attendance()

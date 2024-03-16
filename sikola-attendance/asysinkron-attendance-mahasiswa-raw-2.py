@@ -45,8 +45,8 @@ resultFetch = []
 currentDate = "2024-03-07"
 
 
-async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah, classDate):
-    task = []
+async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, classDate):
+    print(f"Get Data {courseData["courses"][0]["fullname"]}...")
     resultAttendanceRaw = []
 
     paramsAPIGetCourseGroup = {
@@ -103,12 +103,12 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah, class
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
 
-                                currentDateValue = datetime.strptime(
-                                    classDate, "%Y-%m-%d"
-                                )
-                                convertedDateValue = datetime.strptime(
-                                    convertDate, "%Y-%m-%d"
-                                )
+                                # currentDateValue = datetime.strptime(
+                                #     classDate, "%Y-%m-%d"
+                                # )
+                                # convertedDateValue = datetime.strptime(
+                                #     convertDate, "%Y-%m-%d"
+                                # )
 
                                 # if convertedDateValue > currentDateValue:
                                 #     break
@@ -119,62 +119,53 @@ async def attendance_intgrare(session, baseUrl, courseData, idKelasKuliah, class
                                 ):
                                     resultAttendanceRaw.append(item)
 
-                                    with open(
-                                        f"data/revisiAttandanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json",
-                                        "w",
-                                    ) as f:
-                                        json.dump(resultAttendanceRaw, f, indent=4)
+                            if len(resultAttendanceRaw) > 0:
+                                with open(
+                                    f"data/attendanceRaw/{classDate}/mahasiswa/{idKelasKuliah}.json",
+                                    "w",
+                                ) as f:
+                                    json.dump(resultAttendanceRaw, f, indent=4)
 
                             break
-                    break
-    return task
 
+                            
+                    break
+    print(f"{courseData['courses'][0]['fullname']} DONE..!!")
+
+async def attendance_get_raw(session, itemClassError):
+    if not itemClassError[0] == "fullname_kelas_sikola":
+        shortname_sikola = f"TA232-{itemClassError[1]}"
+        if shortname_sikola not in backup_list:
+            paramsAPIGetCourseByField = {
+                "wsfunction": "core_course_get_courses_by_field",
+                "field": "shortname",
+                "value": shortname_sikola,
+            }
+
+            responseGetCourseSikolaByField = await session.get(
+                baseUrl, params=paramsAPIGetCourseByField, ssl=False
+            )
+
+            dataCourseSikola = await responseGetCourseSikolaByField.json()
+            courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
+            idKelasKuliah = courseIdNumber.split(".")[1]
+
+            await attendance_item_raw(session, baseUrl, dataCourseSikola, idKelasKuliah, itemClassError[3])
 
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
-        with open("data/DataExternal/kendala_3.csv", "r") as file:
+        tasks = []
+        print(f"Processing Course")
+        
+        with open(f"data/DataExternal/{fileDataForm}", "r") as file:
             listDataDetailKelasFile = csv.reader(file, delimiter=",")
-
             for itemClassError in listDataDetailKelasFile:
-                if not itemClassError[0] == "fullname_kelas_sikola":
-                    shortname_sikola = f"TA232-{itemClassError[1]}"
-                    namaKelas = f"{itemClassError[0]}"
-
-                    print(f"Progress: {namaKelas}")
-                    print(f"Shortname Course : {shortname_sikola}")
-
-                    paramsAPIGetCourseByField = {
-                        "wsfunction": "core_course_get_courses_by_field",
-                        "field": "shortname",
-                        "value": shortname_sikola,
-                    }
-
-                    responseGetCourseSikolaByField = await session.get(
-                        baseUrl, params=paramsAPIGetCourseByField, ssl=False
-                    )
-
-                    dataCourseSikola = await responseGetCourseSikolaByField.json()
-                    courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
-                    idKelasKuliah = courseIdNumber.split(".")[1]
-
-                    if not os.path.exists(
-                        f"data/revisiAttandanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}.json"
-                    ):
-                        task = await attendance_intgrare(
-                            session,
-                            baseUrl,
-                            dataCourseSikola,
-                            idKelasKuliah,
-                            itemClassError[3],
-                        )
-                        respnsesTask = await asyncio.gather(*task)
-
-                        for res in respnsesTask:
-                            resultFetch.append(await res.json())
-
+                tasks.append(attendance_get_raw(session, itemClassError))
+            await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
     kelasActiveName = "TA232.11"
+    fileDataForm = "kendala_3.csv"
     baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
 
     asyncio.run(fetch_sikola_course())
