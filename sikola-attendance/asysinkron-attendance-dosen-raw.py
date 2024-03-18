@@ -17,7 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-03-13"
+currentDate = "2024-03-17"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_dosen_raw.pkl"
@@ -131,7 +131,7 @@ async def attendance_get_raw(filePath, session):
         data = f.read()
 
     dataDetailCourse = json.loads(data)
-
+    
     idnumber_sikola = dataDetailCourse["idnumber_sikola"]
 
     if idnumber_sikola not in backup_list:
