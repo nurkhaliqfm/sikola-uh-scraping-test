@@ -217,8 +217,8 @@ async def get_attendance():
         "Authorization": f"Bearer {TOKEN}"
     }
 
-    start_date = "2024-03-02"
-    end_date = "2024-03-14"
+    start_date = "2024-02-24"
+    end_date = "2024-02-25"
     
     start_date_obj = datetime.datetime.strptime(start_date, "%Y-%m-%d")
     end_date_obj = datetime.datetime.strptime(end_date, "%Y-%m-%d")

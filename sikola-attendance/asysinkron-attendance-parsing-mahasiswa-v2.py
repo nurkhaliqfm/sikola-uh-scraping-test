@@ -33,7 +33,7 @@ def load_backup_list(filename="log/backup_list_parsing-mahasiswa-attandance.pkl"
 
 
 async def process_file(filePath, session):
-    splitOldPathFileName = filePath.split("/")[4]
+    splitOldPathFileName = filePath.split("/")[3].split("-")[0]
 
     with open(filePath, "r") as f:
         data = f.read()
@@ -48,130 +48,135 @@ async def process_file(filePath, session):
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)
 
-    pertemuanKe = 1
+    pertemuanKe = 0
     if len(OldsDate) > 0:
         for oldD in OldsDate:
-            newFilePath = f"data/attendanceRaw/{oldD}/mahasiswa/{splitOldPathFileName}"
+            # newFilePath = f"data/attendanceRaw/{oldD}/dosen/{splitOldPathFileName}"
+            newFilePath = f"data/absensi/{oldD}/{splitOldPathFileName}.json"
 
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
-                pertemuanKe += 1
+                with open(newFilePath, "r") as f:
+                    dataPresensiInDate = f.read()
+
+                dataPresensiInDateJson = json.loads(dataPresensiInDate)
+                pertemuanKe += len(dataPresensiInDateJson)
 
     if not len(dataCourseAttendance) == 0:
-        # if dataCourseAttendance[0]["courseid"] == 44338:
-        idCourseSikola = dataCourseAttendance[0]["courseid"]
-        studentsStatus = dataCourseAttendance[0]["attendance_log"]
-        students = dataCourseAttendance[0]["users"]
-        statusAttendance = dataCourseAttendance[0]["statuses"]
+        attendanceData = []
+        for i in range(0, len(dataCourseAttendance)):
+            pertemuanKe += 1
 
-        # print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
-        print(f"Processing: {filePath}")
+            # if dataCourseAttendance[0]["courseid"] == 44338:
+            idCourseSikola = dataCourseAttendance[0]["courseid"]
+            studentsStatus = dataCourseAttendance[0]["attendance_log"]
+            students = dataCourseAttendance[0]["users"]
+            statusAttendance = dataCourseAttendance[0]["statuses"]
 
-        if len(studentsStatus) > 0:
-            if idCourseSikola not in backup_list:
-                print(f"Id Course Sikola : {idCourseSikola}")
-                attendanceData = []
+            # print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
+            print(f"Processing: {filePath}")
 
-                paramsAPIGetCourseByField = {
-                    "wsfunction": "core_course_get_courses_by_field",
-                    "field": "id",
-                    "value": idCourseSikola,
-                }
+            if len(studentsStatus) > 0:
+                if idCourseSikola not in backup_list:
+                    print(f"Id Course Sikola : {idCourseSikola}")
+                    attendanceData = []
 
-                responseGetCourseSikolaByField = await session.get(
-                    baseUrl, params=paramsAPIGetCourseByField, ssl=False
-                )
-
-                dataCourseSikola = await responseGetCourseSikolaByField.json()
-
-                print("Course Attendance...")
-                courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
-                idKelasKuliah = courseIdNumber.split(".")[1]
-                tanggalRencana = todaysDate
-                presensiMahasiswa = []
-
-                if not len(students) == 0:
-                    presensiMahasiswa = []
-                    for student in students:
-                        isStudentLog = False
-                        selectedUserStatus = ""
-                        for studentstatus in studentsStatus:
-                            if studentstatus["studentid"] == student["id"]:
-                                isStudentLog = True
-                                selectedUserStatus = studentstatus["statusid"]
-                                break
-
-                        paramsAPIGetUserSikolaByField = {
-                            "wsfunction": "core_user_get_users_by_field",
-                            "field": "id",
-                            "values[0]": student["id"],
-                        }
-
-                        responseGetUserSikolaByField = await session.get(
-                            baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
-                        )
-
-                        dataUserSikolaDosen = await responseGetUserSikolaByField.json()
-
-                        dataUserSikolaDosen[0]["username"].upper()
-                        idMahasiswa = dictionaryMahasiswa.get(
-                            dataUserSikolaDosen[0]["username"].upper(), None
-                        )
-
-                        if not idMahasiswa is None:
-                            if isStudentLog:
-                                for status in statusAttendance:
-                                    if str(status["id"]) == selectedUserStatus:
-                                        dataPresensi = {
-                                            # "nim": dataUserSikolaDosen[0]["username"],
-                                            # "nama_mahasiswa": dataUserSikolaDosen[0][
-                                            #     "lastname"
-                                            # ],
-                                            "id_pertemuan": "",
-                                            "id_mahasiswa": dictionaryMahasiswa[
-                                                dataUserSikolaDosen[0][
-                                                    "username"
-                                                ].upper()
-                                            ],
-                                            "id_tipe_kehadiran": statusPresensiNeosia[
-                                                status["description"]
-                                            ],
-                                        }
-                                        presensiMahasiswa.append(dataPresensi)
-                                        break
-                            else:
-                                dataPresensi = {
-                                    # "nim": dataUserSikolaDosen[0]["username"],
-                                    # "nama_mahasiswa": dataUserSikolaDosen[0][
-                                    #     "lastname"
-                                    # ],
-                                    "id_pertemuan": "",
-                                    "id_mahasiswa": dictionaryMahasiswa[
-                                        dataUserSikolaDosen[0]["username"].upper()
-                                    ],
-                                    "id_tipe_kehadiran": statusPresensiNeosia["Absent"],
-                                }
-                                presensiMahasiswa.append(dataPresensi)
-
-                    data = {
-                        "nama_matakuliah": dataCourseSikola["courses"][0]["fullname"],
-                        "pertemuan": {
-                            "tanggal_rencana": tanggalRencana,
-                            "id_kelas_kuliah": idKelasKuliah,
-                            "pertemuan_ke": pertemuanKe,
-                            "tema": "",
-                            "pokok_bahasan": "",
-                            "keterangan": "",
-                        },
-                        "presensi": presensiMahasiswa,
+                    paramsAPIGetCourseByField = {
+                        "wsfunction": "core_course_get_courses_by_field",
+                        "field": "id",
+                        "value": idCourseSikola,
                     }
-                    attendanceData.append(data)
 
-                    with open(
-                        f"data/revisiAbsensi/{todays}/mahasiswa/{idKelasKuliah}.json",
-                        "w",
-                    ) as f:
-                        json.dump(attendanceData, f, indent=4)
+                    responseGetCourseSikolaByField = await session.get(
+                        baseUrl, params=paramsAPIGetCourseByField, ssl=False
+                    )
+
+                    dataCourseSikola = await responseGetCourseSikolaByField.json()
+
+                    print("Course Attendance...")
+                    courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
+                    idKelasKuliah = courseIdNumber.split(".")[1]
+                    tanggalRencana = todaysDate
+                    presensiMahasiswa = []
+
+                    if not len(students) == 0:
+                        presensiMahasiswa = []
+                        for student in students:
+                            isStudentLog = False
+                            selectedUserStatus = ""
+                            for studentstatus in studentsStatus:
+                                if studentstatus["studentid"] == student["id"]:
+                                    isStudentLog = True
+                                    selectedUserStatus = studentstatus["statusid"]
+                                    break
+
+                            paramsAPIGetUserSikolaByField = {
+                                "wsfunction": "core_user_get_users_by_field",
+                                "field": "id",
+                                "values[0]": student["id"],
+                            }
+
+                            responseGetUserSikolaByField = await session.get(
+                                baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
+                            )
+
+                            dataUserSikolaDosen = await responseGetUserSikolaByField.json()
+
+                            dataUserSikolaDosen[0]["username"].upper()
+                            idMahasiswa = dictionaryMahasiswa.get(
+                                dataUserSikolaDosen[0]["username"].upper(), None
+                            )
+
+                            if not idMahasiswa is None:
+                                if isStudentLog:
+                                    for status in statusAttendance:
+                                        if str(status["id"]) == selectedUserStatus:
+                                            dataPresensi = {
+                                                # "nim": dataUserSikolaDosen[0]["username"],
+                                                # "nama_mahasiswa": dataUserSikolaDosen[0][
+                                                #     "lastname"
+                                                # ],
+                                                "id_pertemuan": "",
+                                                "id_mahasiswa": dictionaryMahasiswa[
+                                                    dataUserSikolaDosen[0][
+                                                        "username"
+                                                    ].upper()
+                                                ],
+                                                "id_tipe_kehadiran": statusPresensiNeosia[
+                                                    status["description"]
+                                                ],
+                                            }
+                                            presensiMahasiswa.append(dataPresensi)
+                                            break
+                           
+
+                        data = {
+                            "nama_matakuliah": dataCourseSikola["courses"][0]["fullname"],
+                            "pertemuan": {
+                                "tanggal_rencana": tanggalRencana,
+                                "id_kelas_kuliah": idKelasKuliah,
+                                "pertemuan_ke": pertemuanKe,
+                                "tema": "",
+                                "pokok_bahasan": "",
+                                "keterangan": "",
+                            },
+                            "presensi": presensiMahasiswa,
+                        }
+                        attendanceData.append(data)
+                        
+                        attendanceData.append(data)
+                        with open(
+                            f"data/absensi/{todaysDate}/mahasiswa/{idKelasKuliah}.json",
+                            "w",
+                        ) as f:
+                            json.dump(attendanceData, f, indent=4)
+                            
+                        os.makedirs(f"data/revisiAbsensi/{todays}/dosen", exist_ok= True)
+                        with open(
+                            f"data/revisiAbsensi/{todays}/mahasiswa/{idKelasKuliah}-{tanggalRencana}.json",
+                            "w",
+                        ) as f:
+                            json.dump(attendanceData, f, indent=4)
 
 
 async def fetch_sikola_course_users():

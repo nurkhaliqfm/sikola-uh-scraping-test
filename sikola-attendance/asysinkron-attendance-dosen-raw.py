@@ -17,7 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-03-14"
+currentDate = "2024-03-19"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_dosen_raw.pkl"
@@ -167,7 +167,7 @@ async def fetch_sikola_course():
         await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    kelasActiveName = "TA232.11"
+    kelasActiveName = "TA232.12"
     listDataDetailKelasFile = glob.glob(f"data/detailkelas/{kelasActiveName}/*.json")
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 

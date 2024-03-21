@@ -44,7 +44,7 @@ else:
     print("Backup list loaded successfully.")
 
 async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, classDate):
-    print(f"Get Data {courseData["courses"][0]["fullname"]}...")
+    print(f"Get Data {courseData['courses'][0]['fullname']}...")
     resultAttendanceRaw = []
     paramsAPIGetCourseGroup = {
         "wsfunction": "core_group_get_course_groups",
@@ -99,6 +99,10 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                     datetime.fromtimestamp(sessDate, timezone.utc)
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
+                                
+                                
+                                classDateConverted = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
+
 
                                 # currentDateValue = datetime.strptime(
                                 #     classDate, "%Y-%m-%d"
@@ -111,14 +115,19 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                 #     break
 
                                 if (
-                                    convertDate == classDate
+                                    convertDate == classDateConverted
                                     and item["groupid"] == dosenGroupId
                                 ):
                                     resultAttendanceRaw.append(item)
 
                             if len(resultAttendanceRaw) > 0:
                                 with open(
-                                    f"data/attendanceRaw/{classDate}/dosen/{idKelasKuliah}.json",
+                                    f"data/attendanceRaw/{classDateConverted}/dosen/{idKelasKuliah}.json",
+                                    "w",
+                                ) as f:
+                                    json.dump(resultAttendanceRaw, f, indent=4)
+                                with open(
+                                    f"data/revisiAttendanceRaw/{currentDate}/dosen/{idKelasKuliah}-{classDateConverted}.json",
                                     "w",
                                 ) as f:
                                     json.dump(resultAttendanceRaw, f, indent=4)
@@ -165,7 +174,7 @@ async def fetch_sikola_course():
 
 if __name__ == "__main__":
     kelasActiveName = "TA232.11"
-    fileDataForm = "kendala_3.csv"
-    baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+    fileDataForm = "kendala_3_2.csv"
+    baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
     asyncio.run(fetch_sikola_course())
