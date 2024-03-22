@@ -43,7 +43,7 @@ async def process_file(filePath, session):
 
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
-                with open(newFilePath, "r") as f:
+                with open(newFilePath, "r", encoding="utf-8") as f:
                     dataPresensiInDate = f.read()
 
                 dataPresensiInDateJson = json.loads(dataPresensiInDate)
@@ -173,6 +173,7 @@ async def process_file(filePath, session):
                             "presensi": presensiDosens,
                         }
                         attendanceData.append(data)
+                        os.makedirs(f"data/absensi/{todaysDate}/dosen/", exist_ok=True)
 
                         with open(
                             f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
@@ -208,7 +209,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    end_date = "2024-03-17"
+    end_date = "2024-03-21"
 
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)
