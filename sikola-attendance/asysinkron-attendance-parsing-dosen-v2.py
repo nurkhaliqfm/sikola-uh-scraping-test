@@ -1,4 +1,6 @@
 import aiohttp
+import http.client
+
 import asyncio
 import glob
 import os
@@ -55,7 +57,7 @@ async def process_file(filePath, session):
 
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
-                with open(newFilePath, "r") as f:
+                with open(newFilePath, "r", encoding="utf-8") as f:
                     dataPresensiInDate = f.read()
 
                 dataPresensiInDateJson = json.loads(dataPresensiInDate)
@@ -72,7 +74,7 @@ async def process_file(filePath, session):
             statusAttendance = dataCourseAttendance[i]["statuses"]
 
             # print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
-            print(f"Processing: {filePath}")
+            print(f"Processing: {filePath} lecturerStatus: {len(lecturerStatus)}")
 
             if len(lecturerStatus) > 0:
                 if idCourseSikola not in backup_list:
@@ -128,7 +130,7 @@ async def process_file(filePath, session):
                             if not idDosen is None:
                                 if isDosenLog:
                                     for status in statusAttendance:
-                                        if str(status["id"]) == selectedUserStatus:
+                                        if (str(status["id"]) == selectedUserStatus and status["description"] == "Present"):
                                             dataPresensi = {
                                                 # "nim": dataUserSikolaDosen[0]["username"],
                                                 # "nama_mahasiswa": dataUserSikolaDosen[0][
@@ -174,13 +176,14 @@ async def process_file(filePath, session):
                         }
 
                         attendanceData.append(data)
-                        with open(
-                            f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
-                            "w",
-                        ) as f:
-                            json.dump(attendanceData, f, indent=4)
+                        # os.makedirs(f"data/absensi/{todaysDate}/dosen/", exist_ok=True)
+                        # with open(
+                        #     f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
+                        #     "w",
+                        # ) as f:
+                        #     json.dump(attendanceData, f, indent=4)
                         
-                        os.makedirs(f"data/revisiAbsensi/{todays}/dosen", exist_ok= True)
+                        os.makedirs(f"data/revisiAbsensi/{todays}/dosen/", exist_ok= True)
                         with open(
                             f"data/revisiAbsensi/{todays}/dosen/{idKelasKuliah}-{tanggalRencana}.json",
                             "w",
@@ -194,12 +197,17 @@ async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         tasks = []
         listDataDetailKelasFile = glob.glob(
-            f"data/revisiAttandanceRaw/{todays}/dosen/*.json"
+            f"data/revisiAttendanceRaw/{todays}/dosen/*.json"
         )
 
         for filePath in listDataDetailKelasFile:
             tasks.append(process_file(filePath, session))
         await asyncio.gather(*tasks)
+        
+        
+
+                
+            
 
 
 def generate_olds_date(startDate, endDate):
@@ -214,11 +222,51 @@ def generate_olds_date(startDate, endDate):
 
     return listOldsDate
 
+async def get_user():
+    TOKEN_USER = os.getenv("TOKEN_USER")
+    url = "http://api.devs.unhas.ac.id/sikola-service/list-dosen-neosia/"
+    headers = {
+        'Authorization': f'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vZGV2LnVuaGFzLmFjLmlkOjgwODEvIiwic3ViIjoiYmNlMjczNGYtZTJmMC01Mjg1LWI4OGUtZTAyYjk1ZjY2MzU5IiwiaWF0IjoxNzExNzg5MTg5LCJleHAiOjE3MTE5NjE5ODksIm5hbWUiOiJzaWtvbGEifQ.6LxQKcD2uskAXHUOea5nRyFmq0QSg6-NM7VQiI0Jyms'
+    }
+    
+    response = requests.request("GET", url, headers=headers)
+    data = response.json()
+    # print(data)
+    total_results = data.get('totalResults', 0)
+    
+    items_per_page = data.get('itemsPerPage', 0)
 
+
+    start_index = 0
+    all_data = {}
+
+    for start_index in range(0, total_results, items_per_page):
+        params = {
+            'startIndex': start_index
+        }
+
+        response = requests.request("GET", url, headers=headers, params=params)
+        data = response.json()
+        entries = data.get('entry', [])
+
+        # all_data.extend(data.get('entry', []))
+        
+        for entry in entries:
+            nip = entry.get('nip')
+            id_value = entry.get('id')
+            if nip:
+                all_data[nip] = id_value
+
+    return all_data
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-03-07"
-
+    todays = "2024-03-28-kendala"
+    
+    # dictionaryDosen = asyncio.run(get_user())
+    
+    # print(dictionaryDosen)
+        
+    
     with open("data/DataExternal/Dictionary_Dosen.json", "r") as f:
         dataDictionary = f.read()
 

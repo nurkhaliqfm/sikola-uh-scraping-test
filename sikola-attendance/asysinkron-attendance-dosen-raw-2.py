@@ -18,7 +18,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-03-07"
+currentDate = "2024-03-28-kendala"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_revisi_attendance_dosen_raw.pkl"
@@ -100,8 +100,15 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
                                 
+                                # cekDate = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
+                                
+                                # print(cekDate, classDate)
                                 
                                 classDateConverted = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
+                                # if classDate != datetime.strptime(classDate, "%Y-%m-%d").strftime("%Y-%m-%d"):
+                                #     classDateConverted = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
+                                # else:
+                                #     classDateConverted = classDate
 
 
                                 # currentDateValue = datetime.strptime(
@@ -121,11 +128,14 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                     resultAttendanceRaw.append(item)
 
                             if len(resultAttendanceRaw) > 0:
+                                os.makedirs(f"data/attendanceRaw/{classDateConverted}/dosen/", exist_ok=True)
+
                                 with open(
                                     f"data/attendanceRaw/{classDateConverted}/dosen/{idKelasKuliah}.json",
                                     "w",
                                 ) as f:
                                     json.dump(resultAttendanceRaw, f, indent=4)
+                                os.makedirs(f"data/revisiAttendanceRaw/{currentDate}/dosen/", exist_ok=True)
                                 with open(
                                     f"data/revisiAttendanceRaw/{currentDate}/dosen/{idKelasKuliah}-{classDateConverted}.json",
                                     "w",
@@ -135,7 +145,7 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                             break
                     break
                 
-    print(f"{courseData["courses"][0]["fullname"]} DONE..!!")
+    print(f"{courseData['courses'][0]['fullname']} DONE..!!")
     # backup_list.append(courseData["courses"][0]["shortname"])
     # save_backup_list(backup_list)
 
@@ -173,8 +183,8 @@ async def fetch_sikola_course():
             await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    kelasActiveName = "TA232.11"
-    fileDataForm = "kendala_3_2.csv"
+    kelasActiveName = "TA232.12"
+    fileDataForm = "kendala.csv"
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
     asyncio.run(fetch_sikola_course())

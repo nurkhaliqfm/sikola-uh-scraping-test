@@ -209,12 +209,12 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    end_date = "2024-03-21"
+    end_date = "2024-03-29"
 
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)
 
-    with open("data/DataExternal/Dictionary_Dosen.json", "r") as f:
+    with open("data/DataExternal/Dictionary_Dosen_2.json", "r") as f:
         dataDictionary = f.read()
 
     statusPresensiNeosia = {
@@ -224,6 +224,8 @@ if __name__ == "__main__":
         "Absent": 2,
         "Sick": 3,
     }
+
+
     dictionaryDosen = json.loads(dataDictionary)
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
     resultFetch = []

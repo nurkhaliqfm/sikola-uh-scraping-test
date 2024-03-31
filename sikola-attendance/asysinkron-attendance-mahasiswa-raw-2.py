@@ -17,15 +17,16 @@ from urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-
+resultFetch = []
+currentDate = "2024-03-26"
 def save_backup_list(
-    backup_list, filename="log/backup_list_attendance_course-mahasiswa.pkl"
+    backup_list, filename=f"log/{currentDate}_revisi_attendance_mahasiswa_raw.pkl"
 ):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/backup_list_attendance_course-mahasiswa.pkl"):
+def load_backup_list(filename=f"log/{currentDate}_revisi_attendance_mahasiswa_raw.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
@@ -41,8 +42,7 @@ if backup_list is None:
 else:
     print("Backup list loaded successfully.")
 
-resultFetch = []
-currentDate = "2024-03-07"
+
 
 
 async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, classDate):
@@ -102,8 +102,11 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                     datetime.fromtimestamp(sessDate, timezone.utc)
                                     + timedelta(hours=8)
                                 ).strftime("%Y-%m-%d")
+                                # if classDate != datetime.strptime(classDate, "%Y-%m-%d").strftime("%Y-%m-%d"):
+                                #     classDateConverted = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
+                                # else:
+                                #     classDateConverted = classDate
                                 classDateConverted = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
-
 
                                 # currentDateValue = datetime.strptime(
                                 #     classDate, "%Y-%m-%d"
@@ -122,13 +125,16 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                     resultAttendanceRaw.append(item)
 
                             if len(resultAttendanceRaw) > 0:
+                                os.makedirs(f"data/attendanceRaw/{classDateConverted}/mahasiswa/", exist_ok=True)
+
                                 with open(
                                     f"data/attendanceRaw/{classDateConverted}/mahasiswa/{idKelasKuliah}.json",
                                     "w",
                                 ) as f:
                                     json.dump(resultAttendanceRaw, f, indent=4)
+                                os.makedirs(f"data/revisiAttendanceRaw/{currentDate}/mahasiswa/", exist_ok=True)
                                 with open(
-                                    f"data/revisiAttendanceRaw/{classDateConverted}/mahasiswa/{idKelasKuliah}-{classDateConverted}.json",
+                                    f"data/revisiAttendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}-{classDateConverted}.json",
                                     "w",
                                 ) as f:
                                     json.dump(resultAttendanceRaw, f, indent=4)
@@ -171,8 +177,8 @@ async def fetch_sikola_course():
             await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    kelasActiveName = "TA232.11"
-    fileDataForm = "kendala_3_2.csv"
+    kelasActiveName = "TA232.12"
+    fileDataForm = "kendala.csv"
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
     asyncio.run(fetch_sikola_course())

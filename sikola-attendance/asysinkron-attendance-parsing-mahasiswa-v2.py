@@ -35,7 +35,7 @@ def load_backup_list(filename="log/backup_list_parsing-mahasiswa-attandance.pkl"
 async def process_file(filePath, session):
     splitOldPathFileName = filePath.split("/")[3].split("-")[0]
 
-    with open(filePath, "r") as f:
+    with open(filePath, "r", encoding="utf-8") as f:
         data = f.read()
 
     dataCourseAttendance = json.loads(data)
@@ -56,7 +56,7 @@ async def process_file(filePath, session):
 
             cekAksesFileNew = os.path.isfile(newFilePath)
             if cekAksesFileNew:
-                with open(newFilePath, "r") as f:
+                with open(newFilePath, "r", encoding="utf-8") as f:
                     dataPresensiInDate = f.read()
 
                 dataPresensiInDateJson = json.loads(dataPresensiInDate)
@@ -163,15 +163,15 @@ async def process_file(filePath, session):
                             "presensi": presensiMahasiswa,
                         }
                         attendanceData.append(data)
+                        os.makedirs(f"data/absensi/{todaysDate}/mahasiswa/", exist_ok=True)
                         
-                        attendanceData.append(data)
                         with open(
                             f"data/absensi/{todaysDate}/mahasiswa/{idKelasKuliah}.json",
                             "w",
                         ) as f:
                             json.dump(attendanceData, f, indent=4)
                             
-                        os.makedirs(f"data/revisiAbsensi/{todays}/dosen", exist_ok= True)
+                        os.makedirs(f"data/revisiAbsensi/{todays}/mahasiswa/", exist_ok= True)
                         with open(
                             f"data/revisiAbsensi/{todays}/mahasiswa/{idKelasKuliah}-{tanggalRencana}.json",
                             "w",
@@ -183,7 +183,7 @@ async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
         tasks = []
         listDataDetailKelasFile = glob.glob(
-            f"data/revisiAttandanceRaw/{todays}/mahasiswa/*.json"
+            f"data/revisiAttendanceRaw/{todays}/mahasiswa/*.json"
         )
 
         for filePath in listDataDetailKelasFile:
@@ -207,9 +207,9 @@ def generate_olds_date(startDate, endDate):
 # get fetch_sikola_course()
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-03-07"
+    todays = "2024-03-26"
 
-    with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
+    with open("data/DataExternal/Dictionary_Mahasiswa_2.json", "r") as f:
         dataDictionary = f.read()
 
     statusPresensiNeosia = {
@@ -219,6 +219,7 @@ if __name__ == "__main__":
         "Absent": 2,
         "Sick": 3,
     }
+    # dictionaryMahasiswa = asyncio.run(get_user())
     dictionaryMahasiswa = json.loads(dataDictionary)
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
     resultFetch = []
