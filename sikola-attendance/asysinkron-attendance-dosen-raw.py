@@ -17,7 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-03-17"
+currentDate = "2024-03-20"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_dosen_raw.pkl"
@@ -149,12 +149,12 @@ async def attendance_get_raw(filePath, session):
         courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
         idKelasKuliah = courseIdNumber.split(".")[1]
 
-        if not os.path.exists(
-            f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json"
-        ):
-            await attendance_item_raw(
-                session, baseUrl, dataCourseSikola, idKelasKuliah
-            )
+        # if not os.path.exists(
+        #     f"data/attendanceRaw/{currentDate}/dosen/{idKelasKuliah}.json"
+        # ):
+        await attendance_item_raw(
+            session, baseUrl, dataCourseSikola, idKelasKuliah
+        )
 
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
