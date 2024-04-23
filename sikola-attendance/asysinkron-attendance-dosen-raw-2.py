@@ -2,6 +2,7 @@ import aiohttp
 import asyncio
 import glob
 import os
+import pandas as pd
 import requests
 import json
 import pickle
@@ -18,7 +19,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-03-28-kendala"
+currentDate = "2024-04-23-kendala-2"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_revisi_attendance_dosen_raw.pkl"
@@ -104,7 +105,8 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                 
                                 # print(cekDate, classDate)
                                 
-                                classDateConverted = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
+                                classDateConverted = classDate.strftime("%Y-%m-%d")
+                                # print(classDateConverted,"sasasas")
                                 # if classDate != datetime.strptime(classDate, "%Y-%m-%d").strftime("%Y-%m-%d"):
                                 #     classDateConverted = datetime.strptime(classDate, "%d/%m/%Y").strftime("%Y-%m-%d")
                                 # else:
@@ -150,9 +152,50 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
     # save_backup_list(backup_list)
 
 
+# async def attendance_get_raw(session, itemClassError):
+#     if not itemClassError[0] == "fullname_kelas_sikola":
+#         shortname_sikola = f"TA232-{itemClassError[1]}"
+#         if shortname_sikola not in backup_list:
+#             paramsAPIGetCourseByField = {
+#                 "wsfunction": "core_course_get_courses_by_field",
+#                 "field": "shortname",
+#                 "value": shortname_sikola,
+#             }
+
+#             responseGetCourseSikolaByField = await session.get(
+#                 baseUrl, params=paramsAPIGetCourseByField, ssl=False
+#             )
+
+#             dataCourseSikola = await responseGetCourseSikolaByField.json()
+#             courseIdNumber = dataCourseSikola["courses"][0]["idnumber"]
+#             idKelasKuliah = courseIdNumber.split(".")[1]
+
+#             await attendance_item_raw(session, baseUrl, dataCourseSikola, idKelasKuliah, itemClassError[3])
+
+
+# async def fetch_sikola_course():
+#     async with aiohttp.ClientSession() as session:
+#         tasks = []
+#         print(f"Processing Course")
+        
+#         with open(f"data/DataExternal/{fileDataForm}", "r") as file:
+#             listDataDetailKelasFile = csv.reader(file, delimiter=",")
+#             for itemClassError in listDataDetailKelasFile:
+#                 tasks.append(attendance_get_raw(session, itemClassError))
+#             await asyncio.gather(*tasks)
+
+# if __name__ == "__main__":
+#     kelasActiveName = "TA232.12"
+#     fileDataForm = "kendala.csv"
+#     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
+
+#     asyncio.run(fetch_sikola_course())
+
+
 async def attendance_get_raw(session, itemClassError):
     if not itemClassError[0] == "fullname_kelas_sikola":
         shortname_sikola = f"TA232-{itemClassError[1]}"
+        print(shortname_sikola)
         if shortname_sikola not in backup_list:
             paramsAPIGetCourseByField = {
                 "wsfunction": "core_course_get_courses_by_field",
@@ -170,21 +213,28 @@ async def attendance_get_raw(session, itemClassError):
 
             await attendance_item_raw(session, baseUrl, dataCourseSikola, idKelasKuliah, itemClassError[3])
 
-
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
         tasks = []
         print(f"Processing Course")
         
-        with open(f"data/DataExternal/{fileDataForm}", "r") as file:
-            listDataDetailKelasFile = csv.reader(file, delimiter=",")
-            for itemClassError in listDataDetailKelasFile:
-                tasks.append(attendance_get_raw(session, itemClassError))
-            await asyncio.gather(*tasks)
+        if fileDataForm.endswith(".xlsx"):
+            df = pd.read_excel(f"data/DataExternal/{fileDataForm}")
+            for index, row in df.iterrows():
+                tasks.append(attendance_get_raw(session, row.tolist()))
+        elif fileDataForm.endswith(".csv"):
+            with open(f"data/DataExternal/{fileDataForm}", "r") as file:
+                listDataDetailKelasFile = csv.reader(file, delimiter=",")
+                for itemClassError in listDataDetailKelasFile:
+                    tasks.append(attendance_get_raw(session, itemClassError))
+        else:
+            print("Unsupported file format")
+
+        await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
     kelasActiveName = "TA232.12"
-    fileDataForm = "kendala.csv"
+    fileDataForm = "kendala.xlsx"
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
     asyncio.run(fetch_sikola_course())

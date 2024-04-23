@@ -79,7 +79,6 @@ async def process_file(filePath, session):
             if len(studentsStatus) > 0:
                 if idCourseSikola not in backup_list:
                     print(f"Id Course Sikola : {idCourseSikola}")
-                    attendanceData = []
 
                     paramsAPIGetCourseByField = {
                         "wsfunction": "core_course_get_courses_by_field",
@@ -148,6 +147,22 @@ async def process_file(filePath, session):
                                             }
                                             presensiMahasiswa.append(dataPresensi)
                                             break
+                                else:
+                                    dataPresensi = {
+                                        # "nim": dataUserSikolaDosen[0]["username"],
+                                        # "nama_mahasiswa": dataUserSikolaDosen[0][
+                                        #     "lastname"
+                                        # ],
+                                        "id_pertemuan": "",
+                                        "id_mahasiswa": dictionaryMahasiswa[
+                                            dataUserSikolaDosen[0]["username"].upper()
+                                        ],
+                                        "id_tipe_kehadiran": statusPresensiNeosia[
+                                            "Absent"
+                                        ],
+                                    }
+                                    presensiMahasiswa.append(dataPresensi)
+                                                
                            
 
                         data = {
@@ -207,9 +222,9 @@ def generate_olds_date(startDate, endDate):
 # get fetch_sikola_course()
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-03-26"
+    todays = "2024-04-23-kendala-1"
 
-    with open("data/DataExternal/Dictionary_Mahasiswa_2.json", "r") as f:
+    with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
         dataDictionary = f.read()
 
     statusPresensiNeosia = {

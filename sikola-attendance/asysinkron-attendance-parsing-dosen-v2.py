@@ -38,9 +38,9 @@ async def process_file(filePath, session):
     splitOldPathFileName = filePath.split("/")[3].split("-")[0]
 
     with open(filePath, "r", encoding="utf-8") as f:
-        data = f.read()
+        dataJson = f.read()
 
-    dataCourseAttendance = json.loads(data)
+    dataCourseAttendance = json.loads(dataJson)
     sessDate = dataCourseAttendance[0]["sessdate"]
     end_date = (
         datetime.fromtimestamp(sessDate, timezone.utc) + timedelta(hours=8)
@@ -65,8 +65,8 @@ async def process_file(filePath, session):
 
     if not len(dataCourseAttendance) == 0:
         attendanceData = []
+        print("dataCourseAttendance :", len(dataCourseAttendance))
         for i in range(0, len(dataCourseAttendance)):
-            # if dataCourseAttendance[0]["courseid"] == 37371:
             pertemuanKe += 1
             idCourseSikola = dataCourseAttendance[i]["courseid"]
             lecturerStatus = dataCourseAttendance[i]["attendance_log"]
@@ -74,12 +74,11 @@ async def process_file(filePath, session):
             statusAttendance = dataCourseAttendance[i]["statuses"]
 
             # print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
-            print(f"Processing: {filePath} lecturerStatus: {len(lecturerStatus)}")
+            print(f"Processing: {filePath}")
 
             if len(lecturerStatus) > 0:
                 if idCourseSikola not in backup_list:
                     print(f"Id Course Sikola : {idCourseSikola}")
-                    attendanceData = []
 
                     paramsAPIGetCourseByField = {
                         "wsfunction": "core_course_get_courses_by_field",
@@ -120,7 +119,7 @@ async def process_file(filePath, session):
                                 baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
                             )
 
-                            dataUserSikolaDosen = await responseGetUserSikolaByField.json()
+                            dataUserSikolaDosen =(await responseGetUserSikolaByField.json())
 
                             dataUserSikolaDosen[0]["username"].upper()
                             idDosen = dictionaryDosen.get(
@@ -174,14 +173,13 @@ async def process_file(filePath, session):
                             },
                             "presensi": presensiDosens,
                         }
-
                         attendanceData.append(data)
-                        # os.makedirs(f"data/absensi/{todaysDate}/dosen/", exist_ok=True)
-                        # with open(
-                        #     f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
-                        #     "w",
-                        # ) as f:
-                        #     json.dump(attendanceData, f, indent=4)
+                        os.makedirs(f"data/absensi/{todaysDate}/dosen/", exist_ok=True)
+                        with open(
+                            f"data/absensi/{todaysDate}/dosen/{idKelasKuliah}.json",
+                            "w",
+                        ) as f:
+                            json.dump(attendanceData, f, indent=4)
                         
                         os.makedirs(f"data/revisiAbsensi/{todays}/dosen/", exist_ok= True)
                         with open(
@@ -226,14 +224,14 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-03-28-kendala"
+    todays = "2024-04-22-kendala-test2"
     
     # dictionaryDosen = asyncio.run(get_user())
     
     # print(dictionaryDosen)
         
     
-    with open("data/DataExternal/Dictionary_Dosen.json", "r") as f:
+    with open("data/DataExternal/Dictionary_Dosen_2.json", "r") as f:
         dataDictionary = f.read()
 
     statusPresensiNeosia = {
