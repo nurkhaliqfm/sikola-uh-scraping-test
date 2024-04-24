@@ -58,7 +58,7 @@ async def process_file(filePath, session):
         attendanceData = []
         for i in range(0, len(dataCourseAttendance)):
             # if dataCourseAttendance[0]["courseid"] == 44338:
-            pertemuanKe += 1
+            
             idCourseSikola = dataCourseAttendance[i]["courseid"]
             studentsStatus = dataCourseAttendance[i]["attendance_log"]
             students = dataCourseAttendance[i]["users"]
@@ -68,6 +68,7 @@ async def process_file(filePath, session):
             print(f"Processing: {filePath}")
 
             if len(studentsStatus) > 0:
+                pertemuanKe += 1
                 if idCourseSikola not in backup_list:
                     print(f"Id Course Sikola : {idCourseSikola}")
                     attendanceData = []
@@ -208,7 +209,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    end_date = "2024-04-21"
+    end_date = "2024-04-23"
 
     todaysDate = end_date
     OldsDate = generate_olds_date(start_date, end_date)

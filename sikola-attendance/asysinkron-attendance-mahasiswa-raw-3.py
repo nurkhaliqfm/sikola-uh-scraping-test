@@ -18,8 +18,6 @@ from urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-resultFetch = []
-currentDate = "2024-04-22-kendala-infor"
 
 
 
@@ -91,6 +89,7 @@ async def attendance_item_raw(session, baseUrl, courseData, fullname_sikola, idK
                                     resultAttendanceRaw.append(item)
 
                             if len(resultAttendanceRaw) > 0:
+                                
                                 os.makedirs(f"data/attendanceRaw/{classDateConverted}/mahasiswa/", exist_ok=True)
 
                                 with open(
@@ -98,22 +97,32 @@ async def attendance_item_raw(session, baseUrl, courseData, fullname_sikola, idK
                                     "w",
                                 ) as f:
                                     json.dump(resultAttendanceRaw, f, indent=4)
+                                    
+                                # file_mahasiswa = f"data/revisiAttendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}-{classDateConverted}.json"
+                                # file_dosen = f"data/revisiAttendanceRaw/{currentDate}/dosen/{idKelasKuliah}-{classDateConverted}.json"
+                                                         
+                                
+
                                 os.makedirs(f"data/revisiAttendanceRaw/{currentDate}/mahasiswa/", exist_ok=True)
                                 with open(
                                     f"data/revisiAttendanceRaw/{currentDate}/mahasiswa/{idKelasKuliah}-{classDateConverted}.json",
                                     "w",
                                 ) as f:
                                     json.dump(resultAttendanceRaw, f, indent=4)
+                                
+                                
 
                             break
 
                             
                     break
+
+        
     print(f"{fullname_sikola} DONE !!!")
 
 async def attendance_get_raw(session, item):
     start_date = "2024-02-19"
-    end_date = "2024-04-22"
+    end_date = "2024-04-29"
     tasks = []
     start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
     end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
@@ -142,16 +151,19 @@ async def fetch_sikola_course(fileProdi):
         df = pd.read_excel(f"{fileProdi}")
         for index, row in df.iterrows():
             tasks.append(attendance_get_raw(session, row.tolist()))
-
-
         await asyncio.gather(*tasks)
+        
+    
+  
+
+    
 
 if __name__ == "__main__":
-    kelasActiveName = "TA232.12"
-    fileDataForm = "kendala.xlsx"
+ 
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
-    
-    id_prodi_sikola = 44
+
+    currentDate = "2024-04-24-kendala-APOTEKER2"
+    id_prodi_sikola = "140"
     fileProdi = f"data/MK/{id_prodi_sikola}.xlsx"
     
     asyncio.run(fetch_sikola_course(fileProdi))

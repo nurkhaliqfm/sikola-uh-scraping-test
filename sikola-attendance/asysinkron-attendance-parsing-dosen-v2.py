@@ -67,7 +67,6 @@ async def process_file(filePath, session):
         attendanceData = []
         print("dataCourseAttendance :", len(dataCourseAttendance))
         for i in range(0, len(dataCourseAttendance)):
-            pertemuanKe += 1
             idCourseSikola = dataCourseAttendance[i]["courseid"]
             lecturerStatus = dataCourseAttendance[i]["attendance_log"]
             lecturers = dataCourseAttendance[i]["users"]
@@ -77,6 +76,8 @@ async def process_file(filePath, session):
             print(f"Processing: {filePath}")
 
             if len(lecturerStatus) > 0:
+                pertemuanKe += 1
+
                 if idCourseSikola not in backup_list:
                     print(f"Id Course Sikola : {idCourseSikola}")
 
@@ -224,14 +225,11 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-04-22-kendala-test2"
+    todays = "2024-04-24-kendala-7"
+
+
     
-    # dictionaryDosen = asyncio.run(get_user())
-    
-    # print(dictionaryDosen)
-        
-    
-    with open("data/DataExternal/Dictionary_Dosen_2.json", "r") as f:
+    with open("data/DataExternal/Dictionary_Dosen_3.json", "r") as f:
         dataDictionary = f.read()
 
     statusPresensiNeosia = {

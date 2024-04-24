@@ -4,6 +4,8 @@ import glob
 import os
 import requests
 import json
+import pandas as pd
+
 import pickle
 from datetime import datetime, timedelta, timezone
 
@@ -36,9 +38,9 @@ async def process_file(filePath, session):
     splitOldPathFileName = filePath.split("/")[3].split("-")[0]
 
     with open(filePath, "r", encoding="utf-8") as f:
-        data = f.read()
+        dataJson = f.read()
 
-    dataCourseAttendance = json.loads(data)
+    dataCourseAttendance = json.loads(dataJson)
 
     sessDate = dataCourseAttendance[0]["sessdate"]
     end_date = (
@@ -65,18 +67,17 @@ async def process_file(filePath, session):
     if not len(dataCourseAttendance) == 0:
         attendanceData = []
         for i in range(0, len(dataCourseAttendance)):
-            pertemuanKe += 1
-
-            # if dataCourseAttendance[0]["courseid"] == 44338:
-            idCourseSikola = dataCourseAttendance[0]["courseid"]
-            studentsStatus = dataCourseAttendance[0]["attendance_log"]
-            students = dataCourseAttendance[0]["users"]
-            statusAttendance = dataCourseAttendance[0]["statuses"]
+            idCourseSikola = dataCourseAttendance[i]["courseid"]
+            studentsStatus = dataCourseAttendance[i]["attendance_log"]
+            students = dataCourseAttendance[i]["users"]
+            statusAttendance = dataCourseAttendance[i]["statuses"]
 
             # print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
-            print(f"Processing: {filePath}")
+            # print(f"Processing: {filePath}")
 
             if len(studentsStatus) > 0:
+                pertemuanKe += 1
+
                 if idCourseSikola not in backup_list:
                     print(f"Id Course Sikola : {idCourseSikola}")
 
@@ -119,7 +120,7 @@ async def process_file(filePath, session):
                                 baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
                             )
 
-                            dataUserSikolaDosen = await responseGetUserSikolaByField.json()
+                            dataUserSikolaDosen = (await responseGetUserSikolaByField.json())
 
                             dataUserSikolaDosen[0]["username"].upper()
                             idMahasiswa = dictionaryMahasiswa.get(
@@ -220,9 +221,41 @@ def generate_olds_date(startDate, endDate):
 
 
 # get fetch_sikola_course()
+
+
+async def audit():
+      #CEK NOT IN MAHASISWA AND NOT IN DOSEN REVISI ABSENSI
+    dosen_folder = f"data/revisiAbsensi/{todays}/dosen"
+    mahasiswa_folder = f"data/revisiAbsensi/{todays}/mahasiswa"
+
+    dosen_files = os.listdir(dosen_folder)
+    mahasiswa_files = os.listdir(mahasiswa_folder)
+    
+    dosen_id_kelas = [filename.split(".")[0] for filename in dosen_files]
+    mahasiswa_id_kelas = [filename.split(".")[0] for filename in mahasiswa_files]
+
+    not_in_mahasiswa = [filename for filename in dosen_id_kelas if filename not in mahasiswa_id_kelas]
+    not_in_dosen = [filename for filename in mahasiswa_id_kelas if filename not in dosen_id_kelas]
+
+    json_not_in_mahasiswa = []
+
+    for id_kelas in not_in_mahasiswa + not_in_dosen:
+        folder = dosen_folder if id_kelas in not_in_mahasiswa else mahasiswa_folder
+        keterangan = "TANGAL PRESENSI TIDAK ADA DI MAHASISWA" if id_kelas in not_in_mahasiswa else "TANGGAL PRESENSI TIDAK ADA DI DOSEN"
+
+        with open(f"{folder}/{id_kelas}.json") as file:
+            data = json.load(file)
+
+            for item in data:
+                json_not_in_mahasiswa.append([item['nama_matakuliah'], item['pertemuan']['id_kelas_kuliah'], item['pertemuan']['tanggal_rencana'], keterangan])
+
+    with pd.ExcelWriter(f"data/MK/Hasil Audit {todays}.xlsx") as writer:
+        df = pd.DataFrame(json_not_in_mahasiswa, columns=["fullname", "id_kelas", "tangal_presensi", "keterangan"])
+        df.to_excel(writer, index=False)
+ 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-04-23-kendala-1"
+    todays = "2024-04-24-kendala-7"
 
     with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
         dataDictionary = f.read()
@@ -248,3 +281,7 @@ if __name__ == "__main__":
         print("Backup list loaded successfully.")
 
     asyncio.run(fetch_sikola_course_users())
+    # asyncio.run(audit())
+    
+    
+     
