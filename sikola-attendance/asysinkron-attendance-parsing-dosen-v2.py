@@ -225,7 +225,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-04-24-kendala-7"
+    todays = "2024-04-26-kendala-2"
 
 
     

@@ -185,7 +185,7 @@ async def fetch_sikola_course():
         await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    currentDate = "2024-04-24-kendala-7"
+    currentDate = "2024-04-26-kendala-2"
 
     kelasActiveName = "TA232.12"
     fileDataForm = "kendala.xlsx"

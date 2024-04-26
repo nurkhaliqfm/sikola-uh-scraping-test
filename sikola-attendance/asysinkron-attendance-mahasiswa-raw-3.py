@@ -162,8 +162,8 @@ if __name__ == "__main__":
  
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
-    currentDate = "2024-04-24-kendala-APOTEKER2"
-    id_prodi_sikola = "140"
+    currentDate = "2024-04-26-kendala-INFORS1"
+    id_prodi_sikola = "44"
     fileProdi = f"data/MK/{id_prodi_sikola}.xlsx"
     
     asyncio.run(fetch_sikola_course(fileProdi))

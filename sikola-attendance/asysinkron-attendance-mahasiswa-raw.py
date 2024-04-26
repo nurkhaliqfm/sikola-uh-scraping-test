@@ -17,7 +17,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
-currentDate = "2024-04-23"
+currentDate = "2024-04-24"
 
 def save_backup_list(
     backup_list, filename=f"log/{currentDate}_attendance_mahasiswa_raw.pkl"

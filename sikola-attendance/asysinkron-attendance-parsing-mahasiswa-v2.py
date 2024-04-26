@@ -255,7 +255,7 @@ async def audit():
  
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-04-24-kendala-7"
+    todays = "2024-04-26-kendala-2"
 
     with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
         dataDictionary = f.read()
@@ -281,7 +281,7 @@ if __name__ == "__main__":
         print("Backup list loaded successfully.")
 
     asyncio.run(fetch_sikola_course_users())
-    # asyncio.run(audit())
+    asyncio.run(audit())
     
     
      
