@@ -250,12 +250,12 @@ async def audit():
                 json_not_in_mahasiswa.append([item['nama_matakuliah'], item['pertemuan']['id_kelas_kuliah'], item['pertemuan']['tanggal_rencana'], keterangan])
 
     with pd.ExcelWriter(f"data/MK/Hasil Audit {todays}.xlsx") as writer:
-        df = pd.DataFrame(json_not_in_mahasiswa, columns=["fullname", "id_kelas", "tangal_presensi", "keterangan"])
+        df = pd.DataFrame(json_not_in_mahasiswa, columns=["fullname_kelas_sikola", "id_kelas_kuliah", "tangal_presensi", "keterangan"])
         df.to_excel(writer, index=False)
  
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-04-26-kendala-2"
+    todays = "2024-05-03-kendala-1"
 
     with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
         dataDictionary = f.read()

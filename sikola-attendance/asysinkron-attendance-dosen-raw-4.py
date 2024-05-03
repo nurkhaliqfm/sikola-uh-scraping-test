@@ -135,7 +135,7 @@ async def attendance_get_raw(session, itemClassError):
     
     print(itemClassError[1])
     start_date = "2024-02-19"
-    end_date = "2024-04-29"
+    end_date = "2024-05-06"
     tasks = []
     
     start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
@@ -185,7 +185,7 @@ async def fetch_sikola_course():
         await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    currentDate = "2024-04-26-kendala-2"
+    currentDate = "2024-05-03-kendala-1"
 
     kelasActiveName = "TA232.12"
     fileDataForm = "kendala.xlsx"

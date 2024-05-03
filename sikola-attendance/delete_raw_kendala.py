@@ -28,7 +28,7 @@ async def delete_parsing():
     unique_ids = df.drop_duplicates(subset=['id_kelas_kuliah'])[['fullname_kelas_sikola', 'id_kelas_kuliah']]
 
     start_date = "2024-02-19"
-    end_date = "2024-04-29"
+    end_date = "2024-05-06"
     start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
     end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
     for index, row in unique_ids.iterrows():
