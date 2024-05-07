@@ -20,12 +20,32 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 resultFetch = []
 
+currentDate = "2024-05-06-ALL"
 
 
+def save_backup_list(
+    backup_list, filename=f"log/{currentDate}_attendance_dosen_raw.pkl"
+):
+    with open(filename, "wb") as file:
+        pickle.dump(backup_list, file)
 
+def load_backup_list(filename=f"log/{currentDate}_attendance_dosen_raw.pkl"):
+    try:
+        with open(filename, "rb") as file:
+            return pickle.load(file)
+    except FileNotFoundError:
+        return None
+    
+backup_list = load_backup_list()
 
+if backup_list is None:
+    backup_list = list([])
+    save_backup_list(backup_list)
+else:
+    print("Backup list loaded successfully.") 
+    
 
-async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, classDateConverted):
+async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, classDateConverted, nama_prodi, nama_fakultas):
     print(f"Get Data {courseData['courses'][0]['fullname']}...")
     resultAttendanceRaw = []
     paramsAPIGetCourseGroup = {
@@ -108,6 +128,10 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                                     convertDate == classDateConverted
                                     and item["groupid"] == dosenGroupId
                                 ):
+                                    
+                                    item["nama_prodi"] = nama_prodi
+                                    item["nama_fakultas"] = nama_fakultas
+                                   
                                     resultAttendanceRaw.append(item)
 
                             if len(resultAttendanceRaw) > 0:
@@ -129,35 +153,37 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
                     break
                 
     print(f"{courseData['courses'][0]['fullname']} DONE..!!")
-  
+    var_backup = f"{idKelasKuliah}-{classDateConverted}"
+    backup_list.append(var_backup)
+    save_backup_list(backup_list)
 
 async def attendance_get_raw(session, itemClassError):
     
-    print(itemClassError[1])
     start_date = "2024-02-19"
     end_date = "2024-05-13"
     tasks = []
     
     start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
     end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
-
-
+    
     for date_obj in range((end_date_obj - start_date_obj).days + 1):
         current_date = (start_date_obj + timedelta(days=date_obj)).strftime("%Y-%m-%d")
-        shortname_sikola = f"TA232-{itemClassError[1]}"
-        paramsAPIGetCourseByField = {
-            "wsfunction": "core_course_get_courses_by_field",
-            "field": "shortname",
-            "value": shortname_sikola,
-        }
+        var_load = f"{itemClassError[1]}-{current_date}"
+        if var_load not in backup_list:
+            shortname_sikola = f"TA232-{itemClassError[1]}"
+            paramsAPIGetCourseByField = {
+                "wsfunction": "core_course_get_courses_by_field",
+                "field": "shortname",
+                "value": shortname_sikola,
+            }
 
-        responseGetCourseSikolaByField = await session.get(
-            baseUrl, params=paramsAPIGetCourseByField, ssl=False
-        )
+            responseGetCourseSikolaByField = await session.get(
+                baseUrl, params=paramsAPIGetCourseByField, ssl=False
+            )
 
-        dataCourseSikola = await responseGetCourseSikolaByField.json()
-        tasks.append(attendance_item_raw(session, baseUrl, dataCourseSikola, itemClassError[1], current_date))
-    
+            dataCourseSikola = await responseGetCourseSikolaByField.json()
+            tasks.append(attendance_item_raw(session, baseUrl, dataCourseSikola, itemClassError[1], current_date, itemClassError[2], itemClassError[3]))
+        
     await asyncio.gather(*tasks)
 
 
@@ -168,7 +194,7 @@ async def fetch_sikola_course():
         
         if fileDataForm.endswith(".xlsx"):
             df = pd.read_excel(f"data/DataExternal/{fileDataForm}")
-            unique_ids = df.drop_duplicates(subset=['id_kelas_kuliah'])[['fullname_kelas_sikola', 'id_kelas_kuliah']]
+            unique_ids = df.drop_duplicates(subset=['id_kelas_kuliah'])[['fullname_kelas_sikola', 'id_kelas_kuliah', 'nama_prodi', 'nama_fakultas']]
 
             
             for index, row in unique_ids.iterrows():
@@ -185,10 +211,12 @@ async def fetch_sikola_course():
         await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    currentDate = "2024-05-07-kendala-1"
 
     kelasActiveName = "TA232.12"
-    fileDataForm = "kendala.xlsx"
+    fileDataForm = "all_kelas.xlsx"
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
     asyncio.run(fetch_sikola_course())
+
+
+    

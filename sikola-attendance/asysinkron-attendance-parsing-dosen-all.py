@@ -18,6 +18,7 @@ from urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
+todays = "2024-05-06-ALL"
 
 def save_backup_list(
     backup_list, filename="log/backup_list_parsing-dosen-attandance.pkl"
@@ -42,6 +43,8 @@ async def process_file(filePath, session):
 
     dataCourseAttendance = json.loads(dataJson)
     sessDate = dataCourseAttendance[0]["sessdate"]
+    nama_prodi = dataCourseAttendance[0]["nama_prodi"]
+    nama_fakultas = dataCourseAttendance[0]["nama_fakultas"]
     end_date = (
         datetime.fromtimestamp(sessDate, timezone.utc) + timedelta(hours=8)
     ).strftime("%Y-%m-%d")
@@ -173,6 +176,8 @@ async def process_file(filePath, session):
                                 "keterangan": "",
                             },
                             "presensi": presensiDosens,
+                            "nama_prodi": nama_prodi,
+                            "nama_fakultas": nama_fakultas
                         }
                         attendanceData.append(data)
                         os.makedirs(f"data/absensi/{todaysDate}/dosen/", exist_ok=True)
@@ -225,8 +230,6 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-05-07-kendala-ILPOL48"
-
     with open("data/DataExternal/Dictionary_Dosen_3.json", "r") as f:
         dataDictionary = f.read()
 

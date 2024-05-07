@@ -36,7 +36,8 @@ def load_backup_list(filename="log/backup_list_parsing-mahasiswa-attandance.pkl"
 
 async def process_file(filePath, session):
     splitOldPathFileName = filePath.split("/")[3].split("-")[0]
-
+    
+    
     with open(filePath, "r", encoding="utf-8") as f:
         dataJson = f.read()
 
@@ -177,6 +178,7 @@ async def process_file(filePath, session):
                                 "keterangan": "",
                             },
                             "presensi": presensiMahasiswa,
+                          
                         }
                         attendanceData.append(data)
                         os.makedirs(f"data/absensi/{todaysDate}/mahasiswa/", exist_ok=True)
@@ -255,7 +257,7 @@ async def audit():
  
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-05-03-kendala-1"
+    todays = "2024-05-07-kendala-ILPOL48"
 
     with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
         dataDictionary = f.read()

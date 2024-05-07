@@ -122,7 +122,7 @@ async def attendance_item_raw(session, baseUrl, courseData, fullname_sikola, idK
 
 async def attendance_get_raw(session, item):
     start_date = "2024-02-19"
-    end_date = "2024-05-06"
+    end_date = "2024-05-13"
     tasks = []
     start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
     end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
@@ -162,8 +162,8 @@ if __name__ == "__main__":
  
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
-    currentDate = "2024-05-02-kendala-S2-MB"
-    id_prodi_sikola = "235"
+    currentDate = "2024-05-07-kendala-ILPOL48"
+    id_prodi_sikola = "48"
     fileProdi = f"data/MK/{id_prodi_sikola}.xlsx"
     
     asyncio.run(fetch_sikola_course(fileProdi))
