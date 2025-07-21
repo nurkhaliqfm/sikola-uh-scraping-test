@@ -26,7 +26,7 @@ resultFetch = []
 
 
 async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, classDateConverted):
-    print(f"Get Data {courseData['courses'][0]['fullname']}...")
+    # print(f"Get Data {courseData['courses'][0]['fullname']}...")
     resultAttendanceRaw = []
     paramsAPIGetCourseGroup = {
         "wsfunction": "core_group_get_course_groups",
@@ -135,31 +135,35 @@ async def attendance_get_raw(session, itemClassError):
     
     print(itemClassError[1])
     start_date = "2024-02-19"
-    end_date = "2024-05-13"
+    end_date = "2024-07-31"
     tasks = []
     
     start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
     end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
-
-
-    for date_obj in range((end_date_obj - start_date_obj).days + 1):
-        current_date = (start_date_obj + timedelta(days=date_obj)).strftime("%Y-%m-%d")
-        shortname_sikola = f"TA232-{itemClassError[1]}"
-        paramsAPIGetCourseByField = {
-            "wsfunction": "core_course_get_courses_by_field",
-            "field": "shortname",
-            "value": shortname_sikola,
-        }
-
-        responseGetCourseSikolaByField = await session.get(
-            baseUrl, params=paramsAPIGetCourseByField, ssl=False
-        )
-
-        dataCourseSikola = await responseGetCourseSikolaByField.json()
-        tasks.append(attendance_item_raw(session, baseUrl, dataCourseSikola, itemClassError[1], current_date))
     
-    await asyncio.gather(*tasks)
+    try:
+    
+        for date_obj in range((end_date_obj - start_date_obj).days + 1):
+            current_date = (start_date_obj + timedelta(days=date_obj)).strftime("%Y-%m-%d")
+            shortname_sikola = f"TA232-{itemClassError[1]}"
+        
+            paramsAPIGetCourseByField = {
+                "wsfunction": "core_course_get_courses_by_field",
+                "field": "shortname",
+                "value": shortname_sikola,
+            }
 
+            responseGetCourseSikolaByField = await session.get(
+                baseUrl, params=paramsAPIGetCourseByField, ssl=False
+            )
+
+            dataCourseSikola = await responseGetCourseSikolaByField.json()
+            tasks.append(attendance_item_raw(session, baseUrl, dataCourseSikola, itemClassError[1], current_date))
+        
+        await asyncio.gather(*tasks)
+        
+    except Exception as e:
+        print(f"{itemClassError[1]}-{itemClassError[0]} : {e}")
 
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
@@ -172,20 +176,27 @@ async def fetch_sikola_course():
 
             
             for index, row in unique_ids.iterrows():
-                tasks.append(attendance_get_raw(session, row.tolist()))
+                try:
+                    tasks.append(attendance_get_raw(session, row.tolist()))
+                except Exception as e:
+                        print(f"{row}-{index} : {e}")
 
         elif fileDataForm.endswith(".csv"):
             with open(f"data/DataExternal/{fileDataForm}", "r") as file:
                 listDataDetailKelasFile = csv.reader(file, delimiter=",")
                 for itemClassError in listDataDetailKelasFile:
-                    tasks.append(attendance_get_raw(session, itemClassError))
+                    try:
+                        tasks.append(attendance_get_raw(session, itemClassError))
+                    except Exception as e:
+                        print(f"{itemClassError} : {e}")
+                        
         else:
             print("Unsupported file format")
 
         await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    currentDate = "2024-05-07-kendala-1"
+    currentDate = "2024-07-09-kendala-1"
 
     kelasActiveName = "TA232.12"
     fileDataForm = "kendala.xlsx"

@@ -42,7 +42,7 @@ else:
     print("Backup list loaded successfully.")
 
 resultFetch = []
-currentDate = "2024-05-03"
+currentDate = "2024-19-07"
 
 
 # async def run_tasks_in_batches(tasks, batch_size):
@@ -260,7 +260,7 @@ async def course_reports(
             ],
         )
         df.to_csv(
-            f"data/CourseReport/{idNumber}.csv", index=False, header=True, sep=";"
+            f"data/CourseReport2/{idNumber}.csv", index=False, header=True, sep=";"
         )
 
 
@@ -269,7 +269,7 @@ async def fetch_sikola_course():
         task = []
 
         for filePath in listDataDetailKelasFile:
-            with open(filePath, "r",  encoding="utf-8") as f:
+            with open(filePath, "r", encoding="utf-8") as f:
                 data = f.read()
 
             dataDetailCourse = json.loads(data)
@@ -291,10 +291,8 @@ async def fetch_sikola_course():
                 )
 
                 dataCourseSikola = await responseGetCourseSikolaByField.json()
-                
-                os.makedirs(f"data/CourseReport", exist_ok=True)
 
-                if not os.path.exists(f"data/CourseReport/{idnumber_sikola}.csv"):
+                if not os.path.exists(f"data/CourseReport2/{idnumber_sikola}.csv"):
                     print(f"Progress: {nama_prodi} {nama_kelas}")
                     task.append(
                         course_reports(

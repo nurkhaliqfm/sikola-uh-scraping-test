@@ -1,0 +1,208 @@
+[
+  {
+      "id": 70848,
+      "username": "198108102009121002",
+      "firstname": ".",
+      "lastname": "dr. Syarif, Sp.U.",
+      "fullname": ". dr. Syarif, Sp.U.",
+      "email": "syarifbakri@hotmail.com",
+      "department": "",
+      "idnumber": "1869",
+      "firstaccess": 0,
+      "lastaccess": 0,
+      "lastcourseaccess": 0,
+      "description": "",
+      "descriptionformat": 1,
+      "country": "ID",
+      "profileimageurlsmall": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f2",
+      "profileimageurl": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f1",
+      "groups": [
+          {
+              "id": 33478,
+              "name": "DOSEN",
+              "description": "TA232-127795",
+              "descriptionformat": 1
+          }
+      ],
+      "roles": [
+          {
+              "roleid": 3,
+              "name": "Lecturer",
+              "shortname": "editingteacher",
+              "sortorder": 0
+          }
+      ]
+ 
+  },
+  {
+      "id": 71158,
+      "username": "197601122006042001",
+      "firstname": ".",
+      "lastname": "dr. Sachraswaty R. Laidding, Sp.B.P.,Sp.BP.RE",
+      "fullname": ". dr. Sachraswaty R. Laidding, Sp.B.P.,Sp.BP.RE",
+      "email": "sachras1276@gmail.com",
+      "phone1": "08114137896",
+      "department": "",
+      "idnumber": "1780",
+      "firstaccess": 0,
+      "lastaccess": 0,
+      "lastcourseaccess": 0,
+      "description": "",
+      "descriptionformat": 1,
+      "country": "ID",
+      "profileimageurlsmall": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f2",
+      "profileimageurl": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f1",
+      "groups": [
+          {
+              "id": 33478,
+              "name": "DOSEN",
+              "description": "TA232-127795",
+              "descriptionformat": 1
+          }
+      ],
+      "roles": [
+          {
+              "roleid": 3,
+              "name": "Lecturer",
+              "shortname": "editingteacher",
+              "sortorder": 0
+          }
+      ]
+
+  },
+  {
+      "id": 71247,
+      "username": "197412142002121001",
+      "firstname": ".",
+      "lastname": "dr. Muhammad Asykar Asharullah Palinrungi, S.Ked.,Sp.U",
+      "fullname": ". dr. Muhammad Asykar Asharullah Palinrungi, S.Ked.,Sp.U",
+      "email": "apalinrungi@yahoo.com",
+      "department": "",
+      "idnumber": "2405",
+      "firstaccess": 0,
+      "lastaccess": 0,
+      "lastcourseaccess": 0,
+      "description": "",
+      "descriptionformat": 1,
+      "country": "ID",
+      "profileimageurlsmall": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f2",
+      "profileimageurl": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f1",
+      "groups": [
+          {
+              "id": 33478,
+              "name": "DOSEN",
+              "description": "TA232-127795",
+              "descriptionformat": 1
+          }
+      ],
+      "roles": [
+          {
+              "roleid": 3,
+              "name": "Lecturer",
+              "shortname": "editingteacher",
+              "sortorder": 0
+          }
+      ]
+
+  },
+  {
+      "id": 71282,
+      "username": "197406292008121001",
+      "firstname": ".",
+      "lastname": "Dr. dr. Prihantono, Sp.B (K)",
+      "fullname": ". Dr. dr. Prihantono, Sp.B (K)",
+      "email": "prihantono.md@gmail.com",
+      "phone1": "197406292008121001",
+      "department": "",
+      "idnumber": "1855",
+      "firstaccess": 0,
+      "lastaccess": 0,
+      "lastcourseaccess": 0,
+      "description": "",
+      "descriptionformat": 1,
+      "country": "ID",
+      "profileimageurlsmall": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f2",
+      "profileimageurl": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f1",
+      "groups": [
+          {
+              "id": 33478,
+              "name": "DOSEN",
+              "description": "TA232-127795",
+              "descriptionformat": 1
+          }
+      ],
+      "roles": [
+          {
+              "roleid": 3,
+              "name": "Lecturer",
+              "shortname": "editingteacher",
+              "sortorder": 0
+          }
+      ]
+
+  },
+  {
+      "id": 87156,
+      "username": "c235232001",
+      "firstname": "C235232001",
+      "lastname": "MUHAMMAD ZULHARYAHYA DANDY ASMARA PUTRA",
+      "fullname": "C235232001 MUHAMMAD ZULHARYAHYA DANDY ASMARA PUTRA",
+      "email": "C235232001@unhas.ac.id",
+      "department": "",
+      "idnumber": "428904",
+      "firstaccess": 0,
+      "lastaccess": 0,
+      "lastcourseaccess": 0,
+      "country": "ID",
+      "profileimageurlsmall": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f2",
+      "profileimageurl": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f1",
+      "groups": [
+          {
+              "id": 33477,
+              "name": "MAHASISWA",
+              "description": "TA232-127795",
+              "descriptionformat": 1
+          }
+      ],
+      "roles": [
+          {
+              "roleid": 5,
+              "name": "",
+              "shortname": "student",
+              "sortorder": 0
+          }
+      ]
+  },
+  {
+      "id": 87157,
+      "username": "c235232002",
+      "firstname": "C235232002",
+      "lastname": "ADE TIRTAYADI",
+      "fullname": "C235232002 ADE TIRTAYADI",
+      "email": "C235232002@unhas.ac.id",
+      "department": "",
+      "idnumber": "428905",
+      "firstaccess": 0,
+      "lastaccess": 0,
+      "lastcourseaccess": 0,
+      "country": "ID",
+      "profileimageurlsmall": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f2",
+      "profileimageurl": "https://sikola-v2.unhas.ac.id/theme/image.php/boost/core/1718792022/u/f1",
+      "groups": [
+          {
+              "id": 33477,
+              "name": "MAHASISWA",
+              "description": "TA232-127795",
+              "descriptionformat": 1
+          }
+      ],
+      "roles": [
+          {
+              "roleid": 5,
+              "name": "",
+              "shortname": "student",
+              "sortorder": 0
+          }
+      ]
+  }
+]

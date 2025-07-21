@@ -372,7 +372,8 @@ if __name__ == '__main__':
 #     with open(f"{result_folder}/notInMahasiswa-{start_date}-{end_date}.csv", "w", newline='') as file:
 #         writer = csv.writer(file)
 #         writer.writerow(["tanggal_rencana","id_kelas", 'nama_kelas', 'prodi', 'nama_fakultas'])
-#         writer.writerows(result_data)
+#         writer.write]
+# rows(result_data)
 
 
 # if __name__ == '__main__':

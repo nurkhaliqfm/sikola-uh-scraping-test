@@ -69,7 +69,7 @@ async def enroll_user(session, students, baseUrl, courseData):
                     "users[0][firstname]": namaMahasiswa,
                     "users[0][username]": nimMahasiswa,
                     "users[0][idnumber]": nimMahasiswa,
-                    "users[0][password]": f"{nimMahasiswa}@2023!",
+                    "users[0][password]": f"{nimMahasiswa}",
                     "users[0][lastname]": ".",
                     "users[0][email]": f"{nimMahasiswa}@unhas.ac.id",
                 }

@@ -157,9 +157,9 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
 #         shortname_sikola = f"TA232-{itemClassError[1]}"
 #         if shortname_sikola not in backup_list:
 #             paramsAPIGetCourseByField = {
-#                 "wsfunction": "core_course_get_courses_by_field",
-#                 "field": "shortname",
-#                 "value": shortname_sikola,
+# "wsfunction": "core_course_get_courses_by_field",
+# "field"     : "shortname",
+# "value"     : shortname_sikola,
 #             }
 
 #             responseGetCourseSikolaByField = await session.get(

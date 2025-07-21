@@ -1,0 +1,117 @@
+{
+    "dataReports": [
+        [
+            69094,
+            "Biologi Dasar 00003 Konservasi Hutan A [23H04110103]",
+            "MKU  Eksakta",
+            "MKU",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=583745",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=69094",
+            "150286"
+        ],
+        [
+            67308,
+            "Ekologi Perairan [23H04122403]",
+            "BIOLOGI - S1",
+            "MATEMATIKA DAN ILMU PENG. ALAM",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=562263",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=67308",
+            "153890"
+        ],
+        [
+            67325,
+            "Konservasi SDA [23H04122002]",
+            "BIOLOGI - S1",
+            "MATEMATIKA DAN ILMU PENG. ALAM",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=562269",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=67325",
+            "154077"
+        ],
+        [
+            67307,
+            "Ekologi Dasar (A) [23H04110303]",
+            "BIOLOGI - S1",
+            "MATEMATIKA DAN ILMU PENG. ALAM",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=562236",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=67307",
+            "153880"
+        ],
+        [
+            67312,
+            "Ekologi Dasar (B) [23H04110303]",
+            "BIOLOGI - S1",
+            "MATEMATIKA DAN ILMU PENG. ALAM",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=596840",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=67312",
+            "153902"
+        ],
+        [
+            69697,
+            "Biokimia Tanaman Kelas A [23G01110503]",
+            "AGROTEKNOLOGI - S1",
+            "PERTANIAN",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=646833",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=69697",
+            "152223"
+        ],
+        [
+            69468,
+            "Wawasan Budaya & Ipteks BMI 00022 [23U01111002]",
+            "MKU  Non-Eksakta",
+            "MKU",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=608653",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=69468",
+            "150628"
+        ],
+        [
+            69742,
+            "Rancangan Percobaan Kelas D [23G01121103]",
+            "AGROTEKNOLOGI - S1",
+            "PERTANIAN",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=641691",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=69742",
+            "152304"
+        ],
+        [
+            63849,
+            "Dasar-dasar Agroromi Kelas B (Angkatan 2024) [23G01110703]",
+            "ILMU TANAH - S1",
+            "PERTANIAN",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=639541",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=63849",
+            "153924"
+        ],
+        [
+            69750,
+            "Ilmu dan Pengendalian Gulma Kelas F [23G01121203]",
+            "AGROTEKNOLOGI - S1",
+            "PERTANIAN",
+            "https://sikola-v2.unhas.ac.id/mod/attendance/view.php?id=647084",
+            "Tidak Ada SESSION Presensi",
+            "https://sikola-v2.unhas.ac.id/course/view.php?id=69750",
+            "152315"
+        ]
+    ],
+    "processed_courses": [
+        "44632.150286.141.1.1.0.0",
+        "44643.150628.142.1.1.0.0",
+        "46621.152151.34.1.1.0.0",
+        "46641.152223.152.1.1.0.0",
+        "46654.152304.152.1.1.0.0",
+        "46655.152315.152.1.1.0.0",
+        "44778.153880.50.1.1.0.0",
+        "45082.153890.50.1.1.0.0",
+        "44778.153902.50.1.1.0.0",
+        "48823.153924.232.1.1.0.0",
+        "45063.154077.50.1.1.0.0"
+    ]
+}

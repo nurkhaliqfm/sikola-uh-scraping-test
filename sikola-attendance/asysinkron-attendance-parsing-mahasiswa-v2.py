@@ -203,9 +203,13 @@ async def fetch_sikola_course_users():
         listDataDetailKelasFile = glob.glob(
             f"data/revisiAttendanceRaw/{todays}/mahasiswa/*.json"
         )
-
+        
         for filePath in listDataDetailKelasFile:
-            tasks.append(process_file(filePath, session))
+            try:
+
+                tasks.append(process_file(filePath, session))
+            except Exception as e:
+                print(f"{filePath} : {e}")
         await asyncio.gather(*tasks)
 
 
@@ -257,7 +261,7 @@ async def audit():
  
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-05-07-kendala-ILPOL48"
+    todays = "2024-07-09-kendala-1"
 
     with open("data/DataExternal/Dictionary_Mahasiswa.json", "r") as f:
         dataDictionary = f.read()

@@ -18,7 +18,7 @@ from urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-todays = "2024-05-06-ALL"
+todays = "2024-06-23-ALL-2"
 
 def save_backup_list(
     backup_list, filename="log/backup_list_parsing-dosen-attandance.pkl"
@@ -230,7 +230,7 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    with open("data/DataExternal/Dictionary_Dosen_3.json", "r") as f:
+    with open("data/DataExternal/Dictionary_Dosen_5.json", "r") as f:
         dataDictionary = f.read()
 
     statusPresensiNeosia = {

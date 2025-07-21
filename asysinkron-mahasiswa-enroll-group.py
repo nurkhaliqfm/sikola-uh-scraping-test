@@ -17,13 +17,13 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 def save_backup_list(
-    backup_list, filename="log/backup_list_enrol_mahasiswa-enrole-group.pkl"
+    backup_list, filename="log/backup_list_enrol_mahasiswa-enrole-group-MAHASISWA-A.pkl"
 ):
     with open(filename, "wb") as file:
         pickle.dump(backup_list, file)
 
 
-def load_backup_list(filename="log/backup_list_enrol_mahasiswa-enrole-group.pkl"):
+def load_backup_list(filename="log/backup_list_enrol_mahasiswa-enrole-group-MAHASISWA-A.pkl"):
     try:
         with open(filename, "rb") as file:
             return pickle.load(file)
@@ -42,9 +42,10 @@ else:
 
 resultFetch = []
 
+async def enroll_user_grup_mhs(session, students, baseUrl, courseData):
+    tasks = []
 
-async def unenroll_user(session, students, baseUrl, courseData):
-    task = []
+    # Dapatkan daftar grup di course
     paramsAPIGetCourseGroup = {
         "wsfunction": "core_group_get_course_groups",
         "courseid": courseData["courses"][0]["id"],
@@ -55,91 +56,126 @@ async def unenroll_user(session, students, baseUrl, courseData):
     )
 
     dataCourseGroup = await responseGETCourseGroup.json()
-    if not len(dataCourseGroup) == 0:
+
+    if dataCourseGroup:
         print("Student...")
-        mahasiswaGroupId = dataCourseGroup[1]["id"]
-        for student in students:
-            print(f"Student: {student['nama_mahasiswa']}")
-            paramsAPIGetUserSikolaByField = {
-                "wsfunction": "core_user_get_users_by_field",
-                "field": "username",
-                "values[0]": student["nim"].lower(),
+        # Cari grup dengan nama MAHASISWA
+        mahasiswaGroup = next(
+            (group for group in dataCourseGroup if group["name"] == "MAHASISWA"), None
+        )
+        
+        if mahasiswaGroup:
+            mahasiswaGroupId = mahasiswaGroup["id"]
+
+            # Dapatkan daftar peserta yang sudah terdaftar di course
+            getUserPeserta = {
+                "wsfunction": "core_enrol_get_enrolled_users",
+                "courseid": courseData["courses"][0]["id"],
             }
 
-            responseGetUserSikolaByField = await session.get(
-                baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
+            responseGetPeserta = await session.get(
+                baseUrl, params=getUserPeserta, ssl=False
             )
 
-            dataUserSikola = await responseGetUserSikolaByField.json()
+            dataPeserta = await responseGetPeserta.json()
 
-            if not len(dataUserSikola) == 0:
-                paramsAPIEnrollMahasiswaToGroup = {
-                    "wsfunction": "core_group_add_group_members",
-                    "members[0][groupid]": mahasiswaGroupId,
-                    "members[0][userid]": dataUserSikola[0]["id"],
-                }
+            # Buat set untuk menyimpan nim peserta yang sudah di grup MAHASISWA
+            enrolledNIMs = set()
 
-                task.append(
-                    session.get(
-                        baseUrl, params=paramsAPIEnrollMahasiswaToGroup, ssl=False
+            for peserta in dataPeserta:
+                if 'groups' in peserta and any(group["name"] == "MAHASISWA" for group in peserta["groups"]):
+                    enrolledNIMs.add(peserta["username"])
+
+            # Loop hanya untuk siswa yang belum di-enroll ke grup MAHASISWA
+            for student in students:
+                if student["nim"].lower() not in enrolledNIMs:
+                    print(f"Enroll student: {student['nama_mahasiswa']} to MAHASISWA group")
+                    
+                    # Dapatkan data pengguna berdasarkan nim
+                    paramsAPIGetUserSikolaByField = {
+                        "wsfunction": "core_user_get_users_by_field",
+                        "field": "username",
+                        "values[0]": student["nim"].lower(),
+                    }
+
+                    responseGetUserSikolaByField = await session.get(
+                        baseUrl, params=paramsAPIGetUserSikolaByField, ssl=False
                     )
-                )
+
+                    dataUserSikola = await responseGetUserSikolaByField.json()
+                    
+                    if dataUserSikola:
+                        userId = dataUserSikola[0]["id"]
+
+                        # Enroll student ke grup MAHASISWA
+                        paramsAPIEnrollMahasiswaToGroup = {
+                            "wsfunction": "core_group_add_group_members",
+                            "members[0][groupid]": mahasiswaGroupId,
+                            "members[0][userid]": userId,
+                        }
+
+                        tasks.append(
+                            session.get(baseUrl, params=paramsAPIEnrollMahasiswaToGroup, ssl=False)
+                        )
 
         print("Student Done...")
 
-    return task
-
+    return tasks
 
 async def fetch_sikola_course_users():
     async with aiohttp.ClientSession() as session:
-        baseUrl = os.getenv("NEXT_PUBLIC_API_NEOSIKOLA")
+        kelasActiveName = "TA241.1"
 
-        with open("data/detailkelas/ChangeItem/mahasiswa/TA232-119266.json", "r") as f:
-            dataChangeFile = f.read()
+        baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
-        logCourseChange = json.loads(dataChangeFile)
 
-        loopingSize = len(logCourseChange)
+        listDataDetailKelasFile = glob.glob(
+            f"data/detailkelas/{kelasActiveName}/*.json"
+        )
+        loopingSize = len(listDataDetailKelasFile)
         currentFile = 0
 
-        for itemCourse in logCourseChange:
+        for filePath in listDataDetailKelasFile:
             currentFile += 1
-            inM = itemCourse[3]
-            if len(inM) != 0:
-                idnumber_sikola = itemCourse[0]
-                mahasiswas = inM
+            with open(filePath, "r", encoding="utf-8") as f:
+                data = f.read()
 
-                print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
+            dataDetailCourse = json.loads(data)
+            idnumber_sikola = dataDetailCourse["idnumber_sikola"]
+            mahasiswas = dataDetailCourse["mahasiswas"]
 
-                if idnumber_sikola not in backup_list:
-                    print(f"Shortname Course : {idnumber_sikola}")
 
-                    paramsAPIGetCourseByField = {
-                        "wsfunction": "core_course_get_courses_by_field",
-                        "field": "idnumber",
-                        "value": idnumber_sikola,
-                    }
+            print(f"Progress: {((currentFile / loopingSize) * 100):.2f} %")
 
-                    responseGetCourseSikolaByField = await session.get(
-                        baseUrl, params=paramsAPIGetCourseByField, ssl=False
-                    )
+            if idnumber_sikola not in backup_list:
+                print(f"Shortname Course : {idnumber_sikola}")
 
-                    dataCourseSikola = await responseGetCourseSikolaByField.json()
+                paramsAPIGetCourseByField = {
+                    "wsfunction": "core_course_get_courses_by_field",
+                    "field": "idnumber",
+                    "value": idnumber_sikola,
+                }
 
-                    task = await unenroll_user(
-                        session,
-                        mahasiswas,
-                        baseUrl,
-                        dataCourseSikola,
-                    )
-                    respnsesTask = await asyncio.gather(*task)
+                responseGetCourseSikolaByField = await session.get(
+                    baseUrl, params=paramsAPIGetCourseByField, ssl=False
+                )
 
-                    for res in respnsesTask:
-                        resultFetch.append(await res.json())
+                dataCourseSikola = await responseGetCourseSikolaByField.json()
 
-                backup_list.append(idnumber_sikola)
-                save_backup_list(backup_list)
-                # break
+                task = await enroll_user_grup_mhs(
+                    session,
+                    mahasiswas,
+                    baseUrl,
+                    dataCourseSikola,
+                )
+                respnsesTask = await asyncio.gather(*task)
+
+                for res in respnsesTask:
+                    resultFetch.append(await res.json())
+
+            backup_list.append(idnumber_sikola)
+            save_backup_list(backup_list)
+            # break
 
 
 # get fetch_sikola_course()

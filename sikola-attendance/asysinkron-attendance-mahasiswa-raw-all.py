@@ -20,7 +20,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 
-currentDate = "2024-05-06-ALL"
+currentDate = "2024-07-03-ALL-9"
 
 
 def save_backup_list(
@@ -135,33 +135,33 @@ async def attendance_item_raw(session, baseUrl, courseData, idKelasKuliah, class
 
 async def attendance_get_raw(session, itemClassError):
     start_date = "2024-02-19"
-    end_date = "2024-05-13"
+    end_date = "2024-07-31"
     tasks = []
     
     start_date_obj = datetime.strptime(start_date, "%Y-%m-%d")
     end_date_obj = datetime.strptime(end_date, "%Y-%m-%d")
+    try:
+        for date_obj in range((end_date_obj - start_date_obj).days + 1):
+            current_date = (start_date_obj + timedelta(days=date_obj)).strftime("%Y-%m-%d")
+            var_load = f"{itemClassError[1]}-{current_date}"
+            if var_load not in backup_list:
+                shortname_sikola = f"TA232-{itemClassError[1]}"
+                paramsAPIGetCourseByField = {
+                    "wsfunction": "core_course_get_courses_by_field",
+                    "field": "shortname",
+                    "value": shortname_sikola,
+                }
 
+                responseGetCourseSikolaByField = await session.get(
+                    baseUrl, params=paramsAPIGetCourseByField, ssl=False
+                )
 
-    for date_obj in range((end_date_obj - start_date_obj).days + 1):
-        current_date = (start_date_obj + timedelta(days=date_obj)).strftime("%Y-%m-%d")
-        var_load = f"{itemClassError[1]}-{current_date}"
-        if var_load not in backup_list:
-            shortname_sikola = f"TA232-{itemClassError[1]}"
-            paramsAPIGetCourseByField = {
-                "wsfunction": "core_course_get_courses_by_field",
-                "field": "shortname",
-                "value": shortname_sikola,
-            }
-
-            responseGetCourseSikolaByField = await session.get(
-                baseUrl, params=paramsAPIGetCourseByField, ssl=False
-            )
-
-            dataCourseSikola = await responseGetCourseSikolaByField.json()
-        
-            tasks.append(attendance_item_raw(session, baseUrl, dataCourseSikola, itemClassError[1], current_date, itemClassError[2], itemClassError[3]))
-    await asyncio.gather(*tasks)
-
+                dataCourseSikola = await responseGetCourseSikolaByField.json()
+            
+                tasks.append(attendance_item_raw(session, baseUrl, dataCourseSikola, itemClassError[1], current_date, itemClassError[2], itemClassError[3]))
+        await asyncio.gather(*tasks)
+    except Exception as e:
+        print(f"{itemClassError[1]}-{itemClassError[0]} : {e}")
 async def fetch_sikola_course():
     async with aiohttp.ClientSession() as session:
         tasks = []
@@ -185,7 +185,7 @@ async def fetch_sikola_course():
 
 if __name__ == "__main__":
     kelasActiveName = "TA232.12"
-    fileDataForm = "all_kelas.xlsx"
+    fileDataForm = "all_kelas_split_2.xlsx"
     baseUrl = "https://sikola-v2.unhas.ac.id/webservice/rest/server.php?wstoken=07480e5bbb440a596b1ad8e33be525f8&moodlewsrestformat=json"
 
     asyncio.run(fetch_sikola_course())

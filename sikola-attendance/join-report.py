@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 
 # Path to the directory containing CSV files
-directory_path = "data/CourseReport"
+directory_path = "data/CourseReport2"
 
 # Get a list of all CSV files in the directory
 csv_files = glob.glob(directory_path + "/*.csv")
@@ -21,4 +21,4 @@ for csv_file in csv_files:
 result_df = pd.concat(dfs, ignore_index=True)
 
 # Save the concatenated DataFrame to a new CSV file
-result_df.to_csv("data/CourseReport/combined_data.csv", index=False, sep=";")
+result_df.to_csv("data/CourseReport2/combined_data.csv", index=False, sep=";")

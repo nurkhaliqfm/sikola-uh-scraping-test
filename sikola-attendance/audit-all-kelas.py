@@ -85,7 +85,7 @@ async def audit_all():
     #     tasks.append(audit(current_date))
     
     
-    with pd.ExcelWriter(f"data/MK/Hasil Audit ALL Kelas.xlsx") as writer:
+    with pd.ExcelWriter(f"data/MK/all_kelas.xlsx") as writer:
         df = pd.DataFrame(all_kelas, columns=["fullname_kelas_sikola", "id_kelas_kuliah", "nama_prodi", "nama_fakultas"])
         df.to_excel(writer, index=False)
     

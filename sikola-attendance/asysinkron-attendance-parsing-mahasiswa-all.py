@@ -18,7 +18,7 @@ from urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-todays = "2024-05-06-ALL"
+todays = "2024-06-10-ALL-3"
 
 def save_backup_list(
     backup_list, filename="log/backup_list_parsing-mahasiswa-attandance.pkl"

@@ -8,7 +8,8 @@ async def get_dosen():
     
     url = "http://api.devs.unhas.ac.id/sikola-service/list-dosen-neosia/"
     headers = {
-    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vZGV2LnVuaGFzLmFjLmlkOjgwODEvIiwic3ViIjoiYmNlMjczNGYtZTJmMC01Mjg1LWI4OGUtZTAyYjk1ZjY2MzU5IiwiaWF0IjoxNzEzODYwNDEwLCJleHAiOjE3MTQwMzMyMTAsIm5hbWUiOiJzaWtvbGEifQ.DCGKDPwUz4q-AhVssMs7DDhIzpwrTWLOhh8UKcEWqcU'
+    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vZGV2LnVuaGFzLmFjLmlkOjgwODEvIiwic3ViIjoiYmNlMjczNGYtZTJmMC01Mjg1LWI4OGUtZTAyYjk1ZjY2MzU5IiwiaWF0IjoxNzUwNDc4NjA4LCJleHAiOjE3NTA2NTE0MDgsIm5hbWUiOiJzaWtvbGEifQ.93vykiFeTSHs8WJ8I6_UHXSKf0KSE92Fc_qFViEqL5c'
+   
     }
     
     response = requests.request("GET", url, headers=headers)
@@ -18,7 +19,7 @@ async def get_dosen():
     items_per_page = data.get('itemsPerPage', 0)
 
     start_index = 0
-    all_data = {}
+    all_data = []
 
     for start_index in range(0, total_results, items_per_page):
         params = {
@@ -32,15 +33,16 @@ async def get_dosen():
         for entry in entries:
             nip = entry.get('nip')
             id_value = entry.get('id')
-            if nip:
-                all_data[nip] = id_value
-    with open('data/DataExternal/Dictionary_Dosen_3.json', 'w') as f:
-        json.dump(all_data, f)
+            if id_value:
+                all_data.append(id_value)
+           
+    with open('data/DataExternal/jumlah_dosen_neosia.json', 'w') as f:
+        json.dump(all_data, f, indent=2)
 
 async def get_mahasiswa():
     url = "http://api.devs.unhas.ac.id/sikola-service/list-mahasiswa-neosia/"
     headers = {
-    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vZGV2LnVuaGFzLmFjLmlkOjgwODEvIiwic3ViIjoiYmNlMjczNGYtZTJmMC01Mjg1LWI4OGUtZTAyYjk1ZjY2MzU5IiwiaWF0IjoxNzEzODYwNDEwLCJleHAiOjE3MTQwMzMyMTAsIm5hbWUiOiJzaWtvbGEifQ.DCGKDPwUz4q-AhVssMs7DDhIzpwrTWLOhh8UKcEWqcU'
+    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vZGV2LnVuaGFzLmFjLmlkOjgwODEvIiwic3ViIjoiYmNlMjczNGYtZTJmMC01Mjg1LWI4OGUtZTAyYjk1ZjY2MzU5IiwiaWF0IjoxNzUwNDc4NjA4LCJleHAiOjE3NTA2NTE0MDgsIm5hbWUiOiJzaWtvbGEifQ.93vykiFeTSHs8WJ8I6_UHXSKf0KSE92Fc_qFViEqL5c'
     }
 
     response = requests.request("GET", url, headers=headers)
@@ -70,5 +72,5 @@ async def get_mahasiswa():
     with open('data/DataExternal/Dictionary_Mahasiswa_3.json', 'w') as f:
         json.dump(all_data_mhs, f)
 if __name__ == '__main__':
-    asyncio.run(get_mahasiswa())
+    asyncio.run(get_dosen())
     print("Succcessfully")

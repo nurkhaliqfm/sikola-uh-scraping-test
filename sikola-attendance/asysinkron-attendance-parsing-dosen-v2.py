@@ -8,6 +8,7 @@ import requests
 import json
 import pickle
 from datetime import datetime, timedelta, timezone
+import pandas as pd
 
 from dotenv import load_dotenv
 
@@ -34,7 +35,7 @@ def load_backup_list(filename="log/backup_list_parsing-dosen-attandance.pkl"):
         return None
 
 
-async def process_file(filePath, session):
+async def process_file(filePath, session, usernameNone):
     splitOldPathFileName = filePath.split("/")[3].split("-")[0]
 
     with open(filePath, "r", encoding="utf-8") as f:
@@ -50,6 +51,7 @@ async def process_file(filePath, session):
     OldsDate = generate_olds_date(start_date, end_date)
 
     pertemuanKe = 0
+
     if len(OldsDate) > 0:
         for oldD in OldsDate:
             # newFilePath = f"data/attendanceRaw/{oldD}/dosen/{splitOldPathFileName}"
@@ -123,9 +125,16 @@ async def process_file(filePath, session):
                             dataUserSikolaDosen =(await responseGetUserSikolaByField.json())
 
                             dataUserSikolaDosen[0]["username"].upper()
+                            
+                            username = dataUserSikolaDosen[0]["username"].upper()
+                            fullName = dataUserSikolaDosen[0]["fullname"]
+                            print(username)
+
                             idDosen = dictionaryDosen.get(
-                                dataUserSikolaDosen[0]["username"].upper(), None
+                                username, None
                             )
+                            
+                            # if idDosen is None:
 
                             if not idDosen is None:
                                 if isDosenLog:
@@ -148,19 +157,9 @@ async def process_file(filePath, session):
                                             }
                                             presensiDosens.append(dataPresensi)
                                             break
-                                # else:
-                                #     dataPresensi = {
-                                #         # "nim": dataUserSikolaDosen[0]["username"],
-                                #         # "nama_mahasiswa": dataUserSikolaDosen[0][
-                                #         #     "lastname"
-                                #         # ],
-                                #         "id_pertemuan": "",
-                                #         "id_dosen": dictionaryDosen[
-                                #             dataUserSikolaDosen[0]["username"].upper()
-                                #         ],
-                                #         "id_tipe_kehadiran": statusPresensiNeosia["Absent"],
-                                #     }
-                                #     presensiDosens.append(dataPresensi)
+                            else: 
+                                usernameNone.append([username, fullName, dataCourseSikola["courses"][0]["fullname"], idKelasKuliah, tanggalRencana])
+
 
                         data = {
                             "nama_matakuliah": dataCourseSikola["courses"][0]["fullname"],
@@ -198,10 +197,19 @@ async def fetch_sikola_course_users():
         listDataDetailKelasFile = glob.glob(
             f"data/revisiAttendanceRaw/{todays}/dosen/*.json"
         )
+        
+        usernameNone = []
+
 
         for filePath in listDataDetailKelasFile:
-            tasks.append(process_file(filePath, session))
+            tasks.append(process_file(filePath, session, usernameNone))
         await asyncio.gather(*tasks)
+        
+        
+    
+    with pd.ExcelWriter(f"data/MK/DosenNone-{todays}.xlsx") as writer:
+        df = pd.DataFrame(usernameNone, columns=["username_sikola", "Fullname", "nama_kelas", "id_kelas", "tanggal"])
+        df.to_excel(writer, index=False)
         
         
 
@@ -225,9 +233,9 @@ def generate_olds_date(startDate, endDate):
 
 if __name__ == "__main__":
     start_date = "2024-02-19"
-    todays = "2024-05-07-kendala-ILPOL48"
+    todays = "2024-07-09-kendala-1"
 
-    with open("data/DataExternal/Dictionary_Dosen_3.json", "r") as f:
+    with open("data/DataExternal/Dictionary_Dosen_5.json", "r") as f:
         dataDictionary = f.read()
 
     statusPresensiNeosia = {
